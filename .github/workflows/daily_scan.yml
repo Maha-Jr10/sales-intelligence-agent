@@ -86,7 +86,7 @@ jobs:
         run: |
           python tools/normalize_signals.py \
             --input-dir .tmp/raw_signals/ \
-            --output-file outputs/signals/${{ env.TODAY }}.json
+            --output-file outputs/signals/signals_${{ env.TODAY }}.json
         continue-on-error: true
 
       - name: Score opportunities
@@ -94,7 +94,7 @@ jobs:
           python tools/score_opportunity.py \
             --all-companies \
             --companies-file data/companies.json \
-            --signals-file outputs/signals/${{ env.TODAY }}.json \
+            --signals-file outputs/signals/signals_${{ env.TODAY }}.json \
             --output-file outputs/signals/scores-${{ env.TODAY }}.json
         continue-on-error: true
 
@@ -104,7 +104,7 @@ jobs:
         run: |
           python tools/correlate_signals.py \
             --all-companies \
-            --signals-file outputs/signals/${{ env.TODAY }}.json \
+            --signals-file outputs/signals/signals_${{ env.TODAY }}.json \
             --output-file outputs/signals/correlations-${{ env.TODAY }}.json
         continue-on-error: true
 
@@ -112,7 +112,7 @@ jobs:
         run: |
           python tools/score_multi_factor.py \
             --all-companies \
-            --signals-file outputs/signals/${{ env.TODAY }}.json \
+            --signals-file outputs/signals/signals_${{ env.TODAY }}.json \
             --scores-file outputs/signals/scores-${{ env.TODAY }}.json \
             --correlations-file outputs/signals/correlations-${{ env.TODAY }}.json \
             --output-file outputs/signals/multi_factor_scores-${{ env.TODAY }}.json
@@ -133,7 +133,7 @@ jobs:
             --action append-signal \
             --all-companies \
             --companies-file data/companies.json \
-            --signal-file outputs/signals/${{ env.TODAY }}.json
+            --signal-file outputs/signals/signals_${{ env.TODAY }}.json
         continue-on-error: true
 
       # ── Phase 3: Reporting ────────────────────────────────────────────────

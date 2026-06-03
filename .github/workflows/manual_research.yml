@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       company_id:
-        description: 'Company ID from data/companies.json (e.g. stripe, linear, retool)'
+        description: 'Company ID from data/companies.json (e.g. stripe, anthropic, openai)'
         required: true
         type: string
       depth:

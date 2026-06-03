@@ -52,6 +52,8 @@ jobs:
             --all-companies \
             --crm hubspot \
             --date ${{ env.TODAY }} \
+            --companies-file data/companies.json \
+            --signals-dir outputs/signals/ \
             --exports-dir outputs/crm_exports/
         continue-on-error: true
 

@@ -1,16 +1,16 @@
 {
   "export_id": "crm-export-2026-06-03-hubspot",
-  "generated_at": "2026-06-03T12:23:18.782667+00:00",
+  "generated_at": "2026-06-03T17:41:08.682305+00:00",
   "crm_target": "hubspot",
   "date": "2026-06-03",
-  "companies_exported": 13,
+  "companies_exported": 11,
   "exports": [
     {
       "company_id": "stripe",
       "company_name": "Stripe",
       "crm_target": "hubspot",
       "has_brief": false,
-      "signals_count": 0,
+      "signals_count": 517,
       "records": [
         {
           "record_type": "company",
@@ -23,16 +23,16 @@
             "industry": "Fintech / Payments Infrastructure",
             "numberofemployees": 8000,
             "city": "San Francisco",
-            "country": null,
+            "country": "US",
             "website": "https://stripe.com",
             "linkedincompanypage": "https://www.linkedin.com/company/stripe",
             "custom_properties": {
-              "icp_fit_score": null,
+              "icp_fit_score": 70.0,
               "icp_tier": "A",
               "funding_stage": "Late Stage / Pre-IPO",
               "tech_stack_detected": "",
               "last_signal_date": "2026-06-03",
-              "top_signal": "",
+              "top_signal": "Art Director",
               "intelligence_brief_path": "",
               "monitoring_tier": "A",
               "sales_owner": "muhammedjohn3@gmail.com"
@@ -46,7 +46,7 @@
       "company_name": "Ramp",
       "crm_target": "hubspot",
       "has_brief": false,
-      "signals_count": 0,
+      "signals_count": 77,
       "records": [
         {
           "record_type": "company",
@@ -59,16 +59,16 @@
             "industry": "B2B SaaS / FinTech",
             "numberofemployees": 1000,
             "city": "New York",
-            "country": null,
+            "country": "US",
             "website": "https://ramp.com",
             "linkedincompanypage": "https://www.linkedin.com/company/ramp-financial",
             "custom_properties": {
-              "icp_fit_score": null,
+              "icp_fit_score": 80.0,
               "icp_tier": "A",
               "funding_stage": "Series D",
               "tech_stack_detected": "",
               "last_signal_date": "2026-06-03",
-              "top_signal": "",
+              "top_signal": "Ramp Courts $150 Billion Accounting Sector With New AI System - PYMNTS.com",
               "intelligence_brief_path": "",
               "monitoring_tier": "A",
               "sales_owner": "muhammedjohn3@gmail.com"
@@ -82,7 +82,7 @@
       "company_name": "Databricks",
       "crm_target": "hubspot",
       "has_brief": false,
-      "signals_count": 0,
+      "signals_count": 766,
       "records": [
         {
           "record_type": "company",
@@ -95,16 +95,16 @@
             "industry": "Data / AI Platform",
             "numberofemployees": 5000,
             "city": "San Francisco",
-            "country": null,
+            "country": "US",
             "website": "https://www.databricks.com",
             "linkedincompanypage": "https://www.linkedin.com/company/databricks",
             "custom_properties": {
-              "icp_fit_score": null,
+              "icp_fit_score": 70.0,
               "icp_tier": "A",
               "funding_stage": "Late Stage Private",
               "tech_stack_detected": "",
               "last_signal_date": "2026-06-03",
-              "top_signal": "",
+              "top_signal": "Account Executive - Public Sector",
               "intelligence_brief_path": "",
               "monitoring_tier": "A",
               "sales_owner": "muhammedjohn3@gmail.com"
@@ -118,7 +118,7 @@
       "company_name": "Snowflake",
       "crm_target": "hubspot",
       "has_brief": false,
-      "signals_count": 0,
+      "signals_count": 92,
       "records": [
         {
           "record_type": "company",
@@ -131,16 +131,16 @@
             "industry": "Cloud Data Platform",
             "numberofemployees": 5000,
             "city": "San Mateo",
-            "country": null,
+            "country": "US",
             "website": "https://www.snowflake.com",
             "linkedincompanypage": "https://www.linkedin.com/company/snowflake-computing",
             "custom_properties": {
-              "icp_fit_score": null,
+              "icp_fit_score": 70.0,
               "icp_tier": "A",
               "funding_stage": "Public (NYSE: SNOW)",
               "tech_stack_detected": "",
               "last_signal_date": "2026-06-03",
-              "top_signal": "",
+              "top_signal": "Integrated Quantum Technologies Launches VEIL on Snowflake AI Data Cloud - TMX Newsfile",
               "intelligence_brief_path": "",
               "monitoring_tier": "A",
               "sales_owner": "muhammedjohn3@gmail.com"
@@ -154,7 +154,7 @@
       "company_name": "OpenAI",
       "crm_target": "hubspot",
       "has_brief": false,
-      "signals_count": 0,
+      "signals_count": 138,
       "records": [
         {
           "record_type": "company",
@@ -167,16 +167,16 @@
             "industry": "AI / LLM Research & Products",
             "numberofemployees": 3000,
             "city": "San Francisco",
-            "country": null,
+            "country": "US",
             "website": "https://openai.com",
             "linkedincompanypage": "https://www.linkedin.com/company/openai",
             "custom_properties": {
-              "icp_fit_score": null,
+              "icp_fit_score": 70.0,
               "icp_tier": "A",
               "funding_stage": "Late Stage Private",
               "tech_stack_detected": "",
               "last_signal_date": "2026-06-03",
-              "top_signal": "",
+              "top_signal": "The state of Florida sues OpenAI over ChatGPT's allegedly dangerous design - Gamereactor UK",
               "intelligence_brief_path": "",
               "monitoring_tier": "A",
               "sales_owner": "muhammedjohn3@gmail.com"
@@ -190,7 +190,7 @@
       "company_name": "Anthropic",
       "crm_target": "hubspot",
       "has_brief": false,
-      "signals_count": 0,
+      "signals_count": 492,
       "records": [
         {
           "record_type": "company",
@@ -203,52 +203,16 @@
             "industry": "AI / LLM Research & Products",
             "numberofemployees": 1000,
             "city": "San Francisco",
-            "country": null,
+            "country": "US",
             "website": "https://www.anthropic.com",
             "linkedincompanypage": "https://www.linkedin.com/company/anthropicresearch",
             "custom_properties": {
-              "icp_fit_score": null,
+              "icp_fit_score": 75.0,
               "icp_tier": "A",
               "funding_stage": "Series E",
               "tech_stack_detected": "",
               "last_signal_date": "2026-06-03",
-              "top_signal": "",
-              "intelligence_brief_path": "",
-              "monitoring_tier": "A",
-              "sales_owner": "muhammedjohn3@gmail.com"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "company_id": "linear",
-      "company_name": "Linear",
-      "crm_target": "hubspot",
-      "has_brief": false,
-      "signals_count": 0,
-      "records": [
-        {
-          "record_type": "company",
-          "action": "upsert",
-          "match_field": "domain",
-          "platform": "hubspot",
-          "data": {
-            "domain": "linear.app",
-            "name": "Linear",
-            "industry": "B2B SaaS / Project Management",
-            "numberofemployees": 100,
-            "city": "San Francisco",
-            "country": null,
-            "website": "https://linear.app",
-            "linkedincompanypage": "https://www.linkedin.com/company/linear-app",
-            "custom_properties": {
-              "icp_fit_score": null,
-              "icp_tier": "A",
-              "funding_stage": "Series B",
-              "tech_stack_detected": "",
-              "last_signal_date": "2026-06-03",
-              "top_signal": "",
+              "top_signal": "Account Executive, Public Sector",
               "intelligence_brief_path": "",
               "monitoring_tier": "A",
               "sales_owner": "muhammedjohn3@gmail.com"
@@ -262,7 +226,7 @@
       "company_name": "Adyen",
       "crm_target": "hubspot",
       "has_brief": false,
-      "signals_count": 0,
+      "signals_count": 15,
       "records": [
         {
           "record_type": "company",
@@ -279,12 +243,12 @@
             "website": "https://www.adyen.com",
             "linkedincompanypage": "https://www.linkedin.com/company/adyen",
             "custom_properties": {
-              "icp_fit_score": null,
+              "icp_fit_score": 63.5,
               "icp_tier": "A",
               "funding_stage": "Public (ENXTAM: ADYEN)",
               "tech_stack_detected": "",
               "last_signal_date": "2026-06-03",
-              "top_signal": "",
+              "top_signal": "Former Adyen COO and Silverflow co-founder Robert Kraal added to Fraudio board of directors - Retail Technology Innovation Hub",
               "intelligence_brief_path": "",
               "monitoring_tier": "A",
               "sales_owner": "muhammedjohn3@gmail.com"
@@ -298,7 +262,7 @@
       "company_name": "Plaid",
       "crm_target": "hubspot",
       "has_brief": false,
-      "signals_count": 0,
+      "signals_count": 26,
       "records": [
         {
           "record_type": "company",
@@ -311,16 +275,16 @@
             "industry": "Fintech / Open Banking",
             "numberofemployees": 1000,
             "city": "San Francisco",
-            "country": null,
+            "country": "US",
             "website": "https://plaid.com",
             "linkedincompanypage": "https://www.linkedin.com/company/plaid-inc-",
             "custom_properties": {
-              "icp_fit_score": null,
+              "icp_fit_score": 80.0,
               "icp_tier": "A",
               "funding_stage": "Series D",
               "tech_stack_detected": "",
               "last_signal_date": "2026-06-03",
-              "top_signal": "",
+              "top_signal": "Repo 'plaid-openapi' has 113 stars",
               "intelligence_brief_path": "",
               "monitoring_tier": "A",
               "sales_owner": "muhammedjohn3@gmail.com"
@@ -334,7 +298,7 @@
       "company_name": "Brex",
       "crm_target": "hubspot",
       "has_brief": false,
-      "signals_count": 0,
+      "signals_count": 4,
       "records": [
         {
           "record_type": "company",
@@ -347,16 +311,16 @@
             "industry": "Fintech / Spend Management",
             "numberofemployees": 1000,
             "city": "San Francisco",
-            "country": null,
+            "country": "US",
             "website": "https://brex.com",
             "linkedincompanypage": "https://www.linkedin.com/company/brex-hq",
             "custom_properties": {
-              "icp_fit_score": null,
+              "icp_fit_score": 42.7,
               "icp_tier": "A",
               "funding_stage": "Series D",
               "tech_stack_detected": "",
               "last_signal_date": "2026-06-03",
-              "top_signal": "",
+              "top_signal": "Repo 'CrabTrap' has 611 stars",
               "intelligence_brief_path": "",
               "monitoring_tier": "A",
               "sales_owner": "muhammedjohn3@gmail.com"
@@ -370,7 +334,7 @@
       "company_name": "Confluent",
       "crm_target": "hubspot",
       "has_brief": false,
-      "signals_count": 0,
+      "signals_count": 7,
       "records": [
         {
           "record_type": "company",
@@ -383,16 +347,16 @@
             "industry": "Data Streaming / Cloud Infrastructure",
             "numberofemployees": 3000,
             "city": "Mountain View",
-            "country": null,
+            "country": "US",
             "website": "https://www.confluent.io",
             "linkedincompanypage": "https://www.linkedin.com/company/confluent",
             "custom_properties": {
-              "icp_fit_score": null,
+              "icp_fit_score": 36.9,
               "icp_tier": "A",
               "funding_stage": "Public (NASDAQ: CFLT)",
               "tech_stack_detected": "",
               "last_signal_date": "2026-06-03",
-              "top_signal": "",
+              "top_signal": "New repo 'simrun-stratus-adapter' created 1 days ago",
               "intelligence_brief_path": "",
               "monitoring_tier": "A",
               "sales_owner": "muhammedjohn3@gmail.com"
@@ -406,7 +370,7 @@
       "company_name": "Hugging Face",
       "crm_target": "hubspot",
       "has_brief": false,
-      "signals_count": 0,
+      "signals_count": 16,
       "records": [
         {
           "record_type": "company",
@@ -419,54 +383,18 @@
             "industry": "AI / ML Platform",
             "numberofemployees": 200,
             "city": "New York",
-            "country": null,
+            "country": "US",
             "website": "https://huggingface.co",
             "linkedincompanypage": "https://www.linkedin.com/company/huggingface",
             "custom_properties": {
-              "icp_fit_score": null,
+              "icp_fit_score": 62.3,
               "icp_tier": "A",
               "funding_stage": "Series D",
               "tech_stack_detected": "",
               "last_signal_date": "2026-06-03",
-              "top_signal": "",
+              "top_signal": "Repo 'carbon' has 187 stars",
               "intelligence_brief_path": "",
               "monitoring_tier": "A",
-              "sales_owner": "muhammedjohn3@gmail.com"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "company_id": "retool",
-      "company_name": "Retool",
-      "crm_target": "hubspot",
-      "has_brief": false,
-      "signals_count": 0,
-      "records": [
-        {
-          "record_type": "company",
-          "action": "upsert",
-          "match_field": "domain",
-          "platform": "hubspot",
-          "data": {
-            "domain": "retool.com",
-            "name": "Retool",
-            "industry": "B2B SaaS / Low-Code",
-            "numberofemployees": 300,
-            "city": "San Francisco",
-            "country": null,
-            "website": "https://retool.com",
-            "linkedincompanypage": "https://www.linkedin.com/company/tryretool",
-            "custom_properties": {
-              "icp_fit_score": null,
-              "icp_tier": "B",
-              "funding_stage": "Series C",
-              "tech_stack_detected": "",
-              "last_signal_date": "2026-06-03",
-              "top_signal": "",
-              "intelligence_brief_path": "",
-              "monitoring_tier": "B",
               "sales_owner": "muhammedjohn3@gmail.com"
             }
           }

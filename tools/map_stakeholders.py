@@ -71,7 +71,7 @@ def scrape_page(url: str) -> str | None:
     try:
         result = subprocess.run(
             [sys.executable, "tools/scrape_website.py", "--url", url, "--skip-robots"],
-            capture_output=True, text=True, timeout=15,
+            capture_output=True, text=True, timeout=15, encoding="utf-8",
         )
         if result.stdout.strip():
             data = json.loads(result.stdout)

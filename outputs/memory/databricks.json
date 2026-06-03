@@ -1,8 +1,8 @@
 {
   "schema_version": "2.0",
   "company_id": "databricks",
-  "created_at": "2026-06-03T10:52:29.747198+00:00",
-  "last_updated": "2026-06-03T10:52:35.980303+00:00",
+  "created_at": "2026-06-03T17:25:17.618603+00:00",
+  "last_updated": "2026-06-03T17:40:48.275062+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,11 +18,27 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "databricks-product_launch-2026-06-03-4000227b6e4e",
+      "signal_id": "databricks-product_launch-2026-06-03-8ab4758927b9",
       "signal_type": "product_launch",
       "signal_subtype": "generic",
-      "title": "Advancing Apache Iceberg on Databricks: Iceberg v3 GA, Open Sharing, and Unified Governance - Databricks",
-      "detected_at": "2026-05-28T23:10:06+00:00",
+      "title": "Databricks Announces 2026 Data + AI Summit Keynote Lineup and Programming for the World’s Largest Data and AI Conference - Databricks",
+      "detected_at": "2026-06-03T06:16:27+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "databricks-product_launch-2026-06-03-0eb8a9b119e0",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "ThoughtFocus Partners with Databricks to Launch Enterprise Data Solution for Private Equity Firms - The National Law Review",
+      "detected_at": "2026-06-03T15:13:17+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "databricks-funding_event-2026-06-03-8e7ef8f24bba",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "EXCLUSIVE: Anthropic, OpenAI, Databricks Or Canva? This Is The Most Anticipated IPO After SpaceX - Benzinga",
+      "detected_at": "2026-06-03T15:17:49+00:00",
       "importance_score": 5.0
     },
     {
@@ -42,19 +58,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "databricks-news_mention-2026-06-03-3d647659690c",
+      "signal_id": "databricks-news_mention-2026-06-03-5d1e231be717",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
-      "title": "Debunking 8 data layout myths: why Liquid Clustering outperforms partitioning - Databricks",
-      "detected_at": "2026-06-01T15:47:21+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-06-03-cf69af2993bb",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Query Tags: The Context Your Warehouse Queries Have Been Missing - Databricks",
-      "detected_at": "2026-06-02T16:31:10+00:00",
+      "title": "Brazilian Firms Embrace Databricks as AI Foundation - Yahoo Finance UK",
+      "detected_at": "2026-06-03T12:00:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -74,6 +82,14 @@
       "importance_score": 4.0
     },
     {
+      "signal_id": "databricks-news_mention-2026-06-03-cf69af2993bb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Query Tags: The Context Your Warehouse Queries Have Been Missing - Databricks",
+      "detected_at": "2026-06-02T16:31:10+00:00",
+      "importance_score": 4.0
+    },
+    {
       "signal_id": "databricks-news_mention-2026-06-03-787168c412f0",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -82,44 +98,12 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "databricks-news_mention-2026-06-03-a3f681335b16",
+      "signal_id": "databricks-news_mention-2026-06-03-7e032ab2aec8",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
-      "title": "Personal agents light the fuse as Snowflake and Databricks move up the AI stack - SiliconANGLE",
-      "detected_at": "2026-05-30T23:12:58+00:00",
+      "title": "Databricks Partners Unlock Cross-Industry AI - StartupHub.ai",
+      "detected_at": "2026-06-03T12:02:08+00:00",
       "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-06-03-2bbbbfe26bf8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks’ $134B Valuation Puts the Enterprise AI Data War in Focus - ERP Today",
-      "detected_at": "2026-06-01T05:33:20+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-06-03-2d0306d60950",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "At Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals - TechCrunch",
-      "detected_at": "2026-05-28T14:30:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-06-03-c4cd424036c8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Accelerating Distributed Training with Snowflake ML - Snowflake",
-      "detected_at": "2026-05-29T18:02:39+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-content_signal-2026-06-03-37e11050ffd2",
-      "signal_type": "content_signal",
-      "signal_subtype": "generic",
-      "title": "From Unstructured Data to Structured Insights: A Practitioner's Guide to Intelligent Document Processing at Scale - Databricks",
-      "detected_at": "2026-06-02T05:57:51+00:00",
-      "importance_score": 2.5
     }
   ],
   "brief_history": [],

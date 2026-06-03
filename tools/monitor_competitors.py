@@ -143,7 +143,7 @@ def fetch_competitor_news(competitor: dict, days_lookback: int = 7) -> list:
                 "--company-id", competitor["id"],
                 "--max-age-days", str(days_lookback),
             ],
-            capture_output=True, text=True, timeout=30,
+            capture_output=True, text=True, timeout=30, encoding="utf-8",
         )
         if result.stdout.strip():
             data = json.loads(result.stdout)

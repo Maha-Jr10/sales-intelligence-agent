@@ -267,7 +267,7 @@ All keys are optional. Copy `.env.example` to `.env` and fill in what you have:
 │   ├── weekly_report.yml        # Weekly intelligence digest + Slack
 │   └── manual_research.yml      # On-demand company research
 │
-├── tools/                       # 22 deterministic Python scripts
+├── tools/                       # 23 deterministic Python scripts
 │   │
 │   ├── — Data Collection —
 │   ├── scrape_website.py        # Fetch + parse any URL to clean text

@@ -1,6 +1,6 @@
 # Weekly Intelligence Report — 2026-W23
 
-_Generated: 2026-06-03T12:23:18.969417+00:00_
+_Generated: 2026-06-03T17:44:30.990937+00:00_
 
 ---
 
@@ -22,13 +22,11 @@ _Consider reviewing monitoring configuration or removing from list:_
 - Snowflake
 - OpenAI
 - Anthropic
-- Linear
 - Adyen
 - Plaid
 - Brex
 - Confluent
 - Hugging Face
-- Retool
 
 ## Recommended Focus for Next Week
 

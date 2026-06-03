@@ -1,8 +1,8 @@
 {
   "schema_version": "2.0",
   "company_id": "huggingface",
-  "created_at": "2026-06-03T11:22:25.064941+00:00",
-  "last_updated": "2026-06-03T11:22:25.064960+00:00",
+  "created_at": "2026-06-03T17:25:17.754407+00:00",
+  "last_updated": "2026-06-03T17:40:48.410592+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -16,7 +16,40 @@
     "notes": ""
   },
   "known_contacts": [],
-  "signal_history": [],
+  "signal_history": [
+    {
+      "signal_id": "huggingface-news_mention-2026-06-03-e81549555317",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Microsoft Warns Crypto Wallets Face New npm Trojan Risk - crypto.news",
+      "detected_at": "2026-06-03T07:37:53+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-06-03-cb119be5136b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "From Local App to Public Website in Minutes - Towards Data Science",
+      "detected_at": "2026-06-02T15:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-06-03-258d758145cc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Do AI Agents Outnumber Humans On Earth? When Will They Form Societies? - Forbes",
+      "detected_at": "2026-06-02T17:19:33+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-content_signal-2026-06-03-881abf33546f",
+      "signal_type": "content_signal",
+      "signal_subtype": "blog_post_published",
+      "title": "Gemma 4 12B: The Developer Guide - blog.google",
+      "detected_at": "2026-06-03T16:01:39+00:00",
+      "importance_score": 3.0
+    }
+  ],
   "brief_history": [],
   "outreach_history": [],
   "playbook_history": []

@@ -1,8 +1,8 @@
 {
   "schema_version": "2.0",
   "company_id": "brex",
-  "created_at": "2026-06-03T11:22:24.761342+00:00",
-  "last_updated": "2026-06-03T11:22:24.761360+00:00",
+  "created_at": "2026-06-03T17:25:17.744286+00:00",
+  "last_updated": "2026-06-03T17:40:48.394835+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -16,7 +16,16 @@
     "notes": ""
   },
   "known_contacts": [],
-  "signal_history": [],
+  "signal_history": [
+    {
+      "signal_id": "brex-news_mention-2026-06-03-b9f6251105bf",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "What's the Best Expense Management Platform? Navan, Brex & Ramp Compared - finchannel",
+      "detected_at": "2026-06-02T14:27:23+00:00",
+      "importance_score": 4.0
+    }
+  ],
   "brief_history": [],
   "outreach_history": [],
   "playbook_history": []

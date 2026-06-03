@@ -1,6 +1,10 @@
 # Runtime scratchpad — regenerated on every run
 .tmp/
 
+# Raw signal dumps — large files (~1MB/day), not needed in repo history.
+# Scores, reports, briefs, and snapshots ARE committed (small, needed for diffs).
+outputs/signals/signals_*.json
+
 # Secrets
 .env
 credentials.json

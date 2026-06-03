@@ -176,7 +176,7 @@ jobs:
         with:
           name: daily-outputs-${{ env.TODAY }}
           path: |
-            outputs/signals/${{ env.TODAY }}.json
+            outputs/signals/signals_${{ env.TODAY }}.json
             outputs/signals/scores-${{ env.TODAY }}.json
             outputs/signals/correlations-${{ env.TODAY }}.json
             outputs/signals/multi_factor_scores-${{ env.TODAY }}.json

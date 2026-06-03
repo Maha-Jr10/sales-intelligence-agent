@@ -205,6 +205,18 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # ── Slack Notification ───────────────────────────────────────────────
+      - name: Notify Slack — research complete
+        run: |
+          python tools/notify_slack.py \
+            --type brief \
+            --company-id ${{ inputs.company_id }} \
+            --date ${{ env.TODAY }} \
+            --briefs-dir outputs/briefs/
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        continue-on-error: true
+
       # ── Summary ───────────────────────────────────────────────────────────
 
       - name: Print research summary

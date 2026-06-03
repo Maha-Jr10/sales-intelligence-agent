@@ -67,7 +67,8 @@ jobs:
           python tools/notify_slack.py \
             --type weekly \
             --week ${{ env.WEEK }} \
-            --signals-dir outputs/signals/
+            --signals-dir outputs/signals/ \
+            --reports-dir outputs/reports/
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         continue-on-error: true

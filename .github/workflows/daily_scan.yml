@@ -154,7 +154,9 @@ jobs:
           python tools/notify_slack.py \
             --type daily \
             --date ${{ env.TODAY }} \
-            --signals-dir outputs/signals/
+            --signals-dir outputs/signals/ \
+            --reports-dir outputs/reports/ \
+            --briefs-dir outputs/briefs/
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         continue-on-error: true

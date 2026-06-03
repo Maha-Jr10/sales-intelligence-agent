@@ -64,7 +64,7 @@ def fetch_wikipedia(company_name: str) -> str | None:
         encoded = urllib.parse.quote(company_name)
         url = f"https://en.wikipedia.org/api/rest_v1/page/summary/{encoded}"
         req = urllib.request.Request(url, headers={"User-Agent": "SalesBot/1.0"})
-        with urllib.request.urlopen(req, timeout=5, encoding="utf-8") as resp:
+        with urllib.request.urlopen(req, timeout=5) as resp:
             data = json.loads(resp.read().decode())
             return data.get("extract") or None
     except Exception:
@@ -76,7 +76,7 @@ def fetch_wayback(domain: str) -> dict:
     try:
         url = f"http://web.archive.org/cdx/search/cdx?url={domain}&output=json&limit=5&fl=timestamp,statuscode&collapse=timestamp:6"
         req = urllib.request.Request(url, headers={"User-Agent": "SalesBot/1.0"})
-        with urllib.request.urlopen(req, timeout=10, encoding="utf-8") as resp:
+        with urllib.request.urlopen(req, timeout=10) as resp:
             rows = json.loads(resp.read().decode())
             if len(rows) > 1:
                 first = rows[1]
@@ -120,8 +120,9 @@ def research_company(company: dict, depth: str = "standard", raw_signals_dir: st
 
     # News search
     if monitoring.get("check_news", True):
+        news_query = company.get("search_query") or company_name
         news_result, err = run_tool([
-            "tools/search_news.py", "--query", company_name,
+            "tools/search_news.py", "--query", news_query,
             "--company-id", company_id, "--max-age-days", "30"
         ], timeout=30)
         if news_result and not news_result.get("error"):

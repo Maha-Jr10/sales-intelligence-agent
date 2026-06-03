@@ -98,6 +98,14 @@ python tools/update_account_memory.py --action write \
     --value "Paused until Q3 — rep has prior relationship, approaching separately"
 ```
 
+### After Generating a Brief or Playbook
+```
+python tools/update_account_memory.py --action append-brief \
+    --company-id {id} \
+    --brief-id {brief_id_or_playbook_id}
+```
+Records that a brief or playbook was generated for this account. Called automatically by `deal_playbook_generation.md` after each playbook run.
+
 ### Resetting an Account (new contact, new outreach cycle)
 After a full sequence completes with no reply:
 ```

@@ -56,11 +56,6 @@ def detect_from_headers(headers: dict, fingerprints: list) -> list:
                 })
                 break
 
-    for cookie_name, cookie_value in []:
-        for tech in fingerprints:
-            for cookie_pattern in tech.get("patterns", {}).get("cookies", []):
-                pass
-
     return detected
 
 

@@ -57,15 +57,30 @@ Total signals: {N} across {M} companies
 
 In GitHub Actions (automated mode), the report is committed and pushed in the same step.
 
+### Step 6 — Post Slack Notification
+```
+python tools/notify_slack.py --type daily --date {today}
+```
+
+This posts a Block Kit summary to the configured Slack webhook with:
+- Total signal count and breakdown by signal type
+- Ranked account list (top 10) with tier, urgency, score, and dominant signal types
+- Links to the full report, signal data, and company briefs on GitHub
+
+Skip this step if `SLACK_WEBHOOK_URL` is not set in `.env` — the tool will exit with an error message but the report itself is unaffected.
+
 ## Expected Outputs
 - `outputs/reports/daily_{today}.md`
 - Summary printed to stdout (for Actions log visibility)
+- Slack message posted to configured channel (if `SLACK_WEBHOOK_URL` is set)
 
 ## Error Handling
 - **No signals today**: Generate a "no signals" report. Do not skip report generation — a day with no signals is still useful information.
 - **Scores file missing** (score_opportunity.py didn't run): Generate report from signals only, without score breakdown. Note missing scores.
 - **Brief referenced doesn't exist**: Display "brief pending" message in the report section — do not error.
 - **Reports directory doesn't exist**: Create it before writing.
+- **`SLACK_WEBHOOK_URL` not set**: Skip Step 6 and note it in the run summary. Do not fail the pipeline — Slack delivery is optional.
+- **Slack webhook returns non-200**: Log the error and continue. The report file is the authoritative artifact; Slack is a delivery channel, not a dependency.
 
 ## Validation Checks
 - [ ] Report file exists at correct path
@@ -73,6 +88,7 @@ In GitHub Actions (automated mode), the report is committed and pushed in the sa
 - [ ] Report date matches today's date
 - [ ] Signal count in executive summary matches actual signal count in signals file
 - [ ] No company appears in both "signals" and "no signals" sections
+- [ ] Slack notification posted (or skipped with a logged reason if webhook not configured)
 
 ## Lessons Learned
 _Updated by agent as patterns are discovered._

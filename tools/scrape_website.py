@@ -75,6 +75,8 @@ def fetch_url(url: str, timeout: int = 10, selector: str = None) -> dict:
                                     allow_redirects=True)
         except Exception:
             return {"url": url, "error": "connection_error", "detail": str(e), "fetched_at": _now()}
+    except Exception as e:
+        return {"url": url, "error": "request_error", "detail": str(e), "fetched_at": _now()}
 
     content_type = response.headers.get("Content-Type", "")
     if response.status_code in (403, 429):

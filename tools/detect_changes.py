@@ -30,6 +30,13 @@ def _today() -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
 
+def _safe_json(obj) -> str:
+    try:
+        return json.dumps(obj)
+    except (TypeError, ValueError):
+        return json.dumps(str(obj))
+
+
 CHANGE_TO_SIGNAL = {
     "careers": {
         "added": {
@@ -189,7 +196,7 @@ def build_signal(company_id: str, change: dict, source_url: str = "") -> dict:
         "source": "detect_changes",
         "source_url": source_url,
         "title": change.get("title", ""),
-        "raw_text": json.dumps(change.get("value", {}))[:500],
+        "raw_text": _safe_json(change.get("value", {}))[:500],
         "structured_data": change.get("value", {}),
         "importance_score": {"high": 8.0, "medium": 5.0, "low": 3.0}.get(change.get("significance", "low"), 3.0),
         "processed": False,

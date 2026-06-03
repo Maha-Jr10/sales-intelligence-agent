@@ -38,8 +38,7 @@
         "Segment", "Amplitude",
         "React", "Next.js", "TypeScript",
         "Python", "Go", "Rust"
-      ],
-      "score_weight": 0.20
+      ]
     },
     "negative_tech_signals": {
       "description": "Tech signals that suggest poor fit",
@@ -55,14 +54,13 @@
       "consolidate", "modernize", "technical debt", "platform overhaul",
       "new CTO", "new VP Engineering", "new Head of Engineering",
       "Series A", "Series B", "Series C", "raised funding"
-    ],
-    "score_weight": 0.35
+    ]
   },
   "scoring": {
-    "note": "Weights above must sum to 1.0. This section defines thresholds for tier classification.",
+    "note": "Firmographic weights (employee_count + funding + industries + geographies = 0.45) are used by score_opportunity.py. Signal scoring handles the rest via signal_weights.json. Practical max score is ~95.",
     "tier_a_threshold": 75,
     "tier_b_threshold": 50,
     "tier_c_threshold": 25,
-    "max_score": 100
+    "max_score": 95
   }
 }

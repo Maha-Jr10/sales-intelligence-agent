@@ -1,37 +1,294 @@
 {
   "schema_version": "2.0",
-  "description": "Your direct competitors. Add entries for each competitor you want to monitor and detect mentions of in target company content.",
+  "description": "Axiora's direct competitors. Monitors competitor news and detects mentions in target account content.",
   "your_competitors": [
     {
-      "id": "competitor-a",
-      "name": "Competitor A",
-      "domain": "competitora.com",
-      "aliases": ["Competitor A", "CompA", "competitor-a"],
-      "monitoring_config": {
-        "check_news": true,
-        "check_product_hunt": true,
-        "check_careers": false
-      },
-      "displacement_signals": [
-        "replacing competitor a",
-        "moved from competitor a",
-        "competitor a alternative",
-        "away from competitor a"
-      ]
-    },
-    {
-      "id": "competitor-b",
-      "name": "Competitor B",
-      "domain": "competitorb.io",
-      "aliases": ["Competitor B", "CompB"],
+      "id": "xai-morocco",
+      "name": "XAI",
+      "domain": "xai.ma",
+      "aliases": ["XAI", "XAI Morocco", "xai.ma"],
       "monitoring_config": {
         "check_news": true,
         "check_product_hunt": false,
         "check_careers": false
       },
       "displacement_signals": [
-        "replacing competitor b",
-        "switched from competitor b"
+        "replacing xai",
+        "moved from xai",
+        "xai alternative",
+        "away from xai",
+        "disappointed with xai",
+        "looking for alternative to xai"
+      ]
+    },
+    {
+      "id": "primeforge",
+      "name": "Primeforge",
+      "domain": "primeforge.io",
+      "aliases": ["Primeforge", "Prime Forge", "primeforge.io"],
+      "monitoring_config": {
+        "check_news": true,
+        "check_product_hunt": true,
+        "check_careers": false
+      },
+      "displacement_signals": [
+        "replacing primeforge",
+        "moved from primeforge",
+        "primeforge alternative",
+        "away from primeforge",
+        "disappointed with primeforge"
+      ]
+    },
+    {
+      "id": "gomindz",
+      "name": "GOMINDZ",
+      "domain": "gomindz.gm",
+      "aliases": ["GOMINDZ", "GoMindz", "gomindz.gm"],
+      "monitoring_config": {
+        "check_news": true,
+        "check_product_hunt": false,
+        "check_careers": false
+      },
+      "displacement_signals": [
+        "replacing gomindz",
+        "moved from gomindz",
+        "gomindz alternative",
+        "away from gomindz",
+        "disappointed with gomindz"
+      ]
+    },
+    {
+      "id": "assutech",
+      "name": "Assutech",
+      "domain": "assutech.gm",
+      "aliases": ["Assutech", "AssuTech", "assutech.gm"],
+      "monitoring_config": {
+        "check_news": true,
+        "check_product_hunt": false,
+        "check_careers": false
+      },
+      "displacement_signals": [
+        "replacing assutech",
+        "moved from assutech",
+        "assutech alternative",
+        "away from assutech",
+        "disappointed with assutech"
+      ]
+    },
+    {
+      "id": "gamscale",
+      "name": "GamScale",
+      "domain": "gamscale.com",
+      "aliases": ["GamScale", "GamScale Digital", "GamScale Digital Ltd", "gamscale.com"],
+      "monitoring_config": {
+        "check_news": true,
+        "check_product_hunt": false,
+        "check_careers": false
+      },
+      "displacement_signals": [
+        "replacing gamscale",
+        "moved from gamscale",
+        "gamscale alternative",
+        "away from gamscale",
+        "disappointed with gamscale"
+      ]
+    },
+    {
+      "id": "gesco-group",
+      "name": "Gesco Group",
+      "domain": "gescogroup.net",
+      "aliases": ["Gesco Group", "Gesco Group Ltd", "GESCO", "gescogroup.net"],
+      "monitoring_config": {
+        "check_news": true,
+        "check_product_hunt": false,
+        "check_careers": false
+      },
+      "displacement_signals": [
+        "replacing gesco",
+        "moved from gesco",
+        "gesco alternative",
+        "away from gesco",
+        "disappointed with gesco group"
+      ]
+    },
+    {
+      "id": "integify",
+      "name": "Integify",
+      "domain": "integify.io",
+      "aliases": ["Integify", "integify.io"],
+      "monitoring_config": {
+        "check_news": true,
+        "check_product_hunt": true,
+        "check_careers": false
+      },
+      "displacement_signals": [
+        "replacing integify",
+        "moved from integify",
+        "integify alternative",
+        "away from integify",
+        "disappointed with integify"
+      ]
+    },
+    {
+      "id": "insight-solutions",
+      "name": "Insight Solutions",
+      "domain": "insightsolutions.ma",
+      "aliases": ["Insight Solutions", "InsightSolutions", "insightsolutions.ma"],
+      "monitoring_config": {
+        "check_news": true,
+        "check_product_hunt": false,
+        "check_careers": false
+      },
+      "displacement_signals": [
+        "replacing insight solutions",
+        "moved from insight solutions",
+        "insight solutions alternative",
+        "away from insight solutions",
+        "disappointed with insight solutions"
+      ]
+    },
+    {
+      "id": "akilityx",
+      "name": "Akilityx",
+      "domain": "akilityx.com",
+      "aliases": ["Akilityx", "akilityx.com"],
+      "monitoring_config": {
+        "check_news": true,
+        "check_product_hunt": false,
+        "check_careers": false
+      },
+      "displacement_signals": [
+        "replacing akilityx",
+        "moved from akilityx",
+        "akilityx alternative",
+        "away from akilityx",
+        "disappointed with akilityx"
+      ]
+    },
+    {
+      "id": "decisiveai",
+      "name": "DecisiveAI",
+      "domain": "decisiveai.ma",
+      "aliases": ["DecisiveAI", "Decisive AI", "decisiveai.ma"],
+      "monitoring_config": {
+        "check_news": true,
+        "check_product_hunt": false,
+        "check_careers": false
+      },
+      "displacement_signals": [
+        "replacing decisiveai",
+        "moved from decisive ai",
+        "decisiveai alternative",
+        "away from decisiveai",
+        "disappointed with decisiveai"
+      ]
+    },
+    {
+      "id": "ihub-morocco",
+      "name": "iHub",
+      "domain": "ihub.ma",
+      "aliases": ["iHub", "iHub Morocco", "ihub.ma"],
+      "monitoring_config": {
+        "check_news": true,
+        "check_product_hunt": false,
+        "check_careers": false
+      },
+      "displacement_signals": [
+        "replacing ihub",
+        "moved from ihub",
+        "ihub alternative",
+        "away from ihub",
+        "disappointed with ihub"
+      ]
+    },
+    {
+      "id": "telyx-solutions",
+      "name": "Telyx Solutions",
+      "domain": "telyxsolutions.com",
+      "aliases": ["Telyx Solutions", "Telyx", "telyxsolutions.com"],
+      "monitoring_config": {
+        "check_news": true,
+        "check_product_hunt": true,
+        "check_careers": false
+      },
+      "displacement_signals": [
+        "replacing telyx",
+        "moved from telyx",
+        "telyx alternative",
+        "away from telyx solutions",
+        "disappointed with telyx"
+      ]
+    },
+    {
+      "id": "harmony-ma",
+      "name": "Harmony",
+      "domain": "harmony.ma",
+      "aliases": ["Harmony", "Harmony Morocco", "harmony.ma"],
+      "monitoring_config": {
+        "check_news": true,
+        "check_product_hunt": false,
+        "check_careers": false
+      },
+      "displacement_signals": [
+        "replacing harmony",
+        "moved from harmony",
+        "harmony alternative",
+        "away from harmony",
+        "disappointed with harmony"
+      ]
+    },
+    {
+      "id": "alvixia",
+      "name": "Alvixia",
+      "domain": "alvixia.com",
+      "aliases": ["Alvixia", "alvixia.com"],
+      "monitoring_config": {
+        "check_news": true,
+        "check_product_hunt": false,
+        "check_careers": false
+      },
+      "displacement_signals": [
+        "replacing alvixia",
+        "moved from alvixia",
+        "alvixia alternative",
+        "away from alvixia",
+        "disappointed with alvixia"
+      ]
+    },
+    {
+      "id": "microintegrale",
+      "name": "Microintegrale Group",
+      "domain": "microintegrale.com",
+      "aliases": ["Microintegrale Group", "Microintegrale", "microintegrale.com"],
+      "monitoring_config": {
+        "check_news": true,
+        "check_product_hunt": false,
+        "check_careers": false
+      },
+      "displacement_signals": [
+        "replacing microintegrale",
+        "moved from microintegrale",
+        "microintegrale alternative",
+        "away from microintegrale",
+        "disappointed with microintegrale"
+      ]
+    },
+    {
+      "id": "soralis",
+      "name": "Soralis",
+      "domain": "soralis.ma",
+      "aliases": ["Soralis", "Soralis Solutions", "soralis.ma"],
+      "monitoring_config": {
+        "check_news": true,
+        "check_product_hunt": false,
+        "check_careers": false
+      },
+      "displacement_signals": [
+        "replacing soralis",
+        "moved from soralis",
+        "soralis alternative",
+        "away from soralis",
+        "disappointed with soralis"
       ]
     }
   ],

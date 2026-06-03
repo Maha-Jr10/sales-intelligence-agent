@@ -43,13 +43,13 @@
     {"name": "Okta", "category": "Identity / SSO", "patterns": {"scripts": ["okta.com", "oktacdn.com"], "meta": [], "headers": [], "cookies": ["oktaStateToken"]}},
     {"name": "Clerk", "category": "Authentication", "patterns": {"scripts": ["clerk.accounts.dev", "clerk.browser.js", "frontend-api.clerk.dev"], "meta": [], "headers": [], "cookies": ["__client"]}},
 
-    {"name": "Snowflake", "category": "Data Warehouse", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["Snowflake", "Snowpipe"]}},
-    {"name": "dbt", "category": "Data Transformation", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["dbt", "dbt Cloud", "data build tool"]}},
-    {"name": "Fivetran", "category": "Data Integration / ETL", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["Fivetran"]}},
-    {"name": "Airbyte", "category": "Data Integration / ETL", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["Airbyte"]}},
-    {"name": "Databricks", "category": "Data / ML Platform", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["Databricks", "Apache Spark", "Delta Lake"]}},
-    {"name": "Kubernetes", "category": "Container Orchestration", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["Kubernetes", "k8s", "kubectl", "Helm"]}},
-    {"name": "Terraform", "category": "Infrastructure as Code", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["Terraform", "Terragrunt", "IaC"]}},
+    {"name": "Snowflake", "category": "Data Warehouse", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": []}},
+    {"name": "dbt", "category": "Data Transformation", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": []}},
+    {"name": "Fivetran", "category": "Data Integration / ETL", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": []}},
+    {"name": "Airbyte", "category": "Data Integration / ETL", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": []}},
+    {"name": "Databricks", "category": "Data / ML Platform", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": []}},
+    {"name": "Kubernetes", "category": "Container Orchestration", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": []}},
+    {"name": "Terraform", "category": "Infrastructure as Code", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": []}},
 
     {"name": "Algolia", "category": "Search", "patterns": {"scripts": ["cdn.jsdelivr.net/algoliasearch", "algolianet.com", "algolia.net"], "meta": [], "headers": [], "cookies": []}},
     {"name": "LaunchDarkly", "category": "Feature Flags", "patterns": {"scripts": ["launchdarkly.com", "app.launchdarkly.com"], "meta": [], "headers": [], "cookies": []}},
@@ -60,12 +60,12 @@
     {"name": "Heroku", "category": "Hosting / PaaS", "patterns": {"scripts": [], "meta": [], "headers": ["x-request-id", "heroku-"], "cookies": []}},
 
     {"name": "Twilio", "category": "Communications API", "patterns": {"scripts": ["twilio.com", "media.twiliocdn.com"], "meta": [], "headers": [], "cookies": []}},
-    {"name": "SendGrid", "category": "Email Delivery", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["SendGrid", "Twilio SendGrid"]}},
+    {"name": "SendGrid", "category": "Email Delivery", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": []}},
     {"name": "Mailchimp", "category": "Email Marketing", "patterns": {"scripts": ["chimpstatic.com", "mailchimp.com"], "meta": [], "headers": [], "cookies": []}},
 
-    {"name": "Figma", "category": "Design Tool", "patterns": {"scripts": ["figma.com"], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["Figma"]}},
-    {"name": "Linear", "category": "Project Management", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["Linear app", "linear.app"]}},
+    {"name": "Figma", "category": "Design Tool", "patterns": {"scripts": ["figma.com"], "meta": [], "headers": [], "cookies": []}},
+    {"name": "Linear", "category": "Project Management", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": []}},
     {"name": "Notion", "category": "Collaboration / Docs", "patterns": {"scripts": ["notion.so", "notion-static.com"], "meta": [], "headers": [], "cookies": []}},
-    {"name": "Slack", "category": "Team Communication", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["Slack"]}}
+    {"name": "Slack", "category": "Team Communication", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": []}}
   ]
 }

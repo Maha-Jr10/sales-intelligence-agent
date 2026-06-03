@@ -135,12 +135,8 @@ def search_company(company_id: str, company_name: str, max_age_days: int,
     print(f"[search_news] searching news for: {company_name}", file=sys.stderr)
 
     google_items = search_google_news(company_name, max_age_days)
-    if not google_items:
-        time.sleep(1)
-        yahoo_items = search_yahoo_news(company_name, max_age_days)
-    else:
-        time.sleep(1)
-        yahoo_items = search_yahoo_news(company_name, max_age_days)
+    time.sleep(1)
+    yahoo_items = search_yahoo_news(company_name, max_age_days)
 
     raw = google_items + yahoo_items
     items = deduplicate(raw)

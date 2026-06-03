@@ -54,6 +54,44 @@ def load_brief(company_id: str, date_str: str = None, briefs_dir: str = "outputs
     return None
 
 
+def load_score_for_company(company_id: str, date_str: str, signals_dir: str = "outputs/signals") -> float | None:
+    for name in (f"scores-{date_str}.json", f"multi_factor_scores-{date_str}.json"):
+        path = Path(signals_dir) / name
+        if not path.exists():
+            continue
+        data = load_json(str(path))
+        if not data:
+            continue
+        entries = data if isinstance(data, list) else data.get("scores", [])
+        for entry in entries:
+            if entry.get("company_id") == company_id:
+                return (
+                    entry.get("composite_score")
+                    or entry.get("score", {}).get("total")
+                )
+    return None
+
+
+US_STATE_ABBREVS = {
+    "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID",
+    "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS",
+    "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK",
+    "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV",
+    "WI", "WY", "DC",
+}
+
+
+def _infer_country(headquarters: str) -> str | None:
+    if not headquarters:
+        return None
+    parts = [p.strip() for p in headquarters.split(",")]
+    if any(p in US_STATE_ABBREVS for p in parts):
+        return "US"
+    if "United States" in headquarters or " US" in headquarters:
+        return "US"
+    return None
+
+
 def load_signals_for_company(company_id: str, date_str: str, signals_dir: str = "outputs/signals") -> list:
     path = Path(signals_dir) / f"{date_str}.json"
     if not path.exists():
@@ -62,7 +100,8 @@ def load_signals_for_company(company_id: str, date_str: str, signals_dir: str = 
     return [s for s in all_signals if s.get("company_id") == company_id]
 
 
-def build_hubspot_records(company: dict, brief: dict | None, signals: list, date_str: str) -> list:
+def build_hubspot_records(company: dict, brief: dict | None, signals: list, date_str: str,
+                          signals_dir: str = "outputs/signals") -> list:
     records = []
     company_id = company["id"]
     company_name = company.get("name", "")
@@ -77,6 +116,8 @@ def build_hubspot_records(company: dict, brief: dict | None, signals: list, date
             emp_count = int(nums[0])
 
     score = brief.get("opportunity_score", {}).get("total") if brief else None
+    if score is None:
+        score = load_score_for_company(company_id, date_str, signals_dir)
     tier = brief.get("opportunity_score", {}).get("tier") if brief else company.get("tier")
     top_signal = signals[0].get("title", "") if signals else ""
     exec_summary = brief.get("executive_summary", "") if brief else ""
@@ -100,7 +141,7 @@ def build_hubspot_records(company: dict, brief: dict | None, signals: list, date
             "industry": company.get("industry", ""),
             "numberofemployees": emp_count,
             "city": (company.get("headquarters") or "").split(",")[0].strip() or None,
-            "country": "US" if "US" in (company.get("headquarters") or "") else None,
+            "country": _infer_country(company.get("headquarters") or ""),
             "website": company.get("website", ""),
             "linkedincompanypage": company.get("linkedin_url", ""),
             "custom_properties": {
@@ -287,10 +328,13 @@ def export_company(company: dict, crm: str, date_str: str,
 
     builder = SCHEMA_BUILDERS.get(crm)
     if builder:
-        records = builder(company, brief, signals, date_str)
+        if crm == "hubspot":
+            records = builder(company, brief, signals, date_str, signals_dir)
+        else:
+            records = builder(company, brief, signals, date_str)
     else:
         print(f"[export_crm] unknown CRM '{crm}', using universal format", file=sys.stderr)
-        records = build_hubspot_records(company, brief, signals, date_str)
+        records = build_hubspot_records(company, brief, signals, date_str, signals_dir)
 
     return {
         "company_id": company["id"],

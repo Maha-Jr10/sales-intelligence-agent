@@ -27,7 +27,7 @@
         }
       ],
       "content_to_reference": ["case_study", "roi_calculator"],
-      "sequence_timing": {"follow_up_days": [3, 7, 14]},
+      "sequence_timing": {"step_1_channel": "email", "follow_up_days": [3, 7, 14]},
       "urgency_note": "Action window closes when the new executive reaches day 90. Track their LinkedIn announcement for 'started new role' timing."
     },
     {
@@ -50,7 +50,7 @@
         }
       ],
       "content_to_reference": ["competitive_comparison", "migration_guide", "case_study"],
-      "sequence_timing": {"follow_up_days": [2, 5, 14]},
+      "sequence_timing": {"step_1_channel": "email", "follow_up_days": [2, 5, 14]},
       "urgency_note": "Move fast — competitive evaluations close quickly. Day 2 follow-up is intentional."
     },
     {
@@ -73,7 +73,7 @@
         }
       ],
       "content_to_reference": ["scaling_guide", "case_study"],
-      "sequence_timing": {"follow_up_days": [3, 7, 21]},
+      "sequence_timing": {"step_1_channel": "email", "follow_up_days": [3, 7, 21]},
       "urgency_note": "Post-funding window closes at ~120 days as the company settles into execution mode."
     },
     {
@@ -92,7 +92,7 @@
         }
       ],
       "content_to_reference": ["case_study"],
-      "sequence_timing": {"follow_up_days": [5, 14, 30]},
+      "sequence_timing": {"step_1_channel": "email", "follow_up_days": [5, 14, 30]},
       "urgency_note": "Launch momentum fades in 30-45 days. Act while the company is in growth mode."
     },
     {
@@ -106,7 +106,7 @@
       "value_hook": "",
       "objections": [],
       "content_to_reference": [],
-      "sequence_timing": {"follow_up_days": [14, 30]},
+      "sequence_timing": {"step_1_channel": "email", "follow_up_days": [14, 30]},
       "urgency_note": "Low urgency. Continue monitoring."
     }
   ]

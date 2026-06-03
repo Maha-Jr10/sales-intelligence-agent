@@ -60,11 +60,30 @@ List accounts where `total_priority_boost` ≥ 20. These are high-conviction opp
 
 The correlation boost will increase their urgency score in `score_multi_factor.py`. Verify the final composite score after that step runs.
 
-### Step 5 — Pass to Multi-Factor Scoring
-Signal to the next step: "Correlation complete. {N} accounts with detected patterns. Top boost: {company} (+{N} points). Proceed to score_multi_factor."
+### Step 5 — Run Multi-Factor Scoring
+```
+python tools/score_multi_factor.py --all-companies \
+    --signals-file outputs/signals/{today}.json \
+    --scores-file outputs/signals/scores-{today}.json \
+    --correlations-file outputs/signals/correlations-{today}.json \
+    --output-file outputs/signals/multi_factor_scores-{today}.json
+```
+
+Review the output: verify that accounts with high `total_priority_boost` from Step 4 have correspondingly higher composite scores than their v1 scores. A company that scored Tier B in v1 but has a +25 correlation boost should appear at or near the top of the composite ranking.
+
+### Step 6 — Persist Signals to Account Memory
+```
+python tools/update_account_memory.py --action append-signal \
+    --all-companies \
+    --signal-file outputs/signals/{today}.json
+```
+
+This appends today's signals into each company's rolling 90-day signal history in `outputs/memory/{company_id}.json`. Required for `account_review.md` and `executive_reporting.md` to surface signal history correctly.
 
 ## Expected Outputs
 - `outputs/signals/correlations-{today}.json` — correlation results per company
+- `outputs/signals/multi_factor_scores-{today}.json` — composite scores combining v1 + intent + urgency + correlation boosts
+- `outputs/memory/{company_id}.json` — updated for all companies with today's signals
 - Agent notes on any false positives or override decisions
 
 ## Error Handling
@@ -78,6 +97,9 @@ Signal to the next step: "Correlation complete. {N} accounts with detected patte
 - [ ] `companies_with_correlations` count is ≥ 0 (never negative)
 - [ ] `why_matched` is present for all matched patterns (explainability intact)
 - [ ] Any false positives are noted before score_multi_factor runs
+- [ ] `outputs/signals/multi_factor_scores-{today}.json` exists and contains all active companies
+- [ ] Accounts with high correlation boosts rank higher in composite scores than in v1 scores
+- [ ] `outputs/memory/{company_id}.json` updated for all companies (check `last_updated` timestamp)
 
 ## Lessons Learned
 _Updated by agent as patterns are discovered._

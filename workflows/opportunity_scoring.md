@@ -36,7 +36,7 @@ The deterministic score is a starting point. Apply judgment to adjust priorities
 
 **Negative adjustments (rank lower than score suggests):**
 - Company is currently in an active sales cycle with a competitor (check your CRM)
-- The rep assigned to this account (`owner` field) has noted they're not ready to engage
+- The rep assigned to this account (`assigned_to` field) has noted they're not ready to engage
 - The signal is a false positive (company name collision with a different company)
 - The company is in a budget freeze (known from a previous touch)
 - The same signal appeared in last week's report and was already actioned

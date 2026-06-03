@@ -54,7 +54,7 @@ Open the generated file at `outputs/crm_exports/{today}_hubspot.json` and verify
 ### Step 3 — Note Missing Data
 For contacts without email addresses (most will be missing — that's expected), note:
 - Contact name and title are populated from public sources
-- Email enrichment can be added later via Hunter.io (`tools/enrich_contact_hunter.py` if configured)
+- Email enrichment can be added later via Hunter.io (set `HUNTER_API_KEY` in `.env` to enable — tool not yet built)
 - Do not attempt to guess email formats
 
 ### Step 4 — Confirm File Location

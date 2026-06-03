@@ -91,7 +91,7 @@ Before confirming onboarding is complete:
 ## Lessons Learned
 _This section is updated by the agent when new constraints or behaviors are discovered._
 
-- Greenhouse board slugs often differ from the company domain (e.g., Linear uses "linear" but their domain is linear.app)
+- Greenhouse board slugs often differ from the company domain (e.g., a company domain may be acme.com but the Greenhouse slug is "acmecorp")
 - Some companies use Ashby for ATS — check jobs.ashbyhq.com/{company_slug} as a fallback
 - Blog RSS paths vary widely; feedparser will handle both RSS 2.0 and Atom formats
 - LinkedIn company page slugs sometimes include hyphens in place of spaces

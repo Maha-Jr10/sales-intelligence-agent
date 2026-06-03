@@ -112,7 +112,7 @@ def build_hubspot_records(company: dict, brief: dict | None, signals: list, date
                 "top_signal": top_signal[:200],
                 "intelligence_brief_path": brief_path,
                 "monitoring_tier": company.get("tier", ""),
-                "sales_owner": company.get("owner", ""),
+                "sales_owner": company.get("assigned_to", ""),
             },
         },
     })

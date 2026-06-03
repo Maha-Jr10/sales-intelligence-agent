@@ -215,6 +215,7 @@ jobs:
             --briefs-dir outputs/briefs/
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          GITHUB_REPO_URL: ${{ github.server_url }}/${{ github.repository }}
         continue-on-error: true
 
       # ── Summary ───────────────────────────────────────────────────────────

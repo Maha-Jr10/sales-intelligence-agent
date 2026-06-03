@@ -67,10 +67,10 @@ jobs:
           python tools/notify_slack.py \
             --type weekly \
             --week ${{ env.WEEK }} \
-            --signals-dir outputs/signals/ \
-            --reports-dir outputs/reports/
+            --signals-dir outputs/signals/
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          GITHUB_REPO_URL: ${{ github.server_url }}/${{ github.repository }}
         continue-on-error: true
 
       - name: Upload weekly artifacts (90-day retention)

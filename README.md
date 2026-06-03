@@ -190,13 +190,32 @@ Go to **Settings → Secrets and variables → Actions → New repository secret
 | Secret | Purpose | Required? |
 |--------|---------|-----------|
 | `PERSONAL_GITHUB_TOKEN` | Raises GitHub API rate limit from 60 to 5,000 req/hr | No |
-| `SLACK_WEBHOOK_URL` | Posts daily/weekly summaries to your Slack channel | No |
+| `SLACK_WEBHOOK_URL` | Posts Slack summaries after every scan | No |
 
 No secrets are strictly required. The system works on public sources alone, and outputs are always committed back to the repo regardless.
 
+### Slack notifications
+
+Each run posts a concise summary to your Slack channel — no markdown tables, just clean formatted text — with direct links back to the full files in your GitHub repo.
+
+**Daily message includes:**
+- Total signal count + breakdown by type
+- All monitored accounts ranked by opportunity score (tier, urgency, top signals)
+- Links to the daily report, signal data, and company briefs on GitHub
+
+**Weekly message includes:**
+- All accounts ranked by peak score for the week
+- Links to the weekly report and outputs folder on GitHub
+
+**Manual research message includes:**
+- Company brief preview (first 600 characters)
+- Direct link to the full brief file on GitHub
+
+To enable, set `SLACK_WEBHOOK_URL` and `GITHUB_REPO_URL` in your `.env` (locally) and add `SLACK_WEBHOOK_URL` as a GitHub secret (for Actions).
+
 ### Where to find outputs
 
-After each run the bot commits results back to the repository:
+After each run the bot commits results back to the repository. Everything is also linked directly from the Slack messages.
 
 | Output | Location in repo | Retention |
 |--------|-----------------|-----------|
@@ -204,8 +223,8 @@ After each run the bot commits results back to the repository:
 | Weekly report | `outputs/reports/weekly_YYYY-WXX.md` | Permanent |
 | Signal data | `outputs/signals/YYYY-MM-DD.json` | Permanent |
 | Opportunity scores | `outputs/signals/scores-YYYY-MM-DD.json` | Permanent |
+| Company briefs | `outputs/briefs/{company}/YYYY-MM-DD.md` | Permanent |
 | CRM export | `outputs/crm_exports/` | Permanent |
-| Slack summary | Your Slack channel | After each run |
 | Downloadable artifacts | Actions tab → run → Artifacts | 7–90 days |
 
 ### Trigger manual research
@@ -223,7 +242,8 @@ All keys are optional. Copy `.env.example` to `.env` and fill in what you have:
 | Key | What it unlocks | Cost |
 |-----|----------------|------|
 | `GITHUB_TOKEN` | 5,000 req/hr GitHub API (vs 60 unauthenticated) | Free |
-| `SLACK_WEBHOOK_URL` | Slack notifications after every scan | Free |
+| `SLACK_WEBHOOK_URL` | Slack summaries after every scan | Free |
+| `GITHUB_REPO_URL` | Repo URL embedded in Slack links (e.g. `https://github.com/you/sales-intelligence-agent`) | Free |
 | `HUNTER_API_KEY` | Email lookup for contacts | Free tier: 25/month |
 | `APOLLO_API_KEY` | Richer contact enrichment | Paid |
 | `CLAY_API_KEY` | Data enrichment | Paid |

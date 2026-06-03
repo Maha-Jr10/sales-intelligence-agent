@@ -154,11 +154,10 @@ jobs:
           python tools/notify_slack.py \
             --type daily \
             --date ${{ env.TODAY }} \
-            --signals-dir outputs/signals/ \
-            --reports-dir outputs/reports/ \
-            --briefs-dir outputs/briefs/
+            --signals-dir outputs/signals/
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          GITHUB_REPO_URL: ${{ github.server_url }}/${{ github.repository }}
         continue-on-error: true
 
       # ── Phase 4: Upload Artifacts ─────────────────────────────────────────

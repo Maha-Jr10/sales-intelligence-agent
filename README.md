@@ -48,6 +48,10 @@ A sales rep provides a list of target companies. Every day the system:
 
 ---
 
+## System Workflow
+
+![Sales Intelligence Agent Workflow](screenshot/worflow.png)
+
 ## How to Use It
 
 You don't run commands. You talk to Claude Code.

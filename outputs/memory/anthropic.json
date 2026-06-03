@@ -1,0 +1,784 @@
+{
+  "schema_version": "2.0",
+  "company_id": "anthropic",
+  "created_at": "2026-06-03T10:52:30.210410+00:00",
+  "last_updated": "2026-06-03T10:52:36.037246+00:00",
+  "relationship_context": {
+    "warm_intro": false,
+    "engagement_status": "not_contacted",
+    "last_outreach_date": null,
+    "last_outreach_channel": null,
+    "last_response_date": null,
+    "last_response_sentiment": null,
+    "open_outreach_sequence_id": null,
+    "crm_deal_id": null,
+    "crm_company_id": null,
+    "notes": ""
+  },
+  "known_contacts": [],
+  "signal_history": [
+    {
+      "signal_id": "anthropic-product_launch-2026-06-03-50f93db53fc9",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Microsoft launches its own AI models to take on OpenAI and Anthropic - Euronews.com",
+      "detected_at": "2026-06-03T07:31:53+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-cf0a74742156",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "QIA Expands Stake in Claude Maker Anthropic via $65B Funding Round - cairoscene.com",
+      "detected_at": "2026-06-03T09:18:02+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-06-03-339bdb447c09",
+      "signal_type": "product_launch",
+      "signal_subtype": "beta_announcement",
+      "title": "Anthropic Expands Its Claude Mythos Preview To More Partners - Engadget",
+      "detected_at": "2026-06-02T15:02:26+00:00",
+      "importance_score": 5.5
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-06-03-ea3326f0d983",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic expands Mythos to 150 additional organizations in more than 15 countries - CNBC",
+      "detected_at": "2026-06-02T13:22:25+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-hiring_spike-2026-06-03-2c2bd5153d96",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "Hot job alert: Anthropic is hiring for its new 'AI Rule & Law' team - Business Insider",
+      "detected_at": "2026-06-03T09:05:13+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-06-03-e0ee56fe597c",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Microsoft targets Anthropic with new model releases - Financial Times",
+      "detected_at": "2026-06-02T18:00:06+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-6403fd3b2a6d",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic's IPO is Just Ahead. Here's What You Need to Know. - The Motley Fool",
+      "detected_at": "2026-06-03T00:10:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-06-03-83324a01c1af",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic shares Mythos with 150 more organizations, including critical infrastructure operators - Cybersecurity Dive",
+      "detected_at": "2026-06-02T17:33:32+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-dbbed663152d",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork - NPR",
+      "detected_at": "2026-06-01T18:27:28+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-71055703d51b",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic IPO storylines to watch - Axios",
+      "detected_at": "2026-06-02T22:17:35+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-2b2f697db6be",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic IPO 2026 Guide: Everything You Need to Know and Consider - Zacks Investment Research",
+      "detected_at": "2026-06-02T18:40:39+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-88bdd52e6f9d",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic faces AI spending backlash before IPO - Yahoo Finance",
+      "detected_at": "2026-06-02T09:13:04+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-9a38a374b72d",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Why It Matters if OpenAI or Anthropic Wins the IPO Race - WSJ",
+      "detected_at": "2026-06-01T21:21:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-cb8d1b6a38e0",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic confidentially files IPO prospectus with SEC, prepping Wall Street for landmark AI deal - CNBC",
+      "detected_at": "2026-06-01T16:04:44+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-06-03-785b71840f17",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic expands Project Glasswing to 150 organizations in more than 15 countries - Help Net Security",
+      "detected_at": "2026-06-03T08:23:13+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-9cbd7b94bb35",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic confidentially files its S-1 first—but the IPO race with OpenAI is just beginning - Fortune",
+      "detected_at": "2026-06-01T19:35:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-b43a028fc255",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Claude maker Anthropic files for IPO, setting up public-market test of AI boom - CBS News",
+      "detected_at": "2026-06-01T16:40:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-c637ccd60b15",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic files confidential IPO paperwork ahead of OpenAI - Yahoo Finance",
+      "detected_at": "2026-06-01T21:30:17+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-c2cc757180bf",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic Files to Go Public in Blockbuster Year for IPOs - WSJ",
+      "detected_at": "2026-06-01T18:42:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-06-03-8d27f2a7d790",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI Plans AI Tools for Finance, Legal in Race With Anthropic - Bloomberg.com",
+      "detected_at": "2026-06-02T15:48:21+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-48e73612bc51",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic files for IPO before OpenAI as trillion-dollar startups race to go public - NBC News",
+      "detected_at": "2026-06-01T17:06:50+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-88c459c8a279",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic files for its IPO - Axios",
+      "detected_at": "2026-06-01T16:16:55+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-ef2771cbbe6a",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever - WIRED",
+      "detected_at": "2026-06-01T17:17:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-79b78f2fa1e7",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic Files for IPO, Jumping Ahead of Rival OpenAI - Barron's",
+      "detected_at": "2026-06-01T17:54:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-a78dbd197607",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "What Smart People Are Saying About Anthropic's IPO - Business Insider",
+      "detected_at": "2026-06-02T06:32:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-52b18c33b393",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "AI giant Anthropic files for US IPO as investors bet big on AI future - Al Jazeera",
+      "detected_at": "2026-06-01T22:11:41+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-06-03-7d29ebfec05e",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic Expands Mythos Access to 150 More Organizations - Infosecurity Magazine",
+      "detected_at": "2026-06-03T09:30:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-bc2f6005502a",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Ed Zitron: Anthropic and OpenAI Shouldn't IPO - StartupHub.ai",
+      "detected_at": "2026-06-02T22:08:24+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-89ff42b45373",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "The AI boom could be heading to millions of 401(k)s as Anthropic files for IPO - The Washington Post",
+      "detected_at": "2026-06-02T00:49:21+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-f8e4c471f276",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic IPO to intensify Wall Street frenzy - World Socialist Web Site",
+      "detected_at": "2026-06-03T03:36:27+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-06-03-4a40d68eb4ed",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic expands Project Glasswing cybersecurity program to 150 more organizations - SiliconANGLE",
+      "detected_at": "2026-06-02T20:42:43+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-c0be48867a51",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic Files Confidentially for IPO in Race With OpenAI - Bloomberg.com",
+      "detected_at": "2026-06-01T18:37:46+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-ba551870bc4c",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic Takes a Big Step Closer to Massive IPO—What You Need to Know - Investopedia",
+      "detected_at": "2026-06-01T21:49:51+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-a73cd84ad30b",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "AI Start-up Anthropic Files Confidentially for IPO. Here's What Investors Need to Know - Yahoo Finance",
+      "detected_at": "2026-06-02T19:01:49+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-d974f1277220",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic beats OpenAI to blockbuster IPO filing - Mashable",
+      "detected_at": "2026-06-01T16:57:57+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-06-03-da117279eb63",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic expands Project Glasswing to 200 organizations - Techzine Global",
+      "detected_at": "2026-06-03T10:14:49+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-e23f1e7cc961",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Breakingviews - Anthropic IPO could train a large M&A model - Reuters",
+      "detected_at": "2026-06-02T16:53:26+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-06-03-2e1d6ac1db5c",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic Gives 100 New Organizations Access to Mythos - PYMNTS.com",
+      "detected_at": "2026-06-02T17:10:33+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-445d06da8131",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic Raises Stakes in Wall Street’s IPO Gold Rush - The Daily Upside",
+      "detected_at": "2026-06-03T04:05:23+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-06-03-e3e9c9aafd3a",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic's office launched an AI-run vending machine. It evolved into AI-run stores and cafes within a year - Fortune",
+      "detected_at": "2026-06-02T16:16:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-06-03-19366ef7fead",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Trump offers pre-release AI vetting after Anthropic security scare - Euronews.com",
+      "detected_at": "2026-06-03T10:38:27+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-06-03-909b2fcabba4",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic Expands AI Cybersecurity Initiative to 150 Organisations Worldwide - AI Insider",
+      "detected_at": "2026-06-03T08:46:03+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-2502db422f0a",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic Files IPO, Targets Valuation Above US$1 Trillion - Mexico Business News",
+      "detected_at": "2026-06-02T21:23:50+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-1d13be8c4897",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic IPO filing marks AI maturing into enterprise utility - AI News",
+      "detected_at": "2026-06-02T18:04:31+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-06-03-a696e70ed1a3",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Travelport, Cognizant and Anthropic build AI-powered travel system - The Business Travel Magazine",
+      "detected_at": "2026-06-03T07:38:45+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-820bb4535f39",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "SpaceX, Anthropic: What to know about this year's blockbuster IPOs - ABC News - Breaking News, Latest News and Videos",
+      "detected_at": "2026-06-02T17:40:28+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-d098d310b3dd",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic Pulls Ahead of OpenAI in High-Stakes Race for IPO Riches - Bloomberg.com",
+      "detected_at": "2026-06-01T21:55:52+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-06-03-5368f4f7cd64",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic Files for IPO, Valuation Could Exceed $1 Trillion - GuruFocus",
+      "detected_at": "2026-06-03T09:08:21+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-c025d30e4eb4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock - WIRED",
+      "detected_at": "2026-06-03T10:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-f45a6319026f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic’s Daniela Amodei And Other AI Execs Boost Fortunes Of America’s Top Self-Made Women - Forbes",
+      "detected_at": "2026-06-03T10:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-3fc47e71379c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The Pope chose this atheist Anthropic cofounder to sit beside him and talk about the danger of AI - Fortune",
+      "detected_at": "2026-06-03T08:58:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-92757a9f70e0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Files to Go Public, Setting Stage for Huge I.P.O. - The New York Times",
+      "detected_at": "2026-06-02T17:55:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-3692e8b993e0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia Says Anthropic, OpenAI Among Users of New Vera Chip - Bloomberg.com",
+      "detected_at": "2026-06-01T04:56:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-d4b9d80f3b23",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Exclusive / Anthropic resists sharing financial info with lenders, sources say - Semafor",
+      "detected_at": "2026-06-02T18:48:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-d75bfb3e6559",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Microsoft tells engineers to stop using Anthropic's Claude, as canceling Claude Code licenses becomes an - The Times of India",
+      "detected_at": "2026-06-02T06:19:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-2c5b8bb8e846",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Expanding Project Glasswing - Anthropic",
+      "detected_at": "2026-06-02T13:05:18+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-456f0d8b897d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Mythos access to quadruple to about 200 Glasswing partners - Reuters",
+      "detected_at": "2026-06-02T20:33:59+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-a48c8a623631",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic held cyberthreat briefings with agency CIOs last month - Nextgov/FCW",
+      "detected_at": "2026-06-02T19:29:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-d4613298fbbd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic files to go public in a potentially trillion-dollar debut - CNN",
+      "detected_at": "2026-06-01T16:15:39+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-a23a37730f5c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic races toward a Wall Street debut with a confidential SEC filing - AP News",
+      "detected_at": "2026-06-01T21:45:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-279d84657bb8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Confidentially Files To Go Public - Forbes",
+      "detected_at": "2026-06-01T16:11:39+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-f81f53b1a4c8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Introducing Claude Opus 4.8 - Anthropic",
+      "detected_at": "2026-05-28T22:52:08+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-8ffe30316419",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "How Anthropic became the ‘good guys’ of AI - The Times",
+      "detected_at": "2026-06-03T10:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-7020fed275d4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic files to go public - TechCrunch",
+      "detected_at": "2026-06-01T16:36:55+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-a0c2e0af62bf",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI giant Anthropic plans to sell shares in US as valuation nears $1tn - BBC",
+      "detected_at": "2026-06-02T07:00:21+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-d6ca537c1591",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Solita Becomes One of Anthropic’s First Authorised Resellers in Europe via Amazon Bedrock - Business Wire",
+      "detected_at": "2026-06-03T10:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-752fab965645",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic to offer EU access to its advanced Mythos model - CNBC",
+      "detected_at": "2026-06-01T15:27:06+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-01f854e74253",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Five things to know about Anthropic's stock market debut plans - Euronews.com",
+      "detected_at": "2026-06-02T08:18:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-62f633646024",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic to expand Mythos access to more than 15 countries - Financial Times",
+      "detected_at": "2026-06-02T13:00:50+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-8f59f63b2eea",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic confidentially files for initial public offering on US stock market | Technology - The Guardian",
+      "detected_at": "2026-06-01T16:36:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-1288f4fa4dfe",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic expands Glasswing, granting 150 new firms access to powerful Mythos model - SDxCentral",
+      "detected_at": "2026-06-03T10:03:05+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-336263e690b8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round - CNBC",
+      "detected_at": "2026-05-28T18:35:44+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-32788d7bd74c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats - Anthropic",
+      "detected_at": "2026-06-03T09:51:53+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-9d77796b9ae6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic files for blockbuster initial public offering - Financial Times",
+      "detected_at": "2026-06-01T16:11:39+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-d97085445636",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic offers Australia access to powerful Mythos model - AFR",
+      "detected_at": "2026-06-03T07:51:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-cbff2e762db5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic expanding access to Project Glasswing - CyberScoop",
+      "detected_at": "2026-06-02T17:30:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-8d6c14c3ff5f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI and Anthropic battle for UK banks’ trust - eMarketer",
+      "detected_at": "2026-06-03T04:08:58+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-32b1e0e9de3e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Expands Mythos to Global Critical Infrastructure - BankInfoSecurity",
+      "detected_at": "2026-06-03T07:38:46+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-1dd50914b537",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Broadcom Backing Lowers Debt Costs on $36 Billion Anthropic Deal - Bloomberg.com",
+      "detected_at": "2026-06-02T21:48:19+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-a450b540bf8e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Microsoft and Google are late to AI coding, but 'absolutely critical' they compete for growth - CNBC",
+      "detected_at": "2026-06-01T20:18:21+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-aec67f877fc4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI Sticker Shock Could Slow Down Anthropic’s Growth - Forbes",
+      "detected_at": "2026-06-02T21:34:53+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-febaaf25d6cc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Coding agents in the social sciences - Anthropic",
+      "detected_at": "2026-05-27T23:09:02+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-a5835158b25d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up - The New York Times",
+      "detected_at": "2026-05-28T17:00:09+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-37b2f240027e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic grants Project Glasswing access to 150 more companies, with a focus on critical infrastructure - csoonline.com",
+      "detected_at": "2026-06-03T00:39:35+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-3f45a2d7f5f3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "'Big Short' investor Michael Burry says neither SpaceX nor Anthropic is worth $1 trillion - Business Insider",
+      "detected_at": "2026-06-01T12:14:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-bb7490883883",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic surges as OpenAI struggles to keep up - The Guardian",
+      "detected_at": "2026-06-02T15:07:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-8220b155110f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "$3 Million San Francisco Home Can Be Bought With OpenAI or Anthropic Stock - Realtor.com",
+      "detected_at": "2026-06-02T21:45:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-0106aa4a1a42",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Lets Claude Mythos Spread Its Glasswings - Gizmodo",
+      "detected_at": "2026-06-02T18:15:13+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-1e213a0d16b4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic brings free AI fluency courses to Coursera for students, educators, and nonprofits - EdTech Innovation Hub",
+      "detected_at": "2026-06-02T23:15:59+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-1b9f86e7fc7a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic expands AI security program to shield critical global infrastructure - Anadolu Ajansı",
+      "detected_at": "2026-06-02T19:36:15+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-f52370245c3c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic's Claude goes offline in major outage due to 'capacity constraints' - The National",
+      "detected_at": "2026-06-02T12:42:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-b24ce98d9570",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Founded five years ago with a valuation of $965 billion, Anthropic has just filed its prospectus. - 深潮TechFlow",
+      "detected_at": "2026-06-03T05:50:07+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-677a22d4f18e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI: Anthropic Mythos earning mythic Cybersecurity pricing. AI-RTZ #1106 - AI: Reset to Zero",
+      "detected_at": "2026-06-03T05:02:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-89da096e9bbe",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Early Anthropic investor Midha: There's a whole ecosystem of new opportunities at the AI frontier - CNBC",
+      "detected_at": "2026-06-02T14:38:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-06-03-0eb43b24bdd2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic expands Claude Mythos access to India as enterprise and partner ecosystem grows - CRN Asia",
+      "detected_at": "2026-06-03T04:34:29+00:00",
+      "importance_score": 4.0
+    }
+  ],
+  "brief_history": [],
+  "outreach_history": [],
+  "playbook_history": []
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": "2.0",
+  "description": "Named signal correlation patterns. When multiple signal types appear within time_window_days, the pattern matches and produces a priority_boost and narrative.",
+  "patterns": [
+    {
+      "id": "post-funding-expansion",
+      "name": "Post-Funding Expansion",
+      "description": "Company raised capital and is actively expanding headcount — classic tool evaluation window",
+      "required_signal_types": ["funding_event", "hiring_spike"],
+      "time_window_days": 60,
+      "confidence_score": 0.87,
+      "priority_boost": 15,
+      "narrative_template": "{company} recently closed {funding_type} and immediately began expanding headcount. This combination signals a 90-day window during which infrastructure and tooling decisions are actively being made."
+    },
+    {
+      "id": "leadership-driven-evaluation",
+      "name": "Leadership-Driven Tool Evaluation",
+      "description": "New executive hire triggers tooling evaluation in their first 90 days",
+      "required_signal_types": ["leadership_change", "hiring_spike"],
+      "time_window_days": 45,
+      "confidence_score": 0.91,
+      "priority_boost": 20,
+      "narrative_template": "A new {executive_role} has joined {company}. New executives typically evaluate and reshape the technology stack in their first 60-90 days. The concurrent hiring spike confirms a scaling phase is underway."
+    },
+    {
+      "id": "tech-migration-cycle",
+      "name": "Technology Migration Cycle",
+      "description": "Evidence of active technology change combined with engineering hiring",
+      "required_signal_types": ["tech_change", "hiring_spike"],
+      "time_window_days": 30,
+      "confidence_score": 0.78,
+      "priority_boost": 12,
+      "narrative_template": "{company} is actively migrating or adopting new technology while expanding their engineering team, indicating an active vendor evaluation phase."
+    },
+    {
+      "id": "product-launch-infrastructure",
+      "name": "Product Launch Infrastructure Build",
+      "description": "Product launch often precedes infrastructure investment",
+      "required_signal_types": ["product_launch", "hiring_spike"],
+      "time_window_days": 30,
+      "confidence_score": 0.72,
+      "priority_boost": 10,
+      "narrative_template": "{company} launched {product_name} and is simultaneously scaling their engineering team, indicating a platform build-out is underway."
+    },
+    {
+      "id": "post-funding-leadership",
+      "name": "Post-Funding Leadership Restructure",
+      "description": "Funding followed by leadership change — new executive spending new capital",
+      "required_signal_types": ["funding_event", "leadership_change"],
+      "time_window_days": 90,
+      "confidence_score": 0.89,
+      "priority_boost": 22,
+      "narrative_template": "{company} closed {funding_type} and subsequently brought in a new {executive_role}. This combination — new capital plus new leadership — creates a high-conviction window for vendor evaluation before the new executive sets the technology agenda."
+    },
+    {
+      "id": "triple-signal-conviction",
+      "name": "Triple Signal — High Conviction Buy",
+      "description": "Three or more independent buying signals in a 30-day window",
+      "required_signal_count": 3,
+      "time_window_days": 30,
+      "confidence_score": 0.93,
+      "priority_boost": 25,
+      "narrative_template": "{company} has generated {signal_count} independent buying signals in the past {days} days. The convergence of {signal_types} from multiple sources indicates a genuine and active buying cycle."
+    }
+  ]
+}

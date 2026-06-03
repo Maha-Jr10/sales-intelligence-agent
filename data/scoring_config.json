@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "composite_weights": {
+    "v1_score": 0.30,
+    "intent_score": 0.40,
+    "urgency_score": 0.30
+  },
+  "intent_scoring": {
+    "signal_cluster_threshold": 3,
+    "signal_cluster_window_days": 7,
+    "signal_cluster_bonus": 12.0,
+    "high_intent_signal_types": ["leadership_change", "funding_event", "hiring_spike"],
+    "intent_keywords_in_job_descriptions": [
+      "evaluating tools", "scaling infrastructure", "migration", "consolidate",
+      "rebuild", "platform overhaul", "modernize", "vendor evaluation"
+    ],
+    "keyword_match_score": 3.0
+  },
+  "urgency_scoring": {
+    "new_executive_window_days": 90,
+    "new_executive_bonus": 15.0,
+    "post_funding_window_days": 180,
+    "post_funding_bonus": 12.0,
+    "competitive_pressure_bonus": 10.0,
+    "multiple_signals_same_day_bonus": 8.0,
+    "correlation_boost_passthrough": true,
+    "correlation_boost_cap": 30,
+    "max_total_urgency_bonus": 50
+  },
+  "_urgency_cap_note": "urgency_raw = sum(individual bonuses) + min(correlation_boost, correlation_boost_cap). urgency_score = min(urgency_raw, max_total_urgency_bonus). Prevents leadership+funding+same-day+correlation accumulating beyond 50.",
+  "priority_tiers": {
+    "p1_threshold": 80,
+    "p2_threshold": 60,
+    "p3_threshold": 40
+  }
+}

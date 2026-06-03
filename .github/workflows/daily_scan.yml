@@ -1,0 +1,196 @@
+name: Daily Intelligence Scan
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # 6:00 AM UTC daily
+  workflow_dispatch:        # Allow manual trigger for testing
+
+jobs:
+  collect-signals:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Set today's date
+        run: echo "TODAY=$(date -u +%Y-%m-%d)" >> $GITHUB_ENV
+
+      - name: Create required directories
+        run: |
+          mkdir -p .tmp/raw_signals .tmp/raw_html .tmp/research_cache
+          mkdir -p outputs/signals outputs/snapshots outputs/reports
+          mkdir -p outputs/briefs outputs/outreach outputs/crm_exports
+          mkdir -p outputs/competitive outputs/memory outputs/stakeholder_maps
+          mkdir -p outputs/playbooks outputs/reports/history
+
+      # ── Phase 1: Collection ───────────────────────────────────────────────
+
+      - name: Fetch RSS feeds for all companies
+        run: |
+          python tools/fetch_rss_feeds.py \
+            --companies-file data/companies.json \
+            --output-dir .tmp/raw_signals/ \
+            --max-age-days 2
+        continue-on-error: true
+
+      - name: Search news for all companies
+        run: |
+          python tools/search_news.py \
+            --companies-file data/companies.json \
+            --output-dir .tmp/raw_signals/ \
+            --max-age-days 2
+        continue-on-error: true
+
+      - name: Monitor careers pages
+        run: |
+          python tools/monitor_careers_page.py \
+            --companies-file data/companies.json \
+            --output-dir .tmp/raw_signals/ \
+            --snapshots-dir outputs/snapshots/
+        continue-on-error: true
+
+      - name: Fetch GitHub activity
+        run: |
+          python tools/search_github_activity.py \
+            --companies-file data/companies.json \
+            --output-dir .tmp/raw_signals/
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        continue-on-error: true
+
+      - name: Check Product Hunt
+        run: |
+          python tools/check_product_hunt.py \
+            --companies-file data/companies.json \
+            --output-dir .tmp/raw_signals/ \
+            --max-age-days 7
+        continue-on-error: true
+
+      # ── Phase 2: Detection ────────────────────────────────────────────────
+
+      - name: Normalize and classify signals
+        run: |
+          python tools/normalize_signals.py \
+            --input-dir .tmp/raw_signals/ \
+            --output-file outputs/signals/${{ env.TODAY }}.json
+        continue-on-error: true
+
+      - name: Score opportunities
+        run: |
+          python tools/score_opportunity.py \
+            --all-companies \
+            --companies-file data/companies.json \
+            --signals-file outputs/signals/${{ env.TODAY }}.json \
+            --output-file outputs/signals/scores-${{ env.TODAY }}.json
+        continue-on-error: true
+
+      # ── Phase 2b: v2 Correlation + Multi-Factor Scoring ─────────────────────
+
+      - name: Correlate signals (v2)
+        run: |
+          python tools/correlate_signals.py \
+            --all-companies \
+            --signals-file outputs/signals/${{ env.TODAY }}.json \
+            --output-file outputs/signals/correlations-${{ env.TODAY }}.json
+        continue-on-error: true
+
+      - name: Compute multi-factor scores (v2)
+        run: |
+          python tools/score_multi_factor.py \
+            --all-companies \
+            --signals-file outputs/signals/${{ env.TODAY }}.json \
+            --scores-file outputs/signals/scores-${{ env.TODAY }}.json \
+            --correlations-file outputs/signals/correlations-${{ env.TODAY }}.json \
+            --output-file outputs/signals/multi_factor_scores-${{ env.TODAY }}.json
+        continue-on-error: true
+
+      - name: Monitor competitors (v2)
+        run: |
+          python tools/monitor_competitors.py \
+            --mode both \
+            --all-companies \
+            --companies-file data/companies.json \
+            --output-dir outputs/competitive/
+        continue-on-error: true
+
+      - name: Update account memory — append today's signals (v2)
+        run: |
+          python tools/update_account_memory.py \
+            --action append-signal \
+            --all-companies \
+            --companies-file data/companies.json \
+            --signal-file outputs/signals/${{ env.TODAY }}.json
+        continue-on-error: true
+
+      # ── Phase 3: Reporting ────────────────────────────────────────────────
+
+      - name: Generate daily report
+        run: |
+          python tools/generate_report.py \
+            --type daily \
+            --date ${{ env.TODAY }} \
+            --signals-dir outputs/signals/ \
+            --briefs-dir outputs/briefs/ \
+            --reports-dir outputs/reports/ \
+            --companies-file data/companies.json
+
+      # ── Phase 3b: Slack Notification ─────────────────────────────────────
+      - name: Notify Slack
+        run: |
+          python tools/notify_slack.py \
+            --type daily \
+            --date ${{ env.TODAY }} \
+            --signals-dir outputs/signals/
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        continue-on-error: true
+
+      # ── Phase 4: Upload Artifacts ─────────────────────────────────────────
+
+      - name: Upload raw signals as artifact (7-day retention)
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: raw-signals-${{ env.TODAY }}-${{ github.run_id }}
+          path: .tmp/raw_signals/
+          retention-days: 7
+
+      - name: Upload processed outputs as artifact (30-day retention)
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: daily-outputs-${{ env.TODAY }}
+          path: |
+            outputs/signals/${{ env.TODAY }}.json
+            outputs/signals/scores-${{ env.TODAY }}.json
+            outputs/signals/correlations-${{ env.TODAY }}.json
+            outputs/signals/multi_factor_scores-${{ env.TODAY }}.json
+            outputs/reports/daily_${{ env.TODAY }}.md
+          retention-days: 30
+
+      # ── Phase 5: Commit ───────────────────────────────────────────────────
+
+      - name: Commit outputs to repository
+        run: |
+          git config user.name "Sales Intelligence Bot"
+          git config user.email "actions@github.com"
+          git add outputs/signals/ outputs/reports/ outputs/snapshots/ \
+                  outputs/competitive/ outputs/memory/ || true
+          git diff --staged --quiet || git commit -m "chore: daily scan ${{ env.TODAY }} — signals and snapshots"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

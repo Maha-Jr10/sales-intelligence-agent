@@ -1,0 +1,71 @@
+{
+  "version": "1.0",
+  "description": "Technology fingerprints for fetch_tech_signals.py. Each entry maps a technology to detection patterns found in HTTP headers, script URLs, HTML meta tags, or inline content.",
+  "technologies": [
+    {"name": "React", "category": "JavaScript Framework", "patterns": {"scripts": ["react.min.js", "react.production.min.js", "/react@", "reactjs.org"], "meta": [], "headers": [], "cookies": []}},
+    {"name": "Next.js", "category": "JavaScript Framework", "patterns": {"scripts": ["/_next/static/", "_next/"], "meta": [{"name": "generator", "content": "Next.js"}], "headers": ["x-nextjs-page"], "cookies": []}},
+    {"name": "Vue.js", "category": "JavaScript Framework", "patterns": {"scripts": ["vue.min.js", "vue.runtime.min.js", "/vue@"], "meta": [], "headers": [], "cookies": []}},
+    {"name": "Angular", "category": "JavaScript Framework", "patterns": {"scripts": ["angular.min.js", "angular.js", "/angular@"], "meta": [], "headers": [], "cookies": []}},
+    {"name": "Svelte", "category": "JavaScript Framework", "patterns": {"scripts": ["svelte/"], "meta": [{"name": "generator", "content": "SvelteKit"}], "headers": [], "cookies": []}},
+
+    {"name": "Segment", "category": "Analytics / CDP", "patterns": {"scripts": ["cdn.segment.com", "api.segment.io", "segment.com/analytics"], "meta": [], "headers": [], "cookies": ["ajs_user_id", "ajs_anonymous_id"]}},
+    {"name": "Mixpanel", "category": "Analytics", "patterns": {"scripts": ["cdn.mxpnl.com", "mixpanel.com/libs"], "meta": [], "headers": [], "cookies": ["mp_"]}},
+    {"name": "Amplitude", "category": "Analytics", "patterns": {"scripts": ["cdn.amplitude.com", "amplitude.com/libs"], "meta": [], "headers": [], "cookies": ["amplitude_"]}},
+    {"name": "Heap", "category": "Analytics", "patterns": {"scripts": ["cdn.heapanalytics.com", "heapanalytics.com"], "meta": [], "headers": [], "cookies": ["_hp2_"]}},
+    {"name": "FullStory", "category": "Session Recording", "patterns": {"scripts": ["edge.fullstory.com", "fullstory.com/s/fs.js"], "meta": [], "headers": [], "cookies": ["fs_"]}},
+    {"name": "Hotjar", "category": "Session Recording", "patterns": {"scripts": ["static.hotjar.com", "vars.hotjar.com"], "meta": [], "headers": [], "cookies": ["_hjid", "_hjAbsoluteSessionInProgress"]}},
+
+    {"name": "Intercom", "category": "Customer Support / Chat", "patterns": {"scripts": ["widget.intercom.io", "js.intercomcdn.com", "intercomcdn.com"], "meta": [], "headers": [], "cookies": ["intercom-id-"]}},
+    {"name": "Zendesk", "category": "Customer Support", "patterns": {"scripts": ["static.zdassets.com", "ekr.zdassets.com"], "meta": [], "headers": [], "cookies": ["ZD-store", "_zendesk_"]}},
+    {"name": "Drift", "category": "Conversational Marketing", "patterns": {"scripts": ["js.driftt.com", "drift.com"], "meta": [], "headers": [], "cookies": ["driftt_aid"]}},
+    {"name": "HubSpot", "category": "CRM / Marketing", "patterns": {"scripts": ["js.hs-scripts.com", "js.hsforms.net", "hs-analytics.net", "hubspot.com"], "meta": [], "headers": [], "cookies": ["hubspotutk", "__hstc", "__hssc"]}},
+    {"name": "Salesforce", "category": "CRM", "patterns": {"scripts": ["salesforce.com", "force.com", "pardot.com"], "meta": [], "headers": [], "cookies": []}},
+
+    {"name": "Datadog", "category": "Monitoring / Observability", "patterns": {"scripts": ["datadoghq.com", "browser-intake-datadoghq.com"], "meta": [], "headers": [], "cookies": []}},
+    {"name": "New Relic", "category": "Monitoring / Observability", "patterns": {"scripts": ["js-agent.newrelic.com", "nr-data.net"], "meta": [], "headers": [], "cookies": []}},
+    {"name": "Sentry", "category": "Error Tracking", "patterns": {"scripts": ["browser.sentry-cdn.com", "ingest.sentry.io", "sentry.io"], "meta": [], "headers": [], "cookies": []}},
+    {"name": "LogRocket", "category": "Session Replay / Error Tracking", "patterns": {"scripts": ["cdn.lr-ingest.io", "logrocket.com"], "meta": [], "headers": [], "cookies": []}},
+
+    {"name": "Stripe", "category": "Payments", "patterns": {"scripts": ["js.stripe.com", "stripe.network"], "meta": [], "headers": [], "cookies": ["__stripe_mid", "__stripe_sid"]}},
+    {"name": "Braintree", "category": "Payments", "patterns": {"scripts": ["js.braintreegateway.com", "assets.braintreegateway.com"], "meta": [], "headers": [], "cookies": []}},
+    {"name": "Chargebee", "category": "Subscription Billing", "patterns": {"scripts": ["js.chargebee.com"], "meta": [], "headers": [], "cookies": []}},
+
+    {"name": "Cloudflare", "category": "CDN / Security", "patterns": {"scripts": [], "meta": [], "headers": ["cf-ray", "cf-cache-status"], "cookies": ["__cflb", "__cf_bm", "cf_clearance"]}},
+    {"name": "AWS CloudFront", "category": "CDN", "patterns": {"scripts": [], "meta": [], "headers": ["x-amz-cf-id", "x-amz-cf-pop"], "cookies": ["CloudFront-"]}},
+    {"name": "Fastly", "category": "CDN", "patterns": {"scripts": [], "meta": [], "headers": ["x-fastly-request-id", "fastly-debug-digest"], "cookies": []}},
+
+    {"name": "WordPress", "category": "CMS", "patterns": {"scripts": ["/wp-content/", "/wp-includes/"], "meta": [{"name": "generator", "content": "WordPress"}], "headers": [], "cookies": ["wordpress_", "wp-settings-"]}},
+    {"name": "Webflow", "category": "CMS / Website Builder", "patterns": {"scripts": ["assets.website-files.com", "uploads-ssl.webflow.com", "webflow.com"], "meta": [{"name": "generator", "content": "Webflow"}], "headers": [], "cookies": []}},
+    {"name": "Ghost", "category": "CMS", "patterns": {"scripts": [], "meta": [{"name": "generator", "content": "Ghost"}], "headers": [], "cookies": []}},
+    {"name": "Contentful", "category": "Headless CMS", "patterns": {"scripts": ["contentful.com"], "meta": [], "headers": [], "cookies": []}},
+
+    {"name": "Auth0", "category": "Authentication", "patterns": {"scripts": ["cdn.auth0.com", "auth0.js"], "meta": [], "headers": [], "cookies": ["auth0"]}},
+    {"name": "Okta", "category": "Identity / SSO", "patterns": {"scripts": ["okta.com", "oktacdn.com"], "meta": [], "headers": [], "cookies": ["oktaStateToken"]}},
+    {"name": "Clerk", "category": "Authentication", "patterns": {"scripts": ["clerk.accounts.dev", "clerk.browser.js", "frontend-api.clerk.dev"], "meta": [], "headers": [], "cookies": ["__client"]}},
+
+    {"name": "Snowflake", "category": "Data Warehouse", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["Snowflake", "Snowpipe"]}},
+    {"name": "dbt", "category": "Data Transformation", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["dbt", "dbt Cloud", "data build tool"]}},
+    {"name": "Fivetran", "category": "Data Integration / ETL", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["Fivetran"]}},
+    {"name": "Airbyte", "category": "Data Integration / ETL", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["Airbyte"]}},
+    {"name": "Databricks", "category": "Data / ML Platform", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["Databricks", "Apache Spark", "Delta Lake"]}},
+    {"name": "Kubernetes", "category": "Container Orchestration", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["Kubernetes", "k8s", "kubectl", "Helm"]}},
+    {"name": "Terraform", "category": "Infrastructure as Code", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["Terraform", "Terragrunt", "IaC"]}},
+
+    {"name": "Algolia", "category": "Search", "patterns": {"scripts": ["cdn.jsdelivr.net/algoliasearch", "algolianet.com", "algolia.net"], "meta": [], "headers": [], "cookies": []}},
+    {"name": "LaunchDarkly", "category": "Feature Flags", "patterns": {"scripts": ["launchdarkly.com", "app.launchdarkly.com"], "meta": [], "headers": [], "cookies": []}},
+    {"name": "Split.io", "category": "Feature Flags", "patterns": {"scripts": ["sdk.split.io", "split.io"], "meta": [], "headers": [], "cookies": []}},
+
+    {"name": "Vercel", "category": "Hosting / Deployment", "patterns": {"scripts": [], "meta": [], "headers": ["x-vercel-id", "x-vercel-cache"], "cookies": []}},
+    {"name": "Netlify", "category": "Hosting / Deployment", "patterns": {"scripts": [], "meta": [], "headers": ["x-nf-request-id"], "cookies": ["nf_ab"]}},
+    {"name": "Heroku", "category": "Hosting / PaaS", "patterns": {"scripts": [], "meta": [], "headers": ["x-request-id", "heroku-"], "cookies": []}},
+
+    {"name": "Twilio", "category": "Communications API", "patterns": {"scripts": ["twilio.com", "media.twiliocdn.com"], "meta": [], "headers": [], "cookies": []}},
+    {"name": "SendGrid", "category": "Email Delivery", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["SendGrid", "Twilio SendGrid"]}},
+    {"name": "Mailchimp", "category": "Email Marketing", "patterns": {"scripts": ["chimpstatic.com", "mailchimp.com"], "meta": [], "headers": [], "cookies": []}},
+
+    {"name": "Figma", "category": "Design Tool", "patterns": {"scripts": ["figma.com"], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["Figma"]}},
+    {"name": "Linear", "category": "Project Management", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["Linear app", "linear.app"]}},
+    {"name": "Notion", "category": "Collaboration / Docs", "patterns": {"scripts": ["notion.so", "notion-static.com"], "meta": [], "headers": [], "cookies": []}},
+    {"name": "Slack", "category": "Team Communication", "patterns": {"scripts": [], "meta": [], "headers": [], "cookies": [], "job_description_keywords": ["Slack"]}}
+  ]
+}

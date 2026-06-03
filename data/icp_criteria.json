@@ -1,0 +1,68 @@
+{
+  "version": "1.0",
+  "description": "Ideal Customer Profile. Edit these values to match your actual ICP. Weights must sum to 1.0.",
+  "firmographics": {
+    "employee_count": {
+      "ideal_range": [50, 500],
+      "acceptable_range": [20, 2000],
+      "score_weight": 0.10,
+      "note": "Sweet spot for most B2B SaaS outbound — enough budget, not too much bureaucracy."
+    },
+    "funding_stages": {
+      "ideal": ["Series A", "Series B", "Series C"],
+      "acceptable": ["Seed", "Series D", "Bootstrapped"],
+      "excluded": ["Pre-seed"],
+      "score_weight": 0.10
+    },
+    "industries": {
+      "ideal": ["B2B SaaS", "Cloud Infrastructure", "DevTools", "Fintech", "HealthTech", "Fintech / Payments Infrastructure", "AI / LLM Research & Products", "Data / AI Platform", "Cloud Data Platform", "B2B SaaS / FinTech"],
+      "acceptable": ["E-commerce", "Media", "Marketplace", "Consulting"],
+      "excluded": ["Non-profit", "Government", "Education"],
+      "score_weight": 0.20
+    },
+    "geographies": {
+      "ideal": ["US", "Canada", "UK"],
+      "acceptable": ["EU", "Australia", "Singapore"],
+      "excluded": [],
+      "score_weight": 0.05
+    }
+  },
+  "technographics": {
+    "positive_tech_signals": {
+      "description": "Tech signals that indicate a good ICP fit",
+      "technologies": [
+        "Snowflake", "dbt", "Fivetran", "Airbyte",
+        "Kubernetes", "Terraform", "Helm",
+        "AWS", "GCP", "Azure",
+        "Datadog", "Grafana", "Prometheus",
+        "Segment", "Amplitude",
+        "React", "Next.js", "TypeScript",
+        "Python", "Go", "Rust"
+      ],
+      "score_weight": 0.20
+    },
+    "negative_tech_signals": {
+      "description": "Tech signals that suggest poor fit",
+      "technologies": [
+        "Oracle Forms", "Legacy SAP", "COBOL", "AS/400"
+      ]
+    }
+  },
+  "behavioral_signals": {
+    "buying_intent_keywords": [
+      "hiring data engineer", "hiring platform engineer", "hiring infrastructure engineer",
+      "scaling infrastructure", "evaluating tools", "migration", "rebuild",
+      "consolidate", "modernize", "technical debt", "platform overhaul",
+      "new CTO", "new VP Engineering", "new Head of Engineering",
+      "Series A", "Series B", "Series C", "raised funding"
+    ],
+    "score_weight": 0.35
+  },
+  "scoring": {
+    "note": "Weights above must sum to 1.0. This section defines thresholds for tier classification.",
+    "tier_a_threshold": 75,
+    "tier_b_threshold": 50,
+    "tier_c_threshold": 25,
+    "max_score": 100
+  }
+}

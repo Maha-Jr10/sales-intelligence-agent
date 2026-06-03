@@ -1,0 +1,113 @@
+{
+  "schema_version": "2.0",
+  "selection_rule": "highest_priority_matching_template_wins",
+  "description": "Deal playbook templates. When multiple signal types are present, the template with the highest priority wins. Edit these to match your actual messaging, case studies, and objection responses.",
+  "playbooks": [
+    {
+      "id": "leadership-driven-evaluation",
+      "trigger_signal": "leadership_change",
+      "priority": 100,
+      "title": "New Executive Hire Playbook",
+      "recommended_angle": "New executives evaluate and reset the technology stack in their first 60-90 days. Position before they set the agenda.",
+      "message_tone": "peer-level, strategic, no pitch",
+      "primary_cta": "15-min call before they're fully ramped",
+      "value_hook": "Most new VPs inherit whatever's already in place. The ones who get ahead of it have better leverage over the stack decisions.",
+      "objections": [
+        {
+          "objection": "We just hired a new VP — too early to evaluate tools",
+          "response": "Exactly why now is the right time — before they're locked into existing vendors and have set their own agenda."
+        },
+        {
+          "objection": "We're in a transition period",
+          "response": "Transitions are when the best decisions get made. Happy to show how [Company X] navigated the same transition at your stage."
+        },
+        {
+          "objection": "The new exec will have their own preferences",
+          "response": "Agreed — which is why a 15-min call now, before they're fully onboarded, is worth more than six months later."
+        }
+      ],
+      "content_to_reference": ["case_study", "roi_calculator"],
+      "sequence_timing": {"follow_up_days": [3, 7, 14]},
+      "urgency_note": "Action window closes when the new executive reaches day 90. Track their LinkedIn announcement for 'started new role' timing."
+    },
+    {
+      "id": "competitive-displacement",
+      "trigger_signal": "competitive_pressure",
+      "priority": 95,
+      "title": "Competitive Displacement Playbook",
+      "recommended_angle": "Target is evaluating or frustrated with a competitor. Lead with differentiation and switch incentive.",
+      "message_tone": "confident, specific, proof-heavy — never badmouth the competitor",
+      "primary_cta": "30-min technical comparison call",
+      "value_hook": "Companies at your stage typically hit [specific limitation] with [competitor]. Worth 30 minutes to compare?",
+      "objections": [
+        {
+          "objection": "We're happy with our current vendor",
+          "response": "Understood. If you ever want a technical benchmark, I can share how companies at your scale have compared the two."
+        },
+        {
+          "objection": "Switching is too painful",
+          "response": "Fair concern. Our migration playbook covers this — [Company X] completed the switch in 3 weeks with no downtime."
+        }
+      ],
+      "content_to_reference": ["competitive_comparison", "migration_guide", "case_study"],
+      "sequence_timing": {"follow_up_days": [2, 5, 14]},
+      "urgency_note": "Move fast — competitive evaluations close quickly. Day 2 follow-up is intentional."
+    },
+    {
+      "id": "post-funding-expansion",
+      "trigger_signal": "funding_event",
+      "priority": 85,
+      "title": "Post-Funding Scale Playbook",
+      "recommended_angle": "Companies scaling post-funding face new infrastructure challenges. Your window is 90-120 days post-close.",
+      "message_tone": "growth-focused, practical, no buzzwords",
+      "primary_cta": "15-min call this week",
+      "value_hook": "Post-raise is when the infrastructure decisions that shape the next 2 years get made.",
+      "objections": [
+        {
+          "objection": "We just raised — not focused on tools yet",
+          "response": "Post-raise is exactly when infrastructure decisions set the trajectory. Most companies wish they had this conversation before they were 3x the size."
+        },
+        {
+          "objection": "We have budget but no bandwidth",
+          "response": "Understood. This would be a 15-min conversation, not an evaluation. Happy to share what we've seen work at similar growth stages."
+        }
+      ],
+      "content_to_reference": ["scaling_guide", "case_study"],
+      "sequence_timing": {"follow_up_days": [3, 7, 21]},
+      "urgency_note": "Post-funding window closes at ~120 days as the company settles into execution mode."
+    },
+    {
+      "id": "product-launch-follow",
+      "trigger_signal": "product_launch",
+      "priority": 70,
+      "title": "Product Launch Momentum Playbook",
+      "recommended_angle": "New product or major release signals a platform build-out is underway. Infrastructure investment follows launches.",
+      "message_tone": "forward-looking, specific to the launch",
+      "primary_cta": "15-min call — happy to share what works at this launch stage",
+      "value_hook": "Congrats on [product launch]. Companies at this stage often find [specific challenge] starts to surface at scale.",
+      "objections": [
+        {
+          "objection": "We're focused on the launch right now",
+          "response": "Totally understood — this is a 15-min call, not an evaluation. Happy to reconnect after the launch settles."
+        }
+      ],
+      "content_to_reference": ["case_study"],
+      "sequence_timing": {"follow_up_days": [5, 14, 30]},
+      "urgency_note": "Launch momentum fades in 30-45 days. Act while the company is in growth mode."
+    },
+    {
+      "id": "generic-signal",
+      "trigger_signal": "news_mention",
+      "priority": 10,
+      "title": "Generic Monitoring Playbook",
+      "recommended_angle": "Monitor and build context. No strong buying signal yet — track for 2-3 more weeks before outreach.",
+      "message_tone": "light touch, information gathering",
+      "primary_cta": "No CTA yet — build context first",
+      "value_hook": "",
+      "objections": [],
+      "content_to_reference": [],
+      "sequence_timing": {"follow_up_days": [14, 30]},
+      "urgency_note": "Low urgency. Continue monitoring."
+    }
+  ]
+}

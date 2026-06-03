@@ -1,0 +1,56 @@
+{
+  "sequence_id": "brex-outreach-2026-06-03",
+  "company_id": "brex",
+  "generated_at": "2026-06-03T12:00:00Z",
+  "based_on_brief": "outputs/briefs/brex/2026-06-03.md",
+  "primary_angle": "CrabTrap (611 stars) + 'How we built an AI on-call engineer' blog — Brex is deploying AI agents in production and publishing the architecture. Peer practitioner conversation.",
+  "target_contact": {
+    "name": "[CrabTrap GitHub committer — check github.com/brexhq/CrabTrap contributors]",
+    "title": "Staff Engineer / Engineering Lead — AI Infrastructure",
+    "company": "Brex",
+    "note": "Find CrabTrap's primary author on GitHub. That engineer is your highest-value contact — they built the LLM-as-a-judge proxy and will understand Axiora's work immediately."
+  },
+  "sequence": [
+    {
+      "step": 1,
+      "channel": "email",
+      "send_timing": "Day 0",
+      "subject": "CrabTrap + the AI on-call engineer post",
+      "body": "CrabTrap (LLM-as-a-judge for production agents) and 'How we built an AI on-call engineer' in the same month — Brex is shipping this faster than most teams are talking about it.\n\nWe build production AI systems for fintech clients — the same stack: LLM orchestration, agentic workflows, ML models in production. We've shipped fraud detection at 0.80 recall and AI automation that replaced manual finance workflows.\n\nWould find it useful to compare what breaks in production at your scale vs ours. 15 minutes?",
+      "cta": "15 minutes to compare production AI notes?",
+      "word_count": 90
+    },
+    {
+      "step": 2,
+      "channel": "linkedin",
+      "send_timing": "Day 3 (if no reply to step 1)",
+      "message": "Sent a note about CrabTrap and the AI on-call engineer post. We build similar systems for clients — LLM orchestration, agentic automation. Would find it useful to compare what breaks in production. Open to connecting.",
+      "word_count": 36
+    },
+    {
+      "step": 3,
+      "channel": "email",
+      "send_timing": "Day 7 (if no reply)",
+      "subject": "RE: CrabTrap + the AI on-call engineer post",
+      "body": "One thing that might be relevant: `substation` (401 stars) and `CrabTrap` together suggest Brex is building a composable AI infrastructure stack — event-driven pipelines feeding LLM judges. We've done this architecture for fintech clients and hit the same failure modes.\n\nThe 'AI automation and the future of accounting' post is what we'd be building for your clients if we were on a project together. That's the conversation worth having.\n\nMuhammed",
+      "cta": "Happy to connect when the timing's right",
+      "word_count": 79
+    },
+    {
+      "step": 4,
+      "channel": "email",
+      "send_timing": "Day 21 (breakup)",
+      "subject": "Closing the loop — Brex AI build",
+      "body": "Stopping here — publishing production AI architecture and running the engineering team is a full-time thing.\n\nIf external AI build capacity becomes relevant later, I'm at muhammedjohn3@gmail.com.\n\nMuhammed\nAxiora",
+      "cta": "none — leave door open",
+      "word_count": 38
+    }
+  ],
+  "metadata": {
+    "tone": "direct, peer practitioner, no pitch",
+    "angle_confidence": 0.9,
+    "signal_referenced": "github_signal:CrabTrap_611_stars + content_signal:ai_oncall_engineer_blog",
+    "personalization_depth": "high — requires CrabTrap contributor name",
+    "urgency_note": "HIGH — AI blog publish cadence means their team is actively thinking about this right now. Find GitHub author and send this week."
+  }
+}

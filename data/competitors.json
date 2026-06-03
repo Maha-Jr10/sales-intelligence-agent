@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "description": "Your direct competitors. Add entries for each competitor you want to monitor and detect mentions of in target company content.",
+  "your_competitors": [
+    {
+      "id": "competitor-a",
+      "name": "Competitor A",
+      "domain": "competitora.com",
+      "aliases": ["Competitor A", "CompA", "competitor-a"],
+      "monitoring_config": {
+        "check_news": true,
+        "check_product_hunt": true,
+        "check_careers": false
+      },
+      "displacement_signals": [
+        "replacing competitor a",
+        "moved from competitor a",
+        "competitor a alternative",
+        "away from competitor a"
+      ]
+    },
+    {
+      "id": "competitor-b",
+      "name": "Competitor B",
+      "domain": "competitorb.io",
+      "aliases": ["Competitor B", "CompB"],
+      "monitoring_config": {
+        "check_news": true,
+        "check_product_hunt": false,
+        "check_careers": false
+      },
+      "displacement_signals": [
+        "replacing competitor b",
+        "switched from competitor b"
+      ]
+    }
+  ],
+  "competitive_keywords": {
+    "evaluation_signals": [
+      "evaluating", "comparing", " vs ", " versus ", "alternative to",
+      "looking for alternatives", "competitive analysis", "benchmark"
+    ],
+    "displacement_signals": [
+      "replacing", "switched from", "moved away from", "abandoned",
+      "churned from", "migrated away", "no longer using"
+    ],
+    "adoption_signals": [
+      "implemented", "deployed", "using", "adopted", "integrated", "selected"
+    ]
+  }
+}

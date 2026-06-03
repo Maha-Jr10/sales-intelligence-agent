@@ -1,0 +1,55 @@
+{
+  "sequence_id": "databricks-outreach-2026-06-03",
+  "company_id": "databricks",
+  "generated_at": "2026-06-03T12:00:00Z",
+  "based_on_brief": "outputs/briefs/databricks/2026-06-03.md",
+  "primary_angle": "Data + AI Summit June 15-18 — partner ecosystem application before the conference, meeting at the conference",
+  "target_contact": {
+    "name": "[Contact Name — research required: LinkedIn 'Databricks VP Partnerships' or 'Databricks Head of Partner Engineering']",
+    "title": "VP Partnerships / Head of Partner Engineering",
+    "company": "Databricks"
+  },
+  "sequence": [
+    {
+      "step": 1,
+      "channel": "email",
+      "send_timing": "Day 0 — send today, 12 days before Summit",
+      "subject": "Databricks partner program — Summit timing question",
+      "body": "Data + AI Summit is June 15 — reaching out now to ask about the partner ecosystem before the conference.\n\nWe've shipped 21+ production systems on Databricks: Delta Live Tables, dbt on Unity Catalog, MLflow on AWS, real-time Kafka + Spark pipelines. All code public on GitHub.\n\nLooking to formalize this as a Consulting Partner. Is there a team at Summit for this conversation, or an application I should submit first?\n\nMuhammed John, Axiora — muhammedjohn3@gmail.com",
+      "cta": "Is there a partner team contact at Summit or a formal application path?",
+      "word_count": 88
+    },
+    {
+      "step": 2,
+      "channel": "linkedin",
+      "send_timing": "Day 3 (if no reply to step 1)",
+      "message": "Sent a note about the Databricks partner program ahead of Summit. We build on Databricks — Delta Live Tables, dbt, MLflow — looking to formalize as a Consulting Partner. Right contact for that conversation?",
+      "word_count": 35
+    },
+    {
+      "step": 3,
+      "channel": "email",
+      "send_timing": "Day 7 (if no reply) — 5 days before Summit",
+      "subject": "RE: Databricks partner program — Summit timing question",
+      "body": "Following up with Summit 5 days out. We shipped a Medallion architecture (Bronze → Silver → Gold) with Delta Live Tables, SCD Type 1 & 2 dimensional modeling, and automated Workflow orchestration for a fintech client. It's the kind of implementation Databricks partners showcase as reference architecture.\n\nAgent Bricks is the product we're most excited to build on. If there's a partner track for early Agent Bricks implementors, that's the conversation I want to have at Summit.\n\nWho should I connect with?",
+      "cta": "Who should I connect with at Summit?",
+      "word_count": 88
+    },
+    {
+      "step": 4,
+      "channel": "email",
+      "send_timing": "Day 21 (breakup) — post-Summit",
+      "subject": "Closing the loop — Databricks partnership",
+      "body": "Stopping here — post-Summit is always a full inbox.\n\nWe'll keep building on Databricks either way. If the partner program conversation makes sense later this quarter, I'm at muhammedjohn3@gmail.com.\n\nMuhammed John\nAxiora",
+      "cta": "none — leave door open",
+      "word_count": 42
+    }
+  ],
+  "metadata": {
+    "tone": "direct, practitioner-to-partner-team",
+    "angle_confidence": 0.9,
+    "signal_referenced": "conference:data_ai_summit_june_15_18",
+    "personalization_depth": "medium",
+    "urgency_note": "CRITICAL — Summit is June 15. Send step 1 today. Apply to partner.databricks.com immediately."
+  }
+}

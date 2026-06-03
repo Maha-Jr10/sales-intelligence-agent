@@ -1,0 +1,56 @@
+{
+  "sequence_id": "plaid-outreach-2026-06-03",
+  "company_id": "plaid",
+  "generated_at": "2026-06-03T12:00:00Z",
+  "based_on_brief": "outputs/briefs/plaid/2026-06-03.md",
+  "primary_angle": "OpenAI ChatGPT partnership + DFAI team scaling — Plaid is building AI products on financial data, actively hiring ML Engineers",
+  "target_contact": {
+    "name": "[Author of 'Transforming engineers: How we grew AI coding adoption at Plaid' — find byline]",
+    "title": "Engineering Lead / Head of DFAI",
+    "company": "Plaid",
+    "note": "Find blog byline first. That person is your warmest contact — they're actively thinking about and publishing on AI engineering."
+  },
+  "sequence": [
+    {
+      "step": 1,
+      "channel": "email",
+      "send_timing": "Day 0",
+      "subject": "Your AI coding adoption post + the OpenAI partnership timing",
+      "body": "Read 'Transforming engineers: How we grew AI coding adoption at Plaid' — one of the more honest breakdowns I've seen of what org-wide AI adoption actually requires.\n\nWe've shipped production ML systems for fintech clients — fraud detection at 0.80 recall, ML pipelines on financial data. The OpenAI ChatGPT partnership means your DFAI team is building at the speed of that integration now.\n\nHappy to share what's worked and what's broken on the engineering side if that's useful signal.\n\n15-min call this week?",
+      "cta": "15-min call this week?",
+      "word_count": 91
+    },
+    {
+      "step": 2,
+      "channel": "linkedin",
+      "send_timing": "Day 3 (if no reply to step 1)",
+      "message": "Sent a note about the AI coding adoption piece. We build production AI systems for fintech — ML models, RAG pipelines, LLM-in-production. Your DFAI team is doing exactly this work. Worth connecting.",
+      "word_count": 36
+    },
+    {
+      "step": 3,
+      "channel": "email",
+      "send_timing": "Day 7 (if no reply)",
+      "subject": "RE: Your AI coding adoption post + the OpenAI partnership timing",
+      "body": "Following up with something concrete: Plaid's `ai-coding-toolkit` GitHub repo (MCP server + sandbox data) is exactly the kind of developer tooling we build around. We shipped a BiLSTM model classifying financial behavior patterns for a client last quarter — 94.5% F1.\n\nThe DFAI hiring push (4 open Senior/Staff ML roles) suggests the team is scaling fast. If there's a phase where an external build team would accelerate delivery, that's the 15 minutes worth having.\n\nMuhammed",
+      "cta": "Happy to connect if the timing's right",
+      "word_count": 86
+    },
+    {
+      "step": 4,
+      "channel": "email",
+      "send_timing": "Day 21 (breakup)",
+      "subject": "Closing the loop — Plaid AI build",
+      "body": "Stopping here — the DFAI hiring ramp leaves no slack right now.\n\nIf external AI build capacity becomes relevant later, I'm at muhammedjohn3@gmail.com.\n\nMuhammed John\nAxiora",
+      "cta": "none — leave door open",
+      "word_count": 35
+    }
+  ],
+  "metadata": {
+    "tone": "direct, peer-level, technical practitioner",
+    "angle_confidence": 0.85,
+    "signal_referenced": "content_signal:ai_coding_adoption_blog + partnership:openai_chatgpt",
+    "personalization_depth": "high — requires blog byline name",
+    "urgency_note": "HIGH — find blog author name before sending. DFAI hiring is live now."
+  }
+}

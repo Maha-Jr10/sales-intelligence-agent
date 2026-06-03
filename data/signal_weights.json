@@ -1,0 +1,90 @@
+{
+  "version": "1.0",
+  "description": "Scoring weights per signal type and subtype. Scale: 1.0 (weak) to 10.0 (very strong buying signal).",
+  "weights": {
+    "hiring_spike": {
+      "engineering_leadership": 9.0,
+      "sales_leadership": 7.5,
+      "bulk_engineering": 8.0,
+      "product": 6.5,
+      "data_ai": 8.5,
+      "generic": 5.0
+    },
+    "funding_event": {
+      "series_a": 8.5,
+      "series_b": 9.0,
+      "series_c_plus": 7.0,
+      "seed": 6.0,
+      "ipo": 5.0,
+      "generic": 7.0
+    },
+    "leadership_change": {
+      "new_cto": 9.5,
+      "new_cpo": 8.0,
+      "new_vp_eng": 9.0,
+      "new_ceo": 7.0,
+      "new_vp_sales": 7.5,
+      "generic": 6.0
+    },
+    "product_launch": {
+      "new_product": 7.5,
+      "major_release": 6.0,
+      "beta_announcement": 5.5,
+      "generic": 5.0
+    },
+    "tech_change": {
+      "new_tool_adopted": 7.0,
+      "migration_signal": 8.0,
+      "tool_removed": 5.0,
+      "generic": 6.0
+    },
+    "github_signal": {
+      "new_public_repo": 5.0,
+      "sudden_star_spike": 6.0,
+      "new_org_member": 4.0,
+      "generic": 3.5
+    },
+    "content_signal": {
+      "blog_post_published": 3.0,
+      "case_study": 4.0,
+      "whitepaper": 3.5,
+      "generic": 2.5
+    },
+    "news_mention": {
+      "press_release": 6.0,
+      "media_coverage": 5.0,
+      "award": 4.0,
+      "generic": 4.0
+    },
+    "product_hunt_launch": {
+      "featured": 7.5,
+      "mentioned": 4.0,
+      "generic": 5.0
+    }
+  },
+  "recency_decay": {
+    "last_7_days": 1.0,
+    "last_30_days": 0.8,
+    "last_90_days": 0.5,
+    "older": 0.2
+  },
+  "signal_type_keywords": {
+    "hiring_spike": ["hiring", "job", "position", "opening", "role", "vacancy", "recruit"],
+    "funding_event": ["funding", "raised", "investment", "series", "seed", "venture", "capital", "IPO"],
+    "leadership_change": ["CTO", "CPO", "CEO", "VP Engineering", "VP Sales", "Head of", "Chief", "appointed", "joins as"],
+    "product_launch": ["launch", "release", "announce", "new feature", "beta", "general availability", "GA"],
+    "tech_change": ["migrate", "adopting", "switching to", "replaced", "integrated", "implemented"],
+    "github_signal": ["open source", "repo", "repository", "SDK", "API", "open-sourced"],
+    "content_signal": ["blog", "case study", "whitepaper", "report", "guide", "tutorial"],
+    "news_mention": ["press release", "coverage", "award", "recognized", "named", "featured"],
+    "product_hunt_launch": ["Product Hunt", "producthunt.com"]
+  },
+  "seniority_keywords": {
+    "executive": ["CEO", "CTO", "CPO", "CFO", "COO", "CISO", "Chief"],
+    "vp": ["VP", "Vice President", "Head of"],
+    "director": ["Director", "Sr. Director", "Senior Director"],
+    "manager": ["Manager", "Lead", "Principal"],
+    "senior_ic": ["Senior", "Staff", "Principal", "Architect"],
+    "ic": ["Engineer", "Developer", "Designer", "Analyst"]
+  }
+}

@@ -1,0 +1,94 @@
+name: Weekly Intelligence Report
+
+on:
+  schedule:
+    - cron: '0 7 * * 1'   # 7:00 AM UTC every Monday
+  workflow_dispatch:
+
+jobs:
+  generate-weekly-report:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 30   # Need history for trend analysis
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Compute week identifier
+        run: |
+          echo "WEEK=$(date -u +%Y-W%V)" >> $GITHUB_ENV
+          echo "TODAY=$(date -u +%Y-%m-%d)" >> $GITHUB_ENV
+
+      - name: Create required directories
+        run: |
+          mkdir -p outputs/signals outputs/briefs outputs/reports outputs/crm_exports
+          mkdir -p outputs/memory outputs/reports/history
+
+      - name: Generate weekly intelligence report
+        run: |
+          python tools/generate_report.py \
+            --type weekly \
+            --week ${{ env.WEEK }} \
+            --signals-dir outputs/signals/ \
+            --briefs-dir outputs/briefs/ \
+            --reports-dir outputs/reports/ \
+            --companies-file data/companies.json
+
+      - name: Generate weekly CRM export
+        run: |
+          python tools/export_crm.py \
+            --all-companies \
+            --crm hubspot \
+            --date ${{ env.TODAY }} \
+            --exports-dir outputs/crm_exports/
+        continue-on-error: true
+
+      - name: Generate executive intelligence report (v2)
+        run: |
+          python tools/generate_executive_report.py \
+            --week ${{ env.WEEK }} \
+            --output-dir outputs/reports/
+        continue-on-error: true
+
+      - name: Notify Slack
+        run: |
+          python tools/notify_slack.py \
+            --type weekly \
+            --week ${{ env.WEEK }} \
+            --signals-dir outputs/signals/
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        continue-on-error: true
+
+      - name: Upload weekly artifacts (90-day retention)
+        uses: actions/upload-artifact@v4
+        with:
+          name: weekly-report-${{ env.WEEK }}
+          path: |
+            outputs/reports/weekly_${{ env.WEEK }}.md
+            outputs/reports/executive_${{ env.WEEK }}.md
+            outputs/reports/history/${{ env.WEEK }}.json
+            outputs/crm_exports/${{ env.TODAY }}_hubspot.json
+          retention-days: 90
+
+      - name: Commit weekly report to repository
+        run: |
+          git config user.name "Sales Intelligence Bot"
+          git config user.email "actions@github.com"
+          git add outputs/reports/ outputs/crm_exports/ outputs/reports/history/ || true
+          git diff --staged --quiet || git commit -m "chore: weekly report ${{ env.WEEK }}"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

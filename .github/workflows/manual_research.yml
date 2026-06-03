@@ -1,0 +1,226 @@
+name: Manual Company Research
+
+on:
+  workflow_dispatch:
+    inputs:
+      company_id:
+        description: 'Company ID from data/companies.json (e.g. stripe, linear, retool)'
+        required: true
+        type: string
+      depth:
+        description: 'Research depth'
+        required: false
+        default: 'standard'
+        type: choice
+        options:
+          - quick
+          - standard
+          - deep
+      generate_crm_export:
+        description: 'Generate CRM export after research?'
+        required: false
+        default: 'false'
+        type: boolean
+
+jobs:
+  full-research:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Set date
+        run: echo "TODAY=$(date -u +%Y-%m-%d)" >> $GITHUB_ENV
+
+      - name: Create required directories
+        run: |
+          mkdir -p .tmp/raw_signals .tmp/research_cache
+          mkdir -p outputs/signals outputs/snapshots
+          mkdir -p outputs/briefs/${{ inputs.company_id }}
+          mkdir -p outputs/outreach/${{ inputs.company_id }}
+          mkdir -p outputs/crm_exports
+          mkdir -p outputs/stakeholder_maps
+          mkdir -p outputs/competitive/${{ inputs.company_id }}
+          mkdir -p outputs/playbooks/${{ inputs.company_id }}
+          mkdir -p outputs/memory
+
+      # ── Research ──────────────────────────────────────────────────────────
+
+      - name: Run full company research
+        run: |
+          python tools/research_company.py \
+            --company-id ${{ inputs.company_id }} \
+            --depth ${{ inputs.depth }} \
+            --companies-file data/companies.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          HUNTER_API_KEY: ${{ secrets.HUNTER_API_KEY }}
+
+      - name: Search recent news
+        run: |
+          python tools/search_news.py \
+            --company-id ${{ inputs.company_id }} \
+            --companies-file data/companies.json \
+            --output-dir .tmp/raw_signals/ \
+            --max-age-days 30
+        continue-on-error: true
+
+      - name: Check GitHub activity
+        run: |
+          python tools/search_github_activity.py \
+            --company-id ${{ inputs.company_id }} \
+            --companies-file data/companies.json \
+            --output-dir .tmp/raw_signals/
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        continue-on-error: true
+
+      - name: Check Product Hunt
+        run: |
+          python tools/check_product_hunt.py \
+            --company-id ${{ inputs.company_id }} \
+            --companies-file data/companies.json \
+            --output-dir .tmp/raw_signals/ \
+            --max-age-days 30
+        continue-on-error: true
+
+      # ── Signals ───────────────────────────────────────────────────────────
+
+      - name: Normalize all signals
+        run: |
+          python tools/normalize_signals.py \
+            --input-dir .tmp/raw_signals/ \
+            --company-id ${{ inputs.company_id }} \
+            --output-file outputs/signals/manual-${{ env.TODAY }}-${{ inputs.company_id }}.json
+        continue-on-error: true
+
+      - name: Score opportunity
+        run: |
+          python tools/score_opportunity.py \
+            --company-id ${{ inputs.company_id }} \
+            --companies-file data/companies.json \
+            --signals-file outputs/signals/manual-${{ env.TODAY }}-${{ inputs.company_id }}.json
+        continue-on-error: true
+
+      # ── v2: Correlation, Competitive, Stakeholder, Playbook ──────────────────
+
+      - name: Correlate signals (v2)
+        run: |
+          python tools/correlate_signals.py \
+            --company-id ${{ inputs.company_id }} \
+            --signals-file outputs/signals/manual-${{ env.TODAY }}-${{ inputs.company_id }}.json \
+            --output-file outputs/signals/correlations-manual-${{ env.TODAY }}-${{ inputs.company_id }}.json
+        continue-on-error: true
+
+      - name: Compute multi-factor scores (v2)
+        run: |
+          python tools/score_multi_factor.py \
+            --company-id ${{ inputs.company_id }} \
+            --signals-file outputs/signals/manual-${{ env.TODAY }}-${{ inputs.company_id }}.json \
+            --correlations-file outputs/signals/correlations-manual-${{ env.TODAY }}-${{ inputs.company_id }}.json
+        continue-on-error: true
+
+      - name: Map stakeholders (v2)
+        run: |
+          python tools/map_stakeholders.py \
+            --company-id ${{ inputs.company_id }} \
+            --companies-file data/companies.json \
+            --output-dir outputs/stakeholder_maps/
+        continue-on-error: true
+
+      - name: Run competitive intelligence (v2)
+        run: |
+          python tools/monitor_competitors.py \
+            --mode accounts \
+            --company-id ${{ inputs.company_id }} \
+            --companies-file data/companies.json \
+            --output-dir outputs/competitive/
+        continue-on-error: true
+
+      - name: Generate deal playbook if brief exists (v2)
+        run: |
+          python tools/generate_playbook.py \
+            --company-id ${{ inputs.company_id }} \
+            --date ${{ env.TODAY }} \
+            --output-dir outputs/playbooks/
+        continue-on-error: true
+
+      - name: Init account memory (v2)
+        run: |
+          python tools/update_account_memory.py \
+            --action init \
+            --company-id ${{ inputs.company_id }}
+        continue-on-error: true
+
+      # ── CRM Export ────────────────────────────────────────────────────────
+
+      - name: Generate CRM export (if requested)
+        if: ${{ inputs.generate_crm_export == 'true' }}
+        run: |
+          python tools/export_crm.py \
+            --company-id ${{ inputs.company_id }} \
+            --crm hubspot \
+            --date ${{ env.TODAY }} \
+            --exports-dir outputs/crm_exports/
+        continue-on-error: true
+
+      # ── Artifacts ─────────────────────────────────────────────────────────
+
+      - name: Upload all research artifacts (30-day retention)
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: research-${{ inputs.company_id }}-${{ github.run_id }}
+          path: |
+            .tmp/research_cache/
+            outputs/signals/manual-${{ env.TODAY }}-${{ inputs.company_id }}.json
+            outputs/signals/correlations-manual-${{ env.TODAY }}-${{ inputs.company_id }}.json
+            outputs/stakeholder_maps/${{ inputs.company_id }}.json
+            outputs/competitive/${{ inputs.company_id }}/
+            outputs/playbooks/${{ inputs.company_id }}/
+            outputs/crm_exports/
+          retention-days: 30
+
+      # ── Commit ────────────────────────────────────────────────────────────
+
+      - name: Commit outputs to repository
+        run: |
+          git config user.name "Sales Intelligence Bot"
+          git config user.email "actions@github.com"
+          git add outputs/ .tmp/research_cache/ data/companies.json || true
+          git diff --staged --quiet || git commit -m "chore: manual research — ${{ inputs.company_id }} ${{ env.TODAY }}"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── Summary ───────────────────────────────────────────────────────────
+
+      - name: Print research summary
+        run: |
+          echo "=== Research Complete for ${{ inputs.company_id }} ==="
+          echo "Research bundle: .tmp/research_cache/${{ inputs.company_id }}_${{ env.TODAY }}.json"
+          echo "Signals: outputs/signals/manual-${{ env.TODAY }}-${{ inputs.company_id }}.json"
+          echo ""
+          echo "NEXT STEP: Open Claude Code and run the v2 account_review workflow"
+          echo "  1. Read: .tmp/research_cache/${{ inputs.company_id }}_${{ env.TODAY }}.json"
+          echo "  2. Read: outputs/signals/manual-${{ env.TODAY }}-${{ inputs.company_id }}.json"
+          echo "  3. Read: outputs/stakeholder_maps/${{ inputs.company_id }}.json"
+          echo "  4. Read: outputs/competitive/${{ inputs.company_id }}/${{ env.TODAY }}.json"
+          echo "  5. Follow: workflows/account_review.md (master v2 workflow)"
+          echo "  OR: Follow workflows/intelligence_brief_generation.md for just the brief"
+          echo ""
+          if [ -f "outputs/crm_exports/${{ env.TODAY }}_hubspot.json" ]; then
+            echo "CRM export: outputs/crm_exports/${{ env.TODAY }}_hubspot.json"
+          fi

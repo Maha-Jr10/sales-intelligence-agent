@@ -1,0 +1,56 @@
+{
+  "sequence_id": "ramp-outreach-2026-06-03",
+  "company_id": "ramp",
+  "generated_at": "2026-06-03T12:00:00Z",
+  "based_on_brief": "outputs/briefs/ramp/2026-06-03.md",
+  "primary_angle": "New CTO at Ramp — 30-day window before they set their vendor and tool agenda. AI agents in production is their live product.",
+  "target_contact": {
+    "name": "[New CTO Name — research required: search LinkedIn for 'Ramp CTO' or monitor press for announcement]",
+    "title": "CTO",
+    "company": "Ramp",
+    "note": "FIND THIS NAME FIRST. Do not send without the actual name. The signal is time-sensitive — find and personalize within 48 hours."
+  },
+  "sequence": [
+    {
+      "step": 1,
+      "channel": "email",
+      "send_timing": "Day 0 — send within 7 days of confirming CTO name",
+      "subject": "Congrats on joining Ramp — AI agents in production question",
+      "body": "Congrats on joining Ramp — 'Agents at Work Today' on the homepage makes the engineering mandate pretty clear.\n\nWe build production AI automation systems for fintech companies — the kind running behind the expense coding, receipt matching, and accounting automation Ramp ships. We've delivered fraud detection at 0.80 recall and full-stack AI apps for financial clients.\n\nHappy to share what's working and what breaks in production, if that's useful context as you're getting oriented.\n\n15 minutes this week?",
+      "cta": "15 minutes this week?",
+      "word_count": 86
+    },
+    {
+      "step": 2,
+      "channel": "linkedin",
+      "send_timing": "Day 3 (if no reply to step 1)",
+      "message": "Sent a note about Ramp's AI agent stack. We build production AI systems for fintech — the engineering behind expense automation and LLM-in-production. Worth a quick chat if you're evaluating the external build ecosystem.",
+      "word_count": 38
+    },
+    {
+      "step": 3,
+      "channel": "email",
+      "send_timing": "Day 7 (if no reply)",
+      "subject": "RE: Congrats on joining Ramp — AI agents in production question",
+      "body": "One thing that might be relevant: we shipped `CrabTrap` equivalent work before Brex open-sourced theirs — LLM-as-a-judge patterns to secure AI agents in production. Brex published theirs in April (611 GitHub stars already).\n\nRamp and Brex are running the same race on AI-native spend management. If there are specific production AI system challenges where an outside engineering team would accelerate delivery, that's the 15 minutes worth having.\n\nMuhammed John, Axiora",
+      "cta": "Happy to discuss if timing's right",
+      "word_count": 80
+    },
+    {
+      "step": 4,
+      "channel": "email",
+      "send_timing": "Day 21 (breakup)",
+      "subject": "Closing the loop — Ramp AI build",
+      "body": "Stopping here — getting oriented in a new CTO role leaves no slack for exploratory conversations.\n\nIf the AI agent build work becomes relevant later, I'm at muhammedjohn3@gmail.com.\n\nGood luck with the first 90 days.\n\nMuhammed",
+      "cta": "none — leave door open",
+      "word_count": 42
+    }
+  ],
+  "metadata": {
+    "tone": "direct, peer-level, practitioner-to-practitioner",
+    "angle_confidence": 0.85,
+    "signal_referenced": "leadership_change:new_cto",
+    "personalization_depth": "medium — requires CTO name to be high",
+    "urgency_note": "HIGH — find CTO name first, then send within 7 days of detection. Do not send with placeholder name."
+  }
+}

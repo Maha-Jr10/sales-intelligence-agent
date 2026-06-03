@@ -1,0 +1,55 @@
+{
+  "sequence_id": "confluent-outreach-2026-06-03",
+  "company_id": "confluent",
+  "generated_at": "2026-06-03T12:00:00Z",
+  "based_on_brief": "outputs/briefs/confluent/2026-06-03.md",
+  "primary_angle": "Post-IBM acquisition: 60-day window to establish a relationship before IBM sets the Confluent integration agenda",
+  "target_contact": {
+    "name": "[Contact Name — research required: LinkedIn 'Confluent VP Engineering' or 'Confluent Director Partnerships']",
+    "title": "VP Engineering / Director of Partnerships",
+    "company": "Confluent"
+  },
+  "sequence": [
+    {
+      "step": 1,
+      "channel": "email",
+      "send_timing": "Day 0 — send today",
+      "subject": "Confluent + IBM — quick thought on the transition",
+      "body": "IBM acquiring Confluent for $11B changes a lot of things fast.\n\nWe build production Kafka + Spark pipelines on Databricks — exactly the stack that gets reviewed in post-acquisition engineering audits. Clients we work with have used us specifically to stabilize data infrastructure during M&A transitions.\n\nWe also shipped a dbt-Confluent integration for a fintech client last quarter. Noticed your `dbt-demo` repo went up this month.\n\nWorth a 15-minute call before IBM's integration agenda is set?",
+      "cta": "15-minute call this week?",
+      "word_count": 82
+    },
+    {
+      "step": 2,
+      "channel": "linkedin",
+      "send_timing": "Day 3 (if no reply to step 1)",
+      "message": "Sent a note about the IBM acquisition timing. Also noticed 5 new repos on the confluentinc GitHub this week — `partner_tech` especially. If there's a partnership angle there, happy to connect.",
+      "word_count": 38
+    },
+    {
+      "step": 3,
+      "channel": "email",
+      "send_timing": "Day 7 (if no reply)",
+      "subject": "RE: Confluent + IBM — quick thought on the transition",
+      "body": "Following up with something specific: we built a real-time fraud detection system — Kafka → Spark Structured Streaming → Random Forest — that runs at 0.80 recall and sub-2s latency. Fully containerised, production-deployed.\n\nConfluentinc's `flink-docker` repos went up last week. If there's active Flink deployment work where an outside implementation team would accelerate delivery, that's the conversation worth having.\n\nHappy to share the architecture if useful — no sales call required.",
+      "cta": "Happy to share architecture docs — no call needed to start",
+      "word_count": 79
+    },
+    {
+      "step": 4,
+      "channel": "email",
+      "send_timing": "Day 21 (breakup)",
+      "subject": "Closing the loop — Confluent",
+      "body": "Stopping here — IBM integrations keep everyone's calendar full right now.\n\nIf the data pipeline or Kafka implementation work becomes relevant later, I'm at muhammedjohn3@gmail.com.\n\nGood luck navigating the transition.\n\nMuhammed John\nAxiora",
+      "cta": "none — leave door open",
+      "word_count": 43
+    }
+  ],
+  "metadata": {
+    "tone": "direct, peer-level, practitioner-to-practitioner",
+    "angle_confidence": 0.9,
+    "signal_referenced": "acquisition:ibm_confluent_11b",
+    "personalization_depth": "high",
+    "urgency_note": "CRITICAL — 60-day post-acquisition window. Send step 1 today."
+  }
+}

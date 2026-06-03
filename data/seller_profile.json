@@ -1,0 +1,80 @@
+{
+  "version": "1.1",
+  "company": {
+    "name": "Axiora",
+    "website": "https://muhammed-john.netlify.app",
+    "product_name": "Axiora AI Consulting",
+    "category": "AI Consulting Agency",
+    "one_liner": "Axiora builds production-grade AI systems — RAG chatbots, ML models, data pipelines, AI automations, and full-stack AI apps — free during early access, for startups and enterprises across Africa and Europe.",
+    "typical_buyer": "CTO, Head of Engineering, Head of Data, Founder of a startup or SME in Africa or Europe that needs custom AI built and deployed — not a SaaS tool subscription",
+    "typical_deal_size": "Free (early access) — market value $800–$6,000+ per engagement",
+    "sales_email": "muhammedjohn3@gmail.com",
+    "linkedin_url": "https://www.linkedin.com/in/Maha-Jr",
+    "calendar_link": null
+  },
+  "value_proposition": {
+    "primary": "Production-grade AI systems built and deployed for you — free during our early access period. You own all the code.",
+    "secondary": [
+      "RAG chatbots, ML models, data pipelines (Medallion/streaming), AI automations, MLOps on AWS, and full-stack AI apps",
+      "2–12 week delivery depending on scope — agreed in writing before we start",
+      "Bilingual (English and French) — serving Africa and Europe from Fes, Morocco",
+      "No OpenAI dependency — local models via Ollama + FAISS/ChromaDB for full data privacy"
+    ],
+    "differentiation": "We build and deploy the full system — not templates, not low-code, not demos. 21+ production systems shipped, all code public on GitHub. While other agencies charge $10K+ upfront, we take on early projects free in exchange for an honest case study."
+  },
+  "social_proof": [
+    {
+      "project": "Real-Time Fraud Detection",
+      "stack": "Kafka → Spark Structured Streaming → Random Forest → Grafana + Slack alerts",
+      "outcome": "Recall 0.80, Precision 0.84, sub-2s end-to-end latency — fully containerised and production-deployed",
+      "case_study_url": "https://github.com/Maha-Jr10"
+    },
+    {
+      "project": "MediCore Health AI",
+      "stack": "BiLSTM + self-attention → FastAPI → React → Docker",
+      "outcome": "94.5% F1-score classifying 24 diseases from symptom text, 1-second inference — one-click deployment",
+      "case_study_url": "https://github.com/Maha-Jr10"
+    },
+    {
+      "project": "Azure Databricks Lakehouse",
+      "stack": "Databricks + Delta Live Tables + PySpark + dbt + SCD Type 1 & 2",
+      "outcome": "Bronze-to-Gold Medallion architecture with automated data quality checks and Workflow orchestration",
+      "case_study_url": "https://github.com/Maha-Jr10"
+    }
+  ],
+  "team": {
+    "founder_1": {
+      "name": "Muhammed John",
+      "role": "Co-Founder — AI & Data Engineer",
+      "credentials": "MSc Data Science & AI Engineering, ENSAF Morocco · 21+ production ML systems · 22+ certifications (IBM, Cisco, Kaggle) · 2 industry internships",
+      "linkedin": "https://www.linkedin.com/in/Maha-Jr",
+      "github": "https://github.com/Maha-Jr10"
+    },
+    "founder_2": {
+      "name": "Rohey John",
+      "role": "Co-Founder — Backend & Fintech Engineer",
+      "credentials": "Software Engineer at Access Bank Gambia · BSc Computer Science (UTG) · Certificate in Banking (Lagos) · C#, .NET Core, WebAPI, Laravel",
+      "linkedin": "https://www.linkedin.com/in/rohey-john-716990196/"
+    }
+  },
+  "outreach_guidelines": {
+    "tone": "Direct, peer-level, practitioner-to-practitioner. We are two engineers, not a vendor. No pitch decks, no fluff.",
+    "positioning": "Lead with the free angle — this is a hard-to-refuse offer for early clients. Anchor value with real project numbers (0.80 recall, 94.5% F1, <2s latency).",
+    "max_words_cold_email": 100,
+    "max_words_linkedin": 40,
+    "banned_words": ["synergy", "leverage", "solution", "world-class", "best-in-class", "cutting-edge", "revolutionary", "game-changing", "holistic", "robust", "seamless", "disruptive", "innovative"],
+    "cta_options": [
+      "Worth a quick call this week?",
+      "Happy to scope it out — free call, no commitment.",
+      "15 minutes to see if it's a fit?",
+      "Want me to send a brief scope of what this would look like?"
+    ],
+    "target_segments": [
+      "Startups in Africa or Europe with a data or AI problem and no ML team",
+      "SMEs that need a RAG chatbot over their internal documents",
+      "Companies running pipelines on spreadsheets that need a real lakehouse",
+      "Founders who want an AI-powered product built fast without hiring a team",
+      "Businesses with repetitive manual workflows that can be replaced by AI automation"
+    ]
+  }
+}

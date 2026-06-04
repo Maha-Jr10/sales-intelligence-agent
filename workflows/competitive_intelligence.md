@@ -1,20 +1,42 @@
 # Workflow: Competitive Intelligence
 
 ## Objective
-(1) Monitor your competitors for product updates, pricing changes, and news that you should know about. (2) Detect when target companies mention, use, or are evaluating your competitors — and classify the competitive context as `neutral`, `competitive_defense`, or `displacement`.
+(1) Monitor competitor websites for new blog posts, case studies, team changes, homepage repositioning, and hiring. (2) Monitor target companies for competitor mentions and classify the competitive context as `neutral`, `competitive_defense`, or `displacement`. (3) Surface displacement opportunities — when a competitor lands a new client or pivots, understand the implication.
 
 ## Required Inputs
-- `data/competitors.json` — your competitor list with aliases and detection keywords
+- `data/competitors.json` — competitor list with domains, aliases, and detection keywords
 - `data/companies.json` — target company list
 - `.tmp/research_cache/{company_id}_{date}.json` — existing research bundles (for mention scanning)
+- `.tmp/competitor_snapshots/{id}_{date}.json` — website snapshots (auto-created on first run)
 
 ## When to Run
-- **Daily (automated):** GitHub Actions `daily_scan.yml` runs `monitor_competitors.py --mode both` for all companies
-- **On-demand:** Before generating a playbook for a specific account, run `--mode accounts --company-id {id}` to get fresh competitive context
+- **Daily (automated):** GitHub Actions `daily_scan.yml` runs both competitor tools
+- **On-demand:** Before generating a playbook for a specific account
 
 ## Agent Steps
 
-### Step 1 — Run Competitive Monitor
+### Step 1 — Scrape Competitor Websites
+```
+python tools/monitor_competitor_sites.py \
+    --snapshot-dir .tmp/competitor_snapshots \
+    --output-dir outputs/competitive
+```
+
+For a single competitor:
+```
+python tools/monitor_competitor_sites.py --competitor-id primeforge
+```
+
+Snapshots are stored in `.tmp/competitor_snapshots/` and compared to the previous run. On the **first run** for a competitor, no diff is produced — it just establishes the baseline. Changes appear from the **second run** onward.
+
+**What it detects:**
+- `new_case_study` (HIGH) — competitor landed a new client. Check if the client is in your target territory.
+- `team_page_changed` (MEDIUM) — headcount shift. Growing fast = they're winning business.
+- `homepage_changed` (MEDIUM) — rebranding or service pivot. Review the new positioning.
+- `new_blog_post` (LOW) — marketing activity. Note the topic — are they going after your ICP?
+- `new_job_opening` (LOW) — expansion signal.
+
+### Step 2 — Run News + Account Competitor Monitor
 ```
 python tools/monitor_competitors.py \
     --mode both \
@@ -31,16 +53,20 @@ python tools/monitor_competitors.py \
     --output-dir outputs/competitive/
 ```
 
-### Step 2 — Review Competitor News (`_competitor_news_{date}.json`)
-Read `outputs/competitive/_competitor_news_{date}.json`. For each competitor:
-- Any major product launches or announcements?
-- Any pricing changes (mentioned in news headlines)?
-- Any controversy or negative coverage?
-- Any customer churn signals?
+**Note on news monitoring:** Most Axiora competitors (regional Moroccan/Gambian shops) are too small to appear in Google News RSS. The news monitor is most useful for detecting if a competitor's name appears in a target account's content — not for competitor news itself. Use `monitor_competitor_sites.py` for that.
 
-Note anything relevant for briefings this week. Competitor product launches are worth monitoring — if a target account mentions evaluating a competitor's new feature, it contextualizes their buying behavior.
+### Step 3 — Review Competitor Website Changes (`_competitor_sites_{date}.json`)
+Read `outputs/competitive/_competitor_sites_{date}.json`. Focus on `high_significance_changes` first:
 
-### Step 3 — Review Account Competitive Intel
+- **`new_case_study`** (HIGH): Competitor landed a new client. Visit the URL, note industry/use case — are they in your target territory?
+- **`team_page_changed`** with positive delta (MEDIUM): They're growing headcount. Growing fast = winning business.
+- **`homepage_changed`** (MEDIUM): Read `text_preview` in the detail. Are they rebranding, adding a new service line, or going upmarket?
+- **`new_blog_post`** (LOW): Note the topic — are they pursuing your ICP with thought leadership?
+- **`new_job_opening`** (LOW): Expansion signal. What roles? Technical = delivery scaling; sales = market expansion.
+
+**First-run note:** On the first run for each competitor, only a baseline snapshot is taken — no diff output. Changes surface from the second run onward (next day in production).
+
+### Step 4 — Review Account Competitive Intel
 For each account with `competitor_mentions_in_target` entries:
 
 **`neutral`**: Competitor name appears in job description as a "familiar with" skill requirement. No action needed — it's a tech signal, not a buying signal.

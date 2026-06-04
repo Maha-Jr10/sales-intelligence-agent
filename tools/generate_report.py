@@ -201,7 +201,8 @@ def build_daily_report(date_str: str, signals_dir: str, briefs_dir: str, compani
 def build_weekly_report(week_str: str, signals_dir: str, briefs_dir: str, companies_file: str) -> str:
     try:
         year, week_num = week_str.split("-W")
-        start_of_week = datetime.strptime(f"{year}-W{int(week_num)}-1", "%Y-W%W-%w").replace(tzinfo=timezone.utc)
+        # %G/%V/%u = ISO 8601 year/week/weekday; %W is NOT ISO and gives wrong start dates
+        start_of_week = datetime.strptime(f"{year}-W{int(week_num)}-1", "%G-W%V-%u").replace(tzinfo=timezone.utc)
     except Exception:
         start_of_week = datetime.now(timezone.utc) - timedelta(days=7)
 

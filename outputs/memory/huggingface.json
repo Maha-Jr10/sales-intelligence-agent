@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-06-04T10:02:34.175340+00:00",
+  "last_updated": "2026-06-05T09:59:25.205178+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -75,6 +75,54 @@
     },
     {
       "signal_id": "huggingface-content_signal-2026-06-04-881abf33546f",
+      "signal_type": "content_signal",
+      "signal_subtype": "blog_post_published",
+      "title": "Gemma 4 12B: The Developer Guide - blog.google",
+      "detected_at": "2026-06-03T16:01:39+00:00",
+      "importance_score": 3.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-06-05-e7e4d4780ac3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Critical Hugging Face Transformers flaw ran attacker code on a routine model load - SiliconANGLE",
+      "detected_at": "2026-06-04T12:00:55+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-06-05-79b7f712d2ec",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Critical vulnerability in Hugging Face Transformers library allowed arbitrary code execution - SC Media",
+      "detected_at": "2026-06-04T22:50:13+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-06-05-c9b72e6b6ae6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face Transformers RCE flaw enables stealthy compromise via AI model configs - csoonline.com",
+      "detected_at": "2026-06-04T12:08:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-06-05-b5d4313b3f8c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face Transformers contains critical remote code execution vulnerability - Let's Data Science",
+      "detected_at": "2026-06-04T12:00:55+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-06-05-3ae83a4cf16f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia pushes deeper into AI models with Nemotron 3 Ultra - Startup Fortune",
+      "detected_at": "2026-06-04T19:04:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-content_signal-2026-06-05-881abf33546f",
       "signal_type": "content_signal",
       "signal_subtype": "blog_post_published",
       "title": "Gemma 4 12B: The Developer Guide - blog.google",

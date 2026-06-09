@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-06-08T11:04:23.454781+00:00",
+  "last_updated": "2026-06-09T09:53:55.918383+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -231,6 +231,22 @@
       "signal_subtype": "generic",
       "title": "Critical Hugging Face Transformers Vulnerability Enables Remote Code Execution Attacks - CyberSecurityNews",
       "detected_at": "2026-06-07T08:20:29+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-06-09-784cfaa9adb7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Exclusive: Github and Hugging Face founders back AI agent startup Zaro’s $5.1m raise - Sifted",
+      "detected_at": "2026-06-09T04:10:30+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-06-09-a4e2f408536c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Inside AI “portraits of Vietnamese people” dataset in global top 15 trending list - Nhan Dan Online",
+      "detected_at": "2026-06-09T08:14:53+00:00",
       "importance_score": 4.0
     }
   ],

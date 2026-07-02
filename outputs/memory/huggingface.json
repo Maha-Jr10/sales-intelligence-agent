@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-07-01T09:55:50.153330+00:00",
+  "last_updated": "2026-07-02T09:19:04.224174+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -891,6 +891,22 @@
     },
     {
       "signal_id": "huggingface-news_mention-2026-07-01-53babc8293a5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face can finally tell you if a model will run on your machine - Korben",
+      "detected_at": "2026-06-30T16:24:06+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-07-02-849708d7faf9",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Why Hugging Face CEO Clément Delangue Turned Down Half a Billion Dollars From Nvidia - observer.com",
+      "detected_at": "2026-07-01T15:00:52+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-07-02-53babc8293a5",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Hugging Face can finally tell you if a model will run on your machine - Korben",

@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "databricks",
   "created_at": "2026-06-03T17:25:17.618603+00:00",
-  "last_updated": "2026-07-21T08:35:04.084318+00:00",
+  "last_updated": "2026-07-22T08:34:54.185272+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -6139,6 +6139,246 @@
     },
     {
       "signal_id": "databricks-content_signal-2026-07-21-ab2b165581c1",
+      "signal_type": "content_signal",
+      "signal_subtype": "generic",
+      "title": "Responsible AI: Governance, Principles, and Practical Guide - Databricks",
+      "detected_at": "2026-07-20T18:12:41+00:00",
+      "importance_score": 2.5
+    },
+    {
+      "signal_id": "databricks-leadership_change-2026-07-22-70a551c2597e",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_cto",
+      "title": "CGI strengthens enterprise AI leadership with Databricks Brickbuilder Specializations in Public Sector and Generative AI - Yahoo Finance",
+      "detected_at": "2026-07-20T10:30:00+00:00",
+      "importance_score": 9.5
+    },
+    {
+      "signal_id": "databricks-leadership_change-2026-07-22-255fcb784bbd",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_cto",
+      "title": "CGI earns Databricks specializations in public sector and GenAI - Investing.com",
+      "detected_at": "2026-07-20T10:51:06+00:00",
+      "importance_score": 9.5
+    },
+    {
+      "signal_id": "databricks-product_launch-2026-07-22-3ed64206dcb8",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Databricks launches internal data marketplace - StartupHub.ai",
+      "detected_at": "2026-07-21T20:31:01+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "databricks-funding_event-2026-07-22-a14bbe1387df",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Snowflake could 'rerate' after Databricks' new funding round, Jefferies says (SNOW:NYSE) - Seeking Alpha",
+      "detected_at": "2026-07-21T16:48:35+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "databricks-funding_event-2026-07-22-4154eb7fc147",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Databricks Announces Funding, at a $188 Billion Valuation - FinSMEs",
+      "detected_at": "2026-07-20T12:37:28+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "databricks-leadership_change-2026-07-22-4d06ae8beab2",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Databricks CEO said they are ’running out of GPUs everywhere’ - Investing.com",
+      "detected_at": "2026-07-21T18:56:16+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "databricks-leadership_change-2026-07-22-70a71acd6339",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Databricks CEO Says GPU Shortages Are Fueling AI Fundraising - Benzinga",
+      "detected_at": "2026-07-20T18:14:51+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "databricks-product_launch-2026-07-22-260e5c3cddfd",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Databricks: US$188bn Valuation, Genie One and Agentic AI - AI Magazine",
+      "detected_at": "2026-07-21T06:39:39+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-07-22-0034a040d7ee",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "SkyPilot, from Databricks’ cofounder, raises $20M to be the Switzerland of AI compute - Fortune",
+      "detected_at": "2026-07-21T11:08:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-07-22-c575c5ff1c27",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Databricks’ 40% Valuation Bump Looks ‘Almost Quaint’ Next to Anthropic - Morningstar",
+      "detected_at": "2026-07-21T10:07:29+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-07-22-7870add2f7cd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "SNOW Stock: Databricks’ $188B Valuation Just Made Snowflake Look Undervalued - TipRanks",
+      "detected_at": "2026-07-21T15:36:53+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-07-22-97a07ff1bba0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The last mile: why great first-party data still doesn't make great marketing - Databricks",
+      "detected_at": "2026-07-21T23:09:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-07-22-fa9ba7f87524",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Judge considers tossing Databricks patent suit under California anti-SLAPP law - Courthouse News",
+      "detected_at": "2026-07-21T23:28:27+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-07-22-b27b42c84b0c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Why R&D Data Belongs in the Lakehouse - and Why Agents Need It There - Databricks",
+      "detected_at": "2026-07-21T19:57:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-07-22-0b93e9470d91",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "How Dow Built a Carbon Footprint Ledger on Databricks to Accelerate Sustainability at Scale - Databricks",
+      "detected_at": "2026-07-21T19:57:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-07-22-47dc88d8c247",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Lakehouse Business Data Models for Travel & Logistics - Databricks",
+      "detected_at": "2026-07-21T16:43:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-07-22-189cadf15e9d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Announcing the Public Preview of Discover and Domains, powered by Unity Catalog - Databricks",
+      "detected_at": "2026-07-21T19:14:49+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-07-22-31de88a7f004",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Branching databases like code: a CI/CD pattern for Lakebase, in production at Glaspoort - Databricks",
+      "detected_at": "2026-07-20T20:37:18+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-07-22-4ae6660eb31f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI Transparency: Governance, Explainability, and Data Practices - Databricks",
+      "detected_at": "2026-07-20T18:12:41+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-07-22-4c88c67219c2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The three ways AI unlocks transformation in Retail, Travel, and Consumer Goods - Databricks",
+      "detected_at": "2026-07-20T15:24:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-07-22-0409c89d8f29",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Genpact’s Databricks ‘Rising Star’ Status and AI Center Expansion Might Change The Case For Investing In Genpact (G) - simplywall.st",
+      "detected_at": "2026-07-21T18:41:47+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-07-22-62059886fc95",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Databricks Reaches US$188B Valuation, Expands Enterprise AI - Mexico Business News",
+      "detected_at": "2026-07-20T16:03:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-07-22-b01cc5c8f171",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Salesforce and Databricks Forge New AI Partnership: What’s at Stake? - The Futurum Group",
+      "detected_at": "2026-07-20T18:39:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-07-22-27674c3aea4d",
+      "signal_type": "news_mention",
+      "signal_subtype": "award",
+      "title": "Genpact (G) Recognized as a Rising Star in ISG Databricks Ecosys - GuruFocus",
+      "detected_at": "2026-07-21T16:04:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-07-22-ee6d73e15b34",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Cincinnati Reds Select Flexor to Hit a Home Run by Turning Unstructured Data Into AI Context on Databricks - Business Wire",
+      "detected_at": "2026-07-21T13:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-07-22-b49d5496f58c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "CGI's AI assistants cut utility document search time by 85% - Stock Titan",
+      "detected_at": "2026-07-20T10:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-07-22-d66d1a7ff417",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Databricks Seeks $188 Billion Valuation, Up 40% From February - TradingView",
+      "detected_at": "2026-07-20T20:46:07+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-github_signal-2026-07-22-3c192c46caa6",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Genpact Named Rising Star in ISG Provider Lens™ 2026 Databricks Ecosystem Partners Report - PR Newswire",
+      "detected_at": "2026-07-21T12:05:00+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "databricks-github_signal-2026-07-22-cb386ff3eeb6",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Genpact Is the Only Rising Star in ISG’s 2026 Databricks Report - Stock Titan",
+      "detected_at": "2026-07-21T12:05:00+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "databricks-content_signal-2026-07-22-ab2b165581c1",
       "signal_type": "content_signal",
       "signal_subtype": "generic",
       "title": "Responsible AI: Governance, Principles, and Practical Guide - Databricks",

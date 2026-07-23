@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "brex",
   "created_at": "2026-06-03T17:25:17.744286+00:00",
-  "last_updated": "2026-07-22T08:34:54.332160+00:00",
+  "last_updated": "2026-07-23T08:36:04.035228+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -311,6 +311,38 @@
       "signal_subtype": "generic",
       "title": "This tech company abandoned its S.F. headquarters. Now it’s taking over an entire office building - San Francisco Chronicle",
       "detected_at": "2026-07-21T11:03:49+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "brex-funding_event-2026-07-23-1b13d2143027",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Capital One highlights Discover, Brex integration - American Banker",
+      "detected_at": "2026-07-22T00:34:00+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "brex-news_mention-2026-07-23-4369c0797163",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "This tech company abandoned its S.F. headquarters. Now it’s taking over an entire office building - San Francisco Chronicle",
+      "detected_at": "2026-07-21T11:03:49+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "brex-news_mention-2026-07-23-1a2c32d8bf6a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "News | Once 'remote first' startup doubles down on San Francisco office space - CoStar",
+      "detected_at": "2026-07-23T00:49:17+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "brex-news_mention-2026-07-23-c9422037973e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "COF Q2 Earnings Call Tracks Discover Integration Progress - TradingView",
+      "detected_at": "2026-07-22T14:00:00+00:00",
       "importance_score": 4.0
     }
   ],

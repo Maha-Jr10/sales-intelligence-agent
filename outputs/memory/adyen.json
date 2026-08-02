@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "adyen",
   "created_at": "2026-06-03T17:25:17.733626+00:00",
-  "last_updated": "2026-08-01T08:26:16.201328+00:00",
+  "last_updated": "2026-08-02T08:29:14.931948+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -2787,6 +2787,22 @@
     },
     {
       "signal_id": "adyen-content_signal-2026-08-01-6a7fc884c481",
+      "signal_type": "content_signal",
+      "signal_subtype": "blog_post_published",
+      "title": "PayPal, Stripe and Adyen: three companies, three futures - Chris Skinner's blog",
+      "detected_at": "2026-07-31T15:00:54+00:00",
+      "importance_score": 3.0
+    },
+    {
+      "signal_id": "adyen-product_launch-2026-08-02-16ec37d125b4",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "ADYEN : JP Morgan gives a Buy rating - marketscreener.com",
+      "detected_at": "2026-07-31T14:34:40+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "adyen-content_signal-2026-08-02-6a7fc884c481",
       "signal_type": "content_signal",
       "signal_subtype": "blog_post_published",
       "title": "PayPal, Stripe and Adyen: three companies, three futures - Chris Skinner's blog",

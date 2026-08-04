@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "adyen",
   "created_at": "2026-06-03T17:25:17.733626+00:00",
-  "last_updated": "2026-08-03T09:52:55.696754+00:00",
+  "last_updated": "2026-08-04T08:42:56.420868+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -2811,6 +2811,46 @@
     },
     {
       "signal_id": "adyen-news_mention-2026-08-03-f69b72b9656f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Adyen New Zealand lifts fourfold rise in net profit - ecommercenews.co.nz",
+      "detected_at": "2026-08-03T01:29:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "adyen-product_launch-2026-08-04-2b6dc3f28c9d",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "MannyPay Global Launches Global Payment Facilitator Platform with iMerchant, Powered by Adyen - The Manila Times",
+      "detected_at": "2026-08-03T17:49:04+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "adyen-product_launch-2026-08-04-883f07a82219",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "MannyPay Global launches a global payment platf... - Pluang",
+      "detected_at": "2026-08-03T19:32:49+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "adyen-news_mention-2026-08-04-c8f36d2c7f49",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "From POS provider to fintech platform: Epos Now’s embedded finance journey - Payments Dive",
+      "detected_at": "2026-08-03T13:45:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "adyen-news_mention-2026-08-04-3052a7a80e82",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Epos Now Turns Its POS Into Financial Operating System for Small Business - Tech Times",
+      "detected_at": "2026-08-03T17:19:44+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "adyen-news_mention-2026-08-04-f69b72b9656f",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Adyen New Zealand lifts fourfold rise in net profit - ecommercenews.co.nz",

@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-08-06T08:42:43.670261+00:00",
+  "last_updated": "2026-08-07T07:21:34.287451+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -7371,6 +7371,214 @@
     },
     {
       "signal_id": "huggingface-news_mention-2026-08-06-1cd855891359",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI/Hugging Face Aftermath: What It Means for AI Agent Security - UC Today",
+      "detected_at": "2026-08-05T08:53:16+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-08-07-3913f8af21a6",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "OpenAI models joined forces months ahead of Hugging Face hack - wenatcheeworld.com",
+      "detected_at": "2026-08-06T21:27:00+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-08-07-5d44d9b0b4f0",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "Hugging Face AI breach is ‘most consequential hack’ since Morris Worm, former NSA cyber chief says - Nextgov/FCW",
+      "detected_at": "2026-08-05T17:32:00+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-08-07-c2f97143d298",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "OpenAI reveals its rogue agent swarm went a little bit Borg ahead of Hugging Face hack - The Register",
+      "detected_at": "2026-08-06T01:47:19+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-08-07-2912391ab155",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI's Rogue Agents Built Their Own Message Boards and Grew Paranoid of Each Other Months Before Huggin - Benzinga",
+      "detected_at": "2026-08-06T11:45:44+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-eb2cc8a694e8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s models shared hacking tips on a secret messaging board before Hugging Face breach - Politico",
+      "detected_at": "2026-08-06T02:02:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-f2982de85c21",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "First OpenAI, now Meta - why do AI hacks keep happening? - BBC",
+      "detected_at": "2026-08-06T15:59:34+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-fae566acecec",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "CISOs Must Rethink Containment After Hugging Face Incident - BankInfoSecurity",
+      "detected_at": "2026-08-06T22:48:44+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-a8a5b754a975",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "What Should We Learn From the Hugging Face Incident? - Built In",
+      "detected_at": "2026-08-06T14:18:41+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-93ef1aa3574e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The Sandbox Failed: How OpenAI's Experimental AIs Went Rogue and Attacked Hugging Face - pcmag.com",
+      "detected_at": "2026-08-06T16:52:20+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-cf328874445f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "New details on OpenAI/Hugging Face attack emerge as security industry debates AI agent controls - SiliconANGLE",
+      "detected_at": "2026-08-06T20:45:22+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-8d86908f79dd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI agents passed secret notes for months leading up to Hugging Face hack - Fortune",
+      "detected_at": "2026-08-06T19:31:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-28a840f06466",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "How OpenAI's agents broke out of testing to hack Hugging Face - Axios",
+      "detected_at": "2026-08-06T06:18:31+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-c8c125f33b35",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Reveals How AI Agents Secretly Coordinated Before Hugging Face Hack - Decrypt",
+      "detected_at": "2026-08-06T18:26:29+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-f9744f2d701c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI agents rebuilt internal message board in lead-up to Hugging Face breach - Nextgov/FCW",
+      "detected_at": "2026-08-05T23:06:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-5b52825f5cbb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Sunday calls for transparency from OpenAI after unprecedented Hugging Face hack - City & State Pennsylvania",
+      "detected_at": "2026-08-05T17:32:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-e56d84ad1ee5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hype vs. Reality: What the Hugging Face Incident Means for AI Safety - Recorded Future",
+      "detected_at": "2026-08-05T19:03:06+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-6e61399f90b1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face’s breach exposes a blind spot in vetting vendors - HR Executive",
+      "detected_at": "2026-08-05T12:00:33+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-41fe6bce95f5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "How AZT Breaks the Hugging Face Attack Chain | ARIA Cybersecurity - Security Boulevard",
+      "detected_at": "2026-08-06T21:36:13+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-be6820bd59df",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Reveals AI Agents Turned on Its Own Testing Environment Before Hacking Hugging Face - International Business Times",
+      "detected_at": "2026-08-06T18:16:57+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-3d1195f416b9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s Evaluation Agents Built a Secret Message Board, Exploited Zero-Days, and Breached Hugging Face — From the Inside - forkast.news",
+      "detected_at": "2026-08-07T06:37:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-8303356380f5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Who’s controlling Artificial Intelligence? - Washington Times",
+      "detected_at": "2026-08-06T21:33:12+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-f24454b18a20",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI models coordinated secretly to bypass limits in Hugging Face incident - Межа. Новини України.",
+      "detected_at": "2026-08-06T15:51:27+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-2530de38efa3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Agents Traded Exploits For Two Months Before Hugging Face Breach - Yellow.com",
+      "detected_at": "2026-08-06T15:02:02+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-2023b5dcf2c9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree - WIRED",
+      "detected_at": "2026-08-06T00:15:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-20608ddfffa3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI AI Agents Used Hidden Message Board to Plan Hugging Face Cyberattack - cyberpress.org",
+      "detected_at": "2026-08-06T10:34:35+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-08-07-1cd855891359",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "OpenAI/Hugging Face Aftermath: What It Means for AI Agent Security - UC Today",

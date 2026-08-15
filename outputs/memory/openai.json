@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "openai",
   "created_at": "2026-06-03T17:25:17.679650+00:00",
-  "last_updated": "2026-08-14T07:37:42.694879+00:00",
+  "last_updated": "2026-08-15T06:43:47.849698+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -38331,6 +38331,630 @@
     },
     {
       "signal_id": "openai-content_signal-2026-08-14-a1c338a4ac46",
+      "signal_type": "content_signal",
+      "signal_subtype": "generic",
+      "title": "The builder’s guide to GPT‑5.6 - OpenAI",
+      "detected_at": "2026-08-13T18:24:35+00:00",
+      "importance_score": 2.5
+    },
+    {
+      "signal_id": "openai-product_launch-2026-08-15-52b56f5a524d",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Seeds | OpenAI Expert Launches Startup, Raises Hundreds of Millions - Gasgoo",
+      "detected_at": "2026-08-15T06:27:03+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "openai-funding_event-2026-08-15-2cf70fd08a20",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports - Reuters",
+      "detected_at": "2026-08-14T23:44:00+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-08-15-deef0e5070fc",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Dresser's OpenAI departure changes things internally for the company: Loop Capital's Rob Sanderson - CNBC",
+      "detected_at": "2026-08-14T19:10:33+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-08-15-d3e7e3b0374c",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Plexo Capital's Lo Toney reacts to executive shake-ups at OpenAI - CNBC",
+      "detected_at": "2026-08-14T20:08:11+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-08-15-761fa81f4b20",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "detected_at": "2026-08-13T09:00:00+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-08-15-c3345a0ba785",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "OpenAI loses revenue chief Denise Dresser, second major executive departure in days - CNBC",
+      "detected_at": "2026-08-13T16:12:32+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-08-15-14a29fece8a3",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "OpenAI Hires New Chief Revenue Officer After Less Than a Year - Bloomberg.com",
+      "detected_at": "2026-08-13T15:55:22+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-08-15-79dd45e31a96",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer - OpenAI",
+      "detected_at": "2026-08-13T16:02:30+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-08-15-b596cbcebe8a",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "OpenAI Chief Revenue Officer to Depart After Less Than a Year - WSJ",
+      "detected_at": "2026-08-13T16:58:00+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-08-15-59253cdf282b",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "OpenAI Appoints Former Wiz Executive Dali Rajic as Chief Revenue Officer - PYMNTS.com",
+      "detected_at": "2026-08-14T21:20:36+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-08-15-ac1036913ae6",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s Chief Revenue Officer Is Leaving After 8 Months. She’s Just the Latest Executive to Head for the Exit - inc.com",
+      "detected_at": "2026-08-14T21:50:04+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-08-15-325c935f002e",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "OpenAI sheds senior execs in pre-IPO refresh - Axios",
+      "detected_at": "2026-08-14T09:03:58+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-08-15-306960cf095e",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "OpenAI upheaval mounts as Sam Altman readies IPO push - Financial Times",
+      "detected_at": "2026-08-15T04:00:31+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-08-15-776902ee4cff",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "OpenAI annualized revenue tops $40 billion ahead of IPO - Yahoo Finance",
+      "detected_at": "2026-08-14T11:11:22+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-08-15-e4e954a7e529",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO - CNBC",
+      "detected_at": "2026-08-14T15:45:15+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-08-15-28b8237ef520",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "OpenAI’s Revenue Run Rate Tops $40 Billion, Bolstering IPO Case - Bloomberg.com",
+      "detected_at": "2026-08-15T05:16:58+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-08-15-4bf665ffc6b7",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "OpenAI’s Revenue Run Rate Tops $40 Billion Ahead of IPO - Yahoo Finance",
+      "detected_at": "2026-08-13T21:36:04+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-08-15-3d8f6d80cd66",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground - Financial Times",
+      "detected_at": "2026-08-14T07:52:56+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-08-15-f387b0a19ff3",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "OpenAI Just Hit a $40 Billion Run Rate. So Why Are Its Top Executives Sprinting for the Exit Before the IPO? - 247wallst.com",
+      "detected_at": "2026-08-14T16:45:32+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-08-15-9584509a9e4c",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Leadership Shakeup at OpenAI Sparks IPO Doubts - Briefs Finance",
+      "detected_at": "2026-08-15T02:27:59+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-hiring_spike-2026-08-15-a66cdd2a0c0f",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "OpenAI recruits Wiz's COO to lead its next phase of growth - calcalistech.com",
+      "detected_at": "2026-08-13T17:49:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-08-15-5a477af440ba",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "OpenAI’s Revenue Run Rate Tops $40 Billion as IPO Nears - PYMNTS.com",
+      "detected_at": "2026-08-14T10:58:01+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-08-15-3761f58cccc2",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "OpenAI's annualized revenue has doubled to top $40 billion ahead of its IPO - qz.com",
+      "detected_at": "2026-08-14T11:17:09+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-08-15-6ab8344416c3",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI and Anthropic May Be Cheaper Than Chinese AI After All - Benzinga",
+      "detected_at": "2026-08-14T16:54:03+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-0879c34483f1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center - WSJ",
+      "detected_at": "2026-08-14T23:29:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-c7b8e839954a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI - Cerebras",
+      "detected_at": "2026-08-13T17:05:30+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-5454be1e772a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Billionaire Joshua Kushner just bought the Lakers for $12.5 billion—OpenAI's Sam Altman once said he 'doesn't care' what others think - Fortune",
+      "detected_at": "2026-08-14T07:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-946c98652575",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Thrive Investor Letter Reveals OpenAI-Fueled Growth, Stake Sale - Bloomberg.com",
+      "detected_at": "2026-08-14T00:55:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-f8cb9acb136b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI prices are plunging. That feels bad, but something else is happening. - Business Insider",
+      "detected_at": "2026-08-14T09:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-b4a3281faa0e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations - IBM Newsroom",
+      "detected_at": "2026-08-13T10:08:43+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-bd6c2e4c9546",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The Safety Reckoning Inside OpenAI - WIRED",
+      "detected_at": "2026-08-13T22:37:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-475f1ec93cfb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Florida man told ChatGPT he'd murder his ex. OpenAI alerted the FBI - Detroit Free Press",
+      "detected_at": "2026-08-14T21:40:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-e146147f23c9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI CFO Friar tells investors that enterprise business now bigger than consumer by revenue - CNBC",
+      "detected_at": "2026-08-14T19:00:31+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-c586e4e2d710",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed - OpenAI",
+      "detected_at": "2026-08-13T17:02:46+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-2109e7218fb7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI replaces revenue lead as Greg Brockman builds his presence - Axios",
+      "detected_at": "2026-08-13T17:02:47+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-7d64dacb8ed8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s comms team has a Sam Altman problem - sfstandard.com",
+      "detected_at": "2026-08-13T13:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-1e76237ce14a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up - The New York Times",
+      "detected_at": "2026-08-13T18:28:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-ef58f4d66797",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "12 executives who left OpenAI in 2026 - Business Insider",
+      "detected_at": "2026-08-14T02:28:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-87ab77f83df9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Buried in OpenAI's latest research: No correlation between AI use and revenue per employee - Fortune",
+      "detected_at": "2026-08-13T20:28:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-1a3b7514474e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI hires new CRO as executive shake-up continues - TechCrunch",
+      "detected_at": "2026-08-13T17:07:13+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-b0e838ad19a3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Why is OpenAI losing so many executives? - Mashable",
+      "detected_at": "2026-08-13T22:26:35+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-cc8dc2f8159a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed - TechCrunch",
+      "detected_at": "2026-08-13T19:22:40+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-8570e1b9c017",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Z.ai Aims to Catch Anthropic, OpenAI in Coding With New AI Model - Bloomberg.com",
+      "detected_at": "2026-08-14T08:41:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-4c75d609ce04",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Georgia Power cedes more time for state regulators to review OpenAI contract for huge power supply - Georgia Public Broadcasting",
+      "detected_at": "2026-08-14T20:51:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-8a3cc36d3d03",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI loses its AI ethics lead - Computerworld",
+      "detected_at": "2026-08-14T13:22:02+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-52f4afc5005f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Revenue Run Rate Tops $40 Billion, Doubling From 2025 - Bloomberg.com",
+      "detected_at": "2026-08-14T18:00:16+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-7b4a68757978",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "‘I’m not the one that should be in jail’: OpenAI protester, 69, turns herself in - sfstandard.com",
+      "detected_at": "2026-08-14T13:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-6a599d9e9d56",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Says NY Times Seeks Sanctions Due to Lack of Evidence - Bloomberg Law News",
+      "detected_at": "2026-08-14T22:04:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-a2620a074320",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI shake-up continues with second major departure of the week - Business Insider",
+      "detected_at": "2026-08-13T17:49:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-870f9b71b3ba",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI's talent exodus: Here's what you need to know - CNBC",
+      "detected_at": "2026-08-14T15:06:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-f297622c0cd3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "IBM, OpenAI Partner to Accelerate Enterprise AI - AI Business",
+      "detected_at": "2026-08-14T15:18:43+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-5b7638cd9fd1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Fortune Tech: OpenAI's leadership musical chairs; Microsoft's 'super app,' Tim Cook in Texas - Fortune",
+      "detected_at": "2026-08-14T10:20:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-224b3f5316ec",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI forced to delay plans for $20B data center in Georgia - eenews.net",
+      "detected_at": "2026-08-14T10:29:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-cf8776ea428c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s GPT-5.6 Sol runs up to 14× faster with Ultrafast mode - Help Net Security",
+      "detected_at": "2026-08-14T10:55:58+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-2e3a0cb0f1e5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Study contradicts Anthropic and OpenAI claims that autonomous AI research is within reach - the-decoder.com",
+      "detected_at": "2026-08-14T16:08:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-a7dcd55a9677",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Enterprise Revenue Now Top Source - Briefs Finance",
+      "detected_at": "2026-08-15T02:28:06+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-7a9a0db41eb2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack - Decrypt",
+      "detected_at": "2026-08-14T18:31:03+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-5b45d33b9cd3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hands-On with Computer History: OpenAI’s Take on Agent Memory - MacStories",
+      "detected_at": "2026-08-14T14:55:06+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-3c1b325bb3df",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI replaces CRO Denise Dresser with Dali Rajic - qz.com",
+      "detected_at": "2026-08-14T12:42:50+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-31aaa35bd76b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "IBM consultants will deploy OpenAI services - cio.com",
+      "detected_at": "2026-08-14T09:26:55+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-bab31caddc5d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI faces talent exodus - CNBC",
+      "detected_at": "2026-08-14T18:23:32+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-a5d3f8f47672",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI hired a wave of powerful female executives. Two years later, almost all are gone - Fortune",
+      "detected_at": "2026-08-13T19:13:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-f93e61c33758",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Lost Two Execs in a Week. At Least Revenue Hit $40 Billion. - Yahoo Finance",
+      "detected_at": "2026-08-14T17:26:08+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-77e8c42d608b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI is losing its second executive this week - The Verge",
+      "detected_at": "2026-08-13T19:28:39+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-c43e52474568",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline - the-decoder.com",
+      "detected_at": "2026-08-14T17:03:47+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-2012e18f8679",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Speed Becomes the Product as OpenAI and Google Sell Faster AI - PYMNTS.com",
+      "detected_at": "2026-08-14T21:50:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-92bac1d4d871",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI loses its last ethics lead as containment scare forces Astra slowdown - The Cool Down",
+      "detected_at": "2026-08-15T01:09:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-bf77223d4cd8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Cerebras Powers OpenAI’s GPT-5.6 Sol Ultrafast Mode - HPCwire",
+      "detected_at": "2026-08-14T18:12:08+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-ab7d900d2be8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia Close to Deal to Guarantee About $100 Billion in Credit for OpenAI - The Information",
+      "detected_at": "2026-08-15T00:01:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-3c0b50f0589b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "NVIDIA Halves Financial Guarantee for OpenAI's Ohio Data Center - 조선일보",
+      "detected_at": "2026-08-15T05:05:34+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-2334d4c67c53",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "IBM, OpenAI Partner to Advance Secure AI Deployment for Government, Enterprises - ExecutiveBiz",
+      "detected_at": "2026-08-14T16:06:28+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-08-15-e685c9a239fa",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "IBM, OpenAI partner to advance AI deployment in enterprise operations - Yahoo Finance",
+      "detected_at": "2026-08-14T08:51:15+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-github_signal-2026-08-15-01f61b2234a7",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "The builder’s guide to GPT‑5.6",
+      "detected_at": "2026-08-13T11:00:00+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "openai-github_signal-2026-08-15-06552ee79607",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "detected_at": "2026-08-13T10:00:00+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "openai-github_signal-2026-08-15-c141b71c5875",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports - Yahoo Finance",
+      "detected_at": "2026-08-14T23:43:56+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "openai-github_signal-2026-08-15-cd2a843c1d91",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Nvidia cuts $130B+ from OpenAI’s 10GW Ohio campus backing amid risk concerns: Reports - Interesting Engineering",
+      "detected_at": "2026-08-15T00:32:00+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "openai-github_signal-2026-08-15-07517c065f32",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "OpenAI Reports Goldman Sachs Analyst to FBI for Horrifying ChatGPT Conversations - Futurism",
+      "detected_at": "2026-08-14T15:18:42+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "openai-content_signal-2026-08-15-a1c338a4ac46",
       "signal_type": "content_signal",
       "signal_subtype": "generic",
       "title": "The builder’s guide to GPT‑5.6 - OpenAI",

@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "anthropic",
   "created_at": "2026-06-03T17:25:17.685609+00:00",
-  "last_updated": "2026-08-28T18:22:12.248818+00:00",
+  "last_updated": "2026-08-29T12:30:27.421567+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -43176,6 +43176,678 @@
       "title": "Nscale caps big week with reported $45 billion Anthropic computing agreement - WV News",
       "detected_at": "2026-08-28T15:00:00+00:00",
       "importance_score": 3.5
+    },
+    {
+      "signal_id": "anthropic-leadership_change-2026-08-29-32bf365c9870",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_cto",
+      "title": "Threat Actors Are Posing as OpenAI, Anthropic and DeepSeek to Target Credentials and Secrets - GreyNoise",
+      "detected_at": "2026-08-28T13:01:11+00:00",
+      "importance_score": 9.5
+    },
+    {
+      "signal_id": "anthropic-leadership_change-2026-08-29-95765bd80868",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_cto",
+      "title": "Anthropic standard lets AI agents run lab and factory hardware - IoT News",
+      "detected_at": "2026-08-28T18:03:17+00:00",
+      "importance_score": 9.5
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-84991d477757",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Anthropic launches AI tool that can conduct scientific experiments - Financial Times",
+      "detected_at": "2026-08-27T19:20:48+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "anthropic-leadership_change-2026-08-29-214fdaa568fd",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "Anthropic Wins Lawsuit after US Deemed it a Security Risk - Business Chief",
+      "detected_at": "2026-08-29T08:00:56+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-74361cd9e49b",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI and Anthropic are ruining San Francisco - SFGATE",
+      "detected_at": "2026-08-28T11:04:07+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-dc9897d1b23f",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Nscale reaches $45 billion deal with Anthropic to lease AI capacity at Monarch campus - Charleston Gazette-Mail",
+      "detected_at": "2026-08-29T11:00:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-9f20a4284cf3",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Salesforce Earnings: Strong Bookings, Second-Half Reacceleration, Positive Anthropic Announcement - Morningstar",
+      "detected_at": "2026-08-28T14:40:12+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-4b9f69f64a10",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI - TechCrunch",
+      "detected_at": "2026-08-28T19:30:38+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-3281f0917319",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Automated researchers can reliably mitigate alignment failures - Anthropic",
+      "detected_at": "2026-08-28T17:03:08+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-13a03146f028",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless' - NPR",
+      "detected_at": "2026-08-28T04:25:08+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-fcaa8fa5ac24",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Judge rules Trump administration’s Anthropic blacklisting is illegal - Politico",
+      "detected_at": "2026-08-28T02:42:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-dd67d1210f1d",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Judge rules Trump administration illegally punished AI firm Anthropic - CBS News",
+      "detected_at": "2026-08-28T03:09:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-07d8537ec32b",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Trump Administration’s Blacklisting of Anthropic Was Illegal, Judge Rules - The New York Times",
+      "detected_at": "2026-08-28T01:43:36+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-94d1631dc671",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Federal judge blocks Pentagon blacklisting of Anthropic, calling it ‘illegal and baseless’ - NBC News",
+      "detected_at": "2026-08-28T02:51:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-2487b6772960",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Trump administration illegally retaliated against Anthropic, judge rules - BBC",
+      "detected_at": "2026-08-28T03:41:59+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-29798bd94a09",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World - WIRED",
+      "detected_at": "2026-08-27T18:06:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-08-29-a11383abb0a9",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic plans to publicly unveil IPO prospectus after Labor Day, the Information reports - Reuters",
+      "detected_at": "2026-08-27T19:08:22+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-4b5d1ec7de64",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge - Ars Technica",
+      "detected_at": "2026-08-28T18:07:55+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-448f4a3d8a65",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI, Anthropic, tech leaders warn of \"limited window\" to defend against AI cyber threats - CBS News",
+      "detected_at": "2026-08-27T19:58:09+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-73cd4d2a74e3",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Federal Judge Rules DOD Anthropic Supply Risk Designation Is Illegal - MeriTalk",
+      "detected_at": "2026-08-28T20:14:17+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-afdd3026df46",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Why Did the Pentagon Blacklist Anthropic – and Why Did a Judge Say It Was Illegal? | National News | U.S. News - U.S. News & World Report",
+      "detected_at": "2026-08-28T20:47:15+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-ab6929166355",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Judge rules Pentagon’s supply chain risk designation for Anthropic was illegal - The Hill",
+      "detected_at": "2026-08-28T03:03:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-c8186562b072",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Judge rules Anthropic supply chain risk designation was ‘illegal and baseless’ - Nextgov/FCW",
+      "detected_at": "2026-08-28T15:00:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-0f9298127afb",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Judge Says Trump's Clampdown on Anthropic Violates the First Amendment - Reason Magazine",
+      "detected_at": "2026-08-28T19:41:11+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-8ac4d72f2d9a",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI - TechCrunch",
+      "detected_at": "2026-08-27T17:43:24+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-08-29-96efe719b54c",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic sends clear message to Wall Street ahead of IPO - thestreet.com",
+      "detected_at": "2026-08-29T00:33:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-08-29-a00f38224711",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "The biggest IPOs ever. And where Anthropic could land - ABC17NEWS",
+      "detected_at": "2026-08-29T05:56:26+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-dac02dbfed42",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Video Anthropic wins legal challenge over Pentagon blacklist - ABC News - Breaking News, Latest News and Videos",
+      "detected_at": "2026-08-28T20:27:47+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-1953855fd3f0",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Judge rules Trump administration’s ban on Anthropic was illegal - MS NOW",
+      "detected_at": "2026-08-28T16:50:08+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-8342f836c778",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Court rules Defense Department 'retaliation' against Anthropic is illegal - upi.com",
+      "detected_at": "2026-08-28T12:15:35+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-08-29-21b9f435ebdb",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Judge rules in favor of Anthropic in battle against Pentagon - PressReader",
+      "detected_at": "2026-08-29T10:53:25+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-fdcf2674d1a1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Judge rules the Pentagon’s supply chain risk label for Anthropic unlawful - CNN",
+      "detected_at": "2026-08-28T03:38:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-45e290842360",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Tech giants warn time is running out to prepare for AI threats - Axios",
+      "detected_at": "2026-08-27T17:03:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-76dad4be2095",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Bet Tens of Billions on AMD. One Month Later, It Signed a $45 Billion Nvidia-Powered Lease - Yahoo Finance",
+      "detected_at": "2026-08-27T17:52:20+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-cdf8f84c9f7f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic pushes into physical world with new standard to help AI agents operate machines - CNBC",
+      "detected_at": "2026-08-27T18:00:13+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-2343ccab8e29",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Dario Amodei Says Anthropic Is 'Not Interested in Destroying Anyone' - Business Insider",
+      "detected_at": "2026-08-28T16:49:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-81e7b1b1c966",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Jim Cramer Says Salesforce’s (CRM) Anthropic Partnership Silences AI Disruption Fears - Yahoo Finance",
+      "detected_at": "2026-08-28T20:15:35+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-bd64076ff8f5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Bay Area Security Workers Threaten Action After Anthropic Office Closure - KQED",
+      "detected_at": "2026-08-28T18:19:58+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-9026d9bdf965",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic’s Beacon Hill spending spree - The Boston Globe",
+      "detected_at": "2026-08-28T10:49:06+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-eb3bbfeb7f52",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Pentagon’s blacklisting of Anthropic was unlawful, US judge rules - The Guardian",
+      "detected_at": "2026-08-29T03:19:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-86c609354ee1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Trump administration attempts to punish, ban Anthropic were unlawful, judge rules - FedScoop",
+      "detected_at": "2026-08-28T21:07:08+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-c6b78cb919e3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Meta Projected It Could Spend $10 Billion on Anthropic’s A.I. - The New York Times",
+      "detected_at": "2026-08-27T14:04:10+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-c36ef8e49e41",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "US judge blocks Pentagon's Anthropic blacklisting - Reuters",
+      "detected_at": "2026-08-28T01:27:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-78415fe770b9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic makes first move into physical AI with new way for scientists, manufacturers to bring equipment to life - Fortune",
+      "detected_at": "2026-08-27T18:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-8a9225ad94e3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI firm Anthropic wins case challenging Pentagon blacklisting - The Washington Post",
+      "detected_at": "2026-08-28T05:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-eb77737ae509",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Previewing the Model Hardware Standard - Anthropic",
+      "detected_at": "2026-08-27T17:58:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-a3fcf6e0f1f2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Expanding our support for scientists - Anthropic",
+      "detected_at": "2026-08-27T19:28:34+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-69e69b3e96f9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Beneficial Deployments - Anthropic",
+      "detected_at": "2026-08-27T15:07:20+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-2cc2b38a1a15",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "EXCLUSIVE: Anthropic in talks with chip start up MatX to speed up chip design, sources say - Reuters",
+      "detected_at": "2026-08-27T21:22:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-11bbb7d5ae3d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Court rules Pentagon can’t ban Anthropic’s AI models - SiliconANGLE",
+      "detected_at": "2026-08-28T20:54:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-daa18a66af47",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic’s new hardware standard lets AI agents control the physical world - Ars Technica",
+      "detected_at": "2026-08-27T22:15:43+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-d8c62863aa7c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic unveils new framework allowing AI agents to operate physical devices - Reuters",
+      "detected_at": "2026-08-27T19:20:09+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-793fc91dd7a2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic wants Claude to run life sciences R&D. Now it is wiring AI agents into the lab. - R&D World",
+      "detected_at": "2026-08-28T23:33:54+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-16b5ea6d9bfc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Administration Ordered to Rescind Anthropic’s Security Threat Designation (Aug 28, 2026) - VitalLaw.com",
+      "detected_at": "2026-08-29T07:00:26+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-3f7af87d8170",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "US judge rules Pentagon blacklisting of Anthropic unlawful - Reuters",
+      "detected_at": "2026-08-28T10:23:02+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-f36bb45da810",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools - Bloomberg.com",
+      "detected_at": "2026-08-27T19:31:02+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-4d4507956804",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Judge blocks Anthropic blacklisting - ABC Columbia",
+      "detected_at": "2026-08-28T21:50:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-05f8b584ebe9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic wins major court battle over Pentagon’s ‘supply chain risk’ label - The American Bazaar",
+      "detected_at": "2026-08-28T22:14:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-470c585c3940",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic wants to do for physical hardware what its Model Context Protocol did for software - the-decoder.com",
+      "detected_at": "2026-08-29T09:19:09+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-740f17f26c26",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Judge blocks Pentagon's Anthropic blacklist - Axios",
+      "detected_at": "2026-08-28T12:07:10+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-c72fd4756418",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "US judge rules Pentagon's blacklisting of Anthropic unlawful - DW.com",
+      "detected_at": "2026-08-28T15:23:40+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-4cc77faf918c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "US judge blocks Pentagon blacklisting of AI firm Anthropic - Al Jazeera",
+      "detected_at": "2026-08-28T07:06:54+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-58700d0743fa",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Judge blocks Pentagon's Anthropic blacklisting - KVUE",
+      "detected_at": "2026-08-28T21:12:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-5e72315313cb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Sony Music Publishing and Warner Chappell sue Anthropic in multi-billion dollar lawsuit - Music Business Worldwide",
+      "detected_at": "2026-08-29T10:51:27+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-b0f54e2feb29",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic wins court challenge to US supply-chain risk label - The Mercury News",
+      "detected_at": "2026-08-28T16:02:57+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-3f8c29b01791",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "How the government’s case for blacklisting Anthropic fell apart - Straight Arrow",
+      "detected_at": "2026-08-28T22:24:44+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-99d3e0d365f2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Why Salesforce's Alliance With Anthropic Changes Everything (NYSE:CRM) - Seeking Alpha",
+      "detected_at": "2026-08-28T18:41:50+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-2b35b10fcbfc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic’s new framework will let AI agents control hardware - Computerworld",
+      "detected_at": "2026-08-28T18:06:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-76a1e8fb5cbc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "US Court Rejects Pentagon Blacklisting of Anthropic - اسلام تايمز",
+      "detected_at": "2026-08-29T06:54:37+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-153abf605d45",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "QuEra Uses Anthropic AI Agent to Automate Critical Quantum Computer Process - The Quantum Insider",
+      "detected_at": "2026-08-28T09:13:13+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-95a23bcf17c5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic (Re-)Enlists for War - The American Prospect",
+      "detected_at": "2026-08-27T18:22:40+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-9cac21d8c51a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Judge rules Pentagon wrong to punish AI supplier Anthropic - wng.org",
+      "detected_at": "2026-08-28T15:53:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-79d305c4852f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label - TechCrunch",
+      "detected_at": "2026-08-28T12:46:12+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-40e56af34caa",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Federal judge rules for Anthropic in Pentagon dispute, nullifies government supply chain risk designation - Computerworld",
+      "detected_at": "2026-08-28T19:24:10+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-77b443035e0f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic fought the US government and won - Tech Brew",
+      "detected_at": "2026-08-28T18:15:16+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-0ca779d4e82d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 - TechCrunch",
+      "detected_at": "2026-08-27T23:16:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-28857ab47771",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Google takes am at Anthropic, Microsoft with budget-friendly AI pricing - CNBC",
+      "detected_at": "2026-08-27T16:12:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-5c9f1336b7d1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Says Claude Is Showing Early Signs of Self-Improvement - Startup Fortune",
+      "detected_at": "2026-08-28T21:52:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-99f5949644d8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic - WIRED",
+      "detected_at": "2026-08-28T03:04:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-43cdb1fb16b1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic MHS Cuts Lab Setup From Weeks to Hours: QuEra Lasers Hit 99.3% - Tech Times",
+      "detected_at": "2026-08-29T10:04:17+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-6bd3ae4bf993",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nscale reaches $45 billion deal with Anthropic - herald-dispatch.com",
+      "detected_at": "2026-08-28T16:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-67af4aa73ec0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Salesforce Stock Just Soared. Thank Anthropic. - The Motley Fool",
+      "detected_at": "2026-08-28T03:03:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-9170a1e311e6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI, Anthropic and 100-plus firms warn AI attacks are about to explode - SiliconANGLE",
+      "detected_at": "2026-08-27T23:27:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-08-29-fc0cbc68558a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Pentagon blacklisted Anthropic over Claude powers it didn't have - The Register",
+      "detected_at": "2026-08-28T12:31:51+00:00",
+      "importance_score": 4.0
     }
   ],
   "brief_history": [],

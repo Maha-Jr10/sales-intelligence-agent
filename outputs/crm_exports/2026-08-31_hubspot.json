@@ -1,0 +1,405 @@
+{
+  "export_id": "crm-export-2026-08-31-hubspot",
+  "generated_at": "2026-08-31T14:50:41.514629+00:00",
+  "crm_target": "hubspot",
+  "date": "2026-08-31",
+  "companies_exported": 11,
+  "exports": [
+    {
+      "company_id": "stripe",
+      "company_name": "Stripe",
+      "crm_target": "hubspot",
+      "has_brief": false,
+      "signals_count": 0,
+      "records": [
+        {
+          "record_type": "company",
+          "action": "upsert",
+          "match_field": "domain",
+          "platform": "hubspot",
+          "data": {
+            "domain": "stripe.com",
+            "name": "Stripe",
+            "industry": "Fintech / Payments Infrastructure",
+            "numberofemployees": 8000,
+            "city": "San Francisco",
+            "country": "US",
+            "website": "https://stripe.com",
+            "linkedincompanypage": "https://www.linkedin.com/company/stripe",
+            "custom_properties": {
+              "icp_fit_score": 70.0,
+              "icp_tier": "A",
+              "funding_stage": "Late Stage / Pre-IPO",
+              "tech_stack_detected": "",
+              "last_signal_date": "2026-08-31",
+              "top_signal": "",
+              "intelligence_brief_path": "",
+              "monitoring_tier": "A",
+              "sales_owner": "muhammedjohn3@gmail.com"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "company_id": "ramp",
+      "company_name": "Ramp",
+      "crm_target": "hubspot",
+      "has_brief": false,
+      "signals_count": 0,
+      "records": [
+        {
+          "record_type": "company",
+          "action": "upsert",
+          "match_field": "domain",
+          "platform": "hubspot",
+          "data": {
+            "domain": "ramp.com",
+            "name": "Ramp",
+            "industry": "B2B SaaS / FinTech",
+            "numberofemployees": 1000,
+            "city": "New York",
+            "country": "US",
+            "website": "https://ramp.com",
+            "linkedincompanypage": "https://www.linkedin.com/company/ramp-financial",
+            "custom_properties": {
+              "icp_fit_score": 80.0,
+              "icp_tier": "A",
+              "funding_stage": "Series D",
+              "tech_stack_detected": "",
+              "last_signal_date": "2026-08-31",
+              "top_signal": "",
+              "intelligence_brief_path": "",
+              "monitoring_tier": "A",
+              "sales_owner": "muhammedjohn3@gmail.com"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "company_id": "databricks",
+      "company_name": "Databricks",
+      "crm_target": "hubspot",
+      "has_brief": false,
+      "signals_count": 0,
+      "records": [
+        {
+          "record_type": "company",
+          "action": "upsert",
+          "match_field": "domain",
+          "platform": "hubspot",
+          "data": {
+            "domain": "databricks.com",
+            "name": "Databricks",
+            "industry": "Data / AI Platform",
+            "numberofemployees": 5000,
+            "city": "San Francisco",
+            "country": "US",
+            "website": "https://www.databricks.com",
+            "linkedincompanypage": "https://www.linkedin.com/company/databricks",
+            "custom_properties": {
+              "icp_fit_score": 42.0,
+              "icp_tier": "A",
+              "funding_stage": "Late Stage Private",
+              "tech_stack_detected": "",
+              "last_signal_date": "2026-08-31",
+              "top_signal": "",
+              "intelligence_brief_path": "",
+              "monitoring_tier": "A",
+              "sales_owner": "muhammedjohn3@gmail.com"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "company_id": "snowflake",
+      "company_name": "Snowflake",
+      "crm_target": "hubspot",
+      "has_brief": false,
+      "signals_count": 0,
+      "records": [
+        {
+          "record_type": "company",
+          "action": "upsert",
+          "match_field": "domain",
+          "platform": "hubspot",
+          "data": {
+            "domain": "snowflake.com",
+            "name": "Snowflake",
+            "industry": "Cloud Data Platform",
+            "numberofemployees": 5000,
+            "city": "San Mateo",
+            "country": "US",
+            "website": "https://www.snowflake.com",
+            "linkedincompanypage": "https://www.linkedin.com/company/snowflake-computing",
+            "custom_properties": {
+              "icp_fit_score": 70.0,
+              "icp_tier": "A",
+              "funding_stage": "Public (NYSE: SNOW)",
+              "tech_stack_detected": "",
+              "last_signal_date": "2026-08-31",
+              "top_signal": "",
+              "intelligence_brief_path": "",
+              "monitoring_tier": "A",
+              "sales_owner": "muhammedjohn3@gmail.com"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "company_id": "openai",
+      "company_name": "OpenAI",
+      "crm_target": "hubspot",
+      "has_brief": false,
+      "signals_count": 0,
+      "records": [
+        {
+          "record_type": "company",
+          "action": "upsert",
+          "match_field": "domain",
+          "platform": "hubspot",
+          "data": {
+            "domain": "openai.com",
+            "name": "OpenAI",
+            "industry": "AI / LLM Research & Products",
+            "numberofemployees": 3000,
+            "city": "San Francisco",
+            "country": "US",
+            "website": "https://openai.com",
+            "linkedincompanypage": "https://www.linkedin.com/company/openai",
+            "custom_properties": {
+              "icp_fit_score": 70.0,
+              "icp_tier": "A",
+              "funding_stage": "Late Stage Private",
+              "tech_stack_detected": "",
+              "last_signal_date": "2026-08-31",
+              "top_signal": "",
+              "intelligence_brief_path": "",
+              "monitoring_tier": "A",
+              "sales_owner": "muhammedjohn3@gmail.com"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "company_id": "anthropic",
+      "company_name": "Anthropic",
+      "crm_target": "hubspot",
+      "has_brief": false,
+      "signals_count": 0,
+      "records": [
+        {
+          "record_type": "company",
+          "action": "upsert",
+          "match_field": "domain",
+          "platform": "hubspot",
+          "data": {
+            "domain": "anthropic.com",
+            "name": "Anthropic",
+            "industry": "AI / LLM Research & Products",
+            "numberofemployees": 1000,
+            "city": "San Francisco",
+            "country": "US",
+            "website": "https://www.anthropic.com",
+            "linkedincompanypage": "https://www.linkedin.com/company/anthropicresearch",
+            "custom_properties": {
+              "icp_fit_score": 75.0,
+              "icp_tier": "A",
+              "funding_stage": "Series E",
+              "tech_stack_detected": "",
+              "last_signal_date": "2026-08-31",
+              "top_signal": "",
+              "intelligence_brief_path": "",
+              "monitoring_tier": "A",
+              "sales_owner": "muhammedjohn3@gmail.com"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "company_id": "adyen",
+      "company_name": "Adyen",
+      "crm_target": "hubspot",
+      "has_brief": false,
+      "signals_count": 0,
+      "records": [
+        {
+          "record_type": "company",
+          "action": "upsert",
+          "match_field": "domain",
+          "platform": "hubspot",
+          "data": {
+            "domain": "adyen.com",
+            "name": "Adyen",
+            "industry": "Fintech / Payments Infrastructure",
+            "numberofemployees": 4000,
+            "city": "Amsterdam",
+            "country": null,
+            "website": "https://www.adyen.com",
+            "linkedincompanypage": "https://www.linkedin.com/company/adyen",
+            "custom_properties": {
+              "icp_fit_score": 39.1,
+              "icp_tier": "A",
+              "funding_stage": "Public (ENXTAM: ADYEN)",
+              "tech_stack_detected": "",
+              "last_signal_date": "2026-08-31",
+              "top_signal": "",
+              "intelligence_brief_path": "",
+              "monitoring_tier": "A",
+              "sales_owner": "muhammedjohn3@gmail.com"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "company_id": "plaid",
+      "company_name": "Plaid",
+      "crm_target": "hubspot",
+      "has_brief": false,
+      "signals_count": 0,
+      "records": [
+        {
+          "record_type": "company",
+          "action": "upsert",
+          "match_field": "domain",
+          "platform": "hubspot",
+          "data": {
+            "domain": "plaid.com",
+            "name": "Plaid",
+            "industry": "Fintech / Open Banking",
+            "numberofemployees": 1000,
+            "city": "San Francisco",
+            "country": "US",
+            "website": "https://plaid.com",
+            "linkedincompanypage": "https://www.linkedin.com/company/plaid-inc-",
+            "custom_properties": {
+              "icp_fit_score": 69.1,
+              "icp_tier": "A",
+              "funding_stage": "Series D",
+              "tech_stack_detected": "",
+              "last_signal_date": "2026-08-31",
+              "top_signal": "",
+              "intelligence_brief_path": "",
+              "monitoring_tier": "A",
+              "sales_owner": "muhammedjohn3@gmail.com"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "company_id": "brex",
+      "company_name": "Brex",
+      "crm_target": "hubspot",
+      "has_brief": false,
+      "signals_count": 0,
+      "records": [
+        {
+          "record_type": "company",
+          "action": "upsert",
+          "match_field": "domain",
+          "platform": "hubspot",
+          "data": {
+            "domain": "brex.com",
+            "name": "Brex",
+            "industry": "Fintech / Spend Management",
+            "numberofemployees": 1000,
+            "city": "San Francisco",
+            "country": "US",
+            "website": "https://brex.com",
+            "linkedincompanypage": "https://www.linkedin.com/company/brex-hq",
+            "custom_properties": {
+              "icp_fit_score": 42.7,
+              "icp_tier": "A",
+              "funding_stage": "Series D",
+              "tech_stack_detected": "",
+              "last_signal_date": "2026-08-31",
+              "top_signal": "",
+              "intelligence_brief_path": "",
+              "monitoring_tier": "A",
+              "sales_owner": "muhammedjohn3@gmail.com"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "company_id": "confluent",
+      "company_name": "Confluent",
+      "crm_target": "hubspot",
+      "has_brief": false,
+      "signals_count": 0,
+      "records": [
+        {
+          "record_type": "company",
+          "action": "upsert",
+          "match_field": "domain",
+          "platform": "hubspot",
+          "data": {
+            "domain": "confluent.io",
+            "name": "Confluent",
+            "industry": "Data Streaming / Cloud Infrastructure",
+            "numberofemployees": 3000,
+            "city": "Mountain View",
+            "country": "US",
+            "website": "https://www.confluent.io",
+            "linkedincompanypage": "https://www.linkedin.com/company/confluent",
+            "custom_properties": {
+              "icp_fit_score": 29.9,
+              "icp_tier": "A",
+              "funding_stage": "Public (NASDAQ: CFLT)",
+              "tech_stack_detected": "",
+              "last_signal_date": "2026-08-31",
+              "top_signal": "",
+              "intelligence_brief_path": "",
+              "monitoring_tier": "A",
+              "sales_owner": "muhammedjohn3@gmail.com"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "company_id": "huggingface",
+      "company_name": "Hugging Face",
+      "crm_target": "hubspot",
+      "has_brief": false,
+      "signals_count": 0,
+      "records": [
+        {
+          "record_type": "company",
+          "action": "upsert",
+          "match_field": "domain",
+          "platform": "hubspot",
+          "data": {
+            "domain": "huggingface.co",
+            "name": "Hugging Face",
+            "industry": "AI / ML Platform",
+            "numberofemployees": 200,
+            "city": "New York",
+            "country": "US",
+            "website": "https://huggingface.co",
+            "linkedincompanypage": "https://www.linkedin.com/company/huggingface",
+            "custom_properties": {
+              "icp_fit_score": 69.0,
+              "icp_tier": "A",
+              "funding_stage": "Series D",
+              "tech_stack_detected": "",
+              "last_signal_date": "2026-08-31",
+              "top_signal": "",
+              "intelligence_brief_path": "",
+              "monitoring_tier": "A",
+              "sales_owner": "muhammedjohn3@gmail.com"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

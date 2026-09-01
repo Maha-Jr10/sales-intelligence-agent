@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "databricks",
   "created_at": "2026-06-03T17:25:17.618603+00:00",
-  "last_updated": "2026-08-31T13:06:12.432443+00:00",
+  "last_updated": "2026-09-01T11:21:04.355957+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,14 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "databricks-product_launch-2026-06-03-8ab4758927b9",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Databricks Announces 2026 Data + AI Summit Keynote Lineup and Programming for the World’s Largest Data and AI Conference - Databricks",
-      "detected_at": "2026-06-03T06:16:27+00:00",
-      "importance_score": 5.0
-    },
     {
       "signal_id": "databricks-product_launch-2026-06-03-0eb8a9b119e0",
       "signal_type": "product_launch",
@@ -42,43 +34,11 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "databricks-product_launch-2026-06-03-b1f271970d94",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Beyond parsing X12: Closing the gap for revenue cycle workflows in healthcare - Databricks",
-      "detected_at": "2026-06-02T21:47:46+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-06-03-8a5d7068828e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Reliable LLM Inference at Scale - Databricks",
-      "detected_at": "2026-06-03T10:34:55+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "databricks-news_mention-2026-06-03-5d1e231be717",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Brazilian Firms Embrace Databricks as AI Foundation - Yahoo Finance UK",
       "detected_at": "2026-06-03T12:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-06-03-cf69af2993bb",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Query Tags: The Context Your Warehouse Queries Have Been Missing - Databricks",
-      "detected_at": "2026-06-02T16:31:10+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-06-03-787168c412f0",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Secretless by Design: How Aembit Secures Azure Databricks Pipelines Without Static Credentials - Security Boulevard",
-      "detected_at": "2026-06-02T23:01:01+00:00",
       "importance_score": 4.0
     },
     {
@@ -9951,6 +9911,38 @@
       "signal_subtype": "generic",
       "title": "Seminar: Leveling Up with Databricks in the SHIRE - UNC Gillings School of Global Public Health",
       "detected_at": "2026-08-29T03:06:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-funding_event-2026-09-01-31fe80f02845",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Pre-IPO & Growth Fund Reports $186.8M in Net Assets, Highlights Horizon and Databricks Holdings - Kalkine Media",
+      "detected_at": "2026-08-31T22:27:27+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-09-01-0e347002b834",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Lakehouse Business Data Models for Financial Services & Insurance - Databricks",
+      "detected_at": "2026-08-31T22:38:50+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-09-01-c57300b634bd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Deloitte buys Wavicle to boost its Databricks and AI engineering muscle - Dealroom",
+      "detected_at": "2026-08-31T19:37:46+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-09-01-f3b59cb1a481",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Deloitte Acquires the Business of Wavicle, Accelerating Data and AI Engineering Capabilities - PR Newswire",
+      "detected_at": "2026-08-31T13:00:00+00:00",
       "importance_score": 4.0
     }
   ],

@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "openai",
   "created_at": "2026-06-03T17:25:17.679650+00:00",
-  "last_updated": "2026-08-31T13:06:12.528687+00:00",
+  "last_updated": "2026-09-01T11:21:04.458917+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,14 +18,6 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "openai-leadership_change-2026-06-03-bcab400ec6b7",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_cto",
-      "title": "The state of Florida sues OpenAI over ChatGPT's allegedly dangerous design - Gamereactor UK",
-      "detected_at": "2026-06-03T10:59:36+00:00",
-      "importance_score": 9.5
-    },
-    {
       "signal_id": "openai-product_launch-2026-06-03-7a98cb258501",
       "signal_type": "product_launch",
       "signal_subtype": "new_product",
@@ -34,35 +26,11 @@
       "importance_score": 7.5
     },
     {
-      "signal_id": "openai-product_launch-2026-06-03-9b5fe412480d",
-      "signal_type": "product_launch",
-      "signal_subtype": "new_product",
-      "title": "OpenAI launches new Codex tools for white-collar work - TechCrunch",
-      "detected_at": "2026-06-02T16:00:00+00:00",
-      "importance_score": 7.5
-    },
-    {
       "signal_id": "openai-product_launch-2026-06-03-fa27f77bf6a0",
       "signal_type": "product_launch",
       "signal_subtype": "new_product",
       "title": "OpenAI launches new tools for corporate users - Semafor",
       "detected_at": "2026-06-03T12:41:00+00:00",
-      "importance_score": 7.5
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-03-51430cdb1b2a",
-      "signal_type": "product_launch",
-      "signal_subtype": "new_product",
-      "title": "OpenAI Codex launches 6 new plugins for white-collar workers - qz.com",
-      "detected_at": "2026-06-02T19:00:16+00:00",
-      "importance_score": 7.5
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-03-586fc894daf3",
-      "signal_type": "product_launch",
-      "signal_subtype": "new_product",
-      "title": "Microsoft launches its own AI models to take on OpenAI and Anthropic - Euronews.com",
-      "detected_at": "2026-06-03T07:31:53+00:00",
       "importance_score": 7.5
     },
     {
@@ -79,14 +47,6 @@
       "signal_subtype": "new_ceo",
       "title": "OpenAI CEO Sam Altman to meet with White House officials - NewsNation",
       "detected_at": "2026-06-03T16:33:12+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "openai-leadership_change-2026-06-03-6802e1ac11f4",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Florida sues OpenAI and CEO over ChatGBT - CBS News",
-      "detected_at": "2026-06-03T11:08:00+00:00",
       "importance_score": 7.0
     },
     {
@@ -122,14 +82,6 @@
       "importance_score": 7.0
     },
     {
-      "signal_id": "openai-funding_event-2026-06-03-0542151d28af",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "GNS Stock Gains On First Investments Into SpaceX, OpenAI, Anthropic For $100M AI Treasury - Stocktwits",
-      "detected_at": "2026-06-03T04:07:47+00:00",
-      "importance_score": 7.0
-    },
-    {
       "signal_id": "openai-leadership_change-2026-06-03-4a91e41886a3",
       "signal_type": "leadership_change",
       "signal_subtype": "generic",
@@ -162,38 +114,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "openai-product_launch-2026-06-03-4af0edcb49fc",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI Plans AI Tools for Finance, Legal in Race With Anthropic - Bloomberg.com",
-      "detected_at": "2026-06-02T15:48:21+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-03-7179f05f0c07",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "SpaceX Kicks Off AI IPOs Set to Rewrite the Rules of Wall Street - Bloomberg.com",
-      "detected_at": "2026-06-03T10:30:01+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-hiring_spike-2026-06-03-ed32afcb5551",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "generic",
-      "title": "OpenAI's Codex update lets agents build interactive enterprise workspaces via Sites and role-specific plugins - VentureBeat",
-      "detected_at": "2026-06-02T16:00:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-03-2dce9cf4fe60",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget - WIRED",
-      "detected_at": "2026-06-02T15:30:00+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "openai-funding_event-2026-06-03-da3b4cb8e7a4",
       "signal_type": "funding_event",
       "signal_subtype": "ipo",
@@ -210,27 +130,11 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "openai-product_launch-2026-06-03-d68e50c0bb48",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Florida alleges 'mass shooters have been aided' in lawsuit against OpenAI and Sam Altman - KTXS",
-      "detected_at": "2026-06-03T03:47:19+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "openai-product_launch-2026-06-03-28ba3c04175d",
       "signal_type": "product_launch",
       "signal_subtype": "generic",
       "title": "Type a business idea in OpenAI Codex, launch a live Wix store - Stock Titan",
       "detected_at": "2026-06-03T13:00:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-03-e1bc003a954e",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Agilent, OpenAI, BCG Collaborate to Accelerate Customer-Focused, AI-Driven Scientific Innovation - Yahoo Finance Singapore",
-      "detected_at": "2026-06-03T11:00:00+00:00",
       "importance_score": 5.0
     },
     {
@@ -240,22 +144,6 @@
       "title": "Goldman Sachs CEO David Solomon Thinks There's Enough \"Greed\" to Absorb the SpaceX, OpenAI, and Anthropic IPOs - The Motley Fool",
       "detected_at": "2026-06-03T15:22:00+00:00",
       "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-03-aabc9a7b6cd2",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers - CNBC",
-      "detected_at": "2026-06-02T18:34:34+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-03-7b1bee2ab5fd",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI (and Microsoft) Make New AI Pitches to Businesses - The Information",
-      "detected_at": "2026-06-03T00:01:00+00:00",
-      "importance_score": 4.0
     },
     {
       "signal_id": "openai-news_mention-2026-06-03-00bdd758e576",
@@ -279,54 +167,6 @@
       "signal_subtype": "generic",
       "title": "Sam Altman is meeting with White House and congressional leaders after Trump's new AI order - qz.com",
       "detected_at": "2026-06-03T15:44:46+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-03-bcd7bf1d1022",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Inside OpenAI’s Decision to Combine Codex and ChatGPT - The Information",
-      "detected_at": "2026-06-02T20:45:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-03-c3dda9e9e46b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Needs Two CMOs Because It Has a Problem Marketing Can't Solve - ADWEEK",
-      "detected_at": "2026-06-02T18:53:32+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-03-c7b253df97e6",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "ChatGPT app hits 1 billion monthly active users in record time, data shows - Reuters",
-      "detected_at": "2026-06-02T22:22:40+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-03-03b6dc4a8046",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "France's Macron invites Sam Altman to attend G7, OpenAI tells CNBC - CNBC",
-      "detected_at": "2026-06-03T11:16:25+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-03-fcb06b6bf05c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Sam Altman dishes on OpenAI's top token user - Axios",
-      "detected_at": "2026-06-02T19:46:17+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-03-c45978c8f92e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI is going public as the worst value among its AI peers - Yahoo Finance",
-      "detected_at": "2026-06-03T10:01:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -354,22 +194,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-03-0724bc155d43",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Advancing youth safety and opportunity through global leadership - OpenAI",
-      "detected_at": "2026-06-02T14:59:04+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-03-652b0b75d3b5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "After the rumors: New details about OpenAI's phone - The Jerusalem Post",
-      "detected_at": "2026-06-03T08:15:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-03-a928f99cedd3",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -386,59 +210,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-03-93aeef003a7d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI extends Codex with productivity tools for nontechnical users - SiliconANGLE",
-      "detected_at": "2026-06-02T22:16:22+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-03-def7d052f536",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Florida Is Suing Sam Altman and OpenAI Over Public Safety Risks: ‘People Are Getting Hurt’ - entrepreneur.com",
       "detected_at": "2026-06-03T14:05:07+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-03-6efd6ce1f66e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Tesla Gets A Rival To Its Robotics Business, As Sales In China Eye A Recovery - Investor's Business Daily",
-      "detected_at": "2026-06-03T11:03:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-03-543d0820da52",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Microsoft debuts in-house AI models as it looks to ease reliance on OpenAI - Yahoo Finance",
-      "detected_at": "2026-06-02T19:38:24+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-03-f7fed67caaa4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI and Anthropic battle for UK banks’ trust - eMarketer",
-      "detected_at": "2026-06-03T04:08:58+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-03-44d1bd2a4551",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI powers Wolters Kluwer tools for 2,000 hospitals and tax firms - Stock Titan",
-      "detected_at": "2026-06-03T06:03:32+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-03-7bb463c08a18",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Florida slaps OpenAI with landmark lawsuit over ChatGPT - Canadian Lawyer",
-      "detected_at": "2026-06-03T05:31:39+00:00",
       "importance_score": 4.0
     },
     {
@@ -455,14 +231,6 @@
       "signal_subtype": "generic",
       "title": "Microsoft Reveals New AI Models Aimed At Relying Less on OpenAI - International Business Times",
       "detected_at": "2026-06-03T13:03:10+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-03-1e7a5614d84e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Files to Go Public, Setting Stage for Huge I.P.O. - The New York Times",
-      "detected_at": "2026-06-02T17:55:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -514,22 +282,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-03-cf47b540846d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Exclusive: Office workers embrace OpenAI's Codex - Axios",
-      "detected_at": "2026-06-03T02:14:04+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-03-106e82e804b1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Quartr Is Now Available in OpenAI's Codex via MCP - Quartr",
-      "detected_at": "2026-06-02T18:09:21+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-03-a1874c2d48a8",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -562,14 +314,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-03-d4ef98df04b7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Sam Altman dishes on OpenAI's top token user - Yahoo Finance",
-      "detected_at": "2026-06-02T19:10:22+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-03-9244e17b5883",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -584,38 +328,6 @@
       "title": "OpenAI's AI Governance Plan - StartupHub.ai",
       "detected_at": "2026-06-03T17:02:47+00:00",
       "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-03-ca0e315c7675",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI public policy agenda",
-      "detected_at": "2026-06-03T10:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-03-6a9d7ba2ce5a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "detected_at": "2026-06-03T10:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-github_signal-2026-06-03-4d7897ef164f",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "Florida Is Suing OpenAI. Will Other States Follow Suit? - U.S. News & World Report",
-      "detected_at": "2026-06-02T20:09:06+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-04-9b5fe412480d",
-      "signal_type": "product_launch",
-      "signal_subtype": "new_product",
-      "title": "OpenAI launches new Codex tools for white-collar work - TechCrunch",
-      "detected_at": "2026-06-02T16:00:00+00:00",
-      "importance_score": 7.5
     },
     {
       "signal_id": "openai-product_launch-2026-06-04-7a98cb258501",
@@ -730,14 +442,6 @@
       "importance_score": 6.0
     },
     {
-      "signal_id": "openai-funding_event-2026-06-04-60f6051ea9d8",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "As the tech mega-IPO race heats up, has OpenAI missed its moment? - The Guardian",
-      "detected_at": "2026-06-03T09:00:00+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "openai-funding_event-2026-06-04-bc39d0e3025d",
       "signal_type": "funding_event",
       "signal_subtype": "ipo",
@@ -751,30 +455,6 @@
       "signal_subtype": "generic",
       "title": "Sam Altman and Dario Amodei Agree for Once, Sign Letter Against AI-Assisted Bioweapons - Gizmodo",
       "detected_at": "2026-06-04T09:00:25+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-hiring_spike-2026-06-04-57bc7ef99b1e",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "generic",
-      "title": "Codex for every role, tool, and workflow - OpenAI",
-      "detected_at": "2026-06-02T21:53:43+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-04-2dce9cf4fe60",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget - WIRED",
-      "detected_at": "2026-06-02T15:30:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-hiring_spike-2026-06-04-ed32afcb5551",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "generic",
-      "title": "OpenAI's Codex update lets agents build interactive enterprise workspaces via Sites and role-specific plugins - VentureBeat",
-      "detected_at": "2026-06-02T16:00:00+00:00",
       "importance_score": 5.0
     },
     {
@@ -866,14 +546,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-04-be2321d3c2ab",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Sam Altman visits Washington for White House and Hill meetings - Politico",
-      "detected_at": "2026-06-02T22:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-04-d276f98355ef",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -930,35 +602,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-04-a1874c2d48a8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Sam Altman dishes on OpenAI's top token user - Axios",
-      "detected_at": "2026-06-03T09:26:08+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-04-c45978c8f92e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI is going public as the worst value among its AI peers - Yahoo Finance",
-      "detected_at": "2026-06-03T10:01:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-04-81abcadea5b1",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "OpenAI takes Codex to new heights in Alto’s ‘Time to Fly’ campaign - Ad Age",
       "detected_at": "2026-06-03T17:30:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-04-03b6dc4a8046",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "France's Macron invites Sam Altman to attend G7, OpenAI tells CNBC - CNBC",
-      "detected_at": "2026-06-03T11:16:25+00:00",
       "importance_score": 4.0
     },
     {
@@ -1007,14 +655,6 @@
       "signal_subtype": "generic",
       "title": "Is OpenAI on its way to becoming Lyft? - Sherwood News",
       "detected_at": "2026-06-03T17:13:44+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-04-aabc9a7b6cd2",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers - CNBC",
-      "detected_at": "2026-06-02T18:34:34+00:00",
       "importance_score": 4.0
     },
     {
@@ -1082,14 +722,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-04-0724bc155d43",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Advancing youth safety and opportunity through global leadership - OpenAI",
-      "detected_at": "2026-06-02T14:59:04+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-04-9f0dc28340fd",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -1130,14 +762,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-04-df5e8f832e14",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI putting Codex inside ChatGPT, 6 new business plugins now available - 9to5Mac",
-      "detected_at": "2026-06-02T16:22:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-04-9c02e63001a6",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -1159,22 +783,6 @@
       "signal_subtype": "generic",
       "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
       "detected_at": "2026-06-03T12:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-04-ca0e315c7675",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI public policy agenda",
-      "detected_at": "2026-06-03T10:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-04-6a9d7ba2ce5a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "detected_at": "2026-06-03T10:00:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -1466,14 +1074,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-05-03b6dc4a8046",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "France's Macron invites Sam Altman to attend G7, OpenAI tells CNBC - CNBC",
-      "detected_at": "2026-06-03T11:16:25+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-05-259e1778e248",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -1711,22 +1311,6 @@
       "signal_subtype": "generic",
       "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
       "detected_at": "2026-06-03T12:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-05-6a9d7ba2ce5a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "detected_at": "2026-06-03T10:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-05-ca0e315c7675",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI public policy agenda",
-      "detected_at": "2026-06-03T10:00:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -46456,6 +46040,606 @@
       "title": "OpenAI is leaving Cursor in November — here are your 3 options - Tom's Guide",
       "detected_at": "2026-08-31T11:47:20+00:00",
       "importance_score": 2.5
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-01-d1a14ac71077",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Department of War Launches OpenAI's ChatGPT Mil on GenAI.mil - U.S. Department of War (.gov)",
+      "detected_at": "2026-08-31T14:01:43+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-09-01-2e80127b3e88",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "U.S. Secretary of Commerce to host OpenAI CEO and co-founder at Carolina Inn - The Daily Tar Heel",
+      "detected_at": "2026-08-31T21:19:39+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-09-01-68e3078a1c6a",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Exclusive | The $5.5 Billion Perk SoftBank’s Data-Center Venture Offered to Land OpenAI - WSJ",
+      "detected_at": "2026-08-31T03:55:00+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "openai-hiring_spike-2026-09-01-04fa32340023",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "SpaceX is in an \"enviable position\": why Anthropic is sticking with Cursor as OpenAI cuts access - The New Stack",
+      "detected_at": "2026-08-31T21:48:46+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-01-4e520aeff672",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI Reportedly Joins Salesforce, Others In Testing Outcome-Based AI Pricing – Astra Launch In Focus - Yahoo Finance",
+      "detected_at": "2026-08-31T09:20:42+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-01-e32a25962851",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Apple Adds More Allegations To Its Trade Secrets Lawsuit Against OpenAI - Engadget",
+      "detected_at": "2026-08-31T22:34:52+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-09-01-6cbeb981cd4f",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "AI IPO pipeline: Will OpenAI and Anthropic lead the next wave? - Fox Business",
+      "detected_at": "2026-08-31T22:21:07+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-09-01-17d4b1cfdc97",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "You Can’t Invest in OpenAI Stock but This IPO Might Be the Closest Thing - Barron's",
+      "detected_at": "2026-08-31T16:38:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-09-01-ac6dce2d0a54",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Sam Altman's “Last Resort” Just Became a $1 Billion Business. What It Means for OpenAI's IPO. - The Motley Fool",
+      "detected_at": "2026-09-01T01:20:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-5eb85b83a759",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "detected_at": "2026-08-31T07:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-c28266292308",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "detected_at": "2026-08-31T07:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-3edd3542b3ac",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "A milestone in expanding access to AI",
+      "detected_at": "2026-08-31T04:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-c44f7130b003",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI says Apple has only itself to blame in trade-secret fight - Reuters",
+      "detected_at": "2026-09-01T05:32:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-ac9e40c50d8e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate - CNBC",
+      "detected_at": "2026-08-31T13:00:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-90603ac30a21",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI's ad business hits $1 billion annualized revenue run rate - Reuters",
+      "detected_at": "2026-08-31T16:12:44+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-1e9ad710225a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI looks to streamline ChatGPT ad campaign creation with redesigned onboarding experienc - Marketing Brew",
+      "detected_at": "2026-08-31T10:52:21+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-e3030056a206",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI - MIT Technology Review",
+      "detected_at": "2026-08-31T18:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-9a40a7552be0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Your boss, tech companies and police can read your chatbot conversations - The Washington Post",
+      "detected_at": "2026-08-31T17:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-7f175e77d70a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Musk vs. Altman: SpaceX stock in focus as OpenAI ends Cursor access to AI models - Yahoo Finance",
+      "detected_at": "2026-08-31T14:22:28+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-e659b005dac9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Oracle and OpenAI's Saline Township data center going up quickly - The Detroit News",
+      "detected_at": "2026-08-31T13:43:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-f2d981081a68",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Dragoneer Dangled OpenAI Stake in Push to Build $2 Billion Fund - Bloomberg.com",
+      "detected_at": "2026-08-31T13:42:22+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-0b4fbbb12756",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case - Bloomberg.com",
+      "detected_at": "2026-09-01T06:43:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-d936072969d3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI supports California’s bill to advance youth AI safety - OpenAI",
+      "detected_at": "2026-09-01T04:51:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-359cb07ac92d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Dwarkesh Patels’s wildly popular but dangerously misleading account of the OpenAI Hugging Face incident - Marcus on AI | Substack",
+      "detected_at": "2026-08-31T15:24:14+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-0d7d0b06bd91",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Apple alleges OpenAI employee accessed circuit plans after joining startup - Reuters",
+      "detected_at": "2026-08-31T20:49:02+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-96f342bf34db",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "1,200 OpenAI AI Agents Found Each Other — 700 Attacked Hugging Face - Forbes",
+      "detected_at": "2026-08-31T19:52:57+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-2557c4d23205",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI says its ad business has already hit $1B in annualized revenue - SiliconANGLE",
+      "detected_at": "2026-08-31T23:38:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-b71fe116fba8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s ChatGPT ads hit $1 billion as Israel remains outside the global rollout - calcalistech.com",
+      "detected_at": "2026-09-01T07:58:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-31a7446c0d2c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "A milestone in expanding access to AI - OpenAI",
+      "detected_at": "2026-08-31T13:05:10+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-6b3928d52a33",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages - CNBC",
+      "detected_at": "2026-08-31T19:30:10+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-911ede918aae",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure - OpenAI",
+      "detected_at": "2026-08-31T23:40:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-7751f20406d9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Hits Back at Apple Lawsuit Claiming It Stole Trade Secrets - WSJ",
+      "detected_at": "2026-09-01T11:04:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-efce96b1a019",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Advertisers likely to consider moving considerable part of ad budget to OpenAI: Evercore ISI's Mahaney - CNBC",
+      "detected_at": "2026-09-01T03:42:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-62cd51aeedd0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Apple claims OpenAI is using confidential Apple material and destroying evidence - The Japan Times",
+      "detected_at": "2026-09-01T05:44:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-7c2e05b31914",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Savannah hits pause on data centers after OpenAI's Effingham proposal - Savannah Morning News",
+      "detected_at": "2026-09-01T09:03:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-895de4346ad0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s ChatGPT Ads Business Hits $1bn Annualized Revenue Run Rate - TechAfrica News",
+      "detected_at": "2026-09-01T09:16:09+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-36af90c2fa13",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI expands ChatGPT for Teachers to 55 more U.S. school systems - edtechinnovationhub.com",
+      "detected_at": "2026-08-31T23:01:09+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-8402151162e2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Apple and OpenAI continue their dispute over the use of trade secrets - Techzine Global",
+      "detected_at": "2026-09-01T09:01:16+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-22b92b183a72",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Purchases Tens of Thousands of Mac minis, Mac Studios - TechRepublic",
+      "detected_at": "2026-08-31T19:37:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-4a7fb480473d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The Hugging Face attack was worse than we thought - platformer.news",
+      "detected_at": "2026-09-01T00:44:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-0c6a2185479c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Apple Is Suddenly an AI Infrastructure Stock as OpenAI Buys Macs by the Tens of Thousands - 24/7 Wall St.",
+      "detected_at": "2026-08-31T13:02:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-2628fd2c1ca5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "ChatGPT Ads Hit $1 Billion Run Rate as OpenAI Opens Self-Service Buying - Technology Org",
+      "detected_at": "2026-09-01T06:36:13+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-28716411f9e1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI tells the court Apple’s trade-secret case is “a mess of Apple’s own making” - The Next Web",
+      "detected_at": "2026-09-01T07:52:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-369d53e84725",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI's New Ad Business Hit a $1 Billion Run Rate in 200 Days. Its Expansion Is Only Just Starting - inc.com",
+      "detected_at": "2026-08-31T21:20:26+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-e1eb8b2fb31f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI agents hacked a company without human direction. Should we be worried? - poynter.org",
+      "detected_at": "2026-09-01T10:32:09+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-89b165f7edd8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Says Ad Business Reaches $1 Billion Run Rate - PYMNTS.com",
+      "detected_at": "2026-08-31T17:31:44+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-82f1e22de169",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Hits $1 Billion Run Rate With ChatGPT Ads In Just 200 Days - Forbes",
+      "detected_at": "2026-08-31T14:58:33+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-32cc11c2454f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI calls trade secret dispute ‘a mess of Apple’s own making’ - 9to5mac.com",
+      "detected_at": "2026-09-01T11:07:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-76380c22b559",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI to end partnership with Cursor after SpaceX acquisition - SiliconValley.com",
+      "detected_at": "2026-08-31T17:59:39+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-5f468924c457",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Effingham Industrial Authority Approves OpenAI Tax Relief, $90M Deal - Effingham Herald",
+      "detected_at": "2026-08-31T23:54:53+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-3f02b99e8f08",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Apple reveals ‘shocking evidence’ from ex-employee’s MacBook in OpenAI suit - 9to5mac.com",
+      "detected_at": "2026-08-31T20:20:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-c7fa8862ec3b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI wants to charge only when AI gets it right — here’s the catch - The New Stack",
+      "detected_at": "2026-08-31T22:23:10+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-6c9dbe3be4b3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Apple Says Former Engineer Used Stolen Trade Secrets at OpenAI, Taught AI Agent to Run Them - macrumors.com",
+      "detected_at": "2026-08-31T20:22:40+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-0757eed5fde8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI starts charging some customers only when its AI actually works - the-decoder.com",
+      "detected_at": "2026-08-31T14:30:28+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-aaec5b8de3e1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Lets Some Customers Pay Only When AI Performs - PYMNTS.com",
+      "detected_at": "2026-08-31T17:51:44+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-903e8f838e0e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Astra Solves 10 Open Math Problems [2026] - tech-insider.org",
+      "detected_at": "2026-09-01T05:13:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-aaca282028c2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI's ChatGPT falls under strictest EU online rules - euractiv.com",
+      "detected_at": "2026-08-31T16:08:07+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-23c7cc3029e9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "We finally know more about OpenAI’s rogue-agent incident. It’s worse than we thought - Fast Company Middle East",
+      "detected_at": "2026-09-01T05:04:21+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-28a577031447",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI's ChatGPT Ads Platform Hits $1 Billion in Annualized Revenue Run Rate - Yahoo Finance",
+      "detected_at": "2026-08-31T17:39:03+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-6944f4a0cea1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Apple Accuses OpenAI Of Destroying Evidence In Trade Secret Suit: Elon Musk Mocks Sam Altman, Says ‘Leopard Cannot Change Its Spots’ - Stocktwits",
+      "detected_at": "2026-09-01T05:25:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-135935943d05",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI discloses new momentum in ad business - CNBC",
+      "detected_at": "2026-08-31T18:26:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-4f533ec187b1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s Ad Business Hits $1 Billion Milestone. It’s Following the Meta Playbook. - Barron's",
+      "detected_at": "2026-08-31T16:09:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-57736a677d5b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Sam Altman's 'last resort' is now minting money for OpenAI - Business Insider",
+      "detected_at": "2026-08-31T14:14:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-9f62c2a422b1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Shocking details of OpenAI models' Hugging Face hack - CBS News",
+      "detected_at": "2026-08-31T13:01:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-ce4dc6be2b0d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Apple Trade Secrets Dispute With OpenAI Escalates - stratnewsglobal.com",
+      "detected_at": "2026-09-01T07:36:17+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-ed2c6b79730c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Cuts Off Cursor’s Model Access After SpaceX Acquisition - DevOps.com",
+      "detected_at": "2026-08-31T19:18:46+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-9303e15aece6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "DOW Brings OpenAI’s ChatGPT to GenAI.mil - WashingtonExec",
+      "detected_at": "2026-08-31T18:55:07+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-205215e4aa84",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Ad Business Reaches $1 Billion Run Rate - stratnewsglobal.com",
+      "detected_at": "2026-09-01T07:29:55+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-652317748c35",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Apple accuses OpenAI of destroying evidence as trade-secrets fight intensifies - MacDailyNews",
+      "detected_at": "2026-08-31T23:44:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-04a9779ad1de",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Sam Altman once called ads a ‘last resort.’ Now OpenAI is on track for $1 billion in revenue from them. - MarketWatch",
+      "detected_at": "2026-08-31T16:14:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-01-5cdd54fe0bcb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Cuts Off Cursor Models After SpaceX Acquisition - BankInfoSecurity",
+      "detected_at": "2026-08-31T20:02:33+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-github_signal-2026-09-01-9d1dc86c44a6",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Stay updated: Microsoft Outlook, OpenAI outage reported by thousands - KATU",
+      "detected_at": "2026-08-31T20:03:48+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "openai-github_signal-2026-09-01-dfd554be97c2",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "OpenAI confirms ChatGPT outage as users report errors - BleepingComputer",
+      "detected_at": "2026-08-31T16:50:50+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "openai-github_signal-2026-09-01-64ab07265daf",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "OpenAI issued warrants worth $5.5 billion in SB Energy, WSJ reports - Reuters",
+      "detected_at": "2026-08-31T04:31:00+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "openai-github_signal-2026-09-01-d1aaf3c17973",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "ChatGPT suffers major outage as OpenAI reports errors and delays - ynetnews.com",
+      "detected_at": "2026-08-31T17:19:44+00:00",
+      "importance_score": 3.5
     }
   ],
   "brief_history": [],

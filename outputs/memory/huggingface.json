@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-09-03T10:54:59.098277+00:00",
+  "last_updated": "2026-09-04T10:54:31.607409+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,52 +18,12 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "huggingface-news_mention-2026-06-06-060b67559bd7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Critical Hugging Face Transformers Vulnerability Enables Remote Code Execution Attacks - CyberSecurityNews",
-      "detected_at": "2026-06-06T06:46:48+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-06-06-01d078b8bdb3",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Hugging Face Transformers Security Flaw Allows Remote Code Execution - gbhackers.com",
-      "detected_at": "2026-06-05T14:04:30+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "huggingface-product_launch-2026-06-07-71cb650e28bb",
       "signal_type": "product_launch",
       "signal_subtype": "generic",
       "title": "Nvidia and FPT release 900K synthetic personas dataset for Vietnam - Crypto Briefing",
       "detected_at": "2026-06-06T13:35:53+00:00",
       "importance_score": 5.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-06-07-ada7b4b04cd2",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Hugging Face Transformers contains critical remote code execution vulnerability - Let's Data Science",
-      "detected_at": "2026-06-05T15:05:09+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-06-07-060b67559bd7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Critical Hugging Face Transformers Vulnerability Enables Remote Code Execution Attacks - CyberSecurityNews",
-      "detected_at": "2026-06-06T06:46:48+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-06-07-01d078b8bdb3",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Hugging Face Transformers Security Flaw Allows Remote Code Execution - gbhackers.com",
-      "detected_at": "2026-06-05T14:04:30+00:00",
-      "importance_score": 4.0
     },
     {
       "signal_id": "huggingface-product_launch-2026-06-08-71cb650e28bb",
@@ -12991,6 +12951,638 @@
       "signal_subtype": "generic",
       "title": "Nvidia is reportedly buying Hugging Face for $12.9 billion - wionews.com",
       "detected_at": "2026-09-01T21:12:00+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-09-04-87270d0eaad3",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC - CNBC",
+      "detected_at": "2026-09-03T12:04:26+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-09-04-082bcf602c78",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Nvidia CEO Jensen Huang on Hugging Face deal: Open models matter greatly to our company - CNBC",
+      "detected_at": "2026-09-03T12:28:00+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-09-04-65be340d9853",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "CNBC Exclusive: Transcript: Nvidia Founder & CEO Jensen Huang and Hugging Face CEO Clément Delangue Speak with CNBC’s Becky Quick on “Squawk Box” Today - CNBC",
+      "detected_at": "2026-09-03T13:41:40+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-09-04-6057001b7f6b",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Hugging Face CEO says 'planets aligned' for Nvidia deal, aims to reach 100M users - The Register",
+      "detected_at": "2026-09-03T17:23:39+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-04-a5f779c246d1",
+      "signal_type": "product_launch",
+      "signal_subtype": "beta_announcement",
+      "title": "Exclusive | Betaworks Scores With Hugging Face Deal - WSJ",
+      "detected_at": "2026-09-04T00:18:00+00:00",
+      "importance_score": 5.5
+    },
+    {
+      "signal_id": "huggingface-funding_event-2026-09-04-c34e97ca0275",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "The Week in Numbers: Nvidia snaps up Hugging Face, Shein's lackluster IPO - Reuters",
+      "detected_at": "2026-09-04T10:33:28+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-github_signal-2026-09-04-10666c24129d",
+      "signal_type": "github_signal",
+      "signal_subtype": "new_public_repo",
+      "title": "Nvidia to spend $13 billion on Hugging Face, which will remain an open source platform - AP News",
+      "detected_at": "2026-09-03T13:32:19+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-github_signal-2026-09-04-2332af1408e5",
+      "signal_type": "github_signal",
+      "signal_subtype": "new_public_repo",
+      "title": "Nvidia Expands Its Open Source AI Presence With $12.9 Billion Hugging Face Buy - The Next Platform",
+      "detected_at": "2026-09-03T20:55:49+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-04-98d1bf466f0a",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "World in Brief: Nvidia buys Hugging Face; Iran warns against Israeli assault in Lebanon - The Economist",
+      "detected_at": "2026-09-03T22:30:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-04-0a8e33c4e7aa",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Nvidia announces $12.9 billion acquisition of Hugging Face - upi.com",
+      "detected_at": "2026-09-03T14:01:23+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-04-a3257365fb40",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Nvidia acquires Hugging Face for $12.93 billion — company gains control of major AI model distribution platform - Tom's Hardware",
+      "detected_at": "2026-09-03T19:05:37+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-cddf78dc5b82",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Why the Hugging Face Hack Should Make You Worry More About A.I. - The New York Times",
+      "detected_at": "2026-09-04T00:06:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-9017f023d48f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Reduced visibility into the ‘thinking’ of OpenAI’s new model sparks safety fears - South China Morning Post",
+      "detected_at": "2026-09-04T10:31:21+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-46ab38f8b85e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia buying Hugging Face for nearly $13B - Axios",
+      "detected_at": "2026-09-03T19:36:39+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-92b2a77e1f98",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Here’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI - MarketWatch",
+      "detected_at": "2026-09-03T21:34:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-602f3cec505e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "It’s official: Nvidia will acquire Hugging Face for $12.9 billion - Fortune",
+      "detected_at": "2026-09-04T08:47:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-210a220120ef",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The ‘Deeply Nerdy’ Founders Behind Nvidia’s $13 Billion Bet on Hugging Face - WSJ",
+      "detected_at": "2026-09-04T02:18:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-ec8863d11eb1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Wilson Sonsini Advises Hugging Face on $12.9 Billion Acquisition by NVIDIA - wsgr.com",
+      "detected_at": "2026-09-04T07:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-02d08cd98781",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face - Yahoo Finance",
+      "detected_at": "2026-09-03T14:10:58+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-fccc9df3fac6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion - techcrunch.com",
+      "detected_at": "2026-09-03T12:42:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-d8260563f057",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia Acquires AI Platform Hugging Face for About $13 Billion - Bloomberg.com",
+      "detected_at": "2026-09-03T18:20:15+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-99b4f2d4ee00",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face attack is a wake-up call about the risks of AI - Financial Times",
+      "detected_at": "2026-09-03T16:54:46+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-e9c7280ecbaf",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI - WIRED",
+      "detected_at": "2026-09-03T12:43:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-f23d195999d0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia buys open-source AI co. Hugging Face for $13b - Morning Brew",
+      "detected_at": "2026-09-04T08:45:24+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-7c93482ff2f2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia bets $13 billion on open AI models with Hugging Face deal - Reuters",
+      "detected_at": "2026-09-03T12:08:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-e8a2dc0c46d2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face - The New York Times",
+      "detected_at": "2026-09-04T00:02:47+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-88c5a95d438e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia aims to broaden its AI dominance with Hugging Face deal - Axios",
+      "detected_at": "2026-09-04T06:02:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-7ee83d837fc5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Why Hugging Face is trending - CNN",
+      "detected_at": "2026-09-03T18:31:58+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-82444f501321",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal - The Guardian",
+      "detected_at": "2026-09-03T13:15:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-ee69f887f6ce",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia's Hugging Face deal is a bet on open models — and proof it's no longer just a chip company - SiliconANGLE",
+      "detected_at": "2026-09-04T01:29:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-573285c7d146",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face Founders Each Worth $1.8 Billion After Nvidia Deal - Bloomberg.com",
+      "detected_at": "2026-09-03T16:17:24+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-05ee24c90e7e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia confirms $12.9B acquisition of AI hosting platform Hugging Face - SiliconANGLE",
+      "detected_at": "2026-09-03T20:25:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-ed146476bbcc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "What's behind Nvidia buying Hugging Face? A past Microsoft deal offers clues - CNBC",
+      "detected_at": "2026-09-03T18:14:30+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-8d58d3dafe31",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "There's an Easter egg hiding inside the $12.9303 billion price tag of the Nvidia-Hugging Face deal - Business Insider",
+      "detected_at": "2026-09-03T14:46:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-8c569237bf82",
+      "signal_type": "news_mention",
+      "signal_subtype": "award",
+      "title": "Hugging Face goes from a 'scrappy' startup named after an emoji to $13 billion Nvidia acquisition - Fortune",
+      "detected_at": "2026-09-03T19:24:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-c9fb18fc1390",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "NVIDIA (NVDA)’s Hugging Face Deal Tests the Next Phase of its AI Strategy - Yahoo Finance",
+      "detected_at": "2026-09-04T01:19:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-62bba30e01f4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia's $12.9B Hugging Face Deal Tests AI Platform Neutrality - bankinfosecurity.com",
+      "detected_at": "2026-09-04T03:09:24+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-b99f1ad6fb5a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Why Clément Delangue Sold Hugging Face to Nvidia After Turning It Down - observer.com",
+      "detected_at": "2026-09-03T20:47:22+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-873e71724ce0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face is too important to fall into Nvidia's hands - The Register",
+      "detected_at": "2026-09-03T22:15:26+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-db789281ca82",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia to buy open-source AI platform Hugging Face for $13bn - Financial Times",
+      "detected_at": "2026-09-03T12:00:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-8ea6d04cf0cf",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "World in Brief: OpenAI’s astra-nomical new model; Nvidia buys Hugging Face - The Economist",
+      "detected_at": "2026-09-04T00:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-253a690c35a9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "What Nvidia’s $13B acquisition of Hugging Face means for AI model choice - InfoWorld",
+      "detected_at": "2026-09-03T20:51:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-7b77d00a81f7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia's Hugging Face Buyout: A Brilliant Move or an Antitrust Nightmare? - PCMag",
+      "detected_at": "2026-09-04T04:13:37+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-c478249c0afd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia’s Hugging Face purchase confirmed at $13 billion - mashable.com",
+      "detected_at": "2026-09-03T16:20:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-f1d55c36b265",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia Stock: How $14B Hugging Face Acquisition Could Secure Its AI Dominance - Barron's",
+      "detected_at": "2026-09-02T17:42:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-751540401d51",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia inks $13 billion deal to buy the AI startup that was hacked by OpenAI - CNN",
+      "detected_at": "2026-09-03T13:07:50+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-21e0d060b190",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia buys Hugging Face, a host for open-source AI models - NPR",
+      "detected_at": "2026-09-03T19:18:06+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-6c58b3b20800",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Why Hugging Face Is a $13 Billion Look Into AI’s Future - Barron's",
+      "detected_at": "2026-09-03T19:06:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-d4191bb2827c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "NVIDIA to buy AI developer platform Hugging Face for nearly $13B - TRT World",
+      "detected_at": "2026-09-04T07:07:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-d635e5486995",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia’s $12.9B Hugging Face deal could benefit enterprises - CIO Dive",
+      "detected_at": "2026-09-03T20:13:50+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-4cea94c00cef",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "With Hugging Face Acquisition, Nvidia Scores Big Win in AI Race - AI Business",
+      "detected_at": "2026-09-03T18:41:18+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-fa6c107583c5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Lawmakers unveil new bill to secure AI agents after OpenAI's Hugging Face breach - Axios",
+      "detected_at": "2026-09-03T14:11:42+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-b16fee89de74",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia To Acquire Hugging Face - Forbes",
+      "detected_at": "2026-09-03T16:12:55+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-c02d23b7870c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Open and Neutral? Nvidia Says Don't Worry About Its Hugging Face Acquisition - PCMag Middle East",
+      "detected_at": "2026-09-04T04:54:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-63de42aae4f8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia Raises Bet on Open-Source AI With $13B Hugging Face Deal - The Daily Upside",
+      "detected_at": "2026-09-04T04:02:48+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-756c4cb9187f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia Buying AI Platform Hugging Face For $12.9 Billion - Investor's Business Daily",
+      "detected_at": "2026-09-03T20:47:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-ba4bd53f2ae6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI Giant Nvidia to Buy Hugging Face for $12.9 Billion - Variety",
+      "detected_at": "2026-09-03T12:59:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-492e5cd9ad14",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "When Cyber Incidents do not Derail M&A: The NVIDIA–Hugging Face Lesson - Cybersecurity Insiders",
+      "detected_at": "2026-09-04T06:02:19+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-825dd8d2b80c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia to acquire AI platform Hugging Face for $12.9 billion - Türkiye Today",
+      "detected_at": "2026-09-04T07:43:24+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-8bdb38c43441",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia’s $12.93 Billion Hugging Face Deal Expands Jensen Huang's AI Platform Beyond Chips - The Motley Fool",
+      "detected_at": "2026-09-03T23:13:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-decf4e041746",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia is buying Hugging Face for $13 billion in one of its biggest acquisitions ever - Business Insider",
+      "detected_at": "2026-09-03T12:21:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-1b71b6c3c275",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia's Hugging Face Acquisition a Strategic Win -- Market Talk - Moomoo",
+      "detected_at": "2026-09-04T10:23:37+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-e765966cd163",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia’s $12.9 Billion Deal for Hugging Face Boosts Exposure to Open Model AI - Barron's",
+      "detected_at": "2026-09-03T16:25:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-f84e89db0525",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia to buy Hugging Face for $13B in big bet on open AI models - KSL News",
+      "detected_at": "2026-09-03T15:56:50+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-b51ce83fb131",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The OpenAI Agent Breach That Led To Nvidia's $13B Hugging Face Deal — Here’s The Full Story, Finally Told - Stocktwits",
+      "detected_at": "2026-09-03T21:17:52+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-08a331013b34",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Watch Nvidia to Buy Hugging Face for $13B | Bloomberg Businessweek Daily 9/3/2026 - Bloomberg.com",
+      "detected_at": "2026-09-03T21:37:54+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-78204de517e2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia Is Buying Hugging Face for $13 Billion. Here’s What You Need to Know - Investopedia",
+      "detected_at": "2026-09-03T17:16:31+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-a89af7907ef2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "NVIDIA to Acquire Hugging Face in $12.93B Deal to Cement Open AI Infrastructure Leadership - AlleyWatch",
+      "detected_at": "2026-09-03T18:10:18+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-5537742d3c69",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia Will Buy Hugging Face For Nearly $13 Billion - Forbes",
+      "detected_at": "2026-09-03T13:20:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-910fc10a79fd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia agrees to acquire Hugging Face for $12.93B - TNGlobal",
+      "detected_at": "2026-09-04T04:08:43+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-f34873aa90a1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "“Hugging Face will remain an open platform”: Nvidia strikes $12.9B deal for the ‘GitHub of AI’ - The New Stack",
+      "detected_at": "2026-09-03T17:54:29+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-14523ed8c6a8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia's Jensen Huang is 'playing both sides' of AI with Hugging Face purchase - Yahoo Finance",
+      "detected_at": "2026-09-03T20:36:20+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-4f1c068e0e46",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "NVDA: Nvidia Buys Hugging Face for $13B in Open-Source Power Grab. It’s a Slam Dunk for Durant - TradingView",
+      "detected_at": "2026-09-04T05:11:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-52a3c2da482b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia Confirms Purchase of Hugging Face for Nearly $13 Billion - ADWEEK",
+      "detected_at": "2026-09-03T15:26:18+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-7f5ffcdd8a33",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Michael Burry Calls Nvidia-Hugging Face Deal A ‘No-Brainer’ — Wall Street Sees New Threat For OpenAI And Anthropic - TradingView",
+      "detected_at": "2026-09-04T05:08:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-ad1e98d06615",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia acquires AI platform Hugging Face for $13 billion - The Mercury News",
+      "detected_at": "2026-09-03T14:58:40+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-ca35fb9961fe",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face exit could create a new wave of French angel investors - Dealroom",
+      "detected_at": "2026-09-04T09:27:43+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-04-b422c95e218d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia Agrees to Buy Hugging Face in $12.93 Billion Deal - Yahoo Finance",
+      "detected_at": "2026-09-03T16:14:29+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-github_signal-2026-09-04-1038e32bd988",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "NVIDIA plans to acquire Hugging Face and keep AI development platform open - The Robot Report",
+      "detected_at": "2026-09-03T15:42:16+00:00",
       "importance_score": 3.5
     }
   ],

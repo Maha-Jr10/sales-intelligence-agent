@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "snowflake",
   "created_at": "2026-06-03T17:25:17.673223+00:00",
-  "last_updated": "2026-09-03T10:54:58.834152+00:00",
+  "last_updated": "2026-09-04T10:54:31.354908+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,164 +18,12 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "snowflake-product_launch-2026-06-06-271c8601c265",
-      "signal_type": "product_launch",
-      "signal_subtype": "new_product",
-      "title": "Snowflake Summit AI Launches Raise Big Questions On Valuation And Momentum - simplywall.st",
-      "detected_at": "2026-06-05T12:35:38+00:00",
-      "importance_score": 7.5
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-06-3157e20ad682",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Quest Software Emphasizes Data Foundation Capabilities Around Snowflake - TipRanks",
-      "detected_at": "2026-06-06T00:18:26+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-06-882c9c8f61ba",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Argus Raises its Price Target on Snowflake (SNOW) - Yahoo Finance",
-      "detected_at": "2026-06-05T16:47:51+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-06-0038dc6b2cd9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Ericsson and Snowflake chart an enterprise AI data strategy - SiliconANGLE",
-      "detected_at": "2026-06-05T14:33:28+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-06-d8de1e0934fd",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake continues its focus on governance and unification - No Jitter",
-      "detected_at": "2026-06-05T17:09:15+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-06-558aff9bdad9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake AIM Migration Agent: Automating Enterprise Migrations - Snowflake",
-      "detected_at": "2026-06-05T18:11:53+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-06-9c92e81f4384",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "The agentic shift at the Snowflake Summit: Finding a platform's 'right to win' - InformationWeek",
-      "detected_at": "2026-06-05T19:06:38+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-06-bacd3e771638",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenGov and Snowflake build a knowledge graph to unify government data and AI - SiliconANGLE",
-      "detected_at": "2026-06-05T15:27:31+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-06-06f9e88fdd24",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Turn Social Sentiment Into Predictive Business Intelligence - Snowflake",
-      "detected_at": "2026-06-05T14:33:55+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-06-80849a14d512",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AI News for the Week of June 5; Updates from Cisco, Pinecone, Snowflake & More - Solutions Review",
-      "detected_at": "2026-06-05T21:21:20+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-06-321a11c887fa",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Beyond Basic RAG: Mastering Hybrid Search and Document Parsing in Data 360 - Atrium AI",
-      "detected_at": "2026-06-05T18:07:50+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-06-b05122769cd4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake's Platform Strategy Shift to Offer Differentiation, Monetization Opportunities, Oppenheimer Says - Moomoo",
-      "detected_at": "2026-06-05T15:05:22+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-06-e23ac51aa432",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake expands Horizon Catalog capabilities for AI governance - Indiatimes",
-      "detected_at": "2026-06-06T02:03:39+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-06-ef9526470999",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Apache Iceberg 1.11 Features: REST Catalog & Encryption - Snowflake",
-      "detected_at": "2026-06-05T17:04:38+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-06-dbb1633b19a0",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Should You Buy, Sell, or Hold SNOW Stock After a 16% Rise in One Year? - TradingView",
-      "detected_at": "2026-06-05T13:17:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-leadership_change-2026-06-07-156079164771",
       "signal_type": "leadership_change",
       "signal_subtype": "new_cto",
       "title": "Men's Christmas Jumper - Novelty Snowflake Santa Sweatshirt, 3D Printed Design, Crew Neck Pullover - umlconnector.com",
       "detected_at": "2026-06-07T01:53:02+00:00",
       "importance_score": 9.5
-    },
-    {
-      "signal_id": "snowflake-product_launch-2026-06-07-271c8601c265",
-      "signal_type": "product_launch",
-      "signal_subtype": "new_product",
-      "title": "Snowflake Summit AI Launches Raise Big Questions On Valuation And Momentum - simplywall.st",
-      "detected_at": "2026-06-05T12:35:38+00:00",
-      "importance_score": 7.5
-    },
-    {
-      "signal_id": "snowflake-product_launch-2026-06-07-f95b28d78812",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Snowflake Just Changed the Conversation About What It Actually Is - Benzinga",
-      "detected_at": "2026-06-05T12:44:48+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-07-3157e20ad682",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Quest Software Emphasizes Data Foundation Capabilities Around Snowflake - TipRanks",
-      "detected_at": "2026-06-06T00:18:26+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-07-15629b0d266f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake Horizon Catalog: Governance & Security for Enterprise AI - Snowflake",
-      "detected_at": "2026-06-05T14:34:03+00:00",
-      "importance_score": 4.0
     },
     {
       "signal_id": "snowflake-news_mention-2026-06-07-fa07d1bb47c8",
@@ -210,14 +58,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-06-07-0038dc6b2cd9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Ericsson and Snowflake chart an enterprise AI data strategy - SiliconANGLE",
-      "detected_at": "2026-06-05T14:33:28+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-news_mention-2026-06-07-8cc9adc90499",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -226,43 +66,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-06-07-882c9c8f61ba",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Argus Raises its Price Target on Snowflake (SNOW) - Yahoo Finance",
-      "detected_at": "2026-06-05T16:47:51+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-07-d8de1e0934fd",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake continues its focus on governance and unification - No Jitter",
-      "detected_at": "2026-06-05T17:09:15+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-news_mention-2026-06-07-e06e74622d7d",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Needham Raises PT on Snowflake (SNOW) - Insider Monkey",
       "detected_at": "2026-06-06T17:23:29+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-07-bacd3e771638",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenGov and Snowflake build a knowledge graph to unify government data and AI - SiliconANGLE",
-      "detected_at": "2026-06-05T15:27:31+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-07-9c92e81f4384",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "The agentic shift at the Snowflake Summit: Finding a platform's 'right to win' - InformationWeek",
-      "detected_at": "2026-06-05T19:06:38+00:00",
       "importance_score": 4.0
     },
     {
@@ -13943,6 +13751,646 @@
       "signal_subtype": "generic",
       "title": "Broadcom, Hewlett Packard Enterprise, Snowflake and more set to report Wednesday - Investing.com",
       "detected_at": "2026-09-01T18:12:22+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "snowflake-funding_event-2026-09-04-248f214cd625",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Companies like Snowflake add real value in the AI chain, says Silvant Capital's Michael Sansoterra - CNBC",
+      "detected_at": "2026-09-03T17:53:57+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "snowflake-funding_event-2026-09-04-4fa6d5df5816",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Snowflake soars 20% on earnings beat and raised guidance - Investing.com",
+      "detected_at": "2026-09-02T21:25:41+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "snowflake-leadership_change-2026-09-04-7ce99f6317fb",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Snowflake CEO Sridhar Ramaswamy: AI is indeed a flywheel for us - CNBC",
+      "detected_at": "2026-09-03T14:51:37+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "snowflake-funding_event-2026-09-04-10201290f613",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Snowflake surges on Q2 earnings: The Investment Committee's software strategy - CNBC",
+      "detected_at": "2026-09-03T17:12:00+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "snowflake-leadership_change-2026-09-04-207f62e05adb",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Watch CNBC's full interview with Snowflake CEO Sridhar Ramaswamy - CNBC",
+      "detected_at": "2026-09-03T14:55:32+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "snowflake-funding_event-2026-09-04-b346125e6d7d",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Snowflake (SNOW) Stock Soars 16% After Q2 Earnings: Is It Still a Buy? - Zacks Investment Research",
+      "detected_at": "2026-09-03T21:30:53+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "snowflake-funding_event-2026-09-04-44dbfaad53bd",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Snowflake Shares Soar as Earnings, Revenue Top Estimates - Schaeffer's Investment Research",
+      "detected_at": "2026-09-03T14:50:03+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "snowflake-funding_event-2026-09-04-24890b24c0be",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Snowflake Ventures shifted how it invests in AI startups — here’s what it looks for now - Global Venturing",
+      "detected_at": "2026-09-03T09:42:44+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "snowflake-leadership_change-2026-09-04-2a51230cf48c",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "Snowflake (NYSE: SNOW) product chief sells 25,000 shares - Stock Titan",
+      "detected_at": "2026-09-03T23:00:42+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "snowflake-product_launch-2026-09-04-e09f3768cf4c",
+      "signal_type": "product_launch",
+      "signal_subtype": "beta_announcement",
+      "title": "High-beta U.S. stocks surged, with Snowflake rising 26% and Tesla gaining nearly 8% intraday, as AI earnings reports combined with Waller’s dovish shift ignited risk appetite. - Moomoo",
+      "detected_at": "2026-09-03T20:15:09+00:00",
+      "importance_score": 5.5
+    },
+    {
+      "signal_id": "snowflake-product_launch-2026-09-04-c29bc42bb251",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Snowflake has a secret weapon that’s powering its stock toward a huge gain - MarketWatch",
+      "detected_at": "2026-09-04T00:35:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "snowflake-product_launch-2026-09-04-263bd0b610a2",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Salesforce Gains 2.75% as Snowflake Makes Enterprise AI Spending Look Real - Yahoo Finance",
+      "detected_at": "2026-09-03T21:30:02+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "snowflake-product_launch-2026-09-04-c4c5c1ace004",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Snowflake (SNOW) Stock Climbs On 37% Product Revenue Growth And Margin Gains - simplywall.st",
+      "detected_at": "2026-09-04T01:44:08+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "snowflake-product_launch-2026-09-04-5385a836de06",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Snowflake AI Rally Sends This 2X ETF Up 45% - T-REX 2X Long SNOW Daily Target ETF (BATS:SNOU) - Benzinga",
+      "detected_at": "2026-09-03T18:50:37+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "snowflake-product_launch-2026-09-04-63ce5f965122",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Snowflake (NYSE:SNOW) Stock - MarketBeat",
+      "detected_at": "2026-09-03T21:28:05+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "snowflake-hiring_spike-2026-09-04-8690a1f84cab",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "Stock Market Jumps As Snowflake Lights Up Software Rally; Yields Drop Before Jobs Report - Investor's Business Daily",
+      "detected_at": "2026-09-03T22:48:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "snowflake-product_launch-2026-09-04-e223540702e4",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "AI Cloud Stock Snowflake (NYSE: SNOW) Soars on Second Quarter News - Reaches NYSE Top Gainer List - Investorideas.com",
+      "detected_at": "2026-09-03T15:37:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-3fbb26c04d27",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake stock skyrockets on AI-driven Q2 revenue jump - Yahoo Finance",
+      "detected_at": "2026-09-03T13:05:37+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-3906b82fb2d4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake Earnings Fuel Big Nasdaq Rally: SK Hynix, SpaceX, Marex In Focus - Video - IBD - Investor's Business Daily",
+      "detected_at": "2026-09-03T20:45:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-957ad4d7ed3b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake's AI-powered results send shares soaring, buoy software stocks - Reuters",
+      "detected_at": "2026-09-03T13:59:22+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-caf51b62cfd3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Opinion | Who’s the Snowflake Now? - The New York Times",
+      "detected_at": "2026-09-03T09:04:23+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-c747e8eddd22",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Broadcom Earnings, Bond Yields, Micron Memory | September 3 Barron’s Daily - Barron's",
+      "detected_at": "2026-09-03T20:34:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-3dcb2dc2a62f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake pivots to AI platforming - Computer Weekly",
+      "detected_at": "2026-09-04T10:52:13+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-3e24caca3abf",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake Just Made AI Look Like a Growth Engine, Not a Software Killer - Money Morning",
+      "detected_at": "2026-09-04T10:42:27+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-49ab03b5e960",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Planet Labs vs. Snowflake: Evaluating the Better High-Growth Stock to Buy for 2026 - The Motley Fool",
+      "detected_at": "2026-09-04T04:49:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-d3f373db7acb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake surges 17.43% in the session's standout move - 247wallst.com",
+      "detected_at": "2026-09-04T01:50:23+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-1182d1150f0d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Why Is Snowflake (SNOW) Stock Rocketing Higher Today - Yahoo Finance",
+      "detected_at": "2026-09-03T20:55:18+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-58076ba4a39c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake’s stock soars as the company blows away estimates with its AI-fueled forecast - MarketWatch",
+      "detected_at": "2026-09-03T00:23:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-d7eea10f9b7e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Is Snowflake the Clearest Enterprise AI Stock to Buy? Strong Q2 Earnings Validate the Hype - Barron's",
+      "detected_at": "2026-09-03T20:08:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-280442076548",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake (SNOW)’s AI Push Strengthens its Growth Outlook - Yahoo Finance",
+      "detected_at": "2026-09-04T01:23:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-c2316f1b4441",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake's AI-Fueled Beat Sparks Software Rally: Will Others Follow? - Yahoo Finance",
+      "detected_at": "2026-09-04T01:24:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-9adc41bba5e0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia, Tesla, Robinhood, Snowflake, Ultragenyx, Ciena, and More Stocks That Explain Today’s Market - Barron's",
+      "detected_at": "2026-09-03T20:10:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-1589cf056c90",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake Q2 Earnings Beat on Product Revenues and AI Strength - Yahoo Finance",
+      "detected_at": "2026-09-03T17:35:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-8f2b472887a1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Bears Said AI Would Eat Snowflake. Instead, It May Have Reignited Growth - 247wallst.com",
+      "detected_at": "2026-09-03T18:18:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-3c8f0dde0dd8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake shares surge after second-quarter earnings beat - Fox Business",
+      "detected_at": "2026-09-03T21:50:42+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-cb27d3d23450",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nykredit A S Invests $35.06 Million in Snowflake Inc. $SNOW - MarketBeat",
+      "detected_at": "2026-09-04T10:09:31+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-6267063e3380",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Why Snowflake Stock Rocketed Higher Today - The Motley Fool",
+      "detected_at": "2026-09-03T16:37:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-c0ac2c2fa45e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake Stock – The SBC Elephant in the Room - Nanalyze",
+      "detected_at": "2026-09-03T18:33:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-fe24a5c80364",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake shares soar after strong earnings lessen software fears - CNBC",
+      "detected_at": "2026-09-03T18:22:20+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-bf6fdfa15fac",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake Soars 23% as AI-Fueled Guidance Raise Tops Estimates, Oracle Advances 3%, Cloudflare Edges Higher - Yahoo Finance",
+      "detected_at": "2026-09-03T14:17:37+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-8630f587fd3e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Earnings call transcript: Snowflake beats Q2 2026 estimates, shares jump 22% - Investing.com",
+      "detected_at": "2026-09-02T22:25:35+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-02bf7c159b3f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI And Data Momentum: Key Takeaways From Snowflake’s Q2 Results - crn.com",
+      "detected_at": "2026-09-03T00:34:28+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-6500da4d24fe",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake: What We Think of the Stock After Earnings - Morningstar",
+      "detected_at": "2026-09-03T09:08:24+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-7e5f1f57065f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI Leaders Palantir, Snowflake Surge, Lead 23 Newcomers To Best Stock Lists - Investor's Business Daily",
+      "detected_at": "2026-09-03T22:54:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-3eb99f4073e6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake knocks it out the park with a stellar earnings and revenue beat - SiliconANGLE",
+      "detected_at": "2026-09-03T01:25:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-b4416fe385c7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake Stock (SNOW) Opinions on Earnings Beat and Guidance Raise - Quiver Quantitative",
+      "detected_at": "2026-09-03T17:34:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-6273422719c0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake’s AI Efforts Accelerate, but Can Margins Withstand the Pressure? - 247wallst.com",
+      "detected_at": "2026-09-03T13:34:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-f92e21fa4818",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Tesla, Snowflake among market cap stock movers on Thursday - Investing.com",
+      "detected_at": "2026-09-03T18:29:27+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-1b4c23a63c81",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Futures Mixed, Oil Keeps Rising; 7 Earnings Movers With Tesla Due - Investor's Business Daily",
+      "detected_at": "2026-09-03T12:11:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-b70e395e5136",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stocks making the biggest moves premarket: Snowflake, Moderna, Broadcom & more - CNBC",
+      "detected_at": "2026-09-03T11:35:07+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-640cda518f0f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake(SNOW.US) Officer Sells US$8.68 Million in Common Stock - Moomoo",
+      "detected_at": "2026-09-03T23:04:02+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-549b2e8e8b77",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake stock soars after beating earnings estimates and raising its revenue forecast - qz.com",
+      "detected_at": "2026-09-03T11:58:03+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-6cc86e3208ad",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Christian Kleinerman Sells 15,000 Shares of Snowflake (NYSE:SNOW) Stock - MarketBeat",
+      "detected_at": "2026-09-04T01:12:13+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-7bb6b0bbc077",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Insider Selling: Snowflake (NYSE:SNOW) EVP Sells $3,800,000.00 in Stock - MarketBeat",
+      "detected_at": "2026-09-04T01:12:14+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-8f6a4cb3af6b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake Stock Soars as Surging AI Demand Boosts Earnings - Investopedia",
+      "detected_at": "2026-09-02T22:06:05+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-f38866b1994d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Datadog Shares Rise Following Snowflake Quarterly Results - Yahoo Finance",
+      "detected_at": "2026-09-03T12:26:52+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-fe10278ddd3d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake Inc. (SNOW) Q2 Earnings and Revenues Top Estimates - Yahoo Finance",
+      "detected_at": "2026-09-02T21:25:03+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-6847b8f4df65",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake earnings support software rerate as product revenue accelerates to 37% - Investing.com",
+      "detected_at": "2026-09-03T19:00:24+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-a9c975b3100c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake Inc Stock (SNOW) Moved Up by 20.76% on Sep 3: Facts Behind the Movement - TradingKey",
+      "detected_at": "2026-09-03T16:15:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-9996fbe49dfa",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake's Hidden Warning In Q2 (Rating Downgrade) (NYSE:SNOW) - Seeking Alpha",
+      "detected_at": "2026-09-03T12:25:09+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-b4fcbcc4ec24",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The AI Engine That Re-Accelerated Snowflake - trefis.com",
+      "detected_at": "2026-09-02T17:05:24+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-b3991d8878bc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "SNOW Q2 Deep Dive: AI-Powered Product Adoption and Core Platform Expansion Drive Results - StockStory",
+      "detected_at": "2026-09-03T16:12:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-dd28a4e2e2c8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "[NY Stock Market Highlights] Snowflake surges 16%, IT stocks rise; Broadcom falls (3rd) - Moomoo",
+      "detected_at": "2026-09-03T20:31:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-61d33fdf3af5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "S&P 500 Futures Up in Premarket Trading; Snowflake, Netskope Lead - Barron's",
+      "detected_at": "2026-09-03T11:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-e7e32620a1d2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake’s Earnings Ignite the Market, with AI Coding Agent CoCo Emerging as a New Growth Engine - NAI500",
+      "detected_at": "2026-09-04T03:49:20+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-a4b0e0190103",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake’s 22% Surge Signals Wall Street Is Pricing in the Agent Economy - forkast.news",
+      "detected_at": "2026-09-03T13:32:21+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-d3aaec7bdd90",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake Q2 Earnings Call Highlights - Yahoo Finance",
+      "detected_at": "2026-09-02T23:03:19+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-277aff91a515",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake (NYSE:SNOW) Posts Better-Than-Expected Sales In Q2 CY2026, Stock Jumps 22.3% - StockStory",
+      "detected_at": "2026-09-02T20:58:05+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-bae018f90b6d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake Stock Soars As AI-Fueled Earnings Smash Expectations - timothysykes.com",
+      "detected_at": "2026-09-03T20:47:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-f60c36006259",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake shares pop double-digits on earnings beat - CNBC",
+      "detected_at": "2026-09-02T20:32:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-44c849d2ff66",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Watch AI Fuels Snowflake’s Accelerating Revenue Growth - Bloomberg.com",
+      "detected_at": "2026-09-03T00:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-1620c4fd86f7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Datadog Shares Jump Following Snowflake's Strong Earnings Boost - StockInvest.us",
+      "detected_at": "2026-09-03T10:43:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-b34d740061c9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake (SNOW) price skyrockets after posting strong quarterly results - Yahoo Finance",
+      "detected_at": "2026-09-02T21:02:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-d630065f3b6e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake Stock Soars As Q2 AI Growth Resets The Bar - timothysykes.com",
+      "detected_at": "2026-09-03T19:02:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-5a6f7b16100d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Is Snowflake Inc (SNOW) Overvalued After 16.6% Rally? GF Value S - GuruFocus",
+      "detected_at": "2026-09-03T21:33:14+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-829056853c01",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake shares surge as AI demand powers growth, lifts outlook - SRN News",
+      "detected_at": "2026-09-03T10:06:40+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-04-df856e3b0265",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake stock jumps as accelerating product revenue, AI adoption drive blowout quarter - proactiveinvestors.com",
+      "detected_at": "2026-09-03T13:16:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-github_signal-2026-09-04-d8b8d962f97f",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Snowflake (SNOW) Reports Q2 Earnings: What Key Metrics Have to Say - Yahoo Finance",
+      "detected_at": "2026-09-02T22:00:02+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "snowflake-github_signal-2026-09-04-1f5b6b5309af",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Snowflake Drops 4% Before Its Earnings Report, Datadog Falls 6%: Is the Software Selloff the Real Story? - 247wallst.com",
+      "detected_at": "2026-09-02T16:41:00+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "snowflake-github_signal-2026-09-04-6c69774588f6",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Snowflake Reports Financial Results for the Second Quarter of Fiscal 2027 - Yahoo Finance",
+      "detected_at": "2026-09-02T20:05:00+00:00",
       "importance_score": 3.5
     }
   ],

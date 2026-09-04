@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "anthropic",
   "created_at": "2026-06-03T17:25:17.685609+00:00",
-  "last_updated": "2026-09-03T10:54:59.012113+00:00",
+  "last_updated": "2026-09-04T10:54:31.526087+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,436 +18,12 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "anthropic-leadership_change-2026-06-06-271ec91dd165",
-      "signal_type": "leadership_change",
-      "signal_subtype": "generic",
-      "title": "Microsoft (NASDAQ: MSFT) AI Chief Targets Anthropic As Company Claims To Have \"Closed An Enormous Gap\" - foreignpolicyjournal.com",
-      "detected_at": "2026-06-05T23:06:00+00:00",
-      "importance_score": 6.0
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-06-06-9d3939e05018",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "SpaceX lands Google AI compute deal after Anthropic pact ahead of IPO - Reuters",
-      "detected_at": "2026-06-05T18:54:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-06-06-a9dadd99cec6",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "It Sure Seems Like Pete Hegseth Is Losing His War Against Anthropic - Gizmodo",
-      "detected_at": "2026-06-05T20:20:37+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-06-06-80b0e2fc8825",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "Blacklisted AI company Anthropic, White House ease tensions ahead of IPO, sources say - Reuters",
-      "detected_at": "2026-06-05T14:59:21+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-06-06-e47898694b8c",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "Anthropic (Claude) May Be the Only $1 Trillion IPO Worth Buying - Yahoo Finance",
-      "detected_at": "2026-06-06T01:31:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-06-06-6e6fc77231f0",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "These Stocks Are About to Cash In on Anthropic's Upcoming IPO - The Motley Fool",
-      "detected_at": "2026-06-06T05:54:53+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-hiring_spike-2026-06-06-0556fbf4456a",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "generic",
-      "title": "After CEO Dario Amodei's repeated warning that AI will wipe away millions of jobs, Anthropic publishes a - The Times of India",
-      "detected_at": "2026-06-06T03:13:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-06-06-177afaa83bfc",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "Anthropic’s Daniela Amodei Charts Leaner A.I. Strategy as IPO Race With OpenAI Heats - observer.com",
-      "detected_at": "2026-06-05T15:44:26+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-06-06-7725a279a706",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "After filing for its IPO, Anthropic says we need a way to slow down AI. Fat chance. - SiliconANGLE",
-      "detected_at": "2026-06-05T14:00:33+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-9ee9527d6612",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic urges AI labs to pause, warns humans risk losing control - Al Jazeera",
-      "detected_at": "2026-06-05T19:17:49+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-bbcf5b0d974f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Model routing is a fix for AI overspending. That's a problem for OpenAI and Anthropic - CNBC",
-      "detected_at": "2026-06-05T17:06:49+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-6432207d4ff4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Apollo Wraps Up $35 Billion Debt to Buy AI Chips for Anthropic - Bloomberg.com",
-      "detected_at": "2026-06-05T21:02:29+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-fd73bb8dd7ab",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Google will pay SpaceX $920M per month for compute - TechCrunch",
-      "detected_at": "2026-06-05T18:57:20+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-46f4cac8cad2",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "SpaceX Locks Google Into A $920 Million-Per-Month Compute Deal After Anthropic, As xAI Abandons Colossus 1’s Messy GPU Mix - Wccftech",
-      "detected_at": "2026-06-05T23:51:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-6e19160f4abd",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "How Anthropic, OpenAI and Nvidia Are Driving the AI Economy - Forbes",
-      "detected_at": "2026-06-05T12:45:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-92f820095197",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "How xAI Went From Chasing Anthropic to Powering It - The Information",
-      "detected_at": "2026-06-05T13:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-e161b3504190",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "No, Anthropic did not call for a pause on AI development - Marcus on AI | Substack",
-      "detected_at": "2026-06-06T01:24:55+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-52024ad72798",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Making Claude a chemist - Anthropic",
-      "detected_at": "2026-06-05T19:27:40+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-70f12fc3d23e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic urges industry coordination to allow for a ‘pause’ in AI development if risks grow - AP News",
-      "detected_at": "2026-06-05T17:22:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-99f7c2c2e9f1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s Call for A.I. Nonproliferation - The New York Times",
-      "detected_at": "2026-06-05T13:45:15+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-1e4d6ae4841a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "What smart people are saying about Anthropic suggesting a global AI pause - Business Insider",
-      "detected_at": "2026-06-05T21:54:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-4d35fe684538",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Scared, Calls for Global Freeze on AI Advances - Futurism",
-      "detected_at": "2026-06-05T19:48:28+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-5563b2de52b3",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic warns AI could soon build itself without human involvement—and urges a global pause on development - Fortune",
-      "detected_at": "2026-06-05T14:27:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-355ed235337b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says the world should have option to ‘pause’ on AI - The Guardian",
-      "detected_at": "2026-06-05T16:58:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-327e0e41d151",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic urges ‘pause’ or ‘slowdown’ of AI development after Leo’s encyclical - EWTN News",
-      "detected_at": "2026-06-05T22:16:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-477691ee3954",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Financial Times: NSA Embeds Anthropic Engineers for AI Cyber Ops - Small Wars Journal",
-      "detected_at": "2026-06-05T20:49:13+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-f22d66037a6e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations - TechCrunch",
-      "detected_at": "2026-06-05T14:32:57+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-fd84caf1f2d4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Says World Needs System to Decide on AI Work Pause - Bloomberg.com",
-      "detected_at": "2026-06-05T11:34:42+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-dfc666cb617a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic warns Claude AI is building itself faster than expected, calls for option to halt frontier development — 'recursive self improvement' increases risk humans lose control of AI - Tom's Hardwar",
-      "detected_at": "2026-06-05T11:29:35+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-1b15160089aa",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic calls for coordinated AI development pause as security fears mount - The San Joaquin Valley Sun",
-      "detected_at": "2026-06-06T04:45:40+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-00e6af1a0393",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic warns that AI needs a 'brake pedal' - upi.com",
-      "detected_at": "2026-06-05T19:58:27+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-e79bfd7387cf",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic warns self‑improving AI could escape control - USA Today",
-      "detected_at": "2026-06-05T22:49:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-938abc836223",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic calls for global pause in Ai - ABC Columbia",
-      "detected_at": "2026-06-05T22:01:27+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-f0a0c1b5df8b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic calls for coordinated AI slowdown or pause - qz.com",
-      "detected_at": "2026-06-05T20:53:36+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-2f980e4188ca",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Glasswing widens: Anthropic puts Mythos inside power, water and hospital operators across more than 15 countries - JD Supra",
-      "detected_at": "2026-06-05T17:03:38+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-74925f38f90e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic - Ars Technica",
-      "detected_at": "2026-06-05T18:45:20+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-0cec3747ad45",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s AI services are too expensive, says Microsoft AI head - cio.com",
-      "detected_at": "2026-06-05T16:14:25+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-49a418942428",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Is Helping the NSA Hack China. It Also Wants Everyone to Pause AI - Decrypt",
-      "detected_at": "2026-06-05T19:18:56+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-978b6671e14f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says something unsettling has been happening to Claude - The Independent",
-      "detected_at": "2026-06-05T18:14:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-5abe42c940ee",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "How Anthropic Became Holier Than Thou | On the Media - WNYC Studios | Podcasts",
-      "detected_at": "2026-06-06T00:11:36+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-8ed410d61f13",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "SpaceX, Anthropic & Beyond: ICR Managing Partner Steve Parish, Live at NYSE - Yahoo Finance",
-      "detected_at": "2026-06-05T17:45:21+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-b4b5999a51f8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Apollo, Blackstone finalize $35 billion AI chip financing for Anthropic - Investing.com",
-      "detected_at": "2026-06-06T00:03:35+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-8a5389394c42",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Wants a Global AI Pause If Everyone Else Does - PYMNTS.com",
-      "detected_at": "2026-06-05T17:00:48+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-cbd2ffe26b8a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic (Sorta) Calls for Pause on AI Development. You Should (Sorta) Take It Seriously - Gizmodo",
-      "detected_at": "2026-06-05T17:00:44+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-56024eca92c3",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Calls for Global Pause on AI Development - KXLY.com",
-      "detected_at": "2026-06-05T15:48:11+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-507cc851b2d7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic warns AI development may be advancing too quickly - ABC10",
-      "detected_at": "2026-06-05T23:39:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-dacf4b0ea36d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Calls for Global AI Development Pause - KXLY.com",
-      "detected_at": "2026-06-05T15:52:37+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-8a15f7109bd9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic urges a way to pause AI development as risks grow with the tech advances - dailyjournal.net",
-      "detected_at": "2026-06-05T15:24:57+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-19d2e6ac463d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Calls for Global AI Pause as Claude Writes Its Own Code - SOFX",
-      "detected_at": "2026-06-05T22:50:01+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-06-3ecb7db1b378",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says the AI industry should pause development - KTVN",
-      "detected_at": "2026-06-05T23:42:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-github_signal-2026-06-06-862dd4594155",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "NSA using Claude Mythos for 'offensive cyber operations,' report claims — says 'half-a-dozen' Anthropic engineers embedded inside the agency - Tom's Hardware",
-      "detected_at": "2026-06-05T16:53:46+00:00",
-      "importance_score": 3.5
-    },
-    {
       "signal_id": "anthropic-funding_event-2026-06-07-499194946ca2",
       "signal_type": "funding_event",
       "signal_subtype": "generic",
       "title": "Will Cloudflare’s (NET) Anthropic Alliance and VoidZero Deal Redefine Its Edge-AI Investment Narrative? - Yahoo Finance",
       "detected_at": "2026-06-06T20:08:43+00:00",
       "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-06-07-80b0e2fc8825",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "Blacklisted AI company Anthropic, White House ease tensions ahead of IPO, sources say - Reuters",
-      "detected_at": "2026-06-05T14:59:21+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-06-07-9c110aaca012",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "Should you go in on the SpaceX, Open AI, and Anthropic IPOs? - marketplace.org",
-      "detected_at": "2026-06-05T13:31:00+00:00",
-      "importance_score": 5.0
     },
     {
       "signal_id": "anthropic-funding_event-2026-06-07-97eff7f9650f",
@@ -471,14 +47,6 @@
       "signal_subtype": "ipo",
       "title": "Anthropic poaches OpenAI's second-ever chip engineer as both companies race toward IPOs - the-decoder.com",
       "detected_at": "2026-06-07T08:34:53+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-06-07-9d3939e05018",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "SpaceX lands Google AI compute deal after Anthropic pact ahead of IPO - Reuters",
-      "detected_at": "2026-06-05T18:54:00+00:00",
       "importance_score": 5.0
     },
     {
@@ -506,86 +74,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-06-07-74925f38f90e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic - Ars Technica",
-      "detected_at": "2026-06-05T18:45:20+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-07-bbcf5b0d974f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Model routing is a fix for AI overspending. That's a problem for OpenAI and Anthropic - CNBC",
-      "detected_at": "2026-06-05T17:06:49+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-07-3420c560ce7f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Says We Must Stop Authoritarian AI. But What About Its Authoritarian Investors? - The Intercept",
-      "detected_at": "2026-06-06T09:42:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-07-fd73bb8dd7ab",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Google will pay SpaceX $920M per month for compute - TechCrunch",
-      "detected_at": "2026-06-05T18:57:20+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-07-99f7c2c2e9f1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s Call for A.I. Nonproliferation - The New York Times",
-      "detected_at": "2026-06-05T12:19:20+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-07-dc51cc75f33f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic warns that AI will soon be able to improve itself without human intervention - CNN",
-      "detected_at": "2026-06-05T11:53:57+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-07-9ee9527d6612",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic urges AI labs to pause, warns humans risk losing control - Al Jazeera",
-      "detected_at": "2026-06-05T19:17:49+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-07-50115bf9f829",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic warns AI may soon begin recursive self-improvement - Scientific American",
-      "detected_at": "2026-06-05T18:06:51+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-07-70f12fc3d23e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic urges industry coordination to allow for a ‘pause’ in AI development if risks grow - AP News",
-      "detected_at": "2026-06-05T17:22:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-07-5563b2de52b3",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic warns AI could soon build itself without human involvement—and urges a global pause on development - Fortune",
-      "detected_at": "2026-06-05T14:27:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-06-07-5df545204803",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -602,14 +90,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-06-07-52024ad72798",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Making Claude a chemist - Anthropic",
-      "detected_at": "2026-06-05T19:27:40+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-06-07-084fcb303b32",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -618,75 +98,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-06-07-1e4d6ae4841a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "What smart people are saying about Anthropic suggesting a global AI pause - Business Insider",
-      "detected_at": "2026-06-05T21:54:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-07-4d35fe684538",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Scared, Calls for Global Freeze on AI Advances - Futurism",
-      "detected_at": "2026-06-05T19:48:28+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-07-ebed6f55e708",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says something unsettling has been happening to Claude - Yahoo Finance UK",
-      "detected_at": "2026-06-05T18:14:27+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-07-fd84caf1f2d4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Says World Needs System to Decide on AI Work Pause - Bloomberg.com",
-      "detected_at": "2026-06-05T11:34:42+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-07-355ed235337b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says the world should have option to ‘pause’ on AI - The Guardian",
-      "detected_at": "2026-06-05T16:58:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-07-9e4a6da2b296",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says frontier AI labs may need to slow down so society can catch up - Business Insider",
-      "detected_at": "2026-06-05T11:43:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-06-07-3527e67fab5b",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Anthropic And OpenAI Are So Desperate For Compute They Let Broadcom Finance Their Own Chips For Them - Yahoo Finance",
       "detected_at": "2026-06-06T11:32:06+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-07-f22d66037a6e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations - TechCrunch",
-      "detected_at": "2026-06-05T14:32:57+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-07-dfc666cb617a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic warns Claude AI is building itself faster than expected, calls for option to halt frontier development — 'recursive self improvement' increases risk humans lose control of AI - Tom's Hardwar",
-      "detected_at": "2026-06-05T11:29:35+00:00",
       "importance_score": 4.0
     },
     {
@@ -711,22 +127,6 @@
       "signal_subtype": "generic",
       "title": "Varonis Anthropic Alliance Puts AI Governance At Center Of Growth Story - simplywall.st",
       "detected_at": "2026-06-07T02:35:43+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-07-327e0e41d151",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic urges ‘pause’ or ‘slowdown’ of AI development after Leo’s encyclical - EWTN News",
-      "detected_at": "2026-06-05T22:16:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-07-477691ee3954",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Financial Times: NSA Embeds Anthropic Engineers for AI Cyber Ops - Small Wars Journal",
-      "detected_at": "2026-06-05T20:49:13+00:00",
       "importance_score": 4.0
     },
     {
@@ -760,38 +160,6 @@
       "title": "Brooklyn seller lists $6M home, accepts Anthropic stock as payment - Crypto Briefing",
       "detected_at": "2026-06-07T02:30:53+00:00",
       "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-07-9b329d89dc4f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic probes customer data leak claims after Friday Claude outage - Cybernews",
-      "detected_at": "2026-06-05T21:27:46+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-07-00e6af1a0393",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic warns that AI needs a 'brake pedal' - upi.com",
-      "detected_at": "2026-06-05T19:58:27+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-07-67d231549542",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic calls for AI development slowdown to ensure safety - Semafor",
-      "detected_at": "2026-06-05T11:51:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-github_signal-2026-06-07-0324e06983a3",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs - Amazon Web Services (AWS)",
-      "detected_at": "2026-06-05T19:15:11+00:00",
-      "importance_score": 3.5
     },
     {
       "signal_id": "anthropic-leadership_change-2026-06-08-b5f2cccf4b26",
@@ -44511,6 +43879,598 @@
       "signal_subtype": "generic",
       "title": "Trifecta Technologies Expands AI Capabilities with Anthropic Partnership and Claude Services - PR Newswire",
       "detected_at": "2026-09-01T14:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-04-6050edff86fe",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Anthropic launches Claude Fable 5.1 and restricted Mythos 5.1 for advanced research - EdTech Innovation Hub",
+      "detected_at": "2026-09-03T23:30:18+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-04-2d8d8ad8a4ef",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Anthropic launches AI commerce agents with Visa and Mastercard - Finextra Research",
+      "detected_at": "2026-09-04T09:25:35+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "anthropic-leadership_change-2026-09-04-9ae8b98254ce",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping season - Reuters",
+      "detected_at": "2026-09-02T16:01:43+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "anthropic-leadership_change-2026-09-04-e77763cf904d",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "US Commerce chief says Anthropic back on 'right side' with Trump, Axios reports - Reuters",
+      "detected_at": "2026-09-02T17:15:34+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-04-cd54f5b00f02",
+      "signal_type": "product_launch",
+      "signal_subtype": "major_release",
+      "title": "Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment - MarkTechPost",
+      "detected_at": "2026-09-03T19:46:59+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "anthropic-leadership_change-2026-09-04-99fb855d40a8",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "Anthropic Cuts Agent Compute Costs Ahead Of Fable 5.1 Rollout - Forbes",
+      "detected_at": "2026-09-03T13:36:20+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-04-fcbaf228d684",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Which Investors Will Get Rich From Anthropic’s IPO? - The New York Times",
+      "detected_at": "2026-09-03T09:02:51+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-04-db48cb918cd2",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic Automatically Signs Out Claude Users To Protect Them From Hackers - Engadget",
+      "detected_at": "2026-09-03T16:39:18+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-04-ab0edd2bec69",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic Is Reportedly Planning to Unveil IPO Prospectus After Labor Day - Yahoo Finance",
+      "detected_at": "2026-09-03T15:12:35+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-04-987025df376a",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "How Anthropic Makes Money—and What Investors Should Know Ahead of Its IPO Filing - Morningstar",
+      "detected_at": "2026-09-04T08:42:59+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-04-2eb2e37f51ad",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Watch Anthropic Finalizing $15 Billion Pre-IPO Credit Facility - Bloomberg.com",
+      "detected_at": "2026-09-04T05:58:27+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-04-34dcef26fe71",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic’s IPO Prospectus Will Test Assumptions Behind The AI Boom - Forbes",
+      "detected_at": "2026-09-02T15:19:03+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-04-adb5dd198183",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic nears $15B credit facility ahead of IPO - report (ANTHRO:Private) - Seeking Alpha",
+      "detected_at": "2026-09-04T05:04:29+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-04-074b3872cc81",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "The IPO Quiet Period Explained: What Anthropic Can And Cannot Say - Financial Samurai",
+      "detected_at": "2026-09-02T11:18:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-04-452b32401e86",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic Nears a $15 Billion Credit Line as Its IPO Push Accelerates - Startup Fortune",
+      "detected_at": "2026-09-04T08:41:50+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-04-52e180971166",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic Nears Finalizing $15 Billion Pre-IPO Credit Facility - Yahoo Finance",
+      "detected_at": "2026-09-03T22:43:54+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-04-8167a471c92d",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI Declares “AGI Era” With Astra Launch. Anthropic’s Fable 5.1 More Than Doubled Its Predecessor’s Science Score. MSFT and AMZN Both Win, but One Has A Slight Edge - Yahoo Finance",
+      "detected_at": "2026-09-04T04:11:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-04-7d8966674337",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic looks set to tie up $15bn of pre-IPO funding - proactiveinvestors.com",
+      "detected_at": "2026-09-04T07:15:33+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-04-f8d263aee973",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "The Anthropic IPO May Be Right Around the Corner. Here’s What Investors Need to Know. - The Motley Fool",
+      "detected_at": "2026-09-04T01:10:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-04-eb16a1e53027",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "What Anthropic's IPO Investors Want to Know - The Information",
+      "detected_at": "2026-09-03T17:00:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-04-8cee46731add",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic's $2 Trillion IPO Is Pure Insanity - planetearthandbeyond.co",
+      "detected_at": "2026-09-03T21:00:55+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-04-ecc431319f50",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic Is Reportedly Gearing Up for an IPO This Year That Could Be Bigger Than SpaceX. 3 Things Investors Should Know. - The Motley Fool",
+      "detected_at": "2026-09-03T19:29:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-04-3492a48a5920",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic says new gable AI model is cheaper, better at coding - The Seattle Times",
+      "detected_at": "2026-09-03T16:35:08+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-04-3ce3a8d089b0",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic approaches RIAs to manage employee wealth ahead of IPO: Sources - Citywire",
+      "detected_at": "2026-09-02T20:35:03+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-04-1b66480c9181",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic set to finalize $15 bln credit facility ahead of IPO - Bloomberg - Investing.com",
+      "detected_at": "2026-09-04T00:00:23+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-04-f4100f79c05c",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "OpenAI, Anthropic aim to balance safety, progress as IPOs near - Axios",
+      "detected_at": "2026-09-03T03:17:44+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-04-ad27a6d2674d",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic Nears $15 Billion Credit Line, Advancing IPO Fundraising Plans - TradingKey",
+      "detected_at": "2026-09-04T05:57:38+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-04-10de93e272a1",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic Ramps Up Push for Landmark IPO: Report Says $15 Billion Credit Facility Deal Is Near Finalization - Moomoo",
+      "detected_at": "2026-09-04T03:07:50+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-04-d22feaac52a8",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "NEWSLETTER: Anthropic was cautious on mega infra deals. Then demand surged - Reuters",
+      "detected_at": "2026-09-02T21:06:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-04-5cfac53fcf4e",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "3 Reasons Why Anthropic IPO Could Be Huge: ETFs in Focus - Yahoo Finance",
+      "detected_at": "2026-09-03T12:00:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-0c8539d77b98",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today - WIRED",
+      "detected_at": "2026-09-03T21:56:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-4c9233d60ec6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI, Anthropic, SpaceXAI Hit by Outages for AI Models - Bloomberg.com",
+      "detected_at": "2026-09-03T18:10:50+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-841434fe6300",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "GPT-6 Stole the Show, but Anthropic, Meta and Google Also Had New AI Models This Week - cnet.com",
+      "detected_at": "2026-09-03T21:10:31+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-ef76d0ef20e8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI says it has overtaken Anthropic with its latest AI model - Financial Times",
+      "detected_at": "2026-09-03T18:00:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-4bc8353901b0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic's distillation battle turns to the dark web as China concerns swell - CNBC",
+      "detected_at": "2026-09-03T11:45:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-33c0ed1a3cb4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Fluidstack Hit A $18 Billion Valuation By Helping Build Google and Anthropic’s Data Centers - Forbes",
+      "detected_at": "2026-09-03T10:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-b0d3b8fad9d4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Lutnick: Anthropic is \"back on the right side\" with Trump administration - Axios",
+      "detected_at": "2026-09-02T22:13:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-e8d6e6f9567c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Pentagon Says Its Anthropic Ban Is On, Despite Lutnick Remarks - Bloomberg.com",
+      "detected_at": "2026-09-03T16:18:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-11b89d327f05",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Splits From Google, OpenAI Over State AI Safety Bill - The Information",
+      "detected_at": "2026-09-03T13:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-15ee1a577ac9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Office security workers for OpenAI, Anthropic, and other tech firms authorize a strike - Business Insider",
+      "detected_at": "2026-09-03T10:22:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-93532092b644",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic pauses some AI training following rogue agent hacks. Here’s how it compares with OpenAI - Fortune",
+      "detected_at": "2026-09-02T12:49:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-cc73491e0325",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic and OpenAI's revenue chasm, explained - Axios",
+      "detected_at": "2026-09-03T09:59:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-308bd9493855",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Transcript: Howard Lutnick Interviews Anthropic’s Tom Brown at G20 Innovation Summit - The Singju Post",
+      "detected_at": "2026-09-04T07:53:43+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-d9eca88cb6e3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI, Anthropic, and Grok Hit by Widespread Outages - Barron's",
+      "detected_at": "2026-09-03T18:34:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-77dc3f5bad67",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "‘Lots More Apples & Oranges’ in AI. OpenAI, Meta & Anthropic. ARD #156 - AI: Reset to Zero",
+      "detected_at": "2026-09-04T06:17:07+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-000cc61efba2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Top Pentagon official reaffirms Anthropic blacklist despite Lutnick comments - Axios",
+      "detected_at": "2026-09-03T16:46:02+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-05da9318872f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic confirms Claude is down, multiple models affected - BleepingComputer",
+      "detected_at": "2026-09-03T15:02:52+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-cc1369353320",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Debuts Commerce Agent Blueprint With Visa and Mastercard - pymnts.com",
+      "detected_at": "2026-09-03T20:53:42+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-a10736c4dd7b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Deliberately Trained an Extremely Misaligned, Reward-Seeking AI and It Did Some REALLY Bad Things - Futurism",
+      "detected_at": "2026-09-02T15:50:26+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-204492a7e32b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic still flagged as risk to defense industrial base, US official says - Reuters",
+      "detected_at": "2026-09-03T14:53:20+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-3d05e926b41e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs - The Hacker News",
+      "detected_at": "2026-09-02T18:27:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-aa59683e77cc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Executive Doesn’t Want to ‘Buy Market Share’ With Price Cuts - Bloomberg.com",
+      "detected_at": "2026-09-03T21:30:06+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-2db59f08e992",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Future-Proofing Your AI Stack: Lessons from Anthropic’s Fallout With The White House - TV News Check",
+      "detected_at": "2026-09-04T09:31:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-aead3c618e90",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Claude Enterprise Frontier Safeguards Explained - tech-insider.org",
+      "detected_at": "2026-09-03T23:13:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-a375b3758896",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake Results Show Enterprises’ Desire For Anthropic Buffer - The Information",
+      "detected_at": "2026-09-03T20:07:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-931eca574476",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "GPT-6, Also Known as \"Astra,\" Is Here to Beat Anthropic and Be \"AGI\" - trendingtopics.eu",
+      "detected_at": "2026-09-03T19:18:33+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-14c77b776af4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The security workers who guard OpenAI and Anthropic could go on strike - Fast Company",
+      "detected_at": "2026-09-03T22:07:27+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-32dc0b88afe8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Pentagon says Anthropic supply chain risk ban is still in effect - qz.com",
+      "detected_at": "2026-09-03T17:49:54+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-57dd167d66b1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic’s Content Checker Tool Is Here, With One Big Catch - cnet.com",
+      "detected_at": "2026-09-02T21:31:17+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-f278e7519907",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI, Anthropic, SpaceXAI Hit by service outages for AI models - Chicago Tribune",
+      "detected_at": "2026-09-03T17:26:43+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-67422b4810fb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Matt Clifford's move to Anthropic draws criticism: 'Not cool' - Sifted",
+      "detected_at": "2026-09-03T18:59:15+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-295eb68645a4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Meta Rises 4% as Muse Spark 1.3 Claims Parity With Anthropic and OpenAI - 247wallst.com",
+      "detected_at": "2026-09-03T18:48:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-ed9444d0b8c0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AM Markets Need to Know: Anthropic credit deal, Musk PAC, and more (SP500:) - Seeking Alpha",
+      "detected_at": "2026-09-04T10:20:43+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-f59e852ed80e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Pentagon confirms Anthropic remains a ‘supply chain risk’ despite court ruling - washingtonexaminer.com",
+      "detected_at": "2026-09-03T17:14:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-80da7a61f298",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Breaks With Peers on Massachusetts AI Safety Bill - pymnts.com",
+      "detected_at": "2026-09-03T18:23:42+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-f67f6b8f5806",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic surpasses OpenAI in ARR and valuation, says OpenAI president - TradingView",
+      "detected_at": "2026-09-04T04:37:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-494069944963",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic is giving retailers blueprints to build AI shopping agents for the holidays - qz.com",
+      "detected_at": "2026-09-03T12:29:33+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-9c88d3dcddb0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Most of the bugs Claude Mythos found have never been checked by a human - Help Net Security",
+      "detected_at": "2026-09-04T04:30:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-f83b4f6acfbd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Amadeus is working with Anthropic to help developers access content - PhocusWire",
+      "detected_at": "2026-09-03T12:44:48+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-7d802831c4c3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI says it has overtaken Anthropic with GPT-6 Astra, the 'world's most intelligent' model, amid a wave of autonomous hacks in the AI industry - voz.us",
+      "detected_at": "2026-09-04T04:05:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-a4902bb71a95",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "US government can't seem to make up its mind on Claude-maker, day after Commerce Secretary said Anthropi - The Times of India",
+      "detected_at": "2026-09-04T10:22:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-d9c89a3bd9e3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Is Anthropic a supply chain risk? The debate continues - Yahoo Finance",
+      "detected_at": "2026-09-03T19:43:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-a7abcde013ea",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "How dark web hackers are stealing Anthropic and OpenAI's top models - CNBC",
+      "detected_at": "2026-09-03T11:43:58+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-04-d04a4a681ae7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Pentagon Calls Anthropic A ‘Supply Chain Risk’ — A Day After Commerce Secretary Backs AI Firm - Stocktwits",
+      "detected_at": "2026-09-03T18:17:00+00:00",
       "importance_score": 4.0
     }
   ],

@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "stripe",
   "created_at": "2026-06-03T17:25:17.440750+00:00",
-  "last_updated": "2026-09-04T10:54:31.209660+00:00",
+  "last_updated": "2026-09-05T10:13:22.918332+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,30 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "stripe-product_launch-2026-06-07-e6319495c838",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "One Stripe – Gallant In Defeat - Sporting Post",
-      "detected_at": "2026-06-07T06:44:39+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-06-07-450a87fd7e7c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "LG Display starts mass production of first RGB-stripe OLED monitor panel - FlatpanelsHD",
-      "detected_at": "2026-06-06T11:25:04+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-06-07-88ed26b8f6fe",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Stripe's Kaliski on Building Safe AI Payments - StartupHub.ai",
-      "detected_at": "2026-06-06T15:03:16+00:00",
-      "importance_score": 4.0
-    },
     {
       "signal_id": "stripe-leadership_change-2026-06-08-17e02f154c4e",
       "signal_type": "leadership_change",
@@ -72,14 +48,6 @@
       "title": "One Stripe – Gallant In Defeat - Sporting Post",
       "detected_at": "2026-06-07T21:23:23+00:00",
       "importance_score": 5.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-06-08-d06968d8c119",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Visa, Mastercard and Stripe Back Ethereum (ETH) Stablecoin Platform as Ruvi (RUVI) Fills Phase 3 at $0.020 - openPR.com",
-      "detected_at": "2026-06-06T19:17:10+00:00",
-      "importance_score": 4.0
     },
     {
       "signal_id": "stripe-news_mention-2026-06-08-a1443d912539",
@@ -13639,6 +13607,158 @@
       "signal_subtype": "generic",
       "title": "'Stripe The Stadium' guide for MSU-Toledo football opener on Friday - spartanswire.usatoday.com",
       "detected_at": "2026-09-02T11:04:00+00:00",
+      "importance_score": 2.5
+    },
+    {
+      "signal_id": "stripe-funding_event-2026-09-05-fcd6ded0fb0b",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Nvidia acquires Hugging Face after Stripe nabs OpenRouter: here's what open source AI builders should do - Venturebeat",
+      "detected_at": "2026-09-04T20:43:31+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "stripe-funding_event-2026-09-05-d660954b0223",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Investor says pre-IPO fund hid markups on SpaceX and Stripe stakes - InvestmentNews",
+      "detected_at": "2026-09-03T20:51:39+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "stripe-product_launch-2026-09-05-9ccfcc72e09c",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Alienware has launched the world's first 39-inch 5K RGB Stripe tandem OLED monitor — where to buy - Mashable",
+      "detected_at": "2026-09-05T03:13:39+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "stripe-product_launch-2026-09-05-cb4c634d8ee0",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Deeper Legal Workflows: Stripe Has Acquired Legal Infrastructure Provider Clerky - Trend Hunter",
+      "detected_at": "2026-09-05T08:11:03+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "stripe-product_launch-2026-09-05-732542f51824",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Alienware Just Released the World's First 39\" 5K Monitor With RGB Stripe Tandem OLED Technology - ign.com",
+      "detected_at": "2026-09-04T16:55:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "stripe-product_launch-2026-09-05-cb9b94b59a43",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Alienware announces two new monitors, including 4K RGB stripe tandem OLED — and it's quickly becoming the new standard - tech.yahoo.com",
+      "detected_at": "2026-09-04T13:00:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-09-05-59c1c9b9dc4e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic’s In-House Payments Tech Push Could Chip Away at Stripe - The Information",
+      "detected_at": "2026-09-04T15:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-09-05-d9fc047254bf",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Alienware 32 brings RGB stripe tandem OLED technology to its 32-inch 4K lineup - tweaktown.com",
+      "detected_at": "2026-09-03T10:33:13+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-09-05-68f1b8536bda",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic’s efforts to build in-house payments tech could hurt Stripe: The Information - Seeking Alpha",
+      "detected_at": "2026-09-04T17:43:46+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-09-05-f96c7884752b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe taps new stablecoin executive - Payments Dive",
+      "detected_at": "2026-09-03T14:45:17+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-09-05-af05a6c810e5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Moline crews will re-stripe part of 18th Street to create one-way traffic - OurQuadCities",
+      "detected_at": "2026-09-03T22:59:13+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-09-05-e70648a2792a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "X shifts creator payouts from Stripe to X Money, betting on high APRs to retain funds - eMarketer",
+      "detected_at": "2026-09-03T20:43:24+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-09-05-074af0e7835f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Penn State Football’s Stripe Out By The Numbers - onwardstate.com",
+      "detected_at": "2026-09-03T13:07:21+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-09-05-1a85c8f46497",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "X Kicks Stripe Off Creator Payouts and Routes the Money Through X Money - Startup Fortune",
+      "detected_at": "2026-09-04T15:26:23+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-09-05-da3b99de81a7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "X Now Requires U.S. Creators To Use X Money For Payouts, Ending Stripe Option - Net Influencer",
+      "detected_at": "2026-09-03T11:26:53+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-09-05-7d9805979983",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "X shifts US creator payouts from Stripe to X Money - Storyboard18",
+      "detected_at": "2026-09-03T12:31:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-09-05-d5dc49bf1022",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "PayPal Stock Jumps on Fresh Takeover Speculation - TradingView",
+      "detected_at": "2026-09-04T12:28:59+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-github_signal-2026-09-05-0b1fc0b6967d",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Anthropic Is Reportedly Pushing To Build In-House Payments Infrastructure, Challenging Stripe - stocktwits.com",
+      "detected_at": "2026-09-05T00:01:16+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "stripe-content_signal-2026-09-05-9ace41a61e9b",
+      "signal_type": "content_signal",
+      "signal_subtype": "generic",
+      "title": "DBS and Stripe Form Agentic Payments Partnership in APAC: What Europe and the UK Must Learn - bobsguide.com",
+      "detected_at": "2026-09-04T09:33:43+00:00",
       "importance_score": 2.5
     }
   ],

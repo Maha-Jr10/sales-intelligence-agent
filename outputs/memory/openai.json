@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "openai",
   "created_at": "2026-06-03T17:25:17.679650+00:00",
-  "last_updated": "2026-09-06T10:37:40.830751+00:00",
+  "last_updated": "2026-09-07T11:57:55.413707+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,638 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "openai-news_mention-2026-06-08-8c3b564dc43d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Entrata Collaborates with OpenAI to Define the Future of Autonomous Property Management - AiThority",
-      "detected_at": "2026-06-08T10:39:34+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-ca251025b734",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "OpenAI files to go public in major test of AI investment boom - Yahoo Finance",
-      "detected_at": "2026-06-08T23:16:36+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-e2503db41de5",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "Open AI’s Tech Talk Show ‘TBPN’ Makes Last-Minute Emmy Category Shift to Outstanding Variety Series (EXCLUSIVE) - Variety",
-      "detected_at": "2026-06-08T23:01:00+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-bccd24853b89",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "OpenAI plans to go public, intensifying investment race with Anthropic - Yahoo Finance Australia",
-      "detected_at": "2026-06-08T22:45:19+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-1ae2d5da426d",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI files for US IPO after Anthropic as AI giants head to public markets - Reuters",
-      "detected_at": "2026-06-08T21:17:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-c961a372d394",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI submits confidential IPO filing, timing and terms undecided - Yahoo Finance",
-      "detected_at": "2026-06-09T08:47:07+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-bdb1d350361e",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI confidentially files for IPO, but says it 'may be a while' before it goes public - Business Insider",
-      "detected_at": "2026-06-08T21:30:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-59a29962fab8",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI Files Confidentially for IPO as Rivals Compete for Cash - Bloomberg.com",
-      "detected_at": "2026-06-08T21:36:48+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-hiring_spike-2026-06-09-8c7bd58dd0af",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "generic",
-      "title": "OpenAI files confidential SEC paperwork for IPO, opening the door to a Wall Street debut - AP News",
-      "detected_at": "2026-06-09T01:20:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-2c26ef100dd6",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI confidentially files for IPO, signaling major public debut for San Francisco AI company - ABC7 Bay Area",
-      "detected_at": "2026-06-08T21:56:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-56c516b149a3",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "Perplexity plans IPO in 2028 regardless of what happens to Anthropic or OpenAI, CEO tells CNBC - CNBC",
-      "detected_at": "2026-06-09T00:44:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-86f6159bd9bc",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI IPO 2026 Guide: Date, Expected Valuation, and How to Invest in ChatGPT - Zacks Investment Research",
-      "detected_at": "2026-06-09T01:16:34+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-aa0921026306",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "CNBC Daily Open: Hat trick of tech IPOs complete with OpenAI filing - CNBC",
-      "detected_at": "2026-06-09T06:13:29+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-134610124515",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "ChatGPT maker OpenAI confidentially files for IPO, a week after Anthropic - Fortune",
-      "detected_at": "2026-06-08T21:55:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-797118b6e837",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI Files for IPO - WSJ",
-      "detected_at": "2026-06-08T21:45:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-hiring_spike-2026-06-09-04e419a23503",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "generic",
-      "title": "OpenAI says it filed confidential IPO as it positions itself for AI arms race - CBS News",
-      "detected_at": "2026-06-08T21:42:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-800dfed1393b",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI confidentially files its IPO paperwork as it inches closer to stock market debut - SiliconANGLE",
-      "detected_at": "2026-06-09T01:27:09+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-e33f79719a2d",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI confidentially files for US IPO as AI boom drives investor frenzy - France 24",
-      "detected_at": "2026-06-09T01:18:36+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-5b5d3e06a60f",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI Confidentially Files For IPO, Company Says - Forbes",
-      "detected_at": "2026-06-08T21:46:09+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-5e56dedaecfd",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI files for blockbuster IPO as AI giants head to public markets - AFR",
-      "detected_at": "2026-06-09T04:20:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-a9c9ad4604b2",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "VIEW OpenAI joins Anthropic in IPO push - Reuters",
-      "detected_at": "2026-06-08T23:13:08+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-3ec1cb7cefb2",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic - WIRED",
-      "detected_at": "2026-06-08T21:31:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-0368a725774b",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare - Business Insider",
-      "detected_at": "2026-06-09T04:41:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-bc2ef3c20f81",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "Chips Rebound, Intel Catches A $3 Million-Order Tailwind, And OpenAI Joins The IPO Queue - ChartMill",
-      "detected_at": "2026-06-09T08:38:39+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-d2d0589aa9c6",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "ChatGPT maker OpenAI files for IPO as AI rivals race to go public - Euronews.com",
-      "detected_at": "2026-06-09T05:07:41+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-7b68381082f4",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI files IPO paperwork, eyes stock market debut - dw.com",
-      "detected_at": "2026-06-08T23:33:50+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-09-0d3e73a68690",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI Announces Plans for Initial Public Offering - LAmag",
-      "detected_at": "2026-06-09T00:49:52+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-59fdd4cb496f",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI Just Confidentially Filed Its S-1, Taking the First Official Step Toward a Massive IPO - inc.com",
-      "detected_at": "2026-06-08T22:21:57+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-51fae005f4a9",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI files to go public as IPO race heats up - The Hill",
-      "detected_at": "2026-06-08T21:39:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-3341f4603fdc",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI files for IPO - here’s what investors need to know - CNBC",
-      "detected_at": "2026-06-09T09:17:39+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-a1fe78cf2162",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports - Reuters",
-      "detected_at": "2026-06-09T01:18:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-09-8f3ab365b0d4",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Business - OpenAI submits confidential filing for market launch with US authorities - France 24",
-      "detected_at": "2026-06-09T08:36:22+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-e4227f88a8e4",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI Confirms Confidential IPO Filing, With Big Stakes for the AI Boom - CNET",
-      "detected_at": "2026-06-09T01:19:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-774f649d63af",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "Perplexity to pursue 2028 IPO irrespective of OpenAI, Anthropic listings - report - Seeking Alpha",
-      "detected_at": "2026-06-09T04:55:22+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-e8290c70c04b",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI Joins IPO Race With Confidential S-1 Filing - RTTNews",
-      "detected_at": "2026-06-09T09:10:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-2843c322fb6a",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI files for IPO, setting stage for three massive California tech public company debuts - San Francisco Chronicle",
-      "detected_at": "2026-06-08T22:04:38+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-1a0b1760d767",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI Files Confidentially For IPO A Week After AI Rival Anthropic - Investor's Business Daily",
-      "detected_at": "2026-06-08T22:54:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-1069b01dc76e",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI makes official move for an IPO - Techzine Global",
-      "detected_at": "2026-06-09T07:10:37+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-3fcf47e07d48",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI files for IPO as AI investment race intensifies - NBC News",
-      "detected_at": "2026-06-08T22:17:10+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-6f7c85fe0e7a",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI Joins the Mega-AI Lab IPO Race, But Timing Uncertain - Morningstar",
-      "detected_at": "2026-06-09T03:56:15+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-32ee5ad20e39",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI files for IPO - KXLY.com",
-      "detected_at": "2026-06-08T21:26:31+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-c88cfba31505",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI files for IPO, joins SpaceX and Claude-maker Anthropic in race to go public - LiveNOW from FOX",
-      "detected_at": "2026-06-08T23:17:59+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-2ae30ddcff2e",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says - TechCrunch",
-      "detected_at": "2026-06-08T22:41:45+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-17dfe42926ec",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "ChatGPT maker OpenAI files for IPO looking to capitalize on investor appetite for AI boom - New York Post",
-      "detected_at": "2026-06-08T22:28:01+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-09-464b61134c8b",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI Files SEC Paperwork To Go Public - Engadget",
-      "detected_at": "2026-06-08T22:09:46+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-5e87b24e196d",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI Has Filed For an IPO, Company Says Timing Remains Up In the Air - SFist",
-      "detected_at": "2026-06-08T23:56:44+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-8e15cdb2f943",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI not-so-confidentially submits for IPO filing just a week after Anthropic - 9to5Google",
-      "detected_at": "2026-06-08T22:50:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-f7db596ddf0b",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI Confidential IPO Filing Joins Race for Largest Public Listing Ever - PYMNTS.com",
-      "detected_at": "2026-06-09T01:17:20+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-a58a3d311e97",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "NVIDIA And Two Quiet AI Beneficiaries Of The OpenAI IPO - simplywall.st",
-      "detected_at": "2026-06-09T07:36:31+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-61b48f177bc0",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI files for IPO, following Anthropic - The Verge",
-      "detected_at": "2026-06-08T21:38:29+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-fb273bd67c81",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "‘We Expect It to Leak, So We’re Just Announcing It’: OpenAI Files Confidentially for IPO - Gizmodo",
-      "detected_at": "2026-06-08T22:17:07+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-ef5c88e0ea0c",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI’s IPO Ambitions Lift Worldcoin – Even As Crypto Leaders Warn Of AI Capital Rotation - Stocktwits",
-      "detected_at": "2026-06-09T09:43:08+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-81b8681f8f38",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI follows Anthropic by filing for US IPO as AI companies aim to go public - The National",
-      "detected_at": "2026-06-09T04:44:52+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-2a2ed0747426",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI Confidentially Files for IPO, Joining Anthropic in Race to Wall Street - Yahoo Finance",
-      "detected_at": "2026-06-08T22:56:19+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-e39599312baa",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI files for IPO - KEZI",
-      "detected_at": "2026-06-08T21:26:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-0c72b7f4919d",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "Bye-Bye FAANG, Hello MANGOS: Will SpaceX, OpenAI, Anthropic IPOs Herald A New Wall Street Order? - Stocktwits",
-      "detected_at": "2026-06-09T08:28:24+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-b325e332624b",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI and Anthropic have officially started the IPO race - Yahoo Finance",
-      "detected_at": "2026-06-08T23:49:53+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-09-310c37ce2fe5",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "investingLive Asia-Pacific FX news wrap: OpenAI has confidentially filed for a US IPO - investingLive",
-      "detected_at": "2026-06-09T08:03:45+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-09-618e5d35882f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "detected_at": "2026-06-08T14:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-09-e345d22ed4fa",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Confidential submission of draft S-1 to the SEC - OpenAI",
-      "detected_at": "2026-06-08T21:19:58+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-09-16623f207c52",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI plans stock market debut, setting up new race with Anthropic - BBC",
-      "detected_at": "2026-06-09T06:22:22+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-09-ee1b8c89bb11",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI files to go public in blockbuster Wall Street listing - Financial Times",
-      "detected_at": "2026-06-08T21:24:20+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-09-f64f28bb33b4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Built to benefit everyone: our plan - OpenAI",
-      "detected_at": "2026-06-08T21:19:58+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-09-340a9274f23c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI confidentially files for initial public offering on US stock market - The Guardian",
-      "detected_at": "2026-06-08T23:13:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-09-8adf52254dce",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Introducing the OpenAI Economic Research Exchange - OpenAI",
-      "detected_at": "2026-06-08T18:12:20+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-09-4d1e9cb6e8a4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Tech giant OpenAI files for US initial public offering - Al Jazeera",
-      "detected_at": "2026-06-08T22:34:38+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-09-6c4f4889ad92",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "ChatGPT-maker OpenAI files to go public - The Washington Post",
-      "detected_at": "2026-06-09T06:34:42+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-09-b8b31e854cbe",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Confidentially Files to Go Public. Here’s What’s Ahead. - Barron's",
-      "detected_at": "2026-06-08T22:11:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-09-6d5f2b591574",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "SpaceX, Anthropic and OpenAI valuations 'look extreme', want more earnings support: Analyst - CNBC",
-      "detected_at": "2026-06-09T07:44:10+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-09-c04b721f33bf",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI’s Sam Altman says his highly disciplined daily routine has ‘fallen to crap’ - Fortune",
-      "detected_at": "2026-06-09T03:13:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-09-3a1480902257",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Read Sam Altman's plan for OpenAI as it enters its 'third phase' - Business Insider",
-      "detected_at": "2026-06-08T22:34:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-09-b96deaae1c9d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI’s Lockdown Mode is trying to solve the problem that it created - csoonline.com",
-      "detected_at": "2026-06-09T04:02:21+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-09-c7e11b2bee3b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI signals potential stock market debut while weighing private-company advantages - Fox Business",
-      "detected_at": "2026-06-08T21:55:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-09-01b1e76730e8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI files confidential S-1 with the SEC, has not decided timing yet - CNBC",
-      "detected_at": "2026-06-08T21:47:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-09-458ddc95a8d4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Wants to Kill the Chatbot It Invented and Turn It Into a Superapp - Yahoo Finance",
-      "detected_at": "2026-06-08T22:00:57+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-09-f33134bb77b2",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Files Confidential S-1, Signaling Path to Public Markets - Yahoo Finance",
-      "detected_at": "2026-06-09T02:06:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-09-1a2d6fcb8a49",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI makes move to go public one week after rival Anthropic - The Japan Times",
-      "detected_at": "2026-06-09T01:50:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-09-720ba020f09c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI says going public is \"a complicated set of tradeoffs\" and is unsure about the timing - the-decoder.com",
-      "detected_at": "2026-06-09T09:35:48+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-09-961280f25738",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI files for US share sale after Anthropic - Yahoo Finance",
-      "detected_at": "2026-06-09T02:59:00+00:00",
-      "importance_score": 4.0
-    },
     {
       "signal_id": "openai-product_launch-2026-06-10-c4595eb88bb2",
       "signal_type": "product_launch",
@@ -722,38 +90,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "openai-funding_event-2026-06-10-168db7a63ad0",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI files paperwork for an IPO - Axios",
-      "detected_at": "2026-06-09T06:21:24+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-10-6086f480f0d8",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut - CNBC",
-      "detected_at": "2026-06-08T21:14:27+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-10-34868769f62a",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI Files Confidentially for IPO as AI Companies Rush to Wall St. - The New York Times",
-      "detected_at": "2026-06-08T21:25:18+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-10-797118b6e837",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI Files for IPO - WSJ",
-      "detected_at": "2026-06-08T21:45:00+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "openai-funding_event-2026-06-10-ded21e32ae42",
       "signal_type": "funding_event",
       "signal_subtype": "ipo",
@@ -778,30 +114,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "openai-funding_event-2026-06-10-5e36020e8fcf",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI files for IPO as AI investment race intensifies - NBC News",
-      "detected_at": "2026-06-08T21:39:10+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-hiring_spike-2026-06-10-8c7bd58dd0af",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "generic",
-      "title": "OpenAI files confidential SEC paperwork for IPO, opening the door to a Wall Street debut - AP News",
-      "detected_at": "2026-06-09T01:20:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-10-941f1e97395e",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI files for IPO, the latest in a stream of possible AI mega-sales - CNN",
-      "detected_at": "2026-06-08T21:26:31+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "openai-funding_event-2026-06-10-4904c4d80e55",
       "signal_type": "funding_event",
       "signal_subtype": "ipo",
@@ -818,43 +130,11 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "openai-funding_event-2026-06-10-bdb1d350361e",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI confidentially files for IPO, but says it 'may be a while' before it goes public - Business Insider",
-      "detected_at": "2026-06-08T21:30:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-10-8a500faf472e",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI files confidentially for IPO, following Anthropic - TechCrunch",
-      "detected_at": "2026-06-08T21:29:57+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "openai-funding_event-2026-06-10-a11b1cd8a050",
       "signal_type": "funding_event",
       "signal_subtype": "ipo",
       "title": "What Smart People Are Saying About OpenAI's IPO Filing - Business Insider",
       "detected_at": "2026-06-09T22:40:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-10-3ec1cb7cefb2",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic - WIRED",
-      "detected_at": "2026-06-08T21:31:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-10-e878c753c8e2",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI Joins a Massive AI IPO Pipeline Now Worth $3.6 Trillion - Bloomberg.com",
-      "detected_at": "2026-06-08T21:19:23+00:00",
       "importance_score": 5.0
     },
     {
@@ -874,35 +154,11 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "openai-funding_event-2026-06-10-2e3a34ddc20e",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI files confidentially for IPO — but there’s a catch - MarketWatch",
-      "detected_at": "2026-06-08T21:55:00+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "openai-funding_event-2026-06-10-595fa325c7ed",
       "signal_type": "funding_event",
       "signal_subtype": "ipo",
       "title": "OpenAI’s Paradox: ChatGPT Owner Files for IPO But Wants to Stay Private for ‘A While’ - Barron's",
       "detected_at": "2026-06-09T16:06:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-10-2ae30ddcff2e",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says - TechCrunch",
-      "detected_at": "2026-06-08T22:41:45+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-10-56c516b149a3",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "Perplexity plans IPO in 2028 regardless of what happens to Anthropic or OpenAI, CEO tells CNBC - CNBC",
-      "detected_at": "2026-06-09T00:44:00+00:00",
       "importance_score": 5.0
     },
     {
@@ -919,14 +175,6 @@
       "signal_subtype": "ipo",
       "title": "OpenAI Files IPO, Eyes Ad Tools Powered By General Intelligence 06/09/2026 - MediaPost",
       "detected_at": "2026-06-09T20:25:32+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-10-86f6159bd9bc",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI IPO 2026 Guide: Date, Expected Valuation, and How to Invest in ChatGPT - Zacks Investment Research",
-      "detected_at": "2026-06-09T01:16:34+00:00",
       "importance_score": 5.0
     },
     {
@@ -1002,14 +250,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "openai-hiring_spike-2026-06-10-04e419a23503",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "generic",
-      "title": "OpenAI says it filed confidential IPO as it positions itself for AI arms race - CBS News",
-      "detected_at": "2026-06-08T21:42:00+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "openai-funding_event-2026-06-10-24f0286b7e95",
       "signal_type": "funding_event",
       "signal_subtype": "ipo",
@@ -1034,14 +274,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "openai-funding_event-2026-06-10-134610124515",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "ChatGPT maker OpenAI confidentially files for IPO, a week after Anthropic - Fortune",
-      "detected_at": "2026-06-08T21:55:00+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "openai-funding_event-2026-06-10-3a38aa3859d3",
       "signal_type": "funding_event",
       "signal_subtype": "ipo",
@@ -1058,27 +290,11 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "openai-funding_event-2026-06-10-5b5d3e06a60f",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI Confidentially Files For IPO, Company Says - Forbes",
-      "detected_at": "2026-06-08T21:46:09+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "openai-funding_event-2026-06-10-aece796252de",
       "signal_type": "funding_event",
       "signal_subtype": "ipo",
       "title": "What’s Behind OpenAI’s Hedged IPO Bet - The Information",
       "detected_at": "2026-06-10T00:03:41+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-10-aab7cc505156",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "‘We expect it to leak’: OpenAI is frontrunning the narrative around its $1 trillion IPO - Fortune",
-      "detected_at": "2026-06-09T10:25:00+00:00",
       "importance_score": 5.0
     },
     {
@@ -1104,30 +320,6 @@
       "title": "OpenAI Just Filed for an IPO. Now What? - Yahoo Finance",
       "detected_at": "2026-06-09T14:38:58+00:00",
       "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-10-a147e5276594",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "What Codex unlocks for Notion",
-      "detected_at": "2026-06-09T10:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-10-62807ecef9a6",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Industrial policy for the Intelligence Age",
-      "detected_at": "2026-06-09T00:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-10-618e5d35882f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "detected_at": "2026-06-08T14:00:00+00:00",
-      "importance_score": 4.0
     },
     {
       "signal_id": "openai-news_mention-2026-06-10-5e7ec42d2b2a",
@@ -1162,14 +354,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-10-28f520ee26cc",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Altman, OpenAI get bogged down in political spending fight - The Hill",
-      "detected_at": "2026-06-09T10:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-10-28de2c5c8ba9",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -1194,27 +378,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-10-e345d22ed4fa",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Confidential submission of draft S-1 to the SEC - OpenAI",
-      "detected_at": "2026-06-08T21:19:58+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-10-d5ed8074e119",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "OpenAI confidentially files for initial public offering on US stock market - The Guardian",
       "detected_at": "2026-06-09T19:35:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-10-f64f28bb33b4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Built to benefit everyone: our plan - OpenAI",
-      "detected_at": "2026-06-08T21:19:58+00:00",
       "importance_score": 4.0
     },
     {
@@ -1226,27 +394,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-10-8adf52254dce",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Introducing the OpenAI Economic Research Exchange - OpenAI",
-      "detected_at": "2026-06-08T18:12:20+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-10-2f7498459bb5",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "How engineers at Nextdoor use Codex to build without limits - OpenAI",
       "detected_at": "2026-06-09T19:09:38+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-10-16623f207c52",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI plans stock market debut, setting up new race with Anthropic - BBC",
-      "detected_at": "2026-06-09T08:02:43+00:00",
       "importance_score": 4.0
     },
     {
@@ -1263,14 +415,6 @@
       "signal_subtype": "generic",
       "title": "Breakingviews - OpenAI has the tools to lay a Washington snare - Reuters",
       "detected_at": "2026-06-09T17:57:56+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-10-ee1b8c89bb11",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI files to go public in blockbuster Wall Street listing - Financial Times",
-      "detected_at": "2026-06-08T21:24:20+00:00",
       "importance_score": 4.0
     },
     {
@@ -1311,22 +455,6 @@
       "signal_subtype": "generic",
       "title": "The MANGOS era has arrived - CTech",
       "detected_at": "2026-06-10T07:35:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-10-4d1e9cb6e8a4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Tech giant OpenAI files for US initial public offering - Al Jazeera",
-      "detected_at": "2026-06-08T22:34:38+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-10-26b6063cd53c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "The OpenAI Cloud Deal Powering Cerebras Stock Higher - Barron's",
-      "detected_at": "2026-06-08T20:24:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -46599,6 +45727,454 @@
       "signal_subtype": "generic",
       "title": "OpenAI Denies Coverup After Rogue Swarm of Agents Reportedly Targeted a Second Site From Hugging Face - Futurism",
       "detected_at": "2026-09-04T19:44:40+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-07-03c8ab084161",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Jensen Huang says ‘AGI has arrived’ after OpenAI launches GPT-6 Astra: What makes the new AI model different? - Open Magazine",
+      "detected_at": "2026-09-07T09:02:33+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-07-5c5124ed5e75",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "OpenAI Launches GPT-6 Astra, Says Its Most Capable Model Yet Might Be AGI - blockhead.co",
+      "detected_at": "2026-09-07T06:23:06+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-09-07-718a4b30be53",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "OpenAI's chief scientist says AI labs may need to slow down: 'No one is prepared for the consequences' - Business Insider",
+      "detected_at": "2026-09-06T19:26:00+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-09-07-439ce5a778f4",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "OpenAI Chief Scientist Urges AI Slowdown, Warns 'No One Is Prepared' for Rapid Machine Intelligence Rise - Benzinga",
+      "detected_at": "2026-09-07T09:53:30+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-09-07-84790106424e",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "AI safety warning: UN rights chief flags ‘existential’ threat as OpenAI scientist cautions of loss of human... - Firstpost",
+      "detected_at": "2026-09-07T10:55:47+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-09-07-3aed91233391",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "After OpenAI AI agent again 'caught hacking', company's chief scientist Jakub Pachocki warns every other - The Times of India",
+      "detected_at": "2026-09-07T05:05:00+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-07-6694a96dd419",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI Says It Reached Its Goal Of Creating An Automated Research Intern - engadget.com",
+      "detected_at": "2026-09-06T19:26:52+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-07-4033376eb245",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Nvidia’s Huang says ‘AGI has arrived’ after OpenAI’s GPT-6 Astra launch - Investing.com",
+      "detected_at": "2026-09-07T04:27:22+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-07-a2c2cbbd8434",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI admits to 'wiki incident' after its agents were discovered using a programming hub to communicate — says more transparency is needed regarding misalignments - Tom's Hardware",
+      "detected_at": "2026-09-06T14:31:54+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-07-804580295688",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI Admits AI Agents Hijacked Wiki Sites to Communicate and Cheat During Tests: No 'Clear Standard' Fo - Benzinga",
+      "detected_at": "2026-09-07T06:45:10+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-07-63822b00191c",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Jensen Huang says \"AGI has arrived\" following OpenAI's GPT-6 Astra launch (NVDA:NASDAQ) - Seeking Alpha",
+      "detected_at": "2026-09-07T04:58:42+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-07-692a6be4b4b7",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Jensen Huang Saya AGI Has Arrived, Here’s What Crypto Bettors Think OpenAI Will Announce Before 2027 - Benzinga",
+      "detected_at": "2026-09-07T06:26:58+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-07-3f8483eb6e5e",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Tenable, OpenAI Launch AI Security Review Process for CyberAgents - The Fast Mode",
+      "detected_at": "2026-09-06T23:34:15+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-hiring_spike-2026-09-07-d1eab5179bd8",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "I Tried OpenAI’s Astra-Powered GPT-6 Pro For Job-Search—What Happened - Forbes",
+      "detected_at": "2026-09-06T12:53:15+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-07-3b2001a3c696",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Supporting independent journalism in Ukraine",
+      "detected_at": "2026-09-07T00:00:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-a9022df6eecc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI - Business Insider",
+      "detected_at": "2026-09-06T22:59:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-f26b7b3e16d6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace - CNBC",
+      "detected_at": "2026-09-06T12:00:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-2fa402feea8f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Axios interview: Altman sees revenge of \"idea guy\" - Axios",
+      "detected_at": "2026-09-07T10:46:14+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-b4d6356824fa",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Microsoft (MSFT)’s Outlook and OpenAI’s ChatGPT Work Both Broke the Same Day - Yahoo Finance",
+      "detected_at": "2026-09-07T00:29:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-b2ad1292f966",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement - The Verge",
+      "detected_at": "2026-09-06T23:36:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-4b91c4c4a03b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI is back in the lead but China won’t let it win - The Telegraph",
+      "detected_at": "2026-09-06T12:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-029b79a31398",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI to set misalignment disclosure rules after agents took over a wiki - SiliconANGLE",
+      "detected_at": "2026-09-06T22:33:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-ebcf0323d507",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
+      "detected_at": "2026-09-07T11:49:42+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-dee098776256",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Harvey + Legora on OpenAI’s GPT-6 Astra - Artificial Lawyer",
+      "detected_at": "2026-09-07T07:24:29+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-f9d23b518946",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI just hit a milestone on the road to self-improving AI - helpnetsecurity.com",
+      "detected_at": "2026-09-07T09:05:18+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-dad1b7b06277",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure - TechCrunch",
+      "detected_at": "2026-09-05T18:05:27+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-78060f4cd544",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Research acceleration: The view inside OpenAI - OpenAI",
+      "detected_at": "2026-09-06T15:02:26+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-abe1a84dec2f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "An Alien Mind - OpenAI",
+      "detected_at": "2026-09-06T16:09:46+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-97e859c0a84c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Reveals How Much Its Researchers Are Spending on AI Coding - Business Insider",
+      "detected_at": "2026-09-07T11:32:46+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-609271112efd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters",
+      "detected_at": "2026-09-05T14:55:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-7849ee6c47e0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI implicated in another hack - semafor.com",
+      "detected_at": "2026-09-06T22:31:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-98e7d84f85ed",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Admits Its Agents Hijacked a German Wiki, Promises New Rules - Technology Org",
+      "detected_at": "2026-09-07T06:16:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-05f34a7161c6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Local newspapers sue OpenAI and Microsoft over use of paywalled articles - Mashable",
+      "detected_at": "2026-09-06T15:51:03+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-1fece2c262cb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI WAN-IFRA AIRPPU Ukraine AI initiative - StartupHub.ai",
+      "detected_at": "2026-09-07T08:05:50+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-f34a91cf9edc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "An OpenAI slowdown, argued by the man running research - The Next Web",
+      "detected_at": "2026-09-06T22:14:37+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-5b23e5e53533",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Cuts Cursor Off from its Models Now That Musk’s SpaceX (SPCX) Owns It - Yahoo Finance",
+      "detected_at": "2026-09-06T22:35:47+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-0c9feea4f7e2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words - the-decoder.com",
+      "detected_at": "2026-09-05T13:37:30+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-4c49648bd4e1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Confirms AI Agent Attack on Austrian Developer Wiki - trendingtopics.eu",
+      "detected_at": "2026-09-07T11:33:06+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-6e42ce60dd13",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Check Point Brings OpenAI's Daybreak Models Into Its Security Platform to Speed Up Threat Validation and Remediation - IT Security Guru",
+      "detected_at": "2026-09-07T10:04:53+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-e7d801e73aea",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s most powerful AI model is now available on the $20 ChatGPT Plus tier - Digital Trends",
+      "detected_at": "2026-09-07T03:32:02+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-7b7b51a95162",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Did OpenAI’s New Model “Go Rogue”? - machinelearningweek.com",
+      "detected_at": "2026-09-07T07:39:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-fea824f2d32d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "😿 OpenAI-Linked Agents Hijacked a German Wiki - The Neuron",
+      "detected_at": "2026-09-06T18:02:49+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-ef58a106636a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Tech shares lead mixed Asian market as new OpenAI model fuels memory chip optimism - Seeking Alpha",
+      "detected_at": "2026-09-07T05:02:58+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-b7c2dd861879",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI and Anthropic Just Reignited the AI Hardware Trade - moomoo.com",
+      "detected_at": "2026-09-07T02:55:26+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-d889a0132b4a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s ChatGPT for Healthcare is getting wired into Epic - MarketScale",
+      "detected_at": "2026-09-07T10:57:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-58ef837d2503",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Urges Cyber Defense Push as Palo Alto Networks, Mate Security & ServiceNow Sign On By FinanceWire - Investing.com",
+      "detected_at": "2026-09-07T10:41:15+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-ed70da1d2b15",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Exclusive: OpenAI expands policy team amid legislative headwinds - Axios",
+      "detected_at": "2026-09-05T12:03:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-863221f02e28",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI pledges greater transparency after agents misused public wiki (OPENAI:Private) - Seeking Alpha",
+      "detected_at": "2026-09-06T18:56:41+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-461d557da597",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s Astra System Card Confirms First Model to Reach Critical Cybersecurity Threshold - forkast.news",
+      "detected_at": "2026-09-07T09:52:41+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-23b1aee02502",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Weekly Recap: OpenAI Daybreak added and Code Risk & Compromise Assessment - TradingView",
+      "detected_at": "2026-09-07T11:22:09+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-e36f927e70df",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything - Decrypt",
+      "detected_at": "2026-09-06T17:01:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-07-7fce5fb06135",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "An Alien Mind",
+      "detected_at": "2026-09-06T09:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-github_signal-2026-09-07-96bc5da9693b",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "OpenAI has filed an EU incident report on the hijacked German wiki, the Commission says - The Next Web",
+      "detected_at": "2026-09-07T11:50:40+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "openai-github_signal-2026-09-07-c0a9c16842f6",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "OpenAI has sent EU incident report on hijacked German website, Commission says - Euronext Markets: Real-time Stock Market Data | live",
+      "detected_at": "2026-09-07T10:56:24+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "openai-github_signal-2026-09-07-e5ca63a75247",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Autonomous OpenAI agents reportedly hijacked German wiki - Computing UK",
+      "detected_at": "2026-09-07T08:26:40+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "openai-github_signal-2026-09-07-ceb1ba7fed65",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Research acceleration: The view inside OpenAI",
+      "detected_at": "2026-09-06T08:00:00+00:00",
       "importance_score": 3.5
     }
   ],

@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "snowflake",
   "created_at": "2026-06-03T17:25:17.673223+00:00",
-  "last_updated": "2026-09-07T11:57:55.340393+00:00",
+  "last_updated": "2026-09-08T10:53:44.041240+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,172 +18,12 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "snowflake-product_launch-2026-06-10-5ebfa541fa0c",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Snowflake Summit 26: Get Ready for AI Success - BizTech Magazine",
-      "detected_at": "2026-06-09T21:06:53+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "snowflake-product_launch-2026-06-10-7a54e71b51ee",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Snowflake Summit 26: What Does It Take To Achieve Data Quality? - BizTech Magazine",
-      "detected_at": "2026-06-09T18:19:48+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-10-37181e77dc29",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake stock gets a bold AI call from Wall Street - thestreet.com",
-      "detected_at": "2026-06-09T14:47:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-10-64f1c6c051c9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Boomi Adds Snowflake Cortex Agents Support to Agentstudio to Enable Unified AI Agent Governance - HPCwire",
-      "detected_at": "2026-06-09T17:09:09+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-10-1710bf32d70c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake Horizon Catalog: Governance & Security for Enterprise AI - Snowflake",
-      "detected_at": "2026-06-10T01:08:05+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-10-190451ce3c0b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Announcing Anthropic Claude Fable 5 on Snowflake Cortex AI - Snowflake",
-      "detected_at": "2026-06-09T20:18:26+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-10-fa4ac6c8ea3c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Is It Too Late To Consider Snowflake (SNOW) After Recent Share Price Volatility? - Yahoo Finance",
-      "detected_at": "2026-06-09T18:10:13+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-10-bfa9fc1361c8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake postQ: Outlook lifted as AI momentum drives Q1 beat - S&P Global",
-      "detected_at": "2026-06-09T19:03:01+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-10-852ee3208f67",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Project SnowWork: Produktivität auf Knopfdruck für Business-Teams - Snowflake",
-      "detected_at": "2026-06-10T06:29:16+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-10-b78578dcfff3",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Efficient Snowflake Ingestion: Query-Ready Data at Scale - Snowflake",
-      "detected_at": "2026-06-09T21:20:49+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-10-969f8eac556f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Das Zeitalter des Agentic Enterprise - Snowflake",
-      "detected_at": "2026-06-10T06:29:59+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-10-04c5b7149609",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Truist Raises Snowflake Inc. (SNOW) Price Target to $300 from $275 - Yahoo Finance",
-      "detected_at": "2026-06-09T13:39:19+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-10-9735b90c3dca",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Assessing Snowflake (SNOW) Valuation As AI Data Cloud Ambitions Meet Ongoing Losses - simplywall.st",
-      "detected_at": "2026-06-09T17:43:04+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-10-5e1a10ee2d57",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Barclays Lifts PT on Snowflake (SNOW) – Here’s Why - Insider Monkey",
-      "detected_at": "2026-06-09T17:37:30+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-10-de9ea1589362",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Equilar ExecAtlas Joins Snowflake & Financial Services Industry Peers to Bring Verified Executive Data to Enterprise AI Through the Open Semantic Interchange - Business Wire",
-      "detected_at": "2026-06-09T14:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-10-8112c74fad0d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Boomi adds Snowflake Cortex support to Agentstudio - IT Brief Australia",
-      "detected_at": "2026-06-10T02:20:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-10-4e46f2bb097e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake Expands AWS Collaboration with $6B Commitment to Accelerate Enterprise Agentic AI Adoption - StorageNewsletter",
-      "detected_at": "2026-06-09T12:06:09+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-10-84871059ac1c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "A Quick Look at Today's Ratings for Snowflake(SNOW.US), With a Forecast Between $300 to $320 - Moomoo",
-      "detected_at": "2026-06-09T13:00:02+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-product_launch-2026-06-11-6147e53c8308",
       "signal_type": "product_launch",
       "signal_subtype": "new_product",
       "title": "Aiviq launches AI-powered app on Snowflake Marketplace - FinTech Global",
       "detected_at": "2026-06-10T16:27:34+00:00",
       "importance_score": 7.5
-    },
-    {
-      "signal_id": "snowflake-product_launch-2026-06-11-5ebfa541fa0c",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Snowflake Summit 26: Get Ready for AI Success - BizTech Magazine",
-      "detected_at": "2026-06-09T21:06:53+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "snowflake-product_launch-2026-06-11-7a54e71b51ee",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Snowflake Summit 26: What Does It Take To Achieve Data Quality? - BizTech Magazine",
-      "detected_at": "2026-06-09T18:19:48+00:00",
-      "importance_score": 5.0
     },
     {
       "signal_id": "snowflake-news_mention-2026-06-11-7b6e8592dfc1",
@@ -202,27 +42,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-06-11-37181e77dc29",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake stock gets a bold AI call from Wall Street - thestreet.com",
-      "detected_at": "2026-06-09T14:47:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-news_mention-2026-06-11-356f89ae42f8",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Dataiku Emphasizes Growth and Deepening Integration in Snowflake Partnership - TipRanks",
       "detected_at": "2026-06-11T00:39:56+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-11-190451ce3c0b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Announcing Anthropic Claude Fable 5 on Snowflake Cortex AI - Snowflake",
-      "detected_at": "2026-06-09T20:18:26+00:00",
       "importance_score": 4.0
     },
     {
@@ -250,67 +74,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-06-11-b78578dcfff3",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Efficient Snowflake Ingestion: Query-Ready Data at Scale - Snowflake",
-      "detected_at": "2026-06-09T21:20:49+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-11-fa4ac6c8ea3c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Is It Too Late To Consider Snowflake (SNOW) After Recent Share Price Volatility? - Yahoo Finance",
-      "detected_at": "2026-06-09T18:10:13+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-11-04c5b7149609",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Truist Raises Snowflake Inc. (SNOW) Price Target to $300 from $275 - Yahoo Finance",
-      "detected_at": "2026-06-09T13:39:19+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-11-bfa9fc1361c8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake postQ: Outlook lifted as AI momentum drives Q1 beat - S&P Global",
-      "detected_at": "2026-06-09T19:03:01+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-11-969f8eac556f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Das Zeitalter des Agentic Enterprise - Snowflake",
-      "detected_at": "2026-06-10T06:29:59+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-11-9735b90c3dca",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Assessing Snowflake (SNOW) Valuation As AI Data Cloud Ambitions Meet Ongoing Losses - simplywall.st",
-      "detected_at": "2026-06-09T17:43:04+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-news_mention-2026-06-11-d9fd3452d217",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Snowflake Supercharges AI Data Engineering - StartupHub.ai",
       "detected_at": "2026-06-10T19:01:35+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-11-4e46f2bb097e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake Expands AWS Collaboration with $6B Commitment to Accelerate Enterprise Agentic AI Adoption - StorageNewsletter",
-      "detected_at": "2026-06-09T12:06:09+00:00",
       "importance_score": 4.0
     },
     {
@@ -322,43 +90,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-06-11-de9ea1589362",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Equilar ExecAtlas Joins Snowflake & Financial Services Industry Peers to Bring Verified Executive Data to Enterprise AI Through the Open Semantic Interchange - Business Wire",
-      "detected_at": "2026-06-09T14:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-11-d44dfe80397c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Boomi Adds Snowflake Cortex Agents Support to Agentstudio to Enable Unified AI Agent Governance - AiThority",
-      "detected_at": "2026-06-09T13:58:52+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-11-5e1a10ee2d57",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Barclays Lifts PT on Snowflake (SNOW) – Here’s Why - Insider Monkey",
-      "detected_at": "2026-06-09T17:37:30+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-news_mention-2026-06-11-15772c5c58d2",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Boomi extends Agentstudio with Snowflake Cortex Agents support as enterprises grapple with AI governance - iTWire",
       "detected_at": "2026-06-10T12:35:21+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-11-ef7717089d90",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AI is supercharging cyberattacks—and most companies aren’t ready - Fortune",
-      "detected_at": "2026-06-09T13:45:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -14379,6 +14115,86 @@
     },
     {
       "signal_id": "snowflake-github_signal-2026-09-07-137ba41342a0",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Snowflake and C3.ai Reported the Same Night. Only One AI Story Won - Yahoo Finance",
+      "detected_at": "2026-09-07T03:34:00+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "snowflake-product_launch-2026-09-08-16f794f6c590",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Prophecy Launches AI Data Prep Tools to Close the Gap Between AI Investment and AI Results - GlobeNewswire",
+      "detected_at": "2026-09-08T08:00:00+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-08-526702d72818",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake stock explodes 17% as AI fears suddenly flip - thestreet.com",
+      "detected_at": "2026-09-07T12:33:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-08-5a963fd22203",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Should You Buy Snowflake Stock After Its Recent Surge? The Answer Might Shock You. - Yahoo Finance",
+      "detected_at": "2026-09-06T13:05:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-08-72e964769b9e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Is Snowflake Stock (SNOW) a Good Buy Now? Here’s Why AI Analysts Are Split - TipRanks",
+      "detected_at": "2026-09-07T19:34:47+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-08-4525a6050016",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Investors Pulled $700 Million From IGV Hours Before Snowflake Reignited Software - Yahoo Finance",
+      "detected_at": "2026-09-07T13:37:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-08-481d5743f43c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "California State Teachers Retirement System Acquires 126,851,670 Shares of Snowflake Inc. $SNOW - MarketBeat",
+      "detected_at": "2026-09-08T07:33:22+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-08-f679eaa03053",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Macquarie Raises Price Target on Snowflake to $350 From $200, Keeps Neutral Rating - marketscreener.com",
+      "detected_at": "2026-09-08T10:29:31+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-08-e33cbc50fafa",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake Inc. (SNOW) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+      "detected_at": "2026-09-07T13:00:05+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-08-033f15035fb0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Prediction: Snowflake's Product Revenue Passes $8 Billion in Fiscal 2028 - Yahoo Finance",
+      "detected_at": "2026-09-06T18:58:02+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-github_signal-2026-09-08-137ba41342a0",
       "signal_type": "github_signal",
       "signal_subtype": "generic",
       "title": "Snowflake and C3.ai Reported the Same Night. Only One AI Story Won - Yahoo Finance",

@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-09-07T11:57:55.608015+00:00",
+  "last_updated": "2026-09-08T10:53:44.302572+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,68 +18,12 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "huggingface-news_mention-2026-06-10-9f118862d8cb",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Hugging Face Transformers flaw enabled remote code - SecurityBrief Asia",
-      "detected_at": "2026-06-10T08:30:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-06-10-cb9664ad5480",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "LeLab Is Hugging Face’s New Browser-Based GUI for the LeRobot Ecosystem - Hackster.io",
-      "detected_at": "2026-06-09T16:56:09+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-06-10-a56e0ef0b793",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Best Free Image Generators on Hugging Face Right Now! - KDnuggets",
-      "detected_at": "2026-06-09T14:07:59+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-content_signal-2026-06-10-ebdaa4ad1a8b",
-      "signal_type": "content_signal",
-      "signal_subtype": "generic",
-      "title": "A beginner's guide to the Nex-n2-pro model by Nex-agi on Huggingface - HackerNoon",
-      "detected_at": "2026-06-10T01:03:05+00:00",
-      "importance_score": 2.5
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-06-11-a56e0ef0b793",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Best Free Image Generators on Hugging Face Right Now! - KDnuggets",
-      "detected_at": "2026-06-09T14:07:59+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-06-11-cb9664ad5480",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "LeLab Is Hugging Face’s New Browser-Based GUI for the LeRobot Ecosystem - Hackster.io",
-      "detected_at": "2026-06-09T16:56:09+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "huggingface-content_signal-2026-06-11-dcaa54d2c62b",
       "signal_type": "content_signal",
       "signal_subtype": "blog_post_published",
       "title": "DiffusionGemma: The Developer Guide - blog.google",
       "detected_at": "2026-06-10T16:11:33+00:00",
       "importance_score": 3.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-06-12-8343211e288b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "LeLab Is Hugging Face’s New Browser-Based GUI for the LeRobot Ecosystem - Hackster.io",
-      "detected_at": "2026-06-10T10:29:51+00:00",
-      "importance_score": 4.0
     },
     {
       "signal_id": "huggingface-product_launch-2026-06-13-4f9a7140ce34",
@@ -14311,6 +14255,174 @@
       "signal_subtype": "generic",
       "title": "Nvidia Is Buying the AI Startup That OpenAI's Own Models Hacked - Startup Fortune",
       "detected_at": "2026-09-07T04:50:41+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-08-594c05709b5f",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Comment: What the Hugging Face investigations change - Legal IT Insider",
+      "detected_at": "2026-09-07T17:32:47+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-08-304f4287bf5c",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "What is Behind NVIDIA’s US$12.9bn Hugging Face AI Deal? - Technology Magazine",
+      "detected_at": "2026-09-07T16:10:25+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-08-6ad1ee9bc137",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Hugging Face $12.9B Acquisition Reveals Critical AI Chip Gap - Yellow.com",
+      "detected_at": "2026-09-06T22:18:21+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-08-e1791ea3831a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "NVIDIA's Hugging Face Buyout: Can It Further Strengthen AI Dominance? - Yahoo Finance",
+      "detected_at": "2026-09-07T13:02:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-08-671924a203f6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Axios C-Suite: Making sense of anthropomorphic AI - Axios",
+      "detected_at": "2026-09-08T09:12:43+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-08-e50ee68cce00",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "'The planets aligned': Nvidia confirms $12.9bn Hugging Face deal in potentially huge AI shake-up - TechRadar",
+      "detected_at": "2026-09-07T10:05:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-08-d2c847c2bbe9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "French Founders of Hugging Face Live the American Dream - wsj.com",
+      "detected_at": "2026-09-08T09:56:32+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-08-e7be7195234c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "French AI star Hugging Face ends up bought, hacked and American - EU Perspectives",
+      "detected_at": "2026-09-08T07:01:22+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-08-3e5ebadb58c6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Jim Cramer Discusses NVIDIA (NVDA) Acquiring Hugging Face - Yahoo Finance",
+      "detected_at": "2026-09-07T20:22:49+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-08-3f7e82adb7e9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "When A.I. Starts Scheming - The New York Times",
+      "detected_at": "2026-09-06T21:01:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-08-209dabdd6d10",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia Braces For AI Bubble Burst - Hugging Face Is The Bridge It Needs To Survive (SPX) - Seeking Alpha",
+      "detected_at": "2026-09-08T10:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-08-a2252d71756c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Key facts: NVIDIA (NVDA) buys Hugging Face $12.93B; $500B, 500k GPUs - TradingView",
+      "detected_at": "2026-09-08T07:14:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-08-41935021e334",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Why Nvidia wants Hugging Face to keep helping its rivals: Chart of the Day - Yahoo Finance",
+      "detected_at": "2026-09-06T13:26:55+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-08-c8a98294c394",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI wants to survive: Hugging Face, self-preservation and intuition - The American Bazaar",
+      "detected_at": "2026-09-07T15:32:58+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-08-ad6ff47dc7e6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia Confirms it Will Spend $13 Billion on Hugging Face AI Software Platform - Broadband Breakfast",
+      "detected_at": "2026-09-06T21:36:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-08-83650be8c9e1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Why Nvidia is buying Hugging Face - Substack",
+      "detected_at": "2026-09-07T12:31:39+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-08-d6f53a176b7d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Expert claims we're '50% of the way to full-blown AI takeover' in terrifying warning to humanity - LADbible",
+      "detected_at": "2026-09-08T08:41:13+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-08-c910997927ca",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI hid AI agent hijacking of German wiki forum for weeks — because its model did the exact same thing in the Hugging Face attack - TechRadar",
+      "detected_at": "2026-09-07T15:19:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-08-85f3eb2bb884",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia Acquires HuggingFace for $12.9B - EE Times",
+      "detected_at": "2026-09-07T15:58:48+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-08-711472899069",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "History Says What Nvidia's Last Big Acquisition Became. Hugging Face Will Cost Nearly Twice as Much. - Yahoo Finance",
+      "detected_at": "2026-09-07T03:38:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-08-e1072e02237f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia Says Hugging Face Will Remain An Open Platform - Dataconomy",
+      "detected_at": "2026-09-08T09:00:21+00:00",
       "importance_score": 4.0
     }
   ],

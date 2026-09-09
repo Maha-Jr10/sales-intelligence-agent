@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "anthropic",
   "created_at": "2026-06-03T17:25:17.685609+00:00",
-  "last_updated": "2026-09-08T10:53:44.218078+00:00",
+  "last_updated": "2026-09-09T10:59:05.099126+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,502 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "anthropic-leadership_change-2026-06-11-2f22c258d524",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Anthropic CEO Dario Amodei Has Only One Direct Report - Bloomberg",
-      "detected_at": "2026-06-10T12:22:12+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-06-11-dbcceeaf2ed0",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "Rockefeller Capital Management Collaborates with Anthropic to Build AI-Enabled Wealth Management Platform - Business Wire",
-      "detected_at": "2026-06-10T12:30:00+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-leadership_change-2026-06-11-faaa1e54a321",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Anthropic CEO says government should block dangerous AI - Axios",
-      "detected_at": "2026-06-11T05:25:43+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-leadership_change-2026-06-11-65bca902f5ac",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Anthropic CEO: ‘We Don’t Know Exactly How’ Claude AI Was Used In Iran School Strike - Forbes",
-      "detected_at": "2026-06-10T16:41:11+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-leadership_change-2026-06-11-8184cc2fdedb",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Anthropic’s CEO Has Only 1 Direct Report. Nvidia’s Jensen Huang Has 60. Here’s Why - inc.com",
-      "detected_at": "2026-06-10T19:49:30+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-leadership_change-2026-06-11-c92ae8487008",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Anthropic CEO says AI growth is exponential. Anthropic research says otherwise. - Mashable",
-      "detected_at": "2026-06-11T00:18:08+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-leadership_change-2026-06-11-a183a2ffc923",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Anthropic CEO Warns AI Is Getting Too Powerful—While Releasing Powerful AI - Decrypt",
-      "detected_at": "2026-06-10T21:31:33+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-06-11-5320088227cc",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "AI Weekly: Anthropic rolls out Mythos, Jensen Huang's South Korea adventure - Yahoo Finance",
-      "detected_at": "2026-06-11T10:12:59+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-leadership_change-2026-06-11-8bb4a67d3d5a",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Anthropic CEO Says Government Should Be Able to Block New Models - Bloomberg",
-      "detected_at": "2026-06-10T18:31:57+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-leadership_change-2026-06-11-72e9debcf446",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Anthropic CEO Calls for Government Authority to Block High-Risk AI Models - citybiz",
-      "detected_at": "2026-06-11T09:10:09+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-leadership_change-2026-06-11-21ea5468a4b9",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Anthropic CEO Doesn’t Know If Claude Used in Iran School Strike - Bloomberg",
-      "detected_at": "2026-06-10T15:17:06+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-leadership_change-2026-06-11-193f6d45c2f1",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Video Exclusive: Anthropic CEO responds to graduates booing AI mentions - ABC News - Breaking News, Latest News and Videos",
-      "detected_at": "2026-06-11T01:41:03+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-06-11-cc595f79c9ac",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic, OpenAI, other U.S. AI giants launch major London expansions amid talent and revenue scramble - CNBC",
-      "detected_at": "2026-06-11T10:19:29+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-06-11-4f08f3049cd2",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "TCS and Anthropic launch Global Premier Partnership to drive Enterprise AI scaling - Tata Consultancy Services",
-      "detected_at": "2026-06-11T10:18:45+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-06-11-4c6d60c91e66",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic has caught up to OpenAI in image understanding - understandingai.org",
-      "detected_at": "2026-06-10T19:21:18+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-06-11-7e8a345783c1",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "Wall Street needs a crash course in the token economy ahead of AI IPOs. SpaceX offers a preview - CNBC",
-      "detected_at": "2026-06-10T17:07:55+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-06-11-5c285b6a930d",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic Backtracks On Policy That 'Sabotaged' Researchers' Work - Engadget",
-      "detected_at": "2026-06-11T09:00:29+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-06-11-f30b577f2fb3",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic Releases Claude Fable 5 and Mythos 5 - MIT Sloan Management Review Middle East",
-      "detected_at": "2026-06-11T05:58:36+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-06-11-a511b93b29cb",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI, Anthropic Cutting Token Prices? This War Could Dent Profits Just As Both Head For IPOs - Stocktwits",
-      "detected_at": "2026-06-11T03:44:22+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-hiring_spike-2026-06-11-d9229d2a7aaa",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "generic",
-      "title": "Anthropic pledges $200 million to research AI's economic impact as CEO suggests job loss solutions - AP News",
-      "detected_at": "2026-06-10T21:47:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-hiring_spike-2026-06-11-d3b01daee3f6",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "generic",
-      "title": "Anthropic pledges more than €170 million to study AI's impact on jobs - Euronews.com",
-      "detected_at": "2026-06-11T10:13:50+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-06-11-3b557c71dcbd",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "AI: Anthropic recasts Mythos as Fable 5, with safety & pricing gates. AI-RTZ #1114 - AI: Reset to Zero",
-      "detected_at": "2026-06-11T05:02:32+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-06-11-78737e1baa77",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI’s Price War with Anthropic Could Undermine Its IPO - BeInCrypto",
-      "detected_at": "2026-06-11T06:02:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-02f3d103aa3d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic - WSJ",
-      "detected_at": "2026-06-11T01:36:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-02e8e9ab4a5a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ - CNBC",
-      "detected_at": "2026-06-11T03:24:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-e81aec670b2a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic v. OpenAI: Behind the bitter battle for the future of AI - Yahoo",
-      "detected_at": "2026-06-11T10:05:57+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-95f4c8373ce5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "India's TCS partners with Anthropic to drive enterprise AI scaling - Reuters",
-      "detected_at": "2026-06-11T05:31:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-7c5afbce639b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic plugs Claude AI in Japan for automated software development - Nikkei Asia",
-      "detected_at": "2026-06-10T17:14:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-e3c3a57c172d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Asks The AI Industry To Hit The Brakes – Here's What It Means For SEO & Search Marketers - Search Engine Journal",
-      "detected_at": "2026-06-11T10:00:51+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-0e2c433b9c7c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude - WIRED",
-      "detected_at": "2026-06-11T03:11:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-0b2ef9efff0a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s New Fable AI Model Is Met With User Backlash Over Restrictions - WSJ",
-      "detected_at": "2026-06-11T02:53:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-9f8489d9fca0",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Policy on the AI Exponential - Anthropic",
-      "detected_at": "2026-06-10T18:53:52+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-efc9af84d57d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic accused of ‘secret sabotage’ as Claude Fable 5 silently limits capabilities for AI researchers and developers - Fortune",
-      "detected_at": "2026-06-10T17:43:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-86da10268f44",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic puts life sciences at heart of new AI model - pharmaphorum",
-      "detected_at": "2026-06-11T09:57:37+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-6480901cc3c1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable - TechCrunch",
-      "detected_at": "2026-06-10T15:41:22+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-b356a3bf44e8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic: 'We made the wrong tradeoff' in new model guardrails - Business Insider",
-      "detected_at": "2026-06-11T07:18:30+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-a7cfd09344b1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI and Anthropic keep warning about a future they're building at breakneck speed - Business Insider",
-      "detected_at": "2026-06-11T07:24:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-6deda9650a46",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic's Fable 5 AI Model Offers More Power At A Higher Price - Forbes",
-      "detected_at": "2026-06-10T13:58:46+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-9b51a0b9771a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic backs mandatory testing for frontier AI models - Politico",
-      "detected_at": "2026-06-10T21:56:05+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-50209d3c56ca",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s new AI model is powerful, dazzling—and about to get really expensive - Fast Company",
-      "detected_at": "2026-06-11T09:19:52+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-47e02461f36f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Google’s New AI Price Cuts Should Make OpenAI and Anthropic Nervous - inc.com",
-      "detected_at": "2026-06-10T21:26:08+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-6a65479cfd64",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Microsoft warns employees: Do not use Anthropic's Claude Fable, our lawyers are… - The Times of India",
-      "detected_at": "2026-06-11T04:07:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-813c1162e328",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Microsoft Balks at Anthropic’s Claude Fable 5 Data Retention Policy - PYMNTS.com",
-      "detected_at": "2026-06-11T02:38:10+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-ce91ff7b694b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Japan Financial Firms to Join NEC-Anthropic AI Collaboration - nippon.com",
-      "detected_at": "2026-06-11T06:49:52+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-2af6dd2d3866",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Urges Governments to Secure Power to Halt Dangerous AI - PYMNTS.com",
-      "detected_at": "2026-06-11T02:23:10+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-559fca4238e7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic's Dario Amodei wants governments to have the power to block 'dangerous' AI systems - SiliconANGLE",
-      "detected_at": "2026-06-11T01:58:53+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-20d4db45efd4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic urges US not to block state AI laws without setting federal standards - Reuters",
-      "detected_at": "2026-06-10T21:49:11+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-f24b9db58f49",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "It blocked us at 'hello!' Anthropic Fable 5 refusing innocuous prompts - The Register",
-      "detected_at": "2026-06-10T20:20:38+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-97dec2641b8f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI seeks major price cuts to compete with Anthropic: WSJ - Anadolu Ajansı",
-      "detected_at": "2026-06-11T09:00:13+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-05e0ece87a3a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Fifth Third Joins Anthropic’s Project Glasswing - PYMNTS.com",
-      "detected_at": "2026-06-11T01:13:10+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-07a0c236583a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Apologizes For One of the Guardrails on Its Fable 5 Model, and Will Change It - Gizmodo",
-      "detected_at": "2026-06-11T09:00:33+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-68df6faf7e6d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Apollo & Blackstone Inc. (BX) Seal $35B Anthropic AI Deal - Yahoo Finance",
-      "detected_at": "2026-06-11T00:58:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-d344560f86ff",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic to reassess Claude Fable 5 AI development restrictions after backlash - Silicon Republic",
-      "detected_at": "2026-06-11T08:31:53+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-33ab5dc83ab0",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Apollo leads $35 billion debt deal for Anthropic's compute - Axios",
-      "detected_at": "2026-06-10T16:08:44+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-0504ada9fb30",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "The architect behind Claude Code reveals the three things Anthropic looks for in a good hire - Fortune",
-      "detected_at": "2026-06-10T14:44:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-2ca57a433ab8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI weighs steep price cuts amid competition from Anthropic - WSJ - Investing.com",
-      "detected_at": "2026-06-11T02:27:32+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-9357bf892d75",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "North Carolina treasurer passes on SpaceX citing valuation concerns; favors OpenAI, Anthropic - CNBC",
-      "detected_at": "2026-06-10T14:31:33+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-b76a47509819",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic partners with India's TCS to offer enterprise AI services (ANTHRO:Private) - Seeking Alpha",
-      "detected_at": "2026-06-11T06:58:57+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-11-0bbf36cc8a98",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic rolls out ‘Mythos-like’ AI model Claude Fable 5 - Silicon Republic",
-      "detected_at": "2026-06-11T09:38:51+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-github_signal-2026-06-11-2209de52669e",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports - Reuters",
-      "detected_at": "2026-06-11T01:45:00+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "anthropic-github_signal-2026-06-11-8e7b2ce642b4",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s Dario Amodei has just one direct report - TechCrunch",
-      "detected_at": "2026-06-11T03:53:06+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "anthropic-github_signal-2026-06-11-de78f92cee55",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "Microsoft limits employee use of Anthropic's Claude Fable 5 over data retention concerns, The Verge reports - Reuters",
-      "detected_at": "2026-06-10T17:52:40+00:00",
-      "importance_score": 3.5
-    },
     {
       "signal_id": "anthropic-product_launch-2026-06-12-c7636db41d9e",
       "signal_type": "product_launch",
@@ -546,14 +50,6 @@
       "importance_score": 7.0
     },
     {
-      "signal_id": "anthropic-leadership_change-2026-06-12-fb866e55a989",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Exclusive: Anthropic CEO calls for stronger regulation of AI - ABC News - Breaking News, Latest News and Videos",
-      "detected_at": "2026-06-11T01:03:28+00:00",
-      "importance_score": 7.0
-    },
-    {
       "signal_id": "anthropic-funding_event-2026-06-12-afcb292bb4de",
       "signal_type": "funding_event",
       "signal_subtype": "generic",
@@ -575,22 +71,6 @@
       "signal_subtype": "new_ceo",
       "title": "AI Could Become a Weapon of Mass Destruction Without Regulation, Anthropic CEO Warns - Barron's",
       "detected_at": "2026-06-11T17:04:00+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-leadership_change-2026-06-12-8184cc2fdedb",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Anthropic’s CEO Has Only 1 Direct Report. Nvidia’s Jensen Huang Has 60. Here’s Why - inc.com",
-      "detected_at": "2026-06-10T19:49:30+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-leadership_change-2026-06-12-2f22c258d524",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Anthropic CEO Dario Amodei Has Only One Direct Report - Bloomberg.com",
-      "detected_at": "2026-06-10T12:22:12+00:00",
       "importance_score": 7.0
     },
     {
@@ -618,14 +98,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "anthropic-product_launch-2026-06-12-4f08f3049cd2",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "TCS and Anthropic launch Global Premier Partnership to drive Enterprise AI scaling - Tata Consultancy Services",
-      "detected_at": "2026-06-11T10:22:58+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "anthropic-funding_event-2026-06-12-468bf89d7018",
       "signal_type": "funding_event",
       "signal_subtype": "ipo",
@@ -650,35 +122,11 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "anthropic-funding_event-2026-06-12-7e8a345783c1",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "Wall Street needs a crash course in the token economy ahead of AI IPOs. SpaceX offers a preview - CNBC",
-      "detected_at": "2026-06-10T17:07:55+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-06-12-ab368ea420d5",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Why U.S. AI giants like Anthropic, OpenAI are launching major expansions in London - CNBC",
-      "detected_at": "2026-06-11T10:19:29+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "anthropic-product_launch-2026-06-12-a58357c7ed7e",
       "signal_type": "product_launch",
       "signal_subtype": "generic",
       "title": "Anthropic Releases Claude Fable 5, Offers Enhanced Mythos 5 to Cyber Defenders - HPCwire",
       "detected_at": "2026-06-11T21:58:33+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-06-12-5c285b6a930d",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic Backtracks On Policy That 'Sabotaged' Researchers' Work - Engadget",
-      "detected_at": "2026-06-11T09:00:29+00:00",
       "importance_score": 5.0
     },
     {
@@ -706,14 +154,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "anthropic-product_launch-2026-06-12-4c6d60c91e66",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic has caught up to OpenAI in image understanding - understandingai.org",
-      "detected_at": "2026-06-10T19:23:08+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "anthropic-funding_event-2026-06-12-f5b76bf0d7ad",
       "signal_type": "funding_event",
       "signal_subtype": "ipo",
@@ -738,22 +178,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-06-12-02f3d103aa3d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic - WSJ",
-      "detected_at": "2026-06-11T01:36:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-12-02e8e9ab4a5a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ - CNBC",
-      "detected_at": "2026-06-11T03:24:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-06-12-9cdd2990d4b7",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -775,14 +199,6 @@
       "signal_subtype": "generic",
       "title": "Anthropic, OpenAI, Google Executives Plan to Attend G7 Summit - Bloomberg.com",
       "detected_at": "2026-06-12T07:54:50+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-12-0504ada9fb30",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "The architect behind Claude Code reveals the three things Anthropic looks for in a good hire - Fortune",
-      "detected_at": "2026-06-10T14:44:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -866,14 +282,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-06-12-9f8489d9fca0",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Policy on the AI Exponential - Anthropic",
-      "detected_at": "2026-06-10T18:53:52+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-06-12-16b0963c3150",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -890,22 +298,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-06-12-efc9af84d57d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic accused of ‘secret sabotage’ as Claude Fable 5 silently limits capabilities for AI researchers and developers - Fortune",
-      "detected_at": "2026-06-10T17:43:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-12-b356a3bf44e8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic: 'We made the wrong tradeoff' in new model guardrails - Business Insider",
-      "detected_at": "2026-06-11T07:18:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-06-12-5722fa5c463d",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -919,14 +311,6 @@
       "signal_subtype": "generic",
       "title": "Anthropic’s Claude Fable 5 plays it too safe on safety, developers say - Fast Company",
       "detected_at": "2026-06-12T01:52:39+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-12-95f4c8373ce5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "India's TCS partners with Anthropic to drive enterprise AI scaling - Reuters",
-      "detected_at": "2026-06-11T05:31:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -962,14 +346,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-06-12-20d4db45efd4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic urges US not to block state AI laws without setting federal standards - Reuters",
-      "detected_at": "2026-06-10T21:49:11+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-06-12-a81e673ce304",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -978,27 +354,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-06-12-6480901cc3c1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable - TechCrunch",
-      "detected_at": "2026-06-10T15:41:22+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-06-12-7183d9e3644a",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Anthropic’s Claude Fable 5 poses a challenge for China’s AI developers - South China Morning Post",
       "detected_at": "2026-06-12T08:59:29+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-12-33ab5dc83ab0",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Apollo leads $35 billion debt deal for Anthropic's compute - Axios",
-      "detected_at": "2026-06-10T16:11:29+00:00",
       "importance_score": 4.0
     },
     {
@@ -1058,14 +418,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-06-12-07a0c236583a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Apologizes For One of the Guardrails on Its Fable 5 Model, and Will Change It - Gizmodo",
-      "detected_at": "2026-06-11T09:00:33+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-06-12-8d1ff5f5f9c2",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -1106,35 +458,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-github_signal-2026-06-12-de78f92cee55",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "Microsoft limits employee use of Anthropic's Claude Fable 5 over data retention concerns, The Verge reports - Reuters",
-      "detected_at": "2026-06-10T17:52:40+00:00",
-      "importance_score": 3.5
-    },
-    {
       "signal_id": "anthropic-github_signal-2026-06-12-d7ab204a3bc2",
       "signal_type": "github_signal",
       "signal_subtype": "generic",
       "title": "Anthropic pursues data center leases, seeks financial backing from Google, The Information reports - Reuters",
       "detected_at": "2026-06-11T17:52:09+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "anthropic-github_signal-2026-06-12-8e7b2ce642b4",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s Dario Amodei has just one direct report - TechCrunch",
-      "detected_at": "2026-06-11T03:53:06+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "anthropic-github_signal-2026-06-12-2209de52669e",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports - Reuters",
-      "detected_at": "2026-06-11T01:45:00+00:00",
       "importance_score": 3.5
     },
     {
@@ -1199,14 +527,6 @@
       "signal_subtype": "ipo",
       "title": "SpaceX IPO is a model for Anthropic and OpenAI - Axios",
       "detected_at": "2026-06-12T19:14:09+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-06-13-ab368ea420d5",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Why U.S. AI giants like Anthropic, OpenAI are launching major expansions in London - CNBC",
-      "detected_at": "2026-06-11T10:19:29+00:00",
       "importance_score": 5.0
     },
     {
@@ -44040,6 +43360,646 @@
       "title": "Anthropic drops pursuit of AI startup Decart, Bloomberg News reports - marketscreener.com",
       "detected_at": "2026-09-08T01:49:41+00:00",
       "importance_score": 3.5
+    },
+    {
+      "signal_id": "anthropic-leadership_change-2026-09-09-c45eb360b148",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "Anthropic's AI fluency chief says the best AI users know when to do the work themselves - Business Insider",
+      "detected_at": "2026-09-09T09:35:00+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-09-cd031ec69663",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "What to Know About Anthropic’s Planned IPO - WSJ",
+      "detected_at": "2026-09-08T19:13:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-09-3eb3ce471fbf",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "'Gambling with our lives': AI researcher quits Anthropic and leaves AI entirely over what he calls a threat to humanity - Yahoo Finance",
+      "detected_at": "2026-09-09T05:00:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-09-e1cf3cc6ac9b",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "An Anthropic researcher just quit, saying OpenAI and Anthropic are 'gambling with our lives' - Business Insider",
+      "detected_at": "2026-09-09T04:31:45+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-09-d60a9035f227",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "“Gambling with our lives”: Anthropic researcher quits over race to superintelligence - calcalistech.com",
+      "detected_at": "2026-09-09T07:36:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-09-0145d1c11027",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Everything you need to know about Anthropic’s IPO - Yahoo Finance",
+      "detected_at": "2026-09-08T13:52:33+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-09-e537022960a1",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic Delays IPO And Expands Credit Line To $15 Billion - Forbes",
+      "detected_at": "2026-09-07T15:06:57+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-09-863f98090494",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "An Anthropic researcher quit saying AI labs are gambling with our lives - The Next Web",
+      "detected_at": "2026-09-09T07:45:20+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-09-9854fe8cd0b2",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic delays IPO to October: What that could mean for the AI player - Yahoo Finance",
+      "detected_at": "2026-09-08T14:05:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-09-5cd105ac2381",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic Exec Admits ‘We Do Not Yet Have A Plan’ After Researcher Quits Over AI 'Endgame' Fears, Pegs Double-Digit Human Extinction Risk Over Next Decade - Stocktwits",
+      "detected_at": "2026-09-09T08:00:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-09-69fbe8383329",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO - Financial Times",
+      "detected_at": "2026-09-08T05:34:05+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-09-a8356a8d3206",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic’s $2 trillion IPO could test the limits of AI mania - thestreet.com",
+      "detected_at": "2026-09-08T23:03:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-09-25463cf23701",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "The Anthropic IPO is Almost Here. What Can Investors Learn from SpaceX? - The Daily Upside",
+      "detected_at": "2026-09-09T04:06:34+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-09-cf0a80400e3b",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "IPO News - IPO Weekly Weigh-in: What Anthropic’s IPO delay means - renaissancecapital.com",
+      "detected_at": "2026-09-09T10:23:43+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-09-ae72c5e87670",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic Researcher Warns AI Could Pose Existential Risk - Benzinga",
+      "detected_at": "2026-09-09T10:05:02+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-09-e41f39e0d1dc",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Inside ETFs: Should you avoid the Anthropic IPO? - Reuters",
+      "detected_at": "2026-09-09T10:27:22+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-09-81fac1684f5d",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "‘AI could kill us all’: Why this Anthropic researcher walked away - Open Magazine",
+      "detected_at": "2026-09-09T10:16:14+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-09-5d3a39ae8abb",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "‘Gambling with our lives’: Why a 27-year-old researcher quit Anthropic and OpenAI - indianexpress.com",
+      "detected_at": "2026-09-09T05:00:35+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-09-cf1b1854bf56",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Why Price Cuts May Rattle Anthropic's IPO Pitch - The Information",
+      "detected_at": "2026-09-09T00:03:20+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-09-156b541faf2d",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic Targets $2 Trillion Valuation as Wall Street Faces Largest AI IPO Test Yet - 深潮TechFlow",
+      "detected_at": "2026-09-09T08:50:06+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-09-2788cdecb6dd",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "'They are gambling with our lives': Anthropic researcher quits over AI race fears - WION",
+      "detected_at": "2026-09-09T08:46:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-09-9643beb4cc2c",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic Researcher Quits: \"They Are Gambling With Our Lives\" - trendingtopics.eu",
+      "detected_at": "2026-09-09T07:06:46+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-09-c45058772519",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Daily Digest: Timing shifts for Anthropic's IPO, Oakland police to see raise under new union agreement - The Business Journals",
+      "detected_at": "2026-09-08T20:00:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-b6eedd994b1a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic researcher quits, calls AI an existential threat to humanity - Mashable",
+      "detected_at": "2026-09-09T07:55:10+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-35bf3c86e325",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic withheld latest AI model from UK testing agency - Financial Times",
+      "detected_at": "2026-09-09T08:54:17+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-54676ab01a73",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Destroying Books to Build a Mind - The New Yorker",
+      "detected_at": "2026-09-08T10:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-bbb272ae7374",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Tech stocks today: Apple kicks off new era Wednesday, Anthropic S1 watch - Yahoo Finance",
+      "detected_at": "2026-09-08T23:51:06+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-55acb939e7d6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court - The Verge",
+      "detected_at": "2026-09-08T17:27:31+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-9e4f0eafeacf",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hackers are stealing Claude tokens from subscribers - techcrunch.com",
+      "detected_at": "2026-09-08T21:10:27+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-f3efa6693fc4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Said to Walk Away From $6 Billion Decart Purchase - bloomberg.com",
+      "detected_at": "2026-09-08T02:02:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-f96bf0e429e5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic cancels $6B acquisition of Israeli AI start-up Decart following due diligence - The Jerusalem Post",
+      "detected_at": "2026-09-09T03:24:12+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-4621afe398e3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Scuttles Plans to Acquire AI Company Decart - pymnts.com",
+      "detected_at": "2026-09-08T10:53:53+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-32b660117750",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI GPT-6 Astra will run a retailer without cheating and sell more stuff than Anthropic - The Register",
+      "detected_at": "2026-09-08T23:14:17+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-0db9eb89624b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Expanding its biopharma plans, Anthropic looks for a life sciences dealmaker - Endpoints News",
+      "detected_at": "2026-09-08T15:56:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-ef6e560d74a8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears - WSJ",
+      "detected_at": "2026-09-08T23:46:50+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-dd782090fbd4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Two dire warnings, one from Terence Tao, the other from someone who just quit Anthropic - Marcus on AI",
+      "detected_at": "2026-09-09T02:18:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-c7929d56869f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits - CNBC",
+      "detected_at": "2026-09-09T07:06:42+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-7eea2bf7f831",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Alignment Lead Warns There’s ‘>10% Chance’ AI Could ‘Kill All Humans’ By Next Decade - Forbes",
+      "detected_at": "2026-09-09T04:14:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-ea6da87ddc2d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Scoop: Anthropic breaks from major tech group over chips - Axios",
+      "detected_at": "2026-09-08T19:01:15+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-cdb69266726c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans' - BBC",
+      "detected_at": "2026-09-09T08:59:52+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-54fc5bfc4ebf",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic's AI researcher quits, says insiders fear human extinction by 2030 - CoinDesk",
+      "detected_at": "2026-09-09T06:20:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-5f1913dc4e5e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic promised 20x more usage. Then developers hit a weekly ceiling. - The New Stack",
+      "detected_at": "2026-09-08T22:17:14+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-6e39e6c6d8c0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Who is Jacob Coxon? Anthropic Researcher Quits, Warns AI Could Kill Everyone - newsweek.com",
+      "detected_at": "2026-09-09T06:40:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-caf4d9e8e560",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists - The American Prospect",
+      "detected_at": "2026-09-09T09:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-6005a6f780f5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Researcher Quits Over Industry’s Rush to Build Self-Improving AI - WSJ",
+      "detected_at": "2026-09-09T09:51:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-9485d85ba437",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "‘The People Building AI Earnestly Believe That It Could Kill Us All’: Anthropic Researcher Quits Dramatically - Gizmodo",
+      "detected_at": "2026-09-09T03:00:47+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-d19c47eec0e9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "'AI Could Kill Us All By Decade-End': Anthropic Researcher Quits, Drops A Bombshell - ndtv.com",
+      "detected_at": "2026-09-09T03:56:30+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-074c98117428",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "What made Anthropic walk away from the $6 billion Decart deal? - calcalistech.com",
+      "detected_at": "2026-09-08T07:16:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-1ee47e7ab4b9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic researcher pegs AI extinction risk above 10% - www.israelhayom.com",
+      "detected_at": "2026-09-09T10:09:16+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-01a779237de7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic drops plans to acquire Israeli AI startup Decart - calcalistech.com",
+      "detected_at": "2026-09-08T03:56:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-f039dd92068a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic researcher quits over fears AI ‘could kill us all by the end of the decade’ - The Independent",
+      "detected_at": "2026-09-09T08:09:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-41be8ea6518c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "A 27-year-old quits Anthropic within months, fearing out-of-control AI - CNBC TV18 - LinkedIn",
+      "detected_at": "2026-09-09T08:20:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-bb4bd6f29e8e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Can AI Kill All Humans Within Next Decade? Anthropic Scientist Says 'Over 10% Chance' - ndtv.com",
+      "detected_at": "2026-09-09T05:21:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-58e26d1c1fce",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic researcher says some developers believe AI 'could kill us all' - ABC News & Headlines – Australian Broadcasting Corporation",
+      "detected_at": "2026-09-09T09:11:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-0f03e3fefa07",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Who are Jacob Coxon and Evan Hubinger? Anthropic colleagues in focus after ‘AI could kill all humans’ alarm | Hindustan Times - Hindustan Times",
+      "detected_at": "2026-09-09T05:10:54+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-71a424ac624c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "More than 1 in 10 chance AI ‘could kill all humans,’ says Anthropic safety lead after colleague quits - The Verge",
+      "detected_at": "2026-09-09T09:56:28+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-86253299bead",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic researcher quits over AI safety fears, echoing other expert warnings - Seeking Alpha",
+      "detected_at": "2026-09-09T07:33:49+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-16c588f77869",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic researcher resigns, warning of AI's destructive potential - Yahoo",
+      "detected_at": "2026-09-09T09:48:40+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-f85dd2d5a351",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans' - BBC",
+      "detected_at": "2026-09-09T08:59:52+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-f01058d4406e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Employee Warns AI Has 10% Chance Of “Killing All Humans” - 24/7 Wall St.",
+      "detected_at": "2026-09-09T09:54:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-1408c38a4699",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic insiders warn AI could kill all humans - Yahoo",
+      "detected_at": "2026-09-09T10:04:58+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-d613aff21af2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI could kill humanity, warns Anthropic scientist after lab researcher quits over safety fears - Firstpost",
+      "detected_at": "2026-09-09T04:50:10+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-cae6122fbeff",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic researcher resigns, claims AI labs are racing toward danger - Interesting Engineering",
+      "detected_at": "2026-09-09T07:44:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-205219993240",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic employee warns AI \"could kill us all\" - dangerousminds.net",
+      "detected_at": "2026-09-09T10:13:39+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-14b3c56c40fd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic did not submit most powerful AI model for UK testing - thetimes.com",
+      "detected_at": "2026-09-09T08:23:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-f53c3247d845",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "‘AI could kill us all by end of decade’: Anthropic researcher quits, issues dire warning | Trending - Hindustan Times",
+      "detected_at": "2026-09-09T02:20:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-2f4b0f022286",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Architect of UK’s AI policy quits after Anthropic conflict of interest concerns - The Guardian",
+      "detected_at": "2026-09-08T01:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-24ae339b3fa9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Researcher Pegs AI Doom Odds Above 10% - The Tech Buzz",
+      "detected_at": "2026-09-09T07:41:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-9f0be48fe1a6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Is the AWS of AI: Why It Turns Cutting-Edge Intelligence Into Enterprise AI's Default Infrastructure - 深潮TechFlow",
+      "detected_at": "2026-09-09T07:48:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-fcba8497d72e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper - the-decoder.com",
+      "detected_at": "2026-09-08T19:33:44+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-207be696c758",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Researcher Jacob Coxon Resigns, Says AI Has Over 10% Chance Of Killing All Humans - newscord.org",
+      "detected_at": "2026-09-09T10:06:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-fe84bc5f82cf",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Wants More Control Over Its Payments Stack - pymnts.com",
+      "detected_at": "2026-09-08T18:18:53+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-b09574a40582",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "A Lawsuit Says Anthropic's Claude Max 20x Delivers Far Less Than Advertised - Startup Fortune",
+      "detected_at": "2026-09-09T01:32:28+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-27c49680c64c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic researcher resigns over reckless AI race - Neowin",
+      "detected_at": "2026-09-09T01:48:22+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-75dce793e226",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic researcher sees over 10% chance AI could wipe out humanity within decade - Türkiye Today",
+      "detected_at": "2026-09-09T10:42:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-a2b993c6b548",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "'We Really Do Earnestly Believe AI Could Kill All Humans!' — Anthropic Safety Researcher Issues Worrying Prediction, Says There's No Internal Plan to Prevent It - IGN",
+      "detected_at": "2026-09-09T10:42:41+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-09-9e38487edde5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Researcher Jacob Coxon Quits Over ‘Out-of-Control’ AI Fears - WSJ - TradingView",
+      "detected_at": "2026-09-08T23:47:35+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-github_signal-2026-09-09-67f609a592e6",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Anthropic reportedly withholds access to Mythos 5.1 from UK safety testing body - IT Pro",
+      "detected_at": "2026-09-09T09:31:26+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "anthropic-github_signal-2026-09-09-3938b44acc1f",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Report: Anthropic walks away from $6 billion deal to acquire Israeli AI startup Decart - Ynetnews",
+      "detected_at": "2026-09-08T04:49:53+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "anthropic-content_signal-2026-09-09-75cb800df2a5",
+      "signal_type": "content_signal",
+      "signal_subtype": "generic",
+      "title": "Is $2T Valued Anthropic Worth Investing In? Complete Buying Guide & Valuation Analysis - 36Kr",
+      "detected_at": "2026-09-09T05:34:04+00:00",
+      "importance_score": 2.5
     }
   ],
   "brief_history": [],

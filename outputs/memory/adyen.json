@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "adyen",
   "created_at": "2026-06-03T17:25:17.733626+00:00",
-  "last_updated": "2026-09-09T10:59:05.136756+00:00",
+  "last_updated": "2026-09-10T10:55:54.346675+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,118 +18,6 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "adyen-funding_event-2026-06-12-798c524737b2",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "Orb Joins Adyen to Unify Revenue Design - Menlo Ventures",
-      "detected_at": "2026-06-11T17:08:44+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "adyen-product_launch-2026-06-12-163c707b7252",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Adyen to Acquire Orb for US$335 Million in Enterprise Billing Push - Fintech Singapore",
-      "detected_at": "2026-06-12T03:03:26+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "adyen-product_launch-2026-06-12-afaf2cfc6cf1",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "ADYEN : JP Morgan reiterates its Buy rating - marketscreener.com",
-      "detected_at": "2026-06-11T20:53:52+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "adyen-news_mention-2026-06-12-1eb892c4cc0c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Wilson Sonsini Advises Adyen on $335 Million Acquisition of Orb - Wilson Sonsini",
-      "detected_at": "2026-06-11T22:27:16+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "adyen-news_mention-2026-06-12-b34c3689b3cb",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Adyen to acquire billing platform Orb for $335 million - Investing.com",
-      "detected_at": "2026-06-11T17:21:14+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "adyen-news_mention-2026-06-12-b6e11ad3bfbc",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Adyen Aims to Tackle Complex AI Pricing With Orb Acquisition - PYMNTS.com",
-      "detected_at": "2026-06-11T23:38:14+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "adyen-news_mention-2026-06-12-ebf4f53bddc2",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Adyen to Acquire Orb to Unify Billing and Payments Infrastructure for Enterprise Merchants - Fintech Finance",
-      "detected_at": "2026-06-12T09:54:01+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "adyen-news_mention-2026-06-12-2ed2fb609bfe",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Adyen’s Orb Deal Leads A Busy Day For France-Benelux Stocks - Finimize",
-      "detected_at": "2026-06-12T03:49:15+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "adyen-news_mention-2026-06-12-0efda71db2b4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Adyen Acquires Orb to Integrate Billing and Payments - Let's Data Science",
-      "detected_at": "2026-06-11T23:36:14+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "adyen-news_mention-2026-06-12-39f5c382e4d3",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "ADYEN : Buy rating from Jefferies - marketscreener.com",
-      "detected_at": "2026-06-12T05:32:26+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "adyen-news_mention-2026-06-12-a2e3e7f188f0",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "From Reaction to Prevention: Using Remittances to Act Before Climate Crises Hit - Business Fights Poverty",
-      "detected_at": "2026-06-11T13:59:17+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "adyen-news_mention-2026-06-12-d2a056fb4af7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Adyen N : to acquire Orb to unify billing and payments infrastructure for enterprise merchants - marketscreener.com",
-      "detected_at": "2026-06-11T17:19:08+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "adyen-funding_event-2026-06-13-798c524737b2",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "Orb Joins Adyen to Unify Revenue Design - Menlo Ventures",
-      "detected_at": "2026-06-11T17:08:44+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "adyen-product_launch-2026-06-13-163c707b7252",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Adyen to Acquire Orb for US$335 Million in Enterprise Billing Push - Fintech Singapore",
-      "detected_at": "2026-06-12T03:03:26+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "adyen-news_mention-2026-06-13-47b9b6bf7747",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -138,35 +26,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "adyen-news_mention-2026-06-13-b34c3689b3cb",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Adyen to acquire billing platform Orb for $335 million - Investing.com",
-      "detected_at": "2026-06-11T17:21:14+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "adyen-news_mention-2026-06-13-1eb892c4cc0c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Wilson Sonsini Advises Adyen on $335 Million Acquisition of Orb - Wilson Sonsini",
-      "detected_at": "2026-06-11T22:27:16+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "adyen-news_mention-2026-06-13-bec5dfe71313",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Adyen to buy Orb for $335M - Yahoo Finance",
       "detected_at": "2026-06-12T11:01:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "adyen-news_mention-2026-06-13-b6e11ad3bfbc",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Adyen Aims to Tackle Complex AI Pricing With Orb Acquisition - PYMNTS.com",
-      "detected_at": "2026-06-11T23:38:14+00:00",
       "importance_score": 4.0
     },
     {
@@ -183,38 +47,6 @@
       "signal_subtype": "generic",
       "title": "Adyen Flags AI Fraud Risks For Payments Model And Investor Expectations - simplywall.st",
       "detected_at": "2026-06-12T14:49:49+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "adyen-news_mention-2026-06-13-0efda71db2b4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Adyen Acquires Orb to Integrate Billing and Payments - Let's Data Science",
-      "detected_at": "2026-06-11T23:36:14+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "adyen-news_mention-2026-06-13-2ed2fb609bfe",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Adyen’s Orb Deal Leads A Busy Day For France-Benelux Stocks - Finimize",
-      "detected_at": "2026-06-12T05:49:15+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "adyen-news_mention-2026-06-13-d2a056fb4af7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Adyen N : to acquire Orb to unify billing and payments infrastructure for enterprise merchants - marketscreener.com",
-      "detected_at": "2026-06-11T17:19:08+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "adyen-news_mention-2026-06-13-a2e3e7f188f0",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "From Reaction to Prevention: Using Remittances to Act Before Climate Crises Hit - Business Fights Poverty",
-      "detected_at": "2026-06-11T13:59:17+00:00",
       "importance_score": 4.0
     },
     {
@@ -247,14 +79,6 @@
       "signal_subtype": "generic",
       "title": "Adyen strikes $335m deal for enterprise billing platform Orb - Finextra Research",
       "detected_at": "2026-06-12T14:22:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "adyen-news_mention-2026-06-14-ebf4f53bddc2",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Adyen to Acquire Orb to Unify Billing and Payments Infrastructure for Enterprise Merchants - Fintech Finance",
-      "detected_at": "2026-06-12T09:54:01+00:00",
       "importance_score": 4.0
     },
     {
@@ -4160,6 +3984,86 @@
       "title": "Dutch Fintech Group Adyen Plans to Expand India Operations - marketscreener.com",
       "detected_at": "2026-09-09T05:32:36+00:00",
       "importance_score": 4.0
+    },
+    {
+      "signal_id": "adyen-leadership_change-2026-09-10-3b2c033d6155",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "ElevenLabs names ex-Adyen CFO Ethan Tandowsky as finance chief - Dealroom",
+      "detected_at": "2026-09-08T20:42:27+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "adyen-hiring_spike-2026-09-10-3987f2d00751",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "Adyen plans to expand operations and hiring in India - UA.NEWS",
+      "detected_at": "2026-09-09T05:06:04+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "adyen-news_mention-2026-09-10-9cae27dadb87",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Dutch fintech Adyen sees long-term India opportunity, plans local expansion - Reuters",
+      "detected_at": "2026-09-09T04:47:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "adyen-news_mention-2026-09-10-c8eeabcf877b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Adyen Powers Payments for Limitless Technology Group - Financial IT",
+      "detected_at": "2026-09-08T12:29:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "adyen-news_mention-2026-09-10-5c867cabf1a6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Scaling for the Next Horizon: ElevenLabs Appoints Former Adyen CFO Ethan Tandowsky - CXOToday.com",
+      "detected_at": "2026-09-09T16:34:05+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "adyen-news_mention-2026-09-10-26c2af7d9f8b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Dutch Fintech Group Adyen Plans to Expand India Operations - marketscreener.com",
+      "detected_at": "2026-09-09T05:32:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "adyen-news_mention-2026-09-10-379045b41e9f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Adyen stock heads into the open after a 1.1 percent Euronext dip - ad-hoc-news.de",
+      "detected_at": "2026-09-10T03:53:31+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "adyen-news_mention-2026-09-10-b8b43f0353d3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Video | Oyo Ties Up with Adyen For Payments As Part of Their Global Expansion - NDTV Profit",
+      "detected_at": "2026-09-09T06:59:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "adyen-news_mention-2026-09-10-ac980db83458",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Adyen Plans Bigger Push into India, Backs Long-Term Growth - Analytics Insight",
+      "detected_at": "2026-09-09T07:42:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "adyen-github_signal-2026-09-10-0c78385fd538",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Adyen plans to expand India operations -report - Electronic Payments International",
+      "detected_at": "2026-09-10T10:27:44+00:00",
+      "importance_score": 3.5
     }
   ],
   "brief_history": [],

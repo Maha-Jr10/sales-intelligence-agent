@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-09-11T10:53:09.645977+00:00",
+  "last_updated": "2026-09-12T10:20:59.344132+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,14 +18,6 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "huggingface-news_mention-2026-06-14-25bf86b8b789",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Does the New MTEB Leaderboard Set a New Standard for Transparent AI Model Evaluation? - The Futurum Group",
-      "detected_at": "2026-06-13T13:56:41+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "huggingface-product_launch-2026-06-15-3ce98e71a022",
       "signal_type": "product_launch",
       "signal_subtype": "generic",
@@ -39,14 +31,6 @@
       "signal_subtype": "generic",
       "title": "Can open-source beat OpenAI? - Rest of World",
       "detected_at": "2026-06-15T10:00:30+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-06-15-25bf86b8b789",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Does the New MTEB Leaderboard Set a New Standard for Transparent AI Model Evaluation? - The Futurum Group",
-      "detected_at": "2026-06-13T13:56:41+00:00",
       "importance_score": 4.0
     },
     {
@@ -15135,6 +15119,382 @@
       "signal_subtype": "generic",
       "title": "OpenAI faces Senate probe into Hugging Face incident, Axios reports - ca.finance.yahoo.com",
       "detected_at": "2026-09-10T09:14:29+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-12-0760714abfa0",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Hawley launches committee investigation into OpenAI’s breach of Hugging Face - Nextgov/FCW",
+      "detected_at": "2026-09-10T18:35:00+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-12-f44d4b77f99a",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Chairman Hawley Launches Investigation into OpenAI for Hacking, Existential Risk of AI Products - U.S. Senate (.gov)",
+      "detected_at": "2026-09-10T23:41:25+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-12-82bb0d7eba12",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Sen. Josh Hawley Launches Investigation Into OpenAI Hugging Face Hack - The Information",
+      "detected_at": "2026-09-10T15:30:00+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-09-12-546b4a73bc13",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Hugging Face CEO on Anthropic researcher's AI warning: 'Like asking your AC guy about climate change' - Business Insider",
+      "detected_at": "2026-09-11T18:25:00+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-12-9cf2cb390adc",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "AI Is Developing a Culture of Its Own. That Could Be Dangerous - Time Magazine",
+      "detected_at": "2026-09-10T17:40:09+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-12-63d84e84cae8",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Scoop: OpenAI faces GOP-led Senate investigation into Hugging Face breach - Axios",
+      "detected_at": "2026-09-11T00:39:30+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-12-fe4e4cd227ea",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s Hugging Face Hack Faces Senate Investigation - Forbes",
+      "detected_at": "2026-09-10T13:33:41+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-12-5310ae8dc204",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s AI Agents Went After RubyGems Before the Hugging Face Hack — 500+ Malicious Packages Were Remove - Benzinga",
+      "detected_at": "2026-09-12T02:35:05+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-12-12d55fed86ac",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Josh Hawley opens investigation into OpenAI agents hacking Hugging Face - Washington Examiner",
+      "detected_at": "2026-09-10T21:23:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-12-3e1d31290cf6",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Lawmakers are investigating OpenAI over its Hugging Face breach - qz.com",
+      "detected_at": "2026-09-10T17:17:37+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-12-ef329839ee8c",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "A Republican senator is now investigating OpenAI over the Hugging Face incident - The Next Web",
+      "detected_at": "2026-09-10T10:27:30+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-12-d9144774d913",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Thomas Wolf announces Hugging Face Open Alignment team - app.dealroom.co",
+      "detected_at": "2026-09-10T17:25:50+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-1a5e58959c72",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say - Reuters",
+      "detected_at": "2026-09-11T22:41:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-cce662fbe9c9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Why are the people building the most powerful AI so worried about what it could do? - NPR",
+      "detected_at": "2026-09-12T09:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-3ce23ecd42af",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The world got a 'warning shot' with Hugging Face AI attack: Center for Humane Technology's Harris - CNBC",
+      "detected_at": "2026-09-10T12:05:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-9ba7d9d63736",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Mollick Writes About Agent Swarms And Hugging Face Debacle - Forbes",
+      "detected_at": "2026-09-12T05:34:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-69b4422b3bd9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Rogue OpenAI agents hacked another software service months before Hugging Face cyberattack - Washington Examiner",
+      "detected_at": "2026-09-12T00:19:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-c0c9906059e7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The OpenAI-Hugging Face hack was just the beginning, experts say: \"Even more powerful\" AI is coming - CBS News",
+      "detected_at": "2026-09-10T14:17:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-ecee26fb715b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "What we learnt from OpenAI’s hack of Hugging Face - Financial Times",
+      "detected_at": "2026-09-10T12:25:35+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-d41223bee5db",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hawley Opens OpenAI Probe Over Hugging Face Security Incident - MeriTalk",
+      "detected_at": "2026-09-11T20:09:35+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-f6e71b233ca6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Senators from both parties question OpenAI on breach of AI startup Hugging Face - AP News",
+      "detected_at": "2026-09-11T01:35:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-81ee00914fab",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI's AI Agents Secretly Attacked RubyGems Two Months Before Hugging Face Hack - Startup Fortune",
+      "detected_at": "2026-09-12T08:19:08+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-6e88c5ac6bf0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Opinion | When the rogue agents become superintelligent - The Washington Post",
+      "detected_at": "2026-09-11T01:00:34+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-4ce3a4678faa",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Exclusive | Cyberattack by Rogue AI Swarm Stokes Fears of Out-of-Control Agents - WSJ",
+      "detected_at": "2026-09-11T22:25:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-f5609beedd87",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI: Nvidia Buys Hugging Face, $1T+ Compute Race, ‘Alien Mind’, & More. AI-RTZ #1207 - AI: Reset to Zero",
+      "detected_at": "2026-09-12T05:02:22+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-15ef3ae8c0e2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hawley probes OpenAI over Hugging Face breach - CyberScoop",
+      "detected_at": "2026-09-10T20:54:57+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-6bfecdceed14",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI AI Swarm Hacked Software Service Months Before Hugging Face Incident - The Information",
+      "detected_at": "2026-09-12T00:18:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-940f6e6a4463",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Agents Targeted RubyGems Before Hugging Face Breach, Researchers Say - Межа. Новини України.",
+      "detected_at": "2026-09-12T06:47:26+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-929e5e282291",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI faces Senate probe into Hugging Face incident - Virginia Business",
+      "detected_at": "2026-09-10T13:54:30+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-b1bb75ddb20b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s Hugging Face Hack Triggers Senate Probe - PYMNTS.com",
+      "detected_at": "2026-09-10T14:55:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-577993ffe8b2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "How a ‘swarm’ of AI agents hacked another company, in the AI’s own words - ABC News & Headlines – Australian Broadcasting Corporation",
+      "detected_at": "2026-09-10T18:51:59+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-a059f62f0128",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI agents attacked software service months before Hugging Face hack - ABC News & Headlines – Australian Broadcasting Corporation",
+      "detected_at": "2026-09-12T01:16:47+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-e48d8ece70f0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Opinion | This Is Really Bad - The New York Times",
+      "detected_at": "2026-09-11T09:02:30+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-6ed8b654e3a7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Federal AI needs an authority ladder before agents get the keys - fedscoop.com",
+      "detected_at": "2026-09-11T18:25:29+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-40f31863a373",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI AI agents attacked RubyGems months before Hugging Face hack - Storyboard18",
+      "detected_at": "2026-09-12T07:11:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-f0b617a23c5e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI agents attacked another service before Hugging Face - Breakingthenews.net",
+      "detected_at": "2026-09-12T02:04:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-8175b05c1e46",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia targets AI developer network in $12.9bn Hugging Face deal - TheBanker.com",
+      "detected_at": "2026-09-11T09:10:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-e86c8357010b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI faces Senate probe over Hugging Face hack by swarm of rogue agents - New York Post",
+      "detected_at": "2026-09-10T19:10:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-5640735d983d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hawley Opens OpenAI Inquiry Over Hugging Face Agent Attack - findarticles.com",
+      "detected_at": "2026-09-11T12:56:19+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-da1028d13673",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Dead drops in public: What the AI agent stashed on Hugging Face - SC Media",
+      "detected_at": "2026-09-11T18:33:54+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-c61096643685",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI's software targeted another site before Hugging Face - CNA",
+      "detected_at": "2026-09-11T22:41:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-dcd3bfe0a103",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The Day the AI Cheated | EDRM - Electronic Discovery Reference Model - JD Supra",
+      "detected_at": "2026-09-11T15:53:55+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-b6ce0ac16db1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "IBM and NASA make Moon AI model available on Hugging Face - Computer Weekly",
+      "detected_at": "2026-09-10T13:14:08+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-d9cd15a9ac4a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI researcher Jacob Coxon quit, fearing extinction. Security experts see a familiar fight - scientificamerican.com",
+      "detected_at": "2026-09-11T15:55:30+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-12-0f15d9eae783",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Senators From Both Parties Question OpenAI Over Hugging Face AI Hack - Startup Fortune",
+      "detected_at": "2026-09-11T07:14:46+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-github_signal-2026-09-12-202f41db79f6",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "OpenAI AI agents reportedly targeted RubyGems months before Hugging Face hack - Firstpost",
+      "detected_at": "2026-09-12T07:00:31+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "huggingface-github_signal-2026-09-12-a7cdaba50b06",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "OpenAI agents attacked software service RubyGems before Hugging Face incident, WSJ reports - marketscreener.com",
+      "detected_at": "2026-09-11T22:39:40+00:00",
       "importance_score": 3.5
     }
   ],

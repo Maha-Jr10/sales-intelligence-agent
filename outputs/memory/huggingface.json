@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-09-13T11:21:26.634346+00:00",
+  "last_updated": "2026-09-14T12:13:07.517032+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,36 +18,12 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "huggingface-product_launch-2026-06-16-8d9bed0b24a3",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Rio de Janeiro Releases AI Model, Faces Ownership Claim - Let's Data Science",
-      "detected_at": "2026-06-15T19:43:48+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-06-16-af98e7adab9c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "KT unveils Korean culture-focused AI safety benchmark KSAFE-MM - 디지털투데이",
-      "detected_at": "2026-06-16T00:43:58+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "huggingface-funding_event-2026-06-17-16fb5e7557a8",
       "signal_type": "funding_event",
       "signal_subtype": "generic",
       "title": "Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost - VentureBeat",
       "detected_at": "2026-06-16T21:26:01+00:00",
       "importance_score": 7.0
-    },
-    {
-      "signal_id": "huggingface-product_launch-2026-06-17-8d9bed0b24a3",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Rio de Janeiro Releases AI Model, Faces Ownership Claim - Let's Data Science",
-      "detected_at": "2026-06-15T19:43:48+00:00",
-      "importance_score": 5.0
     },
     {
       "signal_id": "huggingface-funding_event-2026-06-18-16fb5e7557a8",
@@ -15632,6 +15608,126 @@
       "title": "OpenAI Agents Attacked RubyGems Months Before Hugging Face Incident: Report - NDTV Profit",
       "detected_at": "2026-09-12T17:02:38+00:00",
       "importance_score": 3.5
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-09-14-ce69e190c299",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Anthropic CEO pitches AI slow-down plan after OpenAI-Hugging Face hack: ‘We owe it to humanity’ - Washington Examiner",
+      "detected_at": "2026-09-12T17:35:00+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-14-b467d171352d",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI Agents Hacked A Software Service Before The Hugging Face Incident - Engadget",
+      "detected_at": "2026-09-12T19:53:01+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-14-c8a45fb39ea5",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI agents launched cyberattack on RubyGems before Hugging Face hack: report - Seeking Alpha",
+      "detected_at": "2026-09-12T14:06:22+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-14-2664a8daeb7d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Watch OpenAI President on Doing Business in the Wake of Hugging Face - Bloomberg.com",
+      "detected_at": "2026-09-14T00:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-14-2730326e8b4e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Dario Amodei says OpenAI's Hugging Face hack helped convince him AI needs to slow down - Business Insider",
+      "detected_at": "2026-09-13T13:18:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-14-3482432dbde4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia’s Hugging Face purchase confirmed at $13 billion - Mashable",
+      "detected_at": "2026-09-14T07:34:14+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-14-f64e8bded850",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "NVIDIA bought Hugging Face. What happens to banks when AI models become open? - Tearsheet",
+      "detected_at": "2026-09-14T11:36:54+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-14-3e94c2b033cc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI agents attacked RubyGems two months before Hugging Face - Techzine Global",
+      "detected_at": "2026-09-14T08:18:54+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-14-6ba458e420dc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Why rules alone cannot make AI safe: Lessons from the Hugging Face incident - ABC News & Headlines – Australian Broadcasting Corporation",
+      "detected_at": "2026-09-14T02:25:48+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-14-7f0bef8b86bf",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Altman, Amodei, Musk call for AI slowdown as Hugging Face warns over “closed doors” - thestack.technology",
+      "detected_at": "2026-09-13T17:22:02+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-14-ca8b89002fe7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "DeepSeek V4.1 Flash Uncensored: 2,254 Downloads [2026] - shattered.io",
+      "detected_at": "2026-09-14T10:25:33+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-14-8d3bb8b9ba1e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Faces Congressional Probe Over Swarm Hacking Incident - Futurism",
+      "detected_at": "2026-09-13T16:01:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-14-e27472a87c41",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI AI agents were linked to a cyberattack on RubyGems before the Hugging Face incident - Digital Trends",
+      "detected_at": "2026-09-13T07:42:55+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-14-57e9874d702e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia’s $12.93 Billion Hugging Face Deal Now Carries a Senate Disclosure Test - TechStock²",
+      "detected_at": "2026-09-13T18:19:57+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-14-14ba54061e63",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI agents attacked RubyGems months before rogue Hugging Face hack - Cybernews",
+      "detected_at": "2026-09-13T12:48:42+00:00",
+      "importance_score": 4.0
     }
   ],
   "brief_history": [],

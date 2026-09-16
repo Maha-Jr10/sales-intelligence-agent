@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "openai",
   "created_at": "2026-06-03T17:25:17.679650+00:00",
-  "last_updated": "2026-09-15T11:23:05.476378+00:00",
+  "last_updated": "2026-09-16T11:07:12.081370+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,550 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "openai-product_launch-2026-06-18-b768ea3c3188",
-      "signal_type": "product_launch",
-      "signal_subtype": "new_product",
-      "title": "OpenAI launches scheduled tasks in ChatGPT, details here - 9to5Mac",
-      "detected_at": "2026-06-17T19:15:00+00:00",
-      "importance_score": 7.5
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-18-3bd9f66af76b",
-      "signal_type": "product_launch",
-      "signal_subtype": "new_product",
-      "title": "OpenAI Partner Network Launches With $150 Million - Memeburn",
-      "detected_at": "2026-06-18T08:50:54+00:00",
-      "importance_score": 7.5
-    },
-    {
-      "signal_id": "openai-leadership_change-2026-06-18-176ba8d5b7b7",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Anthropic's Dario Amodei and OpenAI's Sam Altman are attending the same CEO lunch today - Business Insider",
-      "detected_at": "2026-06-17T14:27:00+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-18-0e2764fcec0a",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "OpenAI’s New Partner Network: Codex, $150M Investment, Specializations And Other Things To Know - crn.com",
-      "detected_at": "2026-06-17T16:00:00+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "openai-leadership_change-2026-06-18-c24b496696fc",
-      "signal_type": "leadership_change",
-      "signal_subtype": "generic",
-      "title": "Amazon has lagged OpenAI and Anthropic, but AI chief sees path to catch up in 'coming year' - CNBC",
-      "detected_at": "2026-06-17T17:31:45+00:00",
-      "importance_score": 6.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-18-2f770244d8b1",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI - Reuters",
-      "detected_at": "2026-06-18T00:25:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-18-8c03c7aa6272",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "What OpenAI’s Leaked Financials Mean for the Company’s IPO Plans - inc.com",
-      "detected_at": "2026-06-18T10:03:03+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-18-5137907a6265",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI Releases LifeSciBench, a 750-Task Benchmark Grading AI Models on Real Life-Science Research With Expert-Written Rubric - MarkTechPost",
-      "detected_at": "2026-06-18T02:28:22+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-hiring_spike-2026-06-18-753e1f303a64",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "generic",
-      "title": "OpenAI Is In A Far Worse Position Than Anyone Thought It Was - planetearthandbeyond.co",
-      "detected_at": "2026-06-17T21:15:35+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-18-b61ce41f9a40",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Google’s Noam Shazeer leaving organisation to join rival OpenAI - Silicon Republic",
-      "detected_at": "2026-06-18T08:59:39+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-18-5fee7c7b8ba1",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "L'Oréal and OpenAI announce partnership - Drug Store News",
-      "detected_at": "2026-06-17T19:44:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-18-48d1c4ca7368",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI's Stargate Data Centers Are Taking Longer and Costing More Than Its Competitors' - Distilled | Michael Thomas",
-      "detected_at": "2026-06-17T17:39:30+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-18-43c7114909cf",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Google Gemini Co-Lead Noam Shazeer Joins OpenAI—Sam Altman Says It's '10 Years' In The Making - Benzinga",
-      "detected_at": "2026-06-18T09:58:33+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-18-7cc9bccff594",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI to launch ChatGPT advertising service targeting users in Japan - Nikkei Asia",
-      "detected_at": "2026-06-18T09:01:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-18-9c68d6fd8e6b",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "AI researcher Gary Marcus sees problems ahead for tech stocks with ties to OpenAI - Business Insider",
-      "detected_at": "2026-06-17T13:35:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-18-16661bae68df",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "Noam Shazeer departs Google to join OpenAI as IPO looms - mezha.net",
-      "detected_at": "2026-06-18T03:39:21+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-18-6232c2767bc3",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI, Anthropic Poach Approximately 100 Salesforce Employees This Year - Benzinga",
-      "detected_at": "2026-06-17T19:06:12+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-18-d2bf367bf97c",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI researchers want to predict how often AI models will fail before launch - The Decoder",
-      "detected_at": "2026-06-17T14:33:02+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-18-7a9e4b08e555",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI faces multi-state probe as attorneys general investigate ChatGPT safety, data handling, and user harm claims - The Cool Down",
-      "detected_at": "2026-06-17T20:18:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-771f5b4e8e43",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models - Bloomberg.com",
-      "detected_at": "2026-06-17T22:30:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-358c8e1293de",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Google Gemini co-lead Noam Shazeer leaves for OpenAI - CNBC",
-      "detected_at": "2026-06-18T03:21:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-dd0ac4819890",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Star Google Researcher Joins OpenAI in Coup for ChatGPT Creator - Bloomberg.com",
-      "detected_at": "2026-06-18T03:15:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-fbb12ead9038",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Exclusive | The $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic - WSJ",
-      "detected_at": "2026-06-18T10:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-4a46c385169d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI works to stop ChatGPT generating 'sex crime scene' images - BBC",
-      "detected_at": "2026-06-17T23:07:40+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-297d94c81964",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI and Anthropic Tap Salesforce Talent - The Information",
-      "detected_at": "2026-06-17T13:01:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-412c7238df13",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Google, Microsoft, and OpenAI join forces to help create AI’s missing trust layer - The New Stack",
-      "detected_at": "2026-06-17T13:32:28+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-33bf3db6169c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Introducing LifeSciBench - OpenAI",
-      "detected_at": "2026-06-17T20:43:39+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-d303e90fec4c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "L’Oréal Is Partnering With OpenAI - WWD",
-      "detected_at": "2026-06-18T00:40:12+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-4c1b078593c1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Star Google AI Researcher Shazeer Joins OpenAI - The Information",
-      "detected_at": "2026-06-18T00:09:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-143134153826",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "A Google Veteran Who Founded Character.AI Is Jumping to OpenAI - Business Insider",
-      "detected_at": "2026-06-18T02:34:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-1c46479f77c7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI’s Financials Leaked. They’re Not Bad, but They’re Not Great. - Yahoo Finance",
-      "detected_at": "2026-06-17T11:38:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-986c80f7f31f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Gemini’s co-lead is leaving Google to join OpenAI - 9to5Google",
-      "detected_at": "2026-06-18T01:45:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-66e967cf7bed",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Emerging technology trends brands and agencies need to know about - Ad Age",
-      "detected_at": "2026-06-18T09:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-d5ee3458d01b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Google's Gemini co-lead Noam Shazeer to join OpenAI - Yahoo Finance",
-      "detected_at": "2026-06-18T00:27:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-2b5e751f9af0",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI deepens Japan footprint with Hitachi deal - Computer Weekly",
-      "detected_at": "2026-06-18T05:29:23+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-201190dc85b5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Google Gemini co-lead Noam Shazeer departs for OpenAI (GOOG:NASDAQ) - Seeking Alpha",
-      "detected_at": "2026-06-18T04:14:46+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-4556ae51be75",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Two years after a $2.7 billion return to Google, AI pioneer Noam Shazeer is leaving for OpenAI - CTech",
-      "detected_at": "2026-06-18T06:17:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-b46f8c131165",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Ran Through $3.7 Billion in Q1 2026 - PYMNTS.com",
-      "detected_at": "2026-06-17T16:34:15+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-247dd2a404c4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Google Gemini co-lead Noam Shazeer to join OpenAI - Investing.com",
-      "detected_at": "2026-06-18T03:54:09+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-7304051e50c6",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI targets 300,000 consultants in AI training push | ETIH EdTech News - EdTech Innovation Hub",
-      "detected_at": "2026-06-17T23:01:37+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-2b2f5c198a41",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Florida Sues OpenAI Over ChatGPT \"Safety\" - Security Boulevard",
-      "detected_at": "2026-06-18T10:22:30+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-7f1bbc512996",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Mavenir urges telcos to sell AI tokens and not rely on OpenAI - Light Reading",
-      "detected_at": "2026-06-18T03:23:43+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-9068276d16d5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Jim Cramer Agrees That Accenture Is “Being Outcompeted By OpenAI and Anthropic” - Yahoo Finance",
-      "detected_at": "2026-06-17T16:38:19+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-89bc19ff6e8a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI's backers spent $7.6 million to destroy a state legislator. Anthropic spent $10 million to rescue him - Fortune",
-      "detected_at": "2026-06-17T14:16:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-b40a6d4e9a70",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription - BleepingComputer",
-      "detected_at": "2026-06-18T01:30:08+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-817c3f95ee82",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Google's Gemini co-lead Noam Shazeer joins OpenAI after two-year return stint - The Decoder",
-      "detected_at": "2026-06-18T07:10:54+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-8217d5afdea8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "SpaceX acquires Anthropic and OpenAI rival in $60B deal - thestreet.com",
-      "detected_at": "2026-06-17T14:47:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-2ee3b9eb4ea6",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Google’s Israeli AI star leaves Gemini team to join rival OpenAI - Ynetnews",
-      "detected_at": "2026-06-18T09:23:59+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-503c0806aa4f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Dario Amodei on why he left Sam Altman and OpenAI: 'Why argue with someone' when you 'don't trust them' - Business Insider",
-      "detected_at": "2026-06-17T17:44:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-8dddcaf84744",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "L’Oréal and OpenAI Partner to Accelerate AI-Powered Beauty Innovation - Global Cosmetics News",
-      "detected_at": "2026-06-18T05:00:49+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-f2d97c8fe86a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI joins push for safety testing of advanced AI models - Crypto Briefing",
-      "detected_at": "2026-06-18T02:05:17+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-1c1b6bedf398",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Who Is Noam Shazeer? AI Pioneer Behind Gemini Now Joining OpenAI - NDTV",
-      "detected_at": "2026-06-18T07:26:22+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-2d9e21177aa8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Google researcher departs for rival OpenAI, impacting AI race - Crypto Briefing",
-      "detected_at": "2026-06-18T03:59:07+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-ef97d784c9b6",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Noam Shazeer joins OpenAI from Google Gemini - Let's Data Science",
-      "detected_at": "2026-06-18T06:29:12+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-31af6fa0b81b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI tests ChatGPT for Science subscription - Let's Data Science",
-      "detected_at": "2026-06-18T07:44:43+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-a1f19a39ecb4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI's Financials Were Just Leaked -- You Won't Believe How Much the Company Is Losing - The Motley Fool",
-      "detected_at": "2026-06-17T16:27:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-b3253c0b381e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "L’Oréal expands beauty commerce with OpenAI partnership - Mass Market Retailers",
-      "detected_at": "2026-06-17T18:14:38+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-22a1c4e8cf12",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "With Latent Terrain, crack open AI and explore neural synthesis in Max - CDM Create Digital Music",
-      "detected_at": "2026-06-18T00:13:37+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-ff73bbc0e6a6",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Welcomes AI Pioneer Shazeer Amid Talent Competition - GuruFocus",
-      "detected_at": "2026-06-18T07:31:47+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-82a70fe3d298",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Who Is Noam Shazeer? Gemini Co-Lead To Join OpenAI; Sam Altman Says 'Will Be Worth The Wait' - NDTV Profit",
-      "detected_at": "2026-06-18T05:20:49+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-6a48d0dfcf29",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Microsoft sells OpenAI models to Chinese firms - Let's Data Science",
-      "detected_at": "2026-06-18T06:30:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-2dad1d0446be",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t. - AI News",
-      "detected_at": "2026-06-18T09:03:58+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-4a81b2784ee5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Noam Shazeer Joins OpenAI from Google - Let's Data Science",
-      "detected_at": "2026-06-18T03:21:21+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-2ba601af5c85",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Takes the Backstage, Elon Musk Steals the Spotlight - 36 Kr",
-      "detected_at": "2026-06-18T06:01:58+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-6a9a722ec544",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Must Read: Coperni Enters Receivership, L’Oréal Is Partnering With OpenAI - fashionista.com",
-      "detected_at": "2026-06-17T17:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-2648d1ac7828",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Microsoft builds AI model business in China amid US concerns from OpenAI and Anthropic - Crypto Briefing",
-      "detected_at": "2026-06-18T00:23:38+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-44b52e3d5ade",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Microsoft: Growth Outlook Still Robust Without OpenAI Exclusivity (NASDAQ:MSFT) - Seeking Alpha",
-      "detected_at": "2026-06-17T15:33:04+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-18-087734f2624f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Google's brilliant researcher Shazeer has moved to OpenAI and is hailed as the 'father of the Transformer.' - Moomoo",
-      "detected_at": "2026-06-18T03:24:13+00:00",
-      "importance_score": 4.0
-    },
     {
       "signal_id": "openai-leadership_change-2026-06-19-bf020f43e78f",
       "signal_type": "leadership_change",
@@ -623,14 +79,6 @@
       "signal_subtype": "generic",
       "title": "Dean Ball Joins OpenAI as Head of Strategic Futures - The Foundation for American Innovation",
       "detected_at": "2026-06-18T15:08:29+00:00",
-      "importance_score": 6.0
-    },
-    {
-      "signal_id": "openai-leadership_change-2026-06-19-c24b496696fc",
-      "signal_type": "leadership_change",
-      "signal_subtype": "generic",
-      "title": "Amazon has lagged OpenAI and Anthropic, but AI chief sees path to catch up in 'coming year' - CNBC",
-      "detected_at": "2026-06-17T17:31:45+00:00",
       "importance_score": 6.0
     },
     {
@@ -738,30 +186,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-19-b66d000848ea",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Improving health intelligence in ChatGPT",
-      "detected_at": "2026-06-18T11:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-19-0e33dd4de886",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "detected_at": "2026-06-18T08:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-19-358c8e1293de",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Google Gemini co-lead Noam Shazeer leaves for OpenAI - CNBC",
-      "detected_at": "2026-06-18T03:21:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-19-8d426f639224",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -770,27 +194,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-19-fbb12ead9038",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Exclusive | The $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic - WSJ",
-      "detected_at": "2026-06-18T10:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-19-1eaecb98f481",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Tech Workers Maxed Out Their A.I. Use. Now They’re Trying to Minimize It. - The New York Times",
       "detected_at": "2026-06-18T14:17:26+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-19-771f5b4e8e43",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models - Bloomberg",
-      "detected_at": "2026-06-17T22:30:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -834,14 +242,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-19-33bf3db6169c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Introducing LifeSciBench - OpenAI",
-      "detected_at": "2026-06-17T20:43:39+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-19-370689fe382d",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -858,22 +258,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-19-525b6b081afe",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children - OpenAI",
-      "detected_at": "2026-06-18T01:06:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-19-2a3bf7e9b0dd",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Improving health intelligence in ChatGPT - OpenAI",
-      "detected_at": "2026-06-17T19:20:33+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-19-3cbec5f6623f",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -887,14 +271,6 @@
       "signal_subtype": "generic",
       "title": "Google AI leader Noam Shazeer leaves company for OpenAI - Fast Company",
       "detected_at": "2026-06-19T00:54:52+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-19-4c1b078593c1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Star Google AI Researcher Shazeer Joins OpenAI - The Information",
-      "detected_at": "2026-06-18T00:09:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -930,14 +306,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-19-143134153826",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "A Google Veteran Who Founded Character.AI Is Jumping to OpenAI - Business Insider",
-      "detected_at": "2026-06-18T02:34:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-19-615576be1a24",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -951,14 +319,6 @@
       "signal_subtype": "generic",
       "title": "OpenAI appoints a former Trump AI policy adviser to lead new team - Seeking Alpha",
       "detected_at": "2026-06-19T07:10:55+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-19-a1f19a39ecb4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI's Financials Were Just Leaked -- You Won't Believe How Much the Company Is Losing - The Motley Fool",
-      "detected_at": "2026-06-17T16:27:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -1090,14 +450,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-19-986c80f7f31f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Gemini’s co-lead is leaving Google to join OpenAI - 9to5Google",
-      "detected_at": "2026-06-18T01:45:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-19-fee648bf683b",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -1119,30 +471,6 @@
       "signal_subtype": "generic",
       "title": "Barret Zoph Departs OpenAI After Five Months - Let's Data Science",
       "detected_at": "2026-06-19T05:06:52+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-19-4a46c385169d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI works to stop ChatGPT generating 'sex crime scene' images - BBC",
-      "detected_at": "2026-06-17T23:07:40+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-19-4556ae51be75",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Two years after a $2.7 billion return to Google, AI pioneer Noam Shazeer is leaving for OpenAI - CTech",
-      "detected_at": "2026-06-18T06:17:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-19-8217d5afdea8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "SpaceX acquires Anthropic and OpenAI rival in $60B deal - thestreet.com",
-      "detected_at": "2026-06-17T14:47:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -1250,14 +578,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "openai-funding_event-2026-06-20-8c03c7aa6272",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "What OpenAI’s Leaked Financials Mean for the Company’s IPO Plans - inc.com",
-      "detected_at": "2026-06-18T10:03:03+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "openai-funding_event-2026-06-20-e07a9d243ed8",
       "signal_type": "funding_event",
       "signal_subtype": "ipo",
@@ -1306,14 +626,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-20-b66d000848ea",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Improving health intelligence in ChatGPT",
-      "detected_at": "2026-06-18T11:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-20-8d426f639224",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -1335,14 +647,6 @@
       "signal_subtype": "generic",
       "title": "Why right now might be the best opportunity to get hired at Silicon Valley's most coveted employers - Business Insider",
       "detected_at": "2026-06-19T09:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-20-fbb12ead9038",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Exclusive | The $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic - WSJ",
-      "detected_at": "2026-06-18T10:00:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -46639,6 +45943,566 @@
       "signal_subtype": "generic",
       "title": "Rogue OpenAI Swarm Hit RubyGems, Escaping Federal AI Inquiries - SOFX",
       "detected_at": "2026-09-15T04:13:47+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-09-16-8df4552f9541",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_cto",
+      "title": "Anthropic will open its Singapore office in October, chasing OpenAI for Southeast Asia's AI market - Fortune",
+      "detected_at": "2026-09-16T05:44:00+00:00",
+      "importance_score": 9.5
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-16-f4331cc3d2d4",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Exclusive: OpenAI launches road tour to educate older Americans on AI - USA Today",
+      "detected_at": "2026-09-16T09:12:00+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "openai-funding_event-2026-09-16-7b8c32da6d61",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "OpenAI Weighing Funding Round at Over $1.2 Trillion Valuation - Bloomberg.com",
+      "detected_at": "2026-09-16T01:08:00+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-09-16-b8b50dc6006b",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce - CNBC",
+      "detected_at": "2026-09-15T20:00:16+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-09-16-3b587d2c85e9",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "OpenAI Is Reportedly Weighing New Funding Round At A Valuation Of Upto $1.5 Trillion - Forbes",
+      "detected_at": "2026-09-16T06:39:04+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-09-16-3e13c71ea6ff",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "AI progress and responsibility: Nvidia, Anthropic and OpenAI CEOs weigh in at Salesforce’s annual event - SiliconANGLE",
+      "detected_at": "2026-09-15T23:46:00+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-09-16-01dc2311b337",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "OpenAI CEO Warns of 2 Ways AI Could Go 'Very Badly' If Tech Doesn't Slow Down - PCMag Middle East",
+      "detected_at": "2026-09-16T04:19:59+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-09-16-da2466d9a82b",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Rumored Round of Funding Could Make OpenAI More Valuable Than Anthropic Again. Perhaps Briefly - Gizmodo",
+      "detected_at": "2026-09-16T03:24:48+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-09-16-18d01ef8f9f5",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Amid calls to \"slow down AI development,\" OpenAI secures massive funding. How safety regulations are reshaping the industry landscape, and who will be the next winner? - moomoo.com",
+      "detected_at": "2026-09-16T09:19:16+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-09-16-bc81c47ddfc5",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "ORCL Stock Falls For Fifth Straight Session: Traders Eye OpenAI Funding News, Potential Japan Cloud Deal As Catalysts - Stocktwits",
+      "detected_at": "2026-09-16T06:16:01+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-09-16-4f36ce49d76c",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "OpenAI CEO Sam Altman addresses concerns over AI safety - ktvu.com",
+      "detected_at": "2026-09-16T00:23:48+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-09-16-745cb0cb20ee",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "OpenAI in Early Talks for New Funding Round at $1.2 Trillion Valuation - The Information",
+      "detected_at": "2026-09-15T22:36:00+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-09-16-aaf70900f857",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "Urgent calls from OpenAI, Anthropic for an AI slowdown fall on deaf ears with Trump, Xi ahead of next week’s meeting - Fortune",
+      "detected_at": "2026-09-15T21:59:00+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-09-16-a229bf6d0c3a",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "OpenAI Considers Pre-IPO Funding Round at More Than $1.2 Trillion Valuation - wsj.com",
+      "detected_at": "2026-09-16T02:35:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-09-16-53e6a090eb34",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports - reuters.com",
+      "detected_at": "2026-09-15T22:48:56+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-09-16-9eec3b4bdf78",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "OpenAI weighs funding round at $1.2tn valuation before IPO - Financial Times",
+      "detected_at": "2026-09-15T21:54:39+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-09-16-e9ba2ff5f038",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "OpenAI IPO looks like a no-go: Sam Altman is discussing a new round of VC funding valuing the company at $1.2 trillion - Fortune",
+      "detected_at": "2026-09-16T09:28:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-09-16-408b3153d91b",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "OpenAI Eyes $1.2 Trillion Valuation in Pre-IPO Funding Round - pymnts.com",
+      "detected_at": "2026-09-16T10:44:38+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-09-16-5d3a3b5abf50",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "OpenAI discusses new pre-IPO funding round at $1.2T valuation - Techzine Global",
+      "detected_at": "2026-09-16T08:25:41+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-hiring_spike-2026-09-16-f15e8cb62f8f",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "'Give the American people a say in how AI develops': OpenAI's least favorite New York politico sees an opening - Fortune",
+      "detected_at": "2026-09-15T20:00:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-16-9497b0b1ec53",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "AG Rob Bonta Breaks Down California’s Legal Fights with Trump, OpenAI Probe and Meta Settlement - KQED",
+      "detected_at": "2026-09-15T23:05:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-16-c49393d54c44",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Is GPT-6 Sol Launch Imminent? OpenAI Poised for a Major AI Release Frenzy This Week - eu.36kr.com",
+      "detected_at": "2026-09-16T00:45:07+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-09-16-355273d5fb46",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "OpenAI Eyes Fresh Funding at $1.2 Trillion Valuation as Sam Altman Rules Out 2026 IPO: Report - Benzinga",
+      "detected_at": "2026-09-16T05:23:31+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-16-848c637dd6cb",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "detected_at": "2026-09-14T12:00:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-84a62c72f0c1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI's Sam Altman says world 'right to be afraid' but 'should trust' AI firms - BBC",
+      "detected_at": "2026-09-16T10:02:05+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-1753439eba64",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI backs bipartisan push to address AI biothreats - Politico",
+      "detected_at": "2026-09-15T19:53:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-d93e2d07c78e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI CFO Sarah Friar tells CNBC she isn't worried about slowing AI development - CNBC",
+      "detected_at": "2026-09-15T19:25:42+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-b8bb00abcef1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack - reuters.com",
+      "detected_at": "2026-09-16T10:23:30+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-9cc9137b0fba",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Math Can’t Go On Like This - theatlantic.com",
+      "detected_at": "2026-09-15T18:41:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-62c1ec2f5f72",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Eyes Canada for Data Centers, Praises Carney’s Plan - Bloomberg.com",
+      "detected_at": "2026-09-15T16:58:24+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-414973c579a9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI models need more data about biology, and OpenAI is paying to create it - MIT Technology Review",
+      "detected_at": "2026-09-15T12:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-875c3133b913",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI's CFO says AI is reducing the need for people to do mundane finance tasks like credit checks - Business Insider",
+      "detected_at": "2026-09-16T04:01:10+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-0277b2874d06",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues - CNBC",
+      "detected_at": "2026-09-15T18:31:39+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-2971932f9ed9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Says It’s Working With Anthropic, Google on AI Safety - Bloomberg.com",
+      "detected_at": "2026-09-15T21:15:03+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-531f283a9930",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident - Dark Reading",
+      "detected_at": "2026-09-15T19:29:55+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-b8e4c84b89f6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s GPT-6 Astra arrives amid fears about AI agents - qz.com",
+      "detected_at": "2026-09-16T09:03:34+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-5daa1ffd9fb3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI backs bipartisan House plan for third-party safety assessments - Politico",
+      "detected_at": "2026-09-15T13:57:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-74c3154817ae",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI: AI capabilities are in a ‘different place’ and require urgency - Politico",
+      "detected_at": "2026-09-15T18:01:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-4aa12bd15cf7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Exclusive | OpenAI Buys Startup Developing Smartphone Camera - wsj.com",
+      "detected_at": "2026-09-14T18:31:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-071279bfe0f8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Inside OpenAI’s Ad Rush - wsj.com",
+      "detected_at": "2026-09-15T22:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-3c7f2538bd44",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hundreds of OpenAI agents attack RubyGems platform - csoonline.com",
+      "detected_at": "2026-09-16T01:11:35+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-a1b46735bb65",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI strikes first news deal in Canada - Axios",
+      "detected_at": "2026-09-15T22:34:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-ff7c74c0e118",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "What OpenAI Thought Its Agents Were Doing At Hugging Face - Forbes",
+      "detected_at": "2026-09-15T21:31:57+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-02da41cf9a95",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work - Decrypt",
+      "detected_at": "2026-09-15T20:10:37+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-914a997ab95d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI backs measure that would require independent audits of AI models - CBS News",
+      "detected_at": "2026-09-15T20:40:10+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-01bff7f39847",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip - IEEE Spectrum",
+      "detected_at": "2026-09-14T14:12:10+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-44a26546df1f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Savannah residents voice concerns over Georgia Power’s ties to proposed OpenAI data center - WTOC",
+      "detected_at": "2026-09-15T22:56:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-2e57e32c3cf4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic, OpenAI ‘Pacing’ Spooks Some Startup Customers - The Information",
+      "detected_at": "2026-09-15T23:25:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-40806714f228",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI CFO Sarah Friar: I am a tech optimist, but it is also important to align around safety - CNBC",
+      "detected_at": "2026-09-15T23:54:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-8ef6e9e59fba",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Defies Antitrust Concerns to Join Rivals on AI Safety - pymnts.com",
+      "detected_at": "2026-09-15T21:25:24+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-4c4ff91b9ba1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Georgia PSC Takes Questions on OpenAI’s Effingham Data Center - Effingham Herald",
+      "detected_at": "2026-09-15T22:59:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-ae32a5795b16",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI, Anthropic and Google in talks to create a standards body as AI fears rise - France 24",
+      "detected_at": "2026-09-15T17:03:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-e7eba4e2fc70",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s Sam Altman ‘Confident’ Industry Can Police AI Safety - Bloomberg.com",
+      "detected_at": "2026-09-15T21:49:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-01fe5a6d958c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI, Anthropic and Google secretly joined forces to collaborate on AI safety - SiliconANGLE",
+      "detected_at": "2026-09-16T01:38:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-73be146858db",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Why Anthropic’s Data Policy Drama Is Good for OpenAI - The Information",
+      "detected_at": "2026-09-15T18:28:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-22f7ab6fb32d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI's malicious bot swarm attacked RubyGems - The Register",
+      "detected_at": "2026-09-14T18:03:58+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-8d2c81db920b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Two camps have emerged in the debate over AI safety and regulation - CNBC",
+      "detected_at": "2026-09-15T20:05:32+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-aa6bedd9ee07",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The frontier Anthropic & OpenAI models are only ~4 months ah... - Kottke.org",
+      "detected_at": "2026-09-16T04:08:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-2a39ed6dc396",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic, OpenAI Safety Push Risks ‘Regulatory Wall’ for Rivals - Bloomberg.com",
+      "detected_at": "2026-09-15T20:36:16+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-b856291404d8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI safety push by Anthropic, OpenAI could create ‘regulatory wall’ for smaller rivals - Indianapolis Business Journal",
+      "detected_at": "2026-09-16T05:03:07+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-0cdf46bb0750",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI says the AGI era has begun. AI researchers aren’t so sure - Fast Company",
+      "detected_at": "2026-09-15T09:15:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-55bdcfcd81fd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Why OpenAI Is Paying Robotics Engineers Up to $325K - Electropages",
+      "detected_at": "2026-09-16T09:07:41+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-12daf60e366f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI urges UK lawmakers to rein in technology amid growing safety fears - The Guardian",
+      "detected_at": "2026-09-14T11:07:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-83c2f80a918e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Using ChatGPT to detect wildfires early - OpenAI",
+      "detected_at": "2026-09-14T18:04:48+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-a0adf1a602ab",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI, Anthropic, and Google Join Forces for Safety as Antitrust Concerns Mount - Gizmodo",
+      "detected_at": "2026-09-15T19:45:32+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-289185eeca05",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Buys Glass Imaging for More Than $300 Million - thelec.net",
+      "detected_at": "2026-09-16T01:12:55+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-16-ccfc4717f4b0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI and Anthropic Want to Slow Down AI — and It Builds Them a Moat - martincid.com",
+      "detected_at": "2026-09-16T09:30:03+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-github_signal-2026-09-16-786248f08990",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports - reuters.com",
+      "detected_at": "2026-09-15T14:53:18+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "openai-github_signal-2026-09-16-a31f11c1f7fb",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says - TechCrunch",
+      "detected_at": "2026-09-14T20:44:14+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "openai-github_signal-2026-09-16-8ca7f07e1105",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "OpenAI considers new financing at $1.2T valuation, FT reports (OPENAI:Private) - Seeking Alpha",
+      "detected_at": "2026-09-16T04:21:58+00:00",
       "importance_score": 3.5
     }
   ],

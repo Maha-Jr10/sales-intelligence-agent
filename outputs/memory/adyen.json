@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "adyen",
   "created_at": "2026-06-03T17:25:17.733626+00:00",
-  "last_updated": "2026-09-17T11:17:06.752368+00:00",
+  "last_updated": "2026-09-18T10:49:45.399560+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,22 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "adyen-news_mention-2026-06-20-7ed5def2c86e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Agentic Commerce Needs Open Infrastructure To Scale - Forbes",
-      "detected_at": "2026-06-19T15:24:30+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "adyen-news_mention-2026-06-20-30b60e4631d4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "From subscription spikes to smart routing - Adyen Billing sharpens recurring payments - AD HOC NEWS",
-      "detected_at": "2026-06-20T05:30:54+00:00",
-      "importance_score": 4.0
-    },
     {
       "signal_id": "adyen-news_mention-2026-06-22-35878a713231",
       "signal_type": "news_mention",
@@ -3895,6 +3879,54 @@
       "signal_subtype": "generic",
       "title": "Adyen stock heads into the open after a 2.46% rise - ad-hoc-news.de",
       "detected_at": "2026-09-16T05:50:17+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "adyen-funding_event-2026-09-18-4b0b62204295",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Ex-Google and Adyen engineers’ Creem raises €5M after doubling revenue to €2M ARR - Tech Funding News",
+      "detected_at": "2026-09-17T04:01:21+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "adyen-product_launch-2026-09-18-0fd8233231f4",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Adyen stock gains after Guidewire payment partner approval - AD HOC NEWS",
+      "detected_at": "2026-09-16T21:39:07+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "adyen-news_mention-2026-09-18-a32cca65b2fd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Payments: No Longer Just a Step, Becoming Core Infrastructure | Adyen | GFF 2026 - The Economic Times",
+      "detected_at": "2026-09-18T07:45:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "adyen-news_mention-2026-09-18-0fb3a644dbfe",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Adyen stock heads into the open after a 1.8 percent drop - AD HOC NEWS",
+      "detected_at": "2026-09-18T06:37:14+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "adyen-news_mention-2026-09-18-8a83ffece9e7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "India’s Innovation in Digital Payments Is Powering Global Growth | Adyen at GFF 2026 - The Economic Times",
+      "detected_at": "2026-09-17T07:10:44+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "adyen-news_mention-2026-09-18-813b8111aac9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Adyen stock falls 1.81 percent as revenue stays solid - AD HOC NEWS",
+      "detected_at": "2026-09-17T10:09:35+00:00",
       "importance_score": 4.0
     }
   ],

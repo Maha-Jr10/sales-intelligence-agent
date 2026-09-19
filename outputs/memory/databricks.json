@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "databricks",
   "created_at": "2026-06-03T17:25:17.618603+00:00",
-  "last_updated": "2026-09-18T10:49:45.213769+00:00",
+  "last_updated": "2026-09-19T10:33:24.717909+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,14 +18,6 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "databricks-product_launch-2026-06-22-48fff730b151",
-      "signal_type": "product_launch",
-      "signal_subtype": "new_product",
-      "title": "Databricks Launches Genie One, an AI Coworker for Business Teams - Memeburn",
-      "detected_at": "2026-06-21T06:41:28+00:00",
-      "importance_score": 7.5
-    },
-    {
       "signal_id": "databricks-funding_event-2026-06-22-6ed6eb7fa8de",
       "signal_type": "funding_event",
       "signal_subtype": "generic",
@@ -40,14 +32,6 @@
       "title": "US startup Databricks to raise Singapore headcount by up to 50% as AI demand grows - The Business Times",
       "detected_at": "2026-06-21T23:00:00+00:00",
       "importance_score": 5.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-06-22-bc0287be1331",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks’ $134B Valuation Puts the Enterprise AI Data War in Focus - ERP Today",
-      "detected_at": "2026-06-20T23:42:20+00:00",
-      "importance_score": 4.0
     },
     {
       "signal_id": "databricks-news_mention-2026-06-24-5cd86958ebab",
@@ -7127,6 +7111,94 @@
       "signal_subtype": "generic",
       "title": "Databricks Rolls Out GPT-6 Astra to All 3,500 Engineers - analyticsindiamag.com",
       "detected_at": "2026-09-17T07:11:24+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-leadership_change-2026-09-19-c1384bd14371",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Databricks CEO Ali Ghodsi: Most researchers agree there is no existential risk from AI - CNBC",
+      "detected_at": "2026-09-17T23:23:00+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "databricks-leadership_change-2026-09-19-2084b0eb7ce7",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Watch AI ‘Existential Risk’ Is Close to Zero: Databricks CEO - Bloomberg.com",
+      "detected_at": "2026-09-17T17:55:02+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "databricks-leadership_change-2026-09-19-dd88e2c9e24a",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Databricks CEO Ali Ghodsi: Stop Scaring People About AI - finance.biggo.com",
+      "detected_at": "2026-09-18T21:08:00+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "databricks-leadership_change-2026-09-19-332d0205b1e1",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "AI 'Existential Risk' Is Close to Zero: Databricks CEO - Yahoo Finance",
+      "detected_at": "2026-09-17T17:52:41+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "databricks-leadership_change-2026-09-19-8637f1703a95",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Databricks CEO Ali Ghodsi: Enterprise AI Adoption Will Take a Decade, Not Months - finance.biggo.com",
+      "detected_at": "2026-09-17T14:11:35+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "databricks-funding_event-2026-09-19-ad08223e0970",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Ahead of an IPO, the Math Behind Databricks’ USD 190 Billion Valuation Doesn’t Add Up - Morningstar",
+      "detected_at": "2026-09-18T08:43:03+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "databricks-product_launch-2026-09-19-c993ba749288",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Databricks Bets $350M on Singapore as It More Than Doubles Local Workforce - TechRepublic",
+      "detected_at": "2026-09-18T00:22:34+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-09-19-bcd5287fe482",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Bringing Agents to Data - databricks.com",
+      "detected_at": "2026-09-18T21:37:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-09-19-3aedfe48d0c2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "News | Databricks signs lease at The Franklin in Chicago - costar.com",
+      "detected_at": "2026-09-18T19:10:22+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-09-19-ed4ec03363e1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Analytics and Data Science News for the Week of September 18; Updates from Alteryx, Databricks, Golden Analytics & More - Solutions Review",
+      "detected_at": "2026-09-18T18:28:40+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-09-19-7c5dd10ccb65",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Enabling secure, productive work on personal devices - databricks.com",
+      "detected_at": "2026-09-18T18:00:37+00:00",
       "importance_score": 4.0
     }
   ],

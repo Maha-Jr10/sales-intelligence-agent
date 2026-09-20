@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "databricks",
   "created_at": "2026-06-03T17:25:17.618603+00:00",
-  "last_updated": "2026-09-19T10:33:24.717909+00:00",
+  "last_updated": "2026-09-20T10:56:22.137191+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,22 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "databricks-funding_event-2026-06-22-6ed6eb7fa8de",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "Opinion: Databricks smartly uses a private funding lull - The Edge Malaysia",
-      "detected_at": "2026-06-22T02:59:46+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "databricks-product_launch-2026-06-22-f74eafd3ba83",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "US startup Databricks to raise Singapore headcount by up to 50% as AI demand grows - The Business Times",
-      "detected_at": "2026-06-21T23:00:00+00:00",
-      "importance_score": 5.0
-    },
     {
       "signal_id": "databricks-news_mention-2026-06-24-5cd86958ebab",
       "signal_type": "news_mention",
@@ -7199,6 +7183,22 @@
       "signal_subtype": "generic",
       "title": "Enabling secure, productive work on personal devices - databricks.com",
       "detected_at": "2026-09-18T18:00:37+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-leadership_change-2026-09-20-dd88e2c9e24a",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Databricks CEO Ali Ghodsi: Stop Scaring People About AI - finance.biggo.com",
+      "detected_at": "2026-09-18T21:08:00+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-09-20-6b41a0170389",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Delta Lake UniForm Is the Real Fix for the Snowflake-vs-Databricks Standoff - HackerNoon",
+      "detected_at": "2026-09-19T15:05:58+00:00",
       "importance_score": 4.0
     }
   ],

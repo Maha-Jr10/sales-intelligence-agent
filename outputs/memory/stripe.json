@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "stripe",
   "created_at": "2026-06-03T17:25:17.440750+00:00",
-  "last_updated": "2026-09-19T10:33:24.604912+00:00",
+  "last_updated": "2026-09-20T10:56:22.022958+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,22 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "stripe-news_mention-2026-06-22-fc19dbe1be79",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Fintech Stripe and AWS Team Up to Enable Payments for AI Agents Accessing Digital Content - Crowdfund Insider",
-      "detected_at": "2026-06-22T02:57:21+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-06-22-2c82eff47f75",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Stripe rust is back in Ontario’s winter wheat — and it’s adapting to warmer temperatures - Farmtario",
-      "detected_at": "2026-06-21T12:16:46+00:00",
-      "importance_score": 4.0
-    },
     {
       "signal_id": "stripe-funding_event-2026-06-24-d08669f91496",
       "signal_type": "funding_event",
@@ -13232,6 +13216,46 @@
       "title": "LaFollette accepting bids for seal and stripe parking lot - WLAF",
       "detected_at": "2026-09-18T09:39:24+00:00",
       "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-09-20-852ede42eec6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Ripple Just Connected XRP to Stripe’s AI Agent Payments. Why the Sessions Run on XRP, Not RLUSD - Yahoo Finance",
+      "detected_at": "2026-09-18T15:32:54+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-09-20-0621ab76582d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe’s wallet embraces AI bots - Payments Dive",
+      "detected_at": "2026-09-18T15:44:24+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-09-20-fdbbe560848f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "What Is XRP Used For? Payments, Collateral, and Now Stripe’s AI Agents - 24/7 Wall St.",
+      "detected_at": "2026-09-18T11:17:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-09-20-f471486e7c5a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Auburn having a ‘Power Stripe Out’ for massive Florida showdown at Jordan-Hare - Yellowhammer News",
+      "detected_at": "2026-09-18T16:15:30+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-github_signal-2026-09-20-818be66e8b4d",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Patriotism, pumpkins team up at Dixon’s Cool Patch - The Vacaville Reporter",
+      "detected_at": "2026-09-19T23:24:39+00:00",
+      "importance_score": 3.5
     }
   ],
   "brief_history": [],

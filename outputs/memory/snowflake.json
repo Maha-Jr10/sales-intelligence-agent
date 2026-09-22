@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "snowflake",
   "created_at": "2026-06-03T17:25:17.673223+00:00",
-  "last_updated": "2026-09-21T12:21:35.374746+00:00",
+  "last_updated": "2026-09-22T11:13:12.805324+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,132 +18,12 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "snowflake-product_launch-2026-06-24-fe8a80d08f4a",
-      "signal_type": "product_launch",
-      "signal_subtype": "new_product",
-      "title": "Carrington Labs launches Cashflow Score on Snowflake - IT Brief Australia",
-      "detected_at": "2026-06-24T05:56:00+00:00",
-      "importance_score": 7.5
-    },
-    {
-      "signal_id": "snowflake-product_launch-2026-06-24-624c1cb90051",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Snowflake's Official Launch of Operations in Chile to Power the Era of the Agentic Enterprise - Snowflake",
-      "detected_at": "2026-06-23T23:55:25+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "snowflake-hiring_spike-2026-06-24-3d016c5ac84f",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "generic",
-      "title": "Cache Advisors LLC Reduces Stock Position in Snowflake Inc. $SNOW - MarketBeat",
-      "detected_at": "2026-06-24T08:37:30+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-24-067610473d35",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake (SNOW) Expands Marketplacer Tie Up As AI Partner Recognition Grows - Yahoo Finance",
-      "detected_at": "2026-06-23T18:15:18+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-24-8829d907fee5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake and NVIDIA Bring Agentic AI to Life Sciences - Snowflake",
-      "detected_at": "2026-06-23T15:27:46+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-24-3e6862d8b6dd",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Is Snowflake’s (SNOW) AI Data Cloud Momentum Overshadowing Emerging Questions About Board Accountability? - Yahoo Finance",
-      "detected_at": "2026-06-23T22:12:39+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-24-3786fca53fcd",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Hsbc Holdings PLC Sells 19,150 Shares of Snowflake Inc. $SNOW - MarketBeat",
-      "detected_at": "2026-06-24T08:37:30+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-24-b6071ae659f9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake (SNOW) Stock After 32% Monthly Jump Is The Valuation Starting To Appeal - Yahoo Finance",
-      "detected_at": "2026-06-23T20:13:11+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-24-d65304c72d3b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake Inc. $SNOW Shares Purchased by SG Americas Securities LLC - MarketBeat",
-      "detected_at": "2026-06-24T08:59:28+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-24-2fde89d48ab7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Innodata vs. Snowflake: Which AI Data Stock Has the Edge? - TradingView",
-      "detected_at": "2026-06-23T13:40:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-24-94cf541ad497",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Alphabet Rides on Accelerating AI Infrastructure Demand: What's Ahead? - TradingView",
-      "detected_at": "2026-06-23T17:24:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-24-c288dbf63a4c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Form 144 Snowflake Inc. For: 23 June By Investing.com - Investing.com Canada",
-      "detected_at": "2026-06-23T14:21:05+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-github_signal-2026-06-24-b28efc4a6017",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "GrowthLoop Highlighted in Snowflake's Fifth Edition Modern Marketing Data Stack Report as \"One to Watch\" - Morningstar",
-      "detected_at": "2026-06-23T16:00:00+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "snowflake-github_signal-2026-06-24-fa23ae8b4696",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "Snowflake (SNOW) Recognizes AI Marketing Partners In Its 2026 Data Stack Report - simplywall.st",
-      "detected_at": "2026-06-23T13:38:14+00:00",
-      "importance_score": 3.5
-    },
-    {
       "signal_id": "snowflake-leadership_change-2026-06-25-d0f4c01cdbb3",
       "signal_type": "leadership_change",
       "signal_subtype": "new_ceo",
       "title": "Snowflake CEO finds GLM-5.2 competitive with Opus 4.7 at a fraction of the cost - the-decoder.com",
       "detected_at": "2026-06-24T17:12:43+00:00",
       "importance_score": 7.0
-    },
-    {
-      "signal_id": "snowflake-product_launch-2026-06-25-624c1cb90051",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Snowflake's Official Launch of Operations in Chile to Power the Era of the Agentic Enterprise - Snowflake",
-      "detected_at": "2026-06-23T23:55:25+00:00",
-      "importance_score": 5.0
     },
     {
       "signal_id": "snowflake-product_launch-2026-06-25-d6caaa0d4de5",
@@ -194,14 +74,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-06-25-e9c61b8643d1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Innodata vs. Snowflake: Which AI Data Stock Has the Edge? - Yahoo Finance",
-      "detected_at": "2026-06-23T13:40:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-news_mention-2026-06-25-10216ccde786",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -226,35 +98,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-06-25-8829d907fee5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake and NVIDIA Bring Agentic AI to Life Sciences - Snowflake",
-      "detected_at": "2026-06-23T15:27:46+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-news_mention-2026-06-25-cf43c58a59a3",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Snowflake EVP Christian Kleinerman sells $598,767 of common stock - Investing.com",
       "detected_at": "2026-06-25T00:10:39+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-25-067610473d35",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake (SNOW) Expands Marketplacer Tie Up As AI Partner Recognition Grows - Yahoo Finance",
-      "detected_at": "2026-06-23T18:15:18+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-25-b6071ae659f9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake (SNOW) Stock After 32% Monthly Jump Is The Valuation Starting To Appeal - Yahoo Finance",
-      "detected_at": "2026-06-23T20:13:11+00:00",
       "importance_score": 4.0
     },
     {
@@ -282,14 +130,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-06-25-3e6862d8b6dd",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Is Snowflake’s (SNOW) AI Data Cloud Momentum Overshadowing Emerging Questions About Board Accountability? - Yahoo Finance",
-      "detected_at": "2026-06-23T22:12:39+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-news_mention-2026-06-25-c69bd5f2ccb5",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -304,30 +144,6 @@
       "title": "Form 4 Snowflake Inc For: 24 June By Investing.com - Investing.com Canada",
       "detected_at": "2026-06-24T23:38:28+00:00",
       "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-06-25-d65304c72d3b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake Inc. $SNOW Shares Purchased by SG Americas Securities LLC - MarketBeat",
-      "detected_at": "2026-06-24T08:59:28+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-github_signal-2026-06-25-2b870d024b2a",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "GrowthLoop Highlighted in Snowflake's Fifth Edition Modern Marketing Data Stack Report as \"One to Watch\" - PR Newswire",
-      "detected_at": "2026-06-23T16:00:00+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "snowflake-github_signal-2026-06-25-fa23ae8b4696",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "Snowflake (SNOW) Recognizes AI Marketing Partners In Its 2026 Data Stack Report - simplywall.st",
-      "detected_at": "2026-06-23T13:38:14+00:00",
-      "importance_score": 3.5
     },
     {
       "signal_id": "snowflake-leadership_change-2026-06-26-25b4b5b03306",
@@ -14583,6 +14399,86 @@
       "signal_subtype": "generic",
       "title": "Young people aren’t snowflakes, mental health reviewer insists - The Times",
       "detected_at": "2026-09-21T08:20:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-funding_event-2026-09-22-7e32b9e221b9",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Snowflake Inc. $SNOW Shares Acquired by Silicon Valley Capital Partners - MarketBeat",
+      "detected_at": "2026-09-21T23:14:02+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "snowflake-leadership_change-2026-09-22-ae10e09b6a99",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "Young people aren't snowflakes - mental distress is rising, says head of official review - BBC",
+      "detected_at": "2026-09-21T04:00:05+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "snowflake-leadership_change-2026-09-22-ef766d2628f1",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "Head of major mental health review debunks idea of ‘snowflake generation’ - The London Economic",
+      "detected_at": "2026-09-21T14:27:17+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "snowflake-leadership_change-2026-09-22-2c7bc28d9eda",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "Young people aren't snowflakes, says head of official review. #BBCNews - Modern Ghana",
+      "detected_at": "2026-09-21T09:31:12+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "snowflake-product_launch-2026-09-22-fe18f98742fc",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "AI adoption among Indian enterprises gathering pace by the day: Snowflake MD - YourStory.com",
+      "detected_at": "2026-09-22T07:03:15+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-22-332cb2a0457a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Understanding Hybrid Table Bulk INSERTs - Snowflake",
+      "detected_at": "2026-09-21T20:22:52+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-22-afc6a7b60fdc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake Stock Is Up 45% in a Year. Is It Too Late to Buy? - TIKR.com",
+      "detected_at": "2026-09-21T23:47:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-22-06243d8b272f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "QPR Software Oyj : brings AI Agent Mining for Snowflake to Snowflake World Tour Stockholm - marketscreener.com",
+      "detected_at": "2026-09-22T07:37:06+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-22-345017669340",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "There is no ‘snowflake generation’, says author of mental health review - The Independent",
+      "detected_at": "2026-09-21T09:08:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-09-22-c7cd545dc23c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "There is no ‘snowflake generation’ – it’s just harder to be young now, says author of mental health review - Yahoo News UK",
+      "detected_at": "2026-09-21T09:08:29+00:00",
       "importance_score": 4.0
     }
   ],

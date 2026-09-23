@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "openai",
   "created_at": "2026-06-03T17:25:17.679650+00:00",
-  "last_updated": "2026-09-22T11:13:12.879800+00:00",
+  "last_updated": "2026-09-23T11:04:16.942676+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,566 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "openai-product_launch-2026-06-25-8002d49a3080",
-      "signal_type": "product_launch",
-      "signal_subtype": "new_product",
-      "title": "OpenAI launches AI ASIC chip Jalapeno in partnership with Broadcom - Blockspace Media",
-      "detected_at": "2026-06-24T21:38:13+00:00",
-      "importance_score": 7.5
-    },
-    {
-      "signal_id": "openai-hiring_spike-2026-06-25-9b4dfb280279",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "sales_leadership",
-      "title": "How agents are transforming work",
-      "detected_at": "2026-06-25T02:00:00+00:00",
-      "importance_score": 7.5
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-25-e6ed67939cc9",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "OpenAI unveils first custom AI inference chip, Jalapeño, with Broadcom — and its development was sped-up with OpenAI's own models - VentureBeat",
-      "detected_at": "2026-06-24T15:14:00+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "openai-funding_event-2026-06-25-ffbe031129f4",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "Why is Google suddenly losing AI talent? The lure of pre-IPO equity is strong. - Business Insider",
-      "detected_at": "2026-06-25T09:00:19+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-25-17b34f7928e6",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI just announced its first custom chip to help ChatGPT run better - CNN",
-      "detected_at": "2026-06-24T15:11:04+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-25-7ae6f6bde0af",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI's Free GPT-5.5 Model Makes ChatGPT Better At Understanding Context - Engadget",
-      "detected_at": "2026-06-25T05:06:27+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-25-e04b4e1660f1",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale - Ars Technica",
-      "detected_at": "2026-06-24T22:28:18+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-25-420016d0a689",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI and Broadcom announce first custom AI chip, in strike at Nvidia - Yahoo Finance",
-      "detected_at": "2026-06-24T14:05:18+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-25-ce6b6bb5e619",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI just updated how ChatGPT’s most-used model works again, details here - 9to5Mac",
-      "detected_at": "2026-06-24T18:13:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-25-919fb1b9af34",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "How OpenAI’s Daybreak Solves Cyber Patching Bottleneck - Cyber Magazine",
-      "detected_at": "2026-06-24T15:19:12+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-25-3dbbf51b1bac",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Who's Leading Litigation in Florida v. OpenAI? - Law.com",
-      "detected_at": "2026-06-24T18:58:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-25-1928afbb4d58",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Jalapeño Is The First AI Chip From OpenAI And Broadcom - Engadget",
-      "detected_at": "2026-06-24T20:10:40+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-25-22fc6542d005",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic loses $26M political fight against OpenAI - SFGATE",
-      "detected_at": "2026-06-24T21:17:19+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-25-9e655747e207",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "AVGO, CLS Stocks Are Gaining Today — What’s Behind OpenAI And Broadcom’s New AI Chip? - Yahoo Finance",
-      "detected_at": "2026-06-24T17:18:57+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-hiring_spike-2026-06-25-b4f85e3aa0a9",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "generic",
-      "title": "Recall effort uncertain after role switch in township grappling with OpenAI, Oracle data center - MLive.com",
-      "detected_at": "2026-06-24T21:15:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-fe7c633bf8e1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack' - CNBC",
-      "detected_at": "2026-06-24T13:03:28+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-de4d1b865abb",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections - MIT Technology Review",
-      "detected_at": "2026-06-24T12:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-4f1073587066",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic joins Sec. Gina Raimondo's AI labor efforts - Axios",
-      "detected_at": "2026-06-25T09:01:14+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-56902346fd31",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Exclusive: Codex agents are inching into the mainstream - Axios",
-      "detected_at": "2026-06-25T09:11:15+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-8ba6e480f495",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Are ChatGPT and other AI chatbots politically biased? We tested them. - The Washington Post",
-      "detected_at": "2026-06-24T16:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-5aec8fdbe54f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI, Cerebras deal was supposed to be good news - Yahoo Finance",
-      "detected_at": "2026-06-24T20:07:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-c3f8e4014dcc",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI",
-      "detected_at": "2026-06-24T13:05:15+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-b5d8730e9136",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI and Broadcom Unveil Custom A.I. Chip Design - The New York Times",
-      "detected_at": "2026-06-24T18:45:05+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-59c7d3d21641",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI unveils its first custom chip, built by Broadcom - TechCrunch",
-      "detected_at": "2026-06-24T14:54:46+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-9a671d135470",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI, Broadcom Unveil Chip to Run Models Faster, Cheaper - Bloomberg",
-      "detected_at": "2026-06-24T13:43:35+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-f449adfc5de0",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Broadcom and OpenAI unveil custom-built Jalapeño inference processor — OpenAI's first chip is a massive reticle-sized ASIC built in an ultra-fast nine-month development cycle - Tom's Hardware",
-      "detected_at": "2026-06-24T18:50:56+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-da6d016e681d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Getty’s Deal With OpenAI Leaves IP Issues Open - Forbes",
-      "detected_at": "2026-06-24T22:34:25+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-6923e19693e7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Nearly 400 local newspapers sue OpenAI, Microsoft over alleged copyright theft - New Jersey Globe",
-      "detected_at": "2026-06-25T02:00:08+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-5ef796c68f4f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI, Broadcom debut custom Jalapeño chip for AI inference - SiliconANGLE",
-      "detected_at": "2026-06-24T20:30:46+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-967a3ce9f4bb",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI tests homegrown AI chips - Axios",
-      "detected_at": "2026-06-24T13:03:06+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-f10e23bc3ce5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Isn’t Just Writing Emails—It’s Solving Cold Cases in Medicine - inc.com",
-      "detected_at": "2026-06-24T21:59:37+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-362253af7f87",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Enters the Custom-Chip Race Alongside Broadcom - Barron's",
-      "detected_at": "2026-06-24T20:45:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-a20f598fb80d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI reveals its first AI processor: Jalapeño - The Verge",
-      "detected_at": "2026-06-24T14:36:47+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-8eda2d93f708",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI and Broadcom Introduce AI Inference Chip - AI Business",
-      "detected_at": "2026-06-24T20:32:08+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-3a7d8590eb2b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Amazon drops Luca Guadagnino’s OpenAI drama after signing deal with company - EL PAÍS English",
-      "detected_at": "2026-06-24T13:31:17+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-dbed6bc81f96",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "USC was early to partner with OpenAI — now it’s renewing and expanding the deal - The State",
-      "detected_at": "2026-06-24T17:30:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-ad053404d578",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Turns Up the Heat With Jalapeño, Its First Custom AI Chip - Decrypt",
-      "detected_at": "2026-06-24T15:42:31+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-3ed226b206be",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI, Broadcom Develop Custom Chip for AI Inference - WSJ",
-      "detected_at": "2026-06-24T14:56:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-4f15286f421d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "The math behind the OpenAI Jalapeño chip - AI News",
-      "detected_at": "2026-06-25T06:04:15+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-25c27bbd9710",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Broadcom and OpenAI Make an AI Chip Splash with Jalapeño - TheStreet Pro",
-      "detected_at": "2026-06-24T18:20:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-3b3e63265552",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Jalapeño Intelligence Platform Shown Powered by Broadcom - ServeTheHome",
-      "detected_at": "2026-06-24T14:55:44+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-16ccb8050642",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Tech: OpenAI endorses bill curbing explicit deepfakes - Punchbowl News",
-      "detected_at": "2026-06-24T20:55:45+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-cfe9f00747a6",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Distances Itself From Nvidia With Jalapeño, Its First In-House AI Chip - Gizmodo",
-      "detected_at": "2026-06-24T18:40:24+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-715f04fa56f4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Broadcom gets major OpenAI boost in AI chip race - thestreet.com",
-      "detected_at": "2026-06-25T00:17:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-c8c0ff8fbb79",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AI projects increasingly sound like your grocery list - Business Insider",
-      "detected_at": "2026-06-25T09:00:11+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-c42db307a843",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI says ChatGPT Instant now better understands what users actually want - the-decoder.com",
-      "detected_at": "2026-06-24T19:58:17+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-007018bc4cfd",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI makes its case for ChatGPT ads at Cannes Lions - eMarketer",
-      "detected_at": "2026-06-24T20:18:39+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-5e7eac1708d5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Broadcom Stock Investors Just Got Fantastic News From OpenAI - The Motley Fool",
-      "detected_at": "2026-06-24T20:42:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-fdc83a4d484f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI updates GPT-5.5 Instant behaviour in ChatGPT - Let's Data Science",
-      "detected_at": "2026-06-25T07:12:27+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-21f1519eda18",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Getty Images and OpenAI Partnership Signals a New Era for AI Licensing - Memeburn",
-      "detected_at": "2026-06-25T08:25:32+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-a59ccace31f3",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Coalition of hundreds of local and regional newspapers sues OpenAI and Microsoft - Insider NJ",
-      "detected_at": "2026-06-24T21:23:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-a8fcd4e263eb",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI gets chippy with Broadcom - The Register",
-      "detected_at": "2026-06-24T18:24:07+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-e8cae5fc8f89",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI and Broadcom unveil Jalapeño AI Inference chip - Techzine Global",
-      "detected_at": "2026-06-24T15:09:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-da54f985c9d7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI is unveiling its first custom-built AI chip, designed with Broadcom - qz.com",
-      "detected_at": "2026-06-24T14:17:48+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-dbe8e01d43ff",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI unveils AI chip Jalapeno - Tech Xplore",
-      "detected_at": "2026-06-24T15:10:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-55d1527aef82",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI, Broadcom Debut Custom ‘Jalapeño’ AI Chip for Faster LLM Inference - connectmoney.com",
-      "detected_at": "2026-06-24T17:09:56+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-589f7592ad69",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Broadcom unveils a custom chip for OpenAI as it challenges Nvidia’s dominance - MarketWatch",
-      "detected_at": "2026-06-24T15:20:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-ffb47ff82fc1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Microsoft (MSFT) and OpenAI are being sued by nearly 400 newspapers - Shacknews",
-      "detected_at": "2026-06-25T01:25:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-a2b7bf24bf8f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI and Broadcom unveil 'Jalapeño' Intelligence Processor for LLM inference - Data Center Dynamics",
-      "detected_at": "2026-06-24T14:00:44+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-edf91b2e4b9e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI just made GPT-5.5 Instant more fun to talk to, and users may actually notice - Digital Trends",
-      "detected_at": "2026-06-24T21:17:19+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-d22dcac5d514",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI President Greg Brockman on new chip: This is a real performance improvement - CNBC",
-      "detected_at": "2026-06-24T14:43:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-0c58934f6bbd",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI And Broadcom Unveil Jalapeño Inference Chip For LLMs - Pulse 2.0",
-      "detected_at": "2026-06-24T18:14:10+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-94f9dd0b6187",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI unveils Jalapeño chip for large-scale inference workloads - Interesting Engineering",
-      "detected_at": "2026-06-24T17:40:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-150f0a7368ec",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Tenable Holdings (TENB) Joins OpenAI Program, Is The Stock Fully Priced? - simplywall.st",
-      "detected_at": "2026-06-25T03:37:54+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-f255cfb4d6e8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Makes Custom AI Chip Debut With Jalapeño As Part of Broadcom Deal - International Business Times",
-      "detected_at": "2026-06-24T19:34:10+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-4acaad1b1351",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI, Broadcom Unveil Jalapeño AI Chip: A Seismic Shift Coming to AI Hardware Market? - Businesskorea",
-      "detected_at": "2026-06-25T02:27:55+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-25-44fea58aa0ca",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Gets its First Custom Chip, in Jalapeño Flavor - Yahoo Finance",
-      "detected_at": "2026-06-24T18:08:02+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-github_signal-2026-06-25-382edf468bdd",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "OpenAI, Microsoft Sued by Publishers for Scraping News Articles - Bloomberg Law News",
-      "detected_at": "2026-06-24T21:05:00+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "openai-content_signal-2026-06-25-3f7ec705463c",
-      "signal_type": "content_signal",
-      "signal_subtype": "generic",
-      "title": "Key facts: Cerebras Rents Gear for OpenAI; CBRS Tops Q1, Guides Margins - TradingView",
-      "detected_at": "2026-06-25T07:13:46+00:00",
-      "importance_score": 2.5
-    },
-    {
-      "signal_id": "openai-hiring_spike-2026-06-26-9b4dfb280279",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "sales_leadership",
-      "title": "How agents are transforming work",
-      "detected_at": "2026-06-25T02:00:00+00:00",
-      "importance_score": 7.5
-    },
     {
       "signal_id": "openai-product_launch-2026-06-26-6b3355162e44",
       "signal_type": "product_launch",
@@ -746,14 +186,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "openai-product_launch-2026-06-26-17b34f7928e6",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI just announced its first custom chip to help ChatGPT run better - CNN",
-      "detected_at": "2026-06-24T15:11:04+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "openai-product_launch-2026-06-26-7eb6da643b10",
       "signal_type": "product_launch",
       "signal_subtype": "generic",
@@ -802,14 +234,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "openai-product_launch-2026-06-26-7ae6f6bde0af",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI's Free GPT-5.5 Model Makes ChatGPT Better At Understanding Context - Engadget",
-      "detected_at": "2026-06-25T05:06:27+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "openai-funding_event-2026-06-26-3b6150709ef2",
       "signal_type": "funding_event",
       "signal_subtype": "ipo",
@@ -839,14 +263,6 @@
       "signal_subtype": "ipo",
       "title": "OpenAI IPO Postponed Amid Tech Sell-Off; SpaceX Eyes Entry Into Mobile Market - StockInvest.us",
       "detected_at": "2026-06-26T08:43:57+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-06-26-420016d0a689",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI and Broadcom announce first custom AI chip, in strike at Nvidia - Yahoo Finance",
-      "detected_at": "2026-06-24T14:05:18+00:00",
       "importance_score": 5.0
     },
     {
@@ -962,14 +378,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-26-c3f8e4014dcc",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI",
-      "detected_at": "2026-06-24T13:05:15+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-26-0560a59fd51a",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -986,22 +394,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-26-3ed226b206be",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI, Broadcom Develop Custom Chip for AI Inference - WSJ",
-      "detected_at": "2026-06-24T14:56:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-26-b5d8730e9136",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI and Broadcom Unveil Custom A.I. Chip Design - The New York Times",
-      "detected_at": "2026-06-24T18:45:05+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-26-f778e8051c04",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -1015,46 +407,6 @@
       "signal_subtype": "generic",
       "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data - WIRED",
       "detected_at": "2026-06-25T23:13:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-26-fe7c633bf8e1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack' - CNBC",
-      "detected_at": "2026-06-24T13:03:28+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-26-59c7d3d21641",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI unveils its first custom chip, built by Broadcom - TechCrunch",
-      "detected_at": "2026-06-24T14:54:46+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-26-27b0aeea4727",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI unveils custom chip it designed with Broadcom to boost its AI infrastructure - Reuters",
-      "detected_at": "2026-06-24T13:22:09+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-26-de4d1b865abb",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections - MIT Technology Review",
-      "detected_at": "2026-06-24T12:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-26-9a671d135470",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI, Broadcom Unveil Chip to Run Models Faster, Cheaper - Bloomberg.com",
-      "detected_at": "2026-06-24T13:43:35+00:00",
       "importance_score": 4.0
     },
     {
@@ -1138,27 +490,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-26-f449adfc5de0",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Broadcom and OpenAI unveil custom-built Jalapeño inference processor — OpenAI's first chip is a massive reticle-sized ASIC built in an ultra-fast nine-month development cycle - Tom's Hardware",
-      "detected_at": "2026-06-24T18:50:56+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-26-f822546b3134",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "OpenAI's GPT 5.6 rollout now requires US government approval on a \"customer by customer basis\" - the-decoder.com",
       "detected_at": "2026-06-26T08:40:40+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-06-26-a20f598fb80d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI reveals its first AI processor: Jalapeño - The Verge",
-      "detected_at": "2026-06-24T14:36:47+00:00",
       "importance_score": 4.0
     },
     {
@@ -1178,28 +514,12 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-06-26-56902346fd31",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Exclusive: Codex agents are inching into the mainstream - Axios",
-      "detected_at": "2026-06-25T09:03:36+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-06-26-8f2886c51dbe",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "“From Subscriptions to Usage-Based Billing”: After Anthropic and OpenAI, Microsoft Revamps Pricing as the Era of ‘AI Maxxing’ Nears - economy.ac",
       "detected_at": "2026-06-26T09:14:19+00:00",
       "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-github_signal-2026-06-26-449930ef9f3c",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "OpenAI, Microsoft Sued by Publishers for Scraping Articles (1) - Bloomberg Law News",
-      "detected_at": "2026-06-24T23:11:00+00:00",
-      "importance_score": 3.5
     },
     {
       "signal_id": "openai-github_signal-2026-06-26-7015c36c971d",
@@ -47583,6 +46903,758 @@
       "signal_subtype": "generic",
       "title": "OpenAI proposes development of global AI standards to guide alignment, RSI - CNBC",
       "detected_at": "2026-09-21T20:21:41+00:00",
+      "importance_score": 2.5
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-23-d216a2f4c767",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "OpenAI Launches Cheaper GPT-6 Sol And Luna Models - Dataconomy",
+      "detected_at": "2026-09-23T09:00:50+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-23-a706e11b9a12",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "OpenAI Launches GPT-6 Sol and Luna With 50% Lower API Pricing Than GPT-5.6 - gHacks",
+      "detected_at": "2026-09-23T07:56:00+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-23-0e22fcf717ce",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "OpenAI Launches GPT-6 Sol and Luna to Undercut Rivals on Price - Startup Fortune",
+      "detected_at": "2026-09-23T05:27:14+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "openai-funding_event-2026-09-23-0a65391e0e42",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "OpenAI releases GPT-6 Sol and Luna models, slashing API costs 50% or more - VentureBeat",
+      "detected_at": "2026-09-22T18:22:38+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-09-23-22ac44ad4c5a",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Microsoft’s Nadella to Join OpenAI, Nvidia CEOs at Trump-Xi Meal - Bloomberg",
+      "detected_at": "2026-09-21T21:49:25+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-09-23-b128d3652551",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s search for chief communications officer extends to nine months - TradingView",
+      "detected_at": "2026-09-23T07:25:01+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-09-23-217b934d351e",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "OpenAI, Anthropic, and SpaceX valuations could dwarf 45 years of IPOs - Yahoo Finance",
+      "detected_at": "2026-09-22T22:37:24+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-23-7d1658206167",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "What AI slowdown? OpenAI, Anthropic release dueling models as price wars heat up - Fortune",
+      "detected_at": "2026-09-22T18:00:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-23-97566dec936e",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic And OpenAI Announce More Powerful (And Cheaper) AI Models - Engadget",
+      "detected_at": "2026-09-22T19:11:11+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-23-c2dafdd37393",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI and Anthropic Launch New Models—They Are Fighting the Wrong Battle - Barron's",
+      "detected_at": "2026-09-23T10:29:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-23-ee4abba470ab",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI releases GPT-6 Sol and Luna — and cuts token prices in half - The New Stack",
+      "detected_at": "2026-09-22T21:08:56+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-hiring_spike-2026-09-23-9d987a4f2991",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s search for a chief communications officer hits 9 months after a top candidate turned down the role - Fortune",
+      "detected_at": "2026-09-23T07:00:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-23-b32c0929bb8c",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again - The Verge",
+      "detected_at": "2026-09-23T00:17:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-09-23-3722ecd12659",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Sam Altman's OpenAI Is in Talks for a New Funding Round Valuing It at $1.2 Trillion Instead of an IPO. Here's Why He Called Going Public Now \"Ill-Advised.\" - Yahoo Finance",
+      "detected_at": "2026-09-23T09:52:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-23-a47d26cdc320",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic and OpenAI release cheaper models as price war intensifies - Financial Times",
+      "detected_at": "2026-09-22T16:31:37+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-hiring_spike-2026-09-23-e9f81531b12f",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "OpenAI Recruits External Watchdogs to Police AI Risk - PYMNTS.com",
+      "detected_at": "2026-09-23T00:14:08+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-23-e26f9d151497",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic releases Claude Opus 5.5 and OpenAI counters with two cheaper GPT-6 models - SiliconANGLE",
+      "detected_at": "2026-09-22T22:58:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-23-2e991cede5e6",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI Releases New GPT-6 Sol and Luna Models, Sells Them as Mini-Astras - Gizmodo",
+      "detected_at": "2026-09-22T22:09:10+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-09-23-68247bbbfe4b",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic makes things more uncomfortable for OpenAI ahead of IPO - thestreet.com",
+      "detected_at": "2026-09-22T21:37:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-23-5355188ded7f",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Tech stocks haven't been this cheap since OpenAI launched ChatGPT - Yahoo Finance",
+      "detected_at": "2026-09-21T13:28:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-23-40309bc44be8",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI Releases GPT-6 Sol and Luna: 50% Cheaper API Pricing and Benchmarks - MarkTechPost",
+      "detected_at": "2026-09-23T05:18:36+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-23-e4c2fa73cd0e",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI, Anthropic Release Cheaper AI Models Days After Calling For 'Slowdown' - ndtv.com",
+      "detected_at": "2026-09-23T07:41:19+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-09-23-845001304894",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI Goes After AI Costs With GPT-6 Sol and Luna, Slashing Prices by 50% - Benzinga",
+      "detected_at": "2026-09-22T20:11:30+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-e0ce0d3624b8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - Reuters",
+      "detected_at": "2026-09-22T18:03:43+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-0cf5e01ecff3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI labs are cutting model costs - and it could help them slow down safely - Axios",
+      "detected_at": "2026-09-23T09:02:23+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-544ba1848120",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI joins call for US-led global AI standards - Financial Times",
+      "detected_at": "2026-09-21T17:24:34+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-42b66ae2e031",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s Sam Altman to Promote AI Standards During UN Speech - Bloomberg",
+      "detected_at": "2026-09-23T10:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-d08dd0bda79f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta - The New York Times",
+      "detected_at": "2026-09-22T09:03:32+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-283cccca09f0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI to Let Outside Groups Evaluate AI Models at Earlier Phase - Bloomberg",
+      "detected_at": "2026-09-22T17:05:52+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-7dcc8eb0cc7e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "How an 'AI freeze' could make big AI companies bigger and hurt smaller firms - npr.org",
+      "detected_at": "2026-09-23T09:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-82fb3902382b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Did OpenAI solve the wrong Navier-Stokes problem? - Scientific American",
+      "detected_at": "2026-09-21T16:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-a46f824abdd9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI solved one of math's hardest problems. Humanity learned nothing (so far) - npr.org",
+      "detected_at": "2026-09-22T09:01:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-e50f270dfb73",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Opinion | Why A.I. Is Dangerous for Science - The New York Times",
+      "detected_at": "2026-09-22T09:03:30+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-f5a884d75357",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting - theguardian.com",
+      "detected_at": "2026-09-22T04:29:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-917c87bb964f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "British Columbia sues OpenAI over mass school shooting | CNN Business - CNN",
+      "detected_at": "2026-09-22T22:16:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-a7ddd9092e2e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "British Columbia Sues OpenAI Over Tumbler Ridge Shooting - The New York Times",
+      "detected_at": "2026-09-21T21:52:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-26d7e7c9af50",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI Exec: We May Have Pulled Off “The Largest Theft of Labor in Human History” - Mother Jones",
+      "detected_at": "2026-09-22T10:35:07+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-5652c91e4b46",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "3 guys hacked OpenAI using a rival Anthropic model. Here's what it shows about frontier labs' vulnerabilities. - CBS News",
+      "detected_at": "2026-09-22T18:53:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-b7ec6de7fb3c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "People Training OpenAI’s AI Fired for Using AI to Train the AI - 404 Media",
+      "detected_at": "2026-09-22T13:03:29+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-d756496836eb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
+      "detected_at": "2026-09-22T21:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-e8949e49df28",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI and Anthropic Neared Deal to Stress Test Each Other’s AI - The Information",
+      "detected_at": "2026-09-22T22:51:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-1dd261acfa9c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic and OpenAI Drop New High-Efficiency Models - CNET",
+      "detected_at": "2026-09-22T18:48:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-7aaab82372a1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Better prompt caching for GPT-6 - OpenAI",
+      "detected_at": "2026-09-22T20:06:27+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-3589eff309f0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Building standards for the next phase of AI - OpenAI",
+      "detected_at": "2026-09-21T17:23:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-bf2a0e046ece",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence - OpenAI",
+      "detected_at": "2026-09-21T17:32:19+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-ee9060aa108f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra - OpenAI",
+      "detected_at": "2026-09-22T21:32:58+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-431da307fab1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Expanding OpenAI Academy with new learning paths - OpenAI",
+      "detected_at": "2026-09-21T17:05:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-82eff038e548",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "How V7 gives AI agents institutional memory - OpenAI",
+      "detected_at": "2026-09-21T13:18:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-a1895d282f4f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra - OpenAI",
+      "detected_at": "2026-09-21T19:34:44+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-d3e8b666c471",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic, OpenAI call for Australia to relax ban on training of AI models - Reuters",
+      "detected_at": "2026-09-22T22:35:14+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-8fafa7c12d42",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI calls for US to take lead in global efforts to develop technical standards - Reuters",
+      "detected_at": "2026-09-21T17:02:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-eb3b8c8e6ce3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "In Minneapolis, OpenAI executive talks about need to 'pace the frontier' on AI development - kare11.com",
+      "detected_at": "2026-09-22T22:19:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-21fc296c58b2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI, Anthropic, Hugging Face execs to brief UNSC on AI dangers, capabilities - The Jerusalem Post",
+      "detected_at": "2026-09-23T10:32:57+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-9ba9d5b2accb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s GPT-6 Sol doubles its accuracy rate – for half the cost - ZDNET",
+      "detected_at": "2026-09-22T18:02:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-9ef9f3a401ac",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Urges Washington to Lead Global Effort to Create AI-Safety Standards - WSJ",
+      "detected_at": "2026-09-21T17:49:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-0b9402af3b1d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "One safety standard for all? That's what OpenAI says it wants - WBFF",
+      "detected_at": "2026-09-23T02:57:46+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-147d123f714e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting - Ars Technica",
+      "detected_at": "2026-09-22T19:28:23+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-f665ec4ed292",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI upgrading ChatGPT and Codex with two more GPT-6 models - 9to5Mac",
+      "detected_at": "2026-09-22T18:02:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-b09d53778c79",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI's New GPT-6 Sol and Luna Models Bring Astra Improvements to Cheaper Tiers - MacRumors",
+      "detected_at": "2026-09-22T20:58:27+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-8465323b127d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI calls for independent testing of AI safety measures - Seeking Alpha",
+      "detected_at": "2026-09-23T10:57:19+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-acc4cb916786",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Residents file suit over OpenAI data center approval process - Savannah Morning News",
+      "detected_at": "2026-09-23T09:10:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-86bb6f0b5b15",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI hires Patreon co-founder Sam Yam to lead a new Creator Product division - the-decoder.com",
+      "detected_at": "2026-09-23T10:07:12+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-50c3563e6ce0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI calls for international AI safety standards - CIO Dive",
+      "detected_at": "2026-09-22T20:42:31+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-2f466c975d8d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI - AI Powered Advertising - 28s - Ad Age",
+      "detected_at": "2026-09-23T09:05:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-516f8835af46",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems - TechCrunch",
+      "detected_at": "2026-09-21T20:15:58+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-ce2ece62a136",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Canadian Province Sues OpenAI Over School Shooting - Newser",
+      "detected_at": "2026-09-22T22:11:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-caecb364c3a0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI and Anthropic Reveal Cheaper AI Models - tech.co",
+      "detected_at": "2026-09-23T10:35:15+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-4532a6d3850a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI unveils new cheaper Sol and Luna models - CNBC",
+      "detected_at": "2026-09-22T18:29:09+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-cd68c6305365",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Develops Features to Counter Grok Bot, Mulls Response to Meta’s Muse - The Information",
+      "detected_at": "2026-09-21T14:32:28+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-e72fc243840d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI exec is ‘cautiously optimistic’ about the US working with China on AI - Semafor",
+      "detected_at": "2026-09-22T21:46:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-35bd090289cb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI protester urges San Francisco to confront AI risks - Diya TV",
+      "detected_at": "2026-09-22T23:04:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-a7634f7cdf29",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI builds to catch Grok Bot — and mulls a Muse-style personal assistant - Dealroom",
+      "detected_at": "2026-09-23T08:09:59+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-2cc2b6aecbc3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI urges US to lead global standards push - Politico",
+      "detected_at": "2026-09-21T17:28:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-7a36c9f6b112",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Georgia Residents Sue Over OpenAI Data Center - Inside Climate News",
+      "detected_at": "2026-09-22T18:23:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-eb9834f33d2f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Hands Banks a Shortcut Around Billion-Dollar Core Rewrites - PYMNTS.com",
+      "detected_at": "2026-09-22T19:48:14+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-2326032447bc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI executive addresses AI development in Minneapolis - kare11.com",
+      "detected_at": "2026-09-23T00:08:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-ddd6b8e18c7d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI adds GPT-6 Luna and Sol, touts lower prices - Constellation Research",
+      "detected_at": "2026-09-22T20:06:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-dca11dbff6b5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI expands GPT-6 universe with GPT-6 Sol and GPT-6 Luna - Seeking Alpha",
+      "detected_at": "2026-09-22T19:11:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-b28b2983866f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "British Columbia Sues OpenAI, Alleging ChatGPT Aided Mass School Shooting - WSJ",
+      "detected_at": "2026-09-21T21:26:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-784b37bf2ad3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Exec Joins IHAC Summit Line-Up - Little Black Book | LBBOnline",
+      "detected_at": "2026-09-23T00:59:24+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-19a8e4339678",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Apple wants OpenAI's battery and metal-finish files, and OpenAI calls that snooping - MIXED Reality News",
+      "detected_at": "2026-09-23T08:04:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-bc00f954ff8f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "New Data Show Anthropic, OpenAI and Other Upstarts Are Eating into Software Budgets - The Information",
+      "detected_at": "2026-09-22T17:42:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-d93a5a69cf6c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money - Ars Technica",
+      "detected_at": "2026-09-22T21:25:18+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-a0f446808dce",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Better prompt caching for GPT-6",
+      "detected_at": "2026-09-22T21:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-2f8a76de2701",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "detected_at": "2026-09-22T18:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-b28ecd7daf38",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "detected_at": "2026-09-22T12:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-39d6150c77a8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Priorities and principles for effective third party assessments",
+      "detected_at": "2026-09-22T00:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-09-23-f5da41a921f3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "detected_at": "2026-09-21T12:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-github_signal-2026-09-23-86ad98baa06f",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "OpenAI GPT-6 Sol and Luna Cut API Prices in Half - Technology Org",
+      "detected_at": "2026-09-23T07:39:53+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "openai-github_signal-2026-09-23-7ca94ec6bdc2",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "OpenAI introduces GPT-6 Sol and Luna; API prices cut in half - Techzine Global",
+      "detected_at": "2026-09-23T06:08:00+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "openai-github_signal-2026-09-23-cf885ae30cca",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "GPT-6 Sol and Luna arrive with 50% lower API prices - Help Net Security",
+      "detected_at": "2026-09-23T10:08:26+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "openai-content_signal-2026-09-23-bcf46e53facc",
+      "signal_type": "content_signal",
+      "signal_subtype": "blog_post_published",
+      "title": "OpenAI’s GPT-6 Sol and GPT-6 Luna now available - The GitHub Blog",
+      "detected_at": "2026-09-22T17:00:14+00:00",
+      "importance_score": 3.0
+    },
+    {
+      "signal_id": "openai-content_signal-2026-09-23-d7f4a6e9dee4",
+      "signal_type": "content_signal",
+      "signal_subtype": "generic",
+      "title": "OpenAI proposes development of global AI standards to guide alignment, RSI - CNBC",
+      "detected_at": "2026-09-21T20:21:41+00:00",
+      "importance_score": 2.5
+    },
+    {
+      "signal_id": "openai-content_signal-2026-09-23-7eb1695ba9d2",
+      "signal_type": "content_signal",
+      "signal_subtype": "generic",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "detected_at": "2026-09-21T12:00:00+00:00",
       "importance_score": 2.5
     }
   ],

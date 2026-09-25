@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "adyen",
   "created_at": "2026-06-03T17:25:17.733626+00:00",
-  "last_updated": "2026-09-24T11:22:40.636528+00:00",
+  "last_updated": "2026-09-25T11:27:52.450429+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,30 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "adyen-news_mention-2026-06-27-8d2a77e6c491",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "June 2026: Top five payments stories of the month - FinTech Futures",
-      "detected_at": "2026-06-26T13:56:01+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "adyen-product_launch-2026-06-28-c22f98d55fb3",
-      "signal_type": "product_launch",
-      "signal_subtype": "new_product",
-      "title": "Adyen stock jumps after new product announcement - MSN",
-      "detected_at": "2026-06-26T15:37:01+00:00",
-      "importance_score": 7.5
-    },
-    {
-      "signal_id": "adyen-news_mention-2026-06-28-8d2a77e6c491",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "June 2026: Top five payments stories of the month - FinTech Futures",
-      "detected_at": "2026-06-26T13:56:01+00:00",
-      "importance_score": 4.0
-    },
     {
       "signal_id": "adyen-product_launch-2026-06-29-3b9e727417aa",
       "signal_type": "product_launch",
@@ -4223,6 +4199,46 @@
       "signal_subtype": "generic",
       "title": "Adyen Upgrades Payment Authentication With Google, Mastercard And Visa Partnerships - SMBtech",
       "detected_at": "2026-09-23T08:20:28+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "adyen-product_launch-2026-09-25-6e12a613ffd7",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Adyen launches next-gen authentication - Retail World Magazine",
+      "detected_at": "2026-09-24T00:31:13+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "adyen-leadership_change-2026-09-25-36854430a663",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "Adyen stock falls 4.70 percent ahead of the open - AD HOC NEWS",
+      "detected_at": "2026-09-24T06:09:06+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "adyen-news_mention-2026-09-25-04dd42268bec",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Adyen snaps up Klarna CFO - Banking Dive",
+      "detected_at": "2026-09-23T17:57:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "adyen-news_mention-2026-09-25-2c124b95a8a1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Adyen Bets on SMB Embedded Finance With Flatpay Partnership - The Futurum Group",
+      "detected_at": "2026-09-23T12:11:48+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "adyen-news_mention-2026-09-25-6b5568d31b0a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Adyen stock heads into the open after a 1.99 percent drop - AD HOC NEWS",
+      "detected_at": "2026-09-25T01:57:48+00:00",
       "importance_score": 4.0
     }
   ],

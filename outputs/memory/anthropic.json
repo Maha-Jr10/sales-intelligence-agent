@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "anthropic",
   "created_at": "2026-06-03T17:25:17.685609+00:00",
-  "last_updated": "2026-09-25T11:27:52.402120+00:00",
+  "last_updated": "2026-09-26T11:03:04.958150+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,198 +18,6 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "anthropic-funding_event-2026-06-28-48b5e13d652e",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI Eyes 2027 IPO Delay As Washington Clears Anthropic's Mythos 5 - Forbes",
-      "detected_at": "2026-06-28T04:12:09+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-06-28-6ce769961399",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "US allows partial release of Anthropic's Mythos AI model - DW.com",
-      "detected_at": "2026-06-27T19:52:51+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-06-28-0719957c6e2a",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on - TechCrunch",
-      "detected_at": "2026-06-27T12:00:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-06-28-8ec78f2f8238",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic cleared to restore Mythos 5 access to certain US organisations - Euronews",
-      "detected_at": "2026-06-27T13:16:14+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-06-28-4c160ac7119e",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic's Mythos 5 Is Available Again, No Timeline for Fable 5 - PCMag",
-      "detected_at": "2026-06-27T14:09:45+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-06-28-511e6c26d7f1",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic Granted Approval To Release Claude Mythos 5 To 100+ U.S. Organizations - LinkedIn",
-      "detected_at": "2026-06-27T12:00:09+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-06-28-aa2a77fba167",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "US approves limited release of Anthropic's Mythos 5 AI model - Cybernews",
-      "detected_at": "2026-06-27T15:58:41+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-28-cbc5f63cb826",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Salesforce Employees Worry Over Anthropic’s Invasion of Slack - The Information",
-      "detected_at": "2026-06-27T14:01:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-28-eb3be3280f7b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race - WSJ",
-      "detected_at": "2026-06-28T01:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-28-3a723b1efc06",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s Mythos 5 AI model cleared by U.S. for wider use - Fortune",
-      "detected_at": "2026-06-27T14:01:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-28-8cca2f70cac0",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "CI&T (CINT) Joins Anthropic’s Claude Partner Network - Yahoo Finance",
-      "detected_at": "2026-06-27T20:31:17+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-28-a6a744d7aa14",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AI: Anthropic's 'Blip 2.0' in new form, as China AI ramps. AI-RTZ #1131 - AI: Reset to Zero",
-      "detected_at": "2026-06-28T05:03:06+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-28-17f19d3fc4cd",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic's Mythos 5 gets a limited carveout from US restrictions - Business Insider",
-      "detected_at": "2026-06-27T13:46:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-28-678b29884024",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Trump administration partially lifts export ban on Anthropic's most advanced AI model - KUOW",
-      "detected_at": "2026-06-27T14:13:12+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-28-6ee7c823bae9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "U.S. Eases Restrictions on Anthropic's Mythos 5 - 조선일보",
-      "detected_at": "2026-06-28T06:43:01+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-28-cae479d70f01",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic to win U.S. nod to restore Fable 5 soon (ANTHRO) - Seeking Alpha",
-      "detected_at": "2026-06-27T16:52:19+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-28-e423e75035d2",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Claude Mythos 5 is back, but only for a select group of US institutions - Mashable",
-      "detected_at": "2026-06-27T14:21:06+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-28-675ea5e8f6b1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic's frantic hype over distillation is essentially a battle for narrative dominance - 36氪",
-      "detected_at": "2026-06-28T03:33:16+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-28-2ceb5b3ad735",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s Mythos Freeze Opens The Door For Asian Challengers Sakana AI And 360 - Yellow.com",
-      "detected_at": "2026-06-27T14:53:49+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-28-32341f91a5dc",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Scoop: Powerful Anthropic model, Fable 5, on track to return soon - Yahoo",
-      "detected_at": "2026-06-27T12:45:43+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-28-be37a42af187",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s most powerful AI is making a comeback, but only for a select few - Digital Trends",
-      "detected_at": "2026-06-27T16:47:47+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-28-fce36a747fca",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Why Anthropic held back Claude Mythos, its most powerful AI model yet? - Storyboard18",
-      "detected_at": "2026-06-28T08:23:02+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-github_signal-2026-06-28-8ea29461de58",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "US close to allowing Anthropic to restore Fable 5 model, Axios reports - Reuters",
-      "detected_at": "2026-06-27T13:13:12+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "anthropic-github_signal-2026-06-28-16a30533ea4f",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "Expect Claude Fable 5 to Be Turned Back on in a Matter of Days, Report Says - Gizmodo",
-      "detected_at": "2026-06-27T18:13:53+00:00",
-      "importance_score": 3.5
-    },
-    {
       "signal_id": "anthropic-funding_event-2026-06-29-3999ebaf4bd2",
       "signal_type": "funding_event",
       "signal_subtype": "generic",
@@ -223,22 +31,6 @@
       "signal_subtype": "ipo",
       "title": "STARTRADER Launches Pre-IPO Trading Products for OpenAI and Anthropic - Yahoo Finance",
       "detected_at": "2026-06-29T09:32:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-06-29-0e7fae22e9a9",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "Anthropic’s Alibaba fight raises a trillion-dollar IPO question: How defensible is frontier AI? - Fortune",
-      "detected_at": "2026-06-28T10:00:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-06-29-0719957c6e2a",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on - TechCrunch",
-      "detected_at": "2026-06-27T12:00:00+00:00",
       "importance_score": 5.0
     },
     {
@@ -258,27 +50,11 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "anthropic-funding_event-2026-06-29-48b5e13d652e",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "OpenAI Eyes 2027 IPO Delay As Washington Clears Anthropic's Mythos 5 - Forbes",
-      "detected_at": "2026-06-28T04:12:09+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "anthropic-product_launch-2026-06-29-068c093ecf6c",
       "signal_type": "product_launch",
       "signal_subtype": "generic",
       "title": "US eases Anthropic Mythos export ban for select organisations - Silicon Republic",
       "detected_at": "2026-06-29T08:13:13+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-06-29-8ec78f2f8238",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic cleared to restore Mythos 5 access to certain US organisations - Euronews.com",
-      "detected_at": "2026-06-27T13:16:14+00:00",
       "importance_score": 5.0
     },
     {
@@ -306,14 +82,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-06-29-eb3be3280f7b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race - WSJ",
-      "detected_at": "2026-06-28T01:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-06-29-cbfd907ce3d6",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -338,27 +106,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-06-29-71b9e025f6f8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Scoop: Powerful Anthropic model, Fable 5, on track to return soon - Axios",
-      "detected_at": "2026-06-27T12:49:31+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-06-29-7a33d19a9223",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Fable 5 return imminent as Trump administration softens stance on Anthropic model ban - capacityglobal.com",
       "detected_at": "2026-06-29T10:59:11+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-29-3a723b1efc06",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s Mythos 5 AI model cleared by U.S. for wider use - Fortune",
-      "detected_at": "2026-06-27T14:01:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -383,14 +135,6 @@
       "signal_subtype": "generic",
       "title": "Stalled at home, US AI models face global competition - Morning Brew",
       "detected_at": "2026-06-29T07:16:49+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-29-cbc5f63cb826",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Salesforce Employees Worry Over Anthropic’s Invasion of Slack - The Information",
-      "detected_at": "2026-06-27T14:01:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -474,14 +218,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-06-29-e423e75035d2",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Claude Mythos 5 is back, but only for a select group of US institutions - Mashable",
-      "detected_at": "2026-06-27T14:27:11+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-06-29-0edc2b1c8481",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -520,30 +256,6 @@
       "title": "Europe Makes Bold Play for Anthropic After US AI Restrictions - BeInCrypto",
       "detected_at": "2026-06-28T20:34:00+00:00",
       "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-29-678b29884024",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Trump administration partially lifts export ban on Anthropic's most advanced AI model - KUOW",
-      "detected_at": "2026-06-27T14:13:12+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-github_signal-2026-06-29-8ea29461de58",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "US close to allowing Anthropic to restore Fable 5 model, Axios reports - Reuters",
-      "detected_at": "2026-06-27T13:13:12+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "anthropic-github_signal-2026-06-29-16a30533ea4f",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "Expect Claude Fable 5 to Be Turned Back on in a Matter of Days, Report Says - Gizmodo",
-      "detected_at": "2026-06-27T18:13:53+00:00",
-      "importance_score": 3.5
     },
     {
       "signal_id": "anthropic-github_signal-2026-06-29-78b071aa862c",
@@ -607,14 +319,6 @@
       "signal_subtype": "generic",
       "title": "Gov. Newsom expands AI’s role in state government with new Anthropic partnership - Sacramento Bee",
       "detected_at": "2026-06-29T19:00:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-06-30-0e7fae22e9a9",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "Anthropic’s Alibaba fight raises a trillion-dollar IPO question: How defensible is frontier AI? - Fortune",
-      "detected_at": "2026-06-28T10:00:00+00:00",
       "importance_score": 5.0
     },
     {
@@ -927,14 +631,6 @@
       "signal_subtype": "generic",
       "title": "NVIDIA’s Blackwell Ultra GB300 Now Powers Anthropic’s Claude Models on Microsoft Azure, Targeting Autonomous Enterprise Agents - Wccftech",
       "detected_at": "2026-06-29T19:05:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-06-30-e8568b3603af",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Why AI models like Claude Fable and Mythos defy traditional export control frameworks - Bulletin of the Atomic Scientists",
-      "detected_at": "2026-06-28T10:05:48+00:00",
       "importance_score": 4.0
     },
     {
@@ -45047,6 +44743,646 @@
       "signal_subtype": "generic",
       "title": "AI could make more companies worth hacking, Anthropic report suggests - Fortune",
       "detected_at": "2026-09-24T10:02:00+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "anthropic-leadership_change-2026-09-26-f222a02ab29d",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Scoop: Trump allies open new front on Anthropic CEO as face of AI \"doomerism\" - Axios",
+      "detected_at": "2026-09-24T14:54:08+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "anthropic-leadership_change-2026-09-26-e4f745e921a0",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "The head of one of the largest US endowments says OpenAI and Anthropic are in big trouble - Business Insider",
+      "detected_at": "2026-09-25T09:01:00+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "anthropic-leadership_change-2026-09-26-aca35f7a2d6b",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "Anthropic Chief Economist Says Company Is Exploring Ways to Steer AI Toward Augmenting Workers - The Harvard Crimson",
+      "detected_at": "2026-09-24T12:00:38+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-26-48e0e40ac263",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic seeks 50.1% voting control for co-founders ahead of IPO, The Information reports - Reuters",
+      "detected_at": "2026-09-24T23:32:20+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-26-28a0a65b46e0",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic’s Blacklisting by the Pentagon Was Legal, Federal Judges Rule - The New York Times",
+      "detected_at": "2026-09-25T16:36:46+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-26-89cb54ed1797",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic’s founders seek voting control ahead of IPO - TechCrunch",
+      "detected_at": "2026-09-25T15:40:03+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-26-e27c26083b11",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic IPO 2026: What Investors Need To Know & How To Get Exposure Today With AI ETF AGIX - KraneShares",
+      "detected_at": "2026-09-25T19:25:41+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-09-26-27fd4cb722f3",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic IPO 2026: What Investors Need To Know And How To Get Exposure Today With AI ETF AGIX - Seeking Alpha",
+      "detected_at": "2026-09-26T04:30:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-26-571895dac0ac",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Appeals Court Sides With Pentagon Against Anthropic - Newser",
+      "detected_at": "2026-09-25T17:50:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-26-f57f7cbf415c",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Akamai Stock Surges. Why Its $11.6 Billion Anthropic Deal Is a Game Changer. - Barron's",
+      "detected_at": "2026-09-25T19:54:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-26-b95626487e3c",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic Signs $11.6 Billion Cloud Contract With Akamai, Gains Path to Stock Stake - Northeast Times",
+      "detected_at": "2026-09-25T20:38:05+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-26-7d99f6aab70f",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "AI Safety or Market Control? Anthropic Investor Joe Lonsdale Takes Aim at Tech Giants - Open Magazine",
+      "detected_at": "2026-09-26T04:55:32+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-26-df8ad46e084a",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic loses legal fight to shed DOD's designation as a 'supply-chain risk' - defenseone.com",
+      "detected_at": "2026-09-25T21:57:36+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-09-26-d98d3b2f0a36",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Akamai Announces $11.6 Billion Multi-year Agreement with Anthropic to Support Growing Demand - GlobeNewswire",
+      "detected_at": "2026-09-24T20:01:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-a8414598f3af",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk - CNBC",
+      "detected_at": "2026-09-25T15:25:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-87c794e21cd5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "He’s Completely Terrified of AI—and He’s About to Make Billions Off It - WSJ",
+      "detected_at": "2026-09-25T23:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-ee299b14b99c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "In a New Anthropic Lab, A.I. Turns to Biology - The New York Times",
+      "detected_at": "2026-09-24T17:17:57+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-67046d2daceb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic’s discovery will, at best, be just another gene-editing tool - New Scientist",
+      "detected_at": "2026-09-25T11:06:34+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-ecd00b80dd45",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The cheap new AI model taking aim at OpenAI and Anthropic - Financial Times",
+      "detected_at": "2026-09-25T09:59:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-6ee3215042da",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "White House asks OpenAI and Anthropic to hold new models from UK testers until US review - Politico",
+      "detected_at": "2026-09-24T16:43:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-88713cbea7e7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal - TechCrunch",
+      "detected_at": "2026-09-25T19:13:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-150558acdb65",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Akamai signs $11.6 billion cloud deal with Anthropic, grants warrant for up to 5% stake - Reuters",
+      "detected_at": "2026-09-24T22:55:43+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-dd2ac5dccb74",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Shares of Akamai surge after deal with Anthropic. What Wall Street is saying - CNBC",
+      "detected_at": "2026-09-25T15:32:12+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-f21020cf4268",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "One company is at the center of a wave of rogue AI attacks - The Verge",
+      "detected_at": "2026-09-25T15:39:48+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-64fb8c22d9b9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Microsoft unveils all-in-one Copilot app, taking on Anthropic and OpenAI in new push to boost adoption - GeekWire",
+      "detected_at": "2026-09-25T12:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-cde48406dbd2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Federal court says Pentagon can label Anthropic a supply chain risk - AP News",
+      "detected_at": "2026-09-25T17:03:55+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-388736448cbf",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "US appeals court upholds Pentagon's blacklisting of Anthropic - Reuters",
+      "detected_at": "2026-09-25T17:54:58+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-c260da85fa04",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "DC appeals court sides with Pentagon on blacklist of Anthropic - The Hill",
+      "detected_at": "2026-09-25T15:48:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-638b2deda8fe",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "US court upholds Pentagon’s blacklisting of Anthropic - Al Jazeera",
+      "detected_at": "2026-09-25T17:18:05+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-150075da1e17",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "DC Circuit panel upholds Pentagon’s ban on Anthropic – so what comes next? - breakingdefense.com",
+      "detected_at": "2026-09-25T19:56:22+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-f7d797ccf022",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features - Ars Technica",
+      "detected_at": "2026-09-25T21:36:20+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-ce192c761bcd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Federal appeals court upholds Pentagon designation of Anthropic as supply chain risk - ABC News - Breaking News, Latest News and Videos",
+      "detected_at": "2026-09-25T22:29:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-d522c47ddb6c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Federal court says U.S. government can label Anthropic a supply chain risk - CBS News",
+      "detected_at": "2026-09-25T23:33:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-5ccabac2ac20",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide - Reuters",
+      "detected_at": "2026-09-24T21:33:52+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-ec4c65d68c52",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic - CNBC",
+      "detected_at": "2026-09-25T12:00:02+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-714bb9e7b848",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills - Anthropic",
+      "detected_at": "2026-09-25T17:44:53+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-4ac5e06063a9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Project Swap: What happens when agents trade for us? - Anthropic",
+      "detected_at": "2026-09-24T20:27:02+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-af8663794641",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic investor Lonsdale says AI firms stoking fear to sway policy - Reuters",
+      "detected_at": "2026-09-25T18:55:20+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-1eed2b76bd47",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Federal appeals court rules Pentagon can blacklist Anthropic - The Washington Post",
+      "detected_at": "2026-09-26T00:58:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-877a5b8ea550",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic's Pentagon blacklist upheld in US appeals court: How the conflict unfolded - Reuters",
+      "detected_at": "2026-09-25T20:09:21+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-f56d59650574",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions - BleepingComputer",
+      "detected_at": "2026-09-25T16:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-18d5e9a39b60",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Strikes $12 Billion AI Computing Deal With Akamai - Bloomberg.com",
+      "detected_at": "2026-09-24T20:02:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-166069ffd9c3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Loses Appeals Court Bid to Overturn Pentagon ‘Supply Chain Risk’ Label - lawcommentary.com",
+      "detected_at": "2026-09-25T22:49:47+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-02bdd2e9a36c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic to Pay Akamai Technologies $11.6 Billion Over Seven Years for Cloud Services - WSJ",
+      "detected_at": "2026-09-24T21:11:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-67dd6f613c21",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "DC Circuit finds Pentagon justified in labeling Anthropic ‘supply chain risk’ - Courthouse News",
+      "detected_at": "2026-09-25T18:13:48+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-7ed745c644f7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Faces Court Setback on US Supply Chain Risk Label - Bloomberg.com",
+      "detected_at": "2026-09-25T19:15:41+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-2e7e4deace9a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk - WIRED",
+      "detected_at": "2026-09-25T16:58:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-59666bacc93b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Appeals Court Allows Pentagon to Label Anthropic a National Security Risk - Business Insider",
+      "detected_at": "2026-09-25T16:19:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-0110e870caee",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Accenture (ACN) Joins Anthropic’s AI Safety Effort. Can it Turn Evaluation into Profits? - Yahoo Finance",
+      "detected_at": "2026-09-25T23:36:31+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-90e11100b742",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "U.S. Appeals Court Upholds Pentagon Labeling Anthropic a Security Risk - WSJ",
+      "detected_at": "2026-09-25T17:40:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-f95757e09864",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Elon Musk Says SpaceX’s AI Model May Surpass Anthropic And OpenAI’s In 6 Months - Forbes",
+      "detected_at": "2026-09-24T18:30:17+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-bbab2f5cdf66",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s Altman and Anthropic’s Amodei address UN security council - The Guardian",
+      "detected_at": "2026-09-24T21:12:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-8bfef01a1e24",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Federal Appeals Court Backs Pentagon’s Anthropic Blacklisting - Gizmodo",
+      "detected_at": "2026-09-25T19:50:08+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-8f5064ee4f83",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Appeals court declines to block Pentagon’s blacklisting of Anthropic - New York Post",
+      "detected_at": "2026-09-25T18:57:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-067ae98378d0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Federal court allows the U.S. government to label Anthropic a supply chain risk - Fast Company",
+      "detected_at": "2026-09-25T18:35:21+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-e3d20880d235",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "US Appeals Court Backs Pentagon Blacklisting of Anthropic - BankInfoSecurity",
+      "detected_at": "2026-09-25T22:19:23+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-c7a4c978779d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Akamai: Deal With Anthropic Boosts Existing AI-Driven Tailwind, But Risks Cloud Horizon - Seeking Alpha",
+      "detected_at": "2026-09-26T06:42:22+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-5aa0a4181642",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Google, OpenAI and Anthropic AI Safety Group Takes Shape - The Information",
+      "detected_at": "2026-09-24T13:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-3ad1fdafffbe",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Appeals court sides with Pentagon on labeling Anthropic security risk - upi.com",
+      "detected_at": "2026-09-25T18:42:57+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-445c86dc8107",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "D.C. Circuit upholds Pentagon Anthropic ban - Punchbowl News",
+      "detected_at": "2026-09-25T16:40:21+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-293cc6d88885",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "‘Our industry sees the risks and is concerned’: European tech leaders join calls for AI slowdown - Fortune",
+      "detected_at": "2026-09-25T16:35:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-167c2f16eed9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AKAM’s $11.6B Anthropic Deal Has Wall Street Rethinking The Stock — What Analysts See - Yahoo Finance",
+      "detected_at": "2026-09-25T20:01:27+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-d64ae265226b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Federal appeals court upholds Pentagon's blacklisting of Anthropic in AI dispute - qz.com",
+      "detected_at": "2026-09-25T17:01:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-eb9a5ae15100",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Akamai (AKAM) Lands an $11.6 Billion Anthropic Deal - Yahoo Finance",
+      "detected_at": "2026-09-26T01:01:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-446a4574c9e3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The Anthropic S-1 That Was Expected After Labor Day Still Hasn’t Arrived - forkast.news",
+      "detected_at": "2026-09-26T02:14:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-baa55870f3ae",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Akamai Technologies' Anthropic Deal Improves Cloud Business Visibility, Oppenheimer Says - Yahoo Finance",
+      "detected_at": "2026-09-25T16:56:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-3776a6e724a8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "7-Year, $11.6B Anthropic Deal Drives Akamai Cloud Buildout - BankInfoSecurity",
+      "detected_at": "2026-09-25T22:21:33+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-0129ce1e05b0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Federal appeals court agrees with Pentagon: Anthropic is a 'national security risk' for America - The Times of India",
+      "detected_at": "2026-09-26T04:41:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-7c4072f6137f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Microsoft Bundles Copilot Features to Challenge Anthropic and OpenAI in the Workplace - PYMNTS.com",
+      "detected_at": "2026-09-25T16:52:07+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-af710d42561a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Could OpenAI and Anthropic going public backfire? - Yahoo Finance",
+      "detected_at": "2026-09-25T15:08:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-e02f91015156",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Loses Pentagon Supply-Chain Case in Split Appeals Court Ruling - Kingy AI",
+      "detected_at": "2026-09-26T04:07:30+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-c479e85f5fd1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Akamai signs $11.6B deal, the 'largest contract in company's history,' with Anthropic - bizjournals.com",
+      "detected_at": "2026-09-25T18:25:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-e6dc6daeb5aa",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "US appeals court upholds Pentagon's designation of Anthropic as a 'supply-chain risk' - Yahoo Finance",
+      "detected_at": "2026-09-25T20:08:34+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-7533832efff4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "D.C. Circuit upholds Pentagon ban on Anthropic’s Claude over national security risk - Florida’s Voice",
+      "detected_at": "2026-09-25T20:55:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-7307b2f32a39",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "U.S. asks OpenAI and Anthropic to hold back new models from UK tester pending American review - Briefs Finance",
+      "detected_at": "2026-09-26T04:05:18+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-0fdb674b8ddb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Salesforce: Anthropic Stake Gives Optionality To Retire $25 Billion Share Repurchase Debt - Seeking Alpha",
+      "detected_at": "2026-09-25T17:58:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-08a294d9d1f3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic’s 950 AI Agents Uncover CRISPR-Like Enzyme System: A New Frontier in Biological Discovery - forkast.news",
+      "detected_at": "2026-09-26T05:20:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-f33e86a90138",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic supply-chain designation upheld in AI military dispute - investing.com",
+      "detected_at": "2026-09-25T17:16:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-09-26-c1470f23ca89",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic inks US$12bn deal with Akamai - Taipei Times",
+      "detected_at": "2026-09-25T16:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-github_signal-2026-09-26-f61a574a946a",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "White House asks OpenAI, Anthropic to hold models from British testers, Politico reports - Reuters",
+      "detected_at": "2026-09-24T18:10:04+00:00",
       "importance_score": 3.5
     }
   ],

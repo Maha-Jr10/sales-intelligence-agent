@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "confluent",
   "created_at": "2026-06-03T17:25:17.749197+00:00",
-  "last_updated": "2026-09-25T11:27:52.472705+00:00",
+  "last_updated": "2026-09-26T11:03:05.008856+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,22 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "confluent-product_launch-2026-06-28-686a49182a44",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Bronstein, Gewirtz & Grossman, LLC Is Investigating Confluent, Inc. (CFLT) And Encourages Stockholders to Connect - The National Law Review",
-      "detected_at": "2026-06-27T14:32:11+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "confluent-product_launch-2026-06-29-686a49182a44",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Bronstein, Gewirtz & Grossman, LLC Is Investigating Confluent, Inc. (CFLT) And Encourages Stockholders to Connect - The National Law Review",
-      "detected_at": "2026-06-27T14:32:11+00:00",
-      "importance_score": 5.0
-    },
     {
       "signal_id": "confluent-news_mention-2026-06-29-0796f3e621f6",
       "signal_type": "news_mention",
@@ -551,6 +535,14 @@
       "signal_subtype": "generic",
       "title": "‘Confluent is taking the Better Together story with IBM to a wider base of customers in India today’: Rubal Sahni, Vice President, Confluent, an IBM company - APAC Media",
       "detected_at": "2026-09-23T11:51:28+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "confluent-news_mention-2026-09-26-ee3bc2dd2392",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Building the Future of Real-Time AI: Sean Falconer on Confluent Intelligence at IBM - IBM",
+      "detected_at": "2026-09-24T16:43:33+00:00",
       "importance_score": 4.0
     }
   ],

@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-09-26T11:03:05.026701+00:00",
+  "last_updated": "2026-09-27T11:42:04.126135+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,35 +18,11 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "huggingface-news_mention-2026-06-29-161da681602d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Reachy Mini Desktop Robot Gets All-local, Conversational AI - Hackaday",
-      "detected_at": "2026-06-28T23:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-06-29-e86d1296cf2e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Reachy Mini Adds Local Conversational AI - Let's Data Science",
-      "detected_at": "2026-06-28T23:00:42+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "huggingface-leadership_change-2026-06-30-fe700102282a",
       "signal_type": "leadership_change",
       "signal_subtype": "new_ceo",
       "title": "Hugging Face's CEO says being labeled too dangerous is the best enterprise marketing an AI lab can get - Startup Fortune",
       "detected_at": "2026-06-29T21:47:05+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "huggingface-leadership_change-2026-06-30-ea3b80621a4d",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Watch Hugging Face CEO Weighs In on Anthropic AI Model's 'Dangerous' Label - Bloomberg.com",
-      "detected_at": "2026-06-29T00:00:00+00:00",
       "importance_score": 7.0
     },
     {
@@ -64,14 +40,6 @@
       "title": "DeepReinforce Releases Ornith-1.0 Agentic Coding Models - Let's Data Science",
       "detected_at": "2026-06-29T17:15:14+00:00",
       "importance_score": 5.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-06-30-161da681602d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Reachy Mini Desktop Robot Gets All-local, Conversational AI - Hackaday",
-      "detected_at": "2026-06-28T23:00:00+00:00",
-      "importance_score": 4.0
     },
     {
       "signal_id": "huggingface-leadership_change-2026-07-01-fe700102282a",
@@ -17320,6 +17288,118 @@
       "title": "OpenAI rogue agents leaked 53 ChatGPT user images, reportedly created nearly 1M links with encoded info - Fortune",
       "detected_at": "2026-09-26T01:16:00+00:00",
       "importance_score": 3.5
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-09-27-788ca0376b18",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_cto",
+      "title": "How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector - The New York Times",
+      "detected_at": "2026-09-25T20:01:21+00:00",
+      "importance_score": 9.5
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-27-cec9e34687c1",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Unbelievable: OpenAI Agent Launches Attack on Hugging Face – Attempts to Call DeepSeek, Kimi & Qwen for Assistance - 36Kr",
+      "detected_at": "2026-09-26T06:53:18+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-27-1bb894ea69ea",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI says its AI agents escaped a secure ‘sandbox’ again last weekend and it is pausing training for a second time - Fortune",
+      "detected_at": "2026-09-26T15:25:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-27-d8a3a37a959c",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI Alerts Dozens of Organizations Over Rogue AI Agent Behavior - mb.ntd.com",
+      "detected_at": "2026-09-27T10:00:32+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-27-1c0dc4c4817e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI says broader review necessary to fully understand Hugging Face incident - Seeking Alpha",
+      "detected_at": "2026-09-25T20:38:10+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-27-e3009f257e29",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge - CNBC",
+      "detected_at": "2026-09-26T17:10:32+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-27-3aa1c117f662",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity - The Guardian",
+      "detected_at": "2026-09-25T22:55:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-27-94404a8ebb8e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI bots meddled with US government agencies, including SEC and Census - BBC",
+      "detected_at": "2026-09-26T02:50:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-27-207693617a7c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI AI Agents hacked 4 websites before Hugging Face, researchers reveal - WION",
+      "detected_at": "2026-09-25T18:33:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-27-d757473a8319",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face Attack Is A Warning To The Securities Markets - Law360",
+      "detected_at": "2026-09-25T14:06:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-27-14106b1ce56f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Tens of Thousands of AI Security Incidents? What the Evidence Actually Shows - Kingy AI",
+      "detected_at": "2026-09-27T02:45:57+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-27-dcbe6cb5d921",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Opinion | Trump and Xi wrestle with the laws of nature - The Washington Post",
+      "detected_at": "2026-09-25T18:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-github_signal-2026-09-27-e90046e2bb0b",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "OpenAI rogue agents leaked 53 ChatGPT user images, reportedly created nearly 1M links with encoded info - Fortune",
+      "detected_at": "2026-09-26T01:16:00+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "huggingface-content_signal-2026-09-27-ffb6026bb5d0",
+      "signal_type": "content_signal",
+      "signal_subtype": "generic",
+      "title": "OpenAI Data Leak Explained: ChatGPT Privacy Guide - Kingy AI",
+      "detected_at": "2026-09-26T20:00:55+00:00",
+      "importance_score": 2.5
     }
   ],
   "brief_history": [],

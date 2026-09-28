@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-09-27T11:42:04.126135+00:00",
+  "last_updated": "2026-09-28T13:18:06.261610+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,54 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "huggingface-leadership_change-2026-06-30-fe700102282a",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Hugging Face's CEO says being labeled too dangerous is the best enterprise marketing an AI lab can get - Startup Fortune",
-      "detected_at": "2026-06-29T21:47:05+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "huggingface-leadership_change-2026-06-30-f58c272138d7",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Hugging Face CEO on Anthropic's 'Dangerous' Label - StartupHub.ai",
-      "detected_at": "2026-06-29T18:07:59+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "huggingface-product_launch-2026-06-30-a3fc2f216b90",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "DeepReinforce Releases Ornith-1.0 Agentic Coding Models - Let's Data Science",
-      "detected_at": "2026-06-29T17:15:14+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "huggingface-leadership_change-2026-07-01-fe700102282a",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Hugging Face's CEO says being labeled too dangerous is the best enterprise marketing an AI lab can get - Startup Fortune",
-      "detected_at": "2026-06-29T21:47:05+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "huggingface-leadership_change-2026-07-01-f58c272138d7",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Hugging Face CEO on Anthropic's 'Dangerous' Label - StartupHub.ai",
-      "detected_at": "2026-06-29T18:07:59+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "huggingface-product_launch-2026-07-01-a3fc2f216b90",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "DeepReinforce Releases Ornith-1.0 Agentic Coding Models - Let's Data Science",
-      "detected_at": "2026-06-29T17:15:14+00:00",
-      "importance_score": 5.0
-    },
     {
       "signal_id": "huggingface-news_mention-2026-07-01-53babc8293a5",
       "signal_type": "news_mention",
@@ -17400,6 +17352,198 @@
       "title": "OpenAI Data Leak Explained: ChatGPT Privacy Guide - Kingy AI",
       "detected_at": "2026-09-26T20:00:55+00:00",
       "importance_score": 2.5
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-28-bd06e2768120",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Nvidia Launches New Safety Platform, Says It Can Prevent AI Agents From Going Rogue - Forbes",
+      "detected_at": "2026-09-28T10:15:52+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-28-ddbdd5833d89",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Nvidia launches AI security tools to prevent agent breaches - Yahoo Finance Australia",
+      "detected_at": "2026-09-28T10:02:10+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "huggingface-funding_event-2026-09-28-1287f0ec9fbc",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Nvidia launches AI safety tool to contain rogue agents - capitalbrief.com",
+      "detected_at": "2026-09-28T11:18:00+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-28-a89429833a86",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Nvidia releases AI safety software it says could have stopped Hugging Face hack - Reuters",
+      "detected_at": "2026-09-28T09:56:29+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-28-3fd9abaaaf2a",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Nvidia releases software platform to stop AI agents from misbehaving - CNBC",
+      "detected_at": "2026-09-28T09:00:02+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-28-1bb894ea69ea",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI says its AI agents escaped a secure ‘sandbox’ again last weekend and it is pausing training for a second time - fortune.com",
+      "detected_at": "2026-09-26T15:25:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-28-41017e25f1e2",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Nvidia releases AI safety tools after Hugging Face hack - Latest news from Azerbaijan",
+      "detected_at": "2026-09-28T10:47:58+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-28-7a27c7228204",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI Notifies Dozens of Organizations as Hugging Face Incident Review Expands - citybiz",
+      "detected_at": "2026-09-28T09:43:09+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-28-e0ba73c281bf",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia unveils security platform to stop AI agents from going rogue after new, troubling incidents - Daily Breeze",
+      "detected_at": "2026-09-28T12:32:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-28-fc3a118220b2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning - The Decoder",
+      "detected_at": "2026-09-27T09:28:48+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-28-1f3e3202c3b6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia says its new OpenShell platform can stop AI agents from going rogue - CBS News",
+      "detected_at": "2026-09-28T12:36:24+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-28-f60331e882d0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging My Face: When AI Agents Go Rogue — A Hospitality Wake-Up Call - Hospitality Net",
+      "detected_at": "2026-09-28T07:47:27+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-28-04cecd5d775b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Researchers rebuilt exactly how 700 AI agents hacked Hugging Face: a 900-link chain trick - WION",
+      "detected_at": "2026-09-27T22:05:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-28-3b1c3d9c2045",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Jensen Huang's Nvidia unveils AI agent safety platform - Billionaires.Africa",
+      "detected_at": "2026-09-28T10:51:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-28-da3a3bfe7759",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia AI agent safety system targets rogue agents - Cybernews",
+      "detected_at": "2026-09-28T13:00:18+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-28-e3009f257e29",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge - CNBC",
+      "detected_at": "2026-09-26T17:10:32+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-28-06c7fbcc0d09",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled - KMVT",
+      "detected_at": "2026-09-27T20:39:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-28-7fab86649e94",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Expands AI Agent Safety Review After Hugging Face Breach and New Unauthorized Activity - tekedia.com",
+      "detected_at": "2026-09-28T07:07:14+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-28-9a908b6bd8bd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Will artificial intelligence really kill us all? - CBS News",
+      "detected_at": "2026-09-27T13:48:22+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-28-3310aa5168ab",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia Debuts System Designed to Stop AI Agents From Going Awry - Bloomberg Law News",
+      "detected_at": "2026-09-28T09:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-28-2372b77388b6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Rogue AI Agents Tried to Trick a CAPTCHA - tech-insider.org",
+      "detected_at": "2026-09-27T18:13:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-28-7e4ebcb4eee2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Calls CAPTCHA-Beating Agents Its Worst of 15+ [2026] - tech-insider.org",
+      "detected_at": "2026-09-27T18:25:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-28-f9cc10e0131a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Confirms AI Inadvertently Leaked Users' Private Images Online – 53 Related Public Cases Disclosed - eu.36kr.com",
+      "detected_at": "2026-09-28T03:10:28+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-28-190d1cfbd509",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia Rolls Out Guardrails For AI Agents - Finimize",
+      "detected_at": "2026-09-28T01:06:33+00:00",
+      "importance_score": 4.0
     }
   ],
   "brief_history": [],

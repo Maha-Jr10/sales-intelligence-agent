@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-09-28T13:18:06.261610+00:00",
+  "last_updated": "2026-09-29T12:25:15.889198+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,28 +18,12 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "huggingface-news_mention-2026-07-01-53babc8293a5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Hugging Face can finally tell you if a model will run on your machine - Korben",
-      "detected_at": "2026-06-30T16:24:06+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "huggingface-leadership_change-2026-07-02-849708d7faf9",
       "signal_type": "leadership_change",
       "signal_subtype": "new_ceo",
       "title": "Why Hugging Face CEO Clément Delangue Turned Down Half a Billion Dollars From Nvidia - observer.com",
       "detected_at": "2026-07-01T15:00:52+00:00",
       "importance_score": 7.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-02-53babc8293a5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Hugging Face can finally tell you if a model will run on your machine - Korben",
-      "detected_at": "2026-06-30T16:24:06+00:00",
-      "importance_score": 4.0
     },
     {
       "signal_id": "huggingface-leadership_change-2026-07-03-849708d7faf9",
@@ -17543,6 +17527,334 @@
       "signal_subtype": "generic",
       "title": "Nvidia Rolls Out Guardrails For AI Agents - Finimize",
       "detected_at": "2026-09-28T01:06:33+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-09-29-6e40e42fbac7",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_cpo",
+      "title": "Google Joins the Rogue AI Model Party, But Insists Its \"Mistaken Identity\" Incidents Were Not Misalignment - CPO Magazine",
+      "detected_at": "2026-09-29T11:00:00+00:00",
+      "importance_score": 8.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-29-9c82ab2333c9",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Nvidia launches security platform to keep AI agents from going rogue - Fox Business",
+      "detected_at": "2026-09-28T19:02:00+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-29-c4a50777e8f4",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Nvidia Launches New Safety Platform—Says It Can Prevent AI Agents From Going Rogue - Forbes",
+      "detected_at": "2026-09-28T10:15:52+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "huggingface-funding_event-2026-09-29-7529138fbe40",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal - CNBC",
+      "detected_at": "2026-09-28T18:44:49+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-funding_event-2026-09-29-8538906397b3",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Nvidia's OpenShell enforces agent permissions - VentureBeat",
+      "detected_at": "2026-09-28T17:11:52+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-29-a89429833a86",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Nvidia releases AI safety software it says could have stopped Hugging Face hack - Reuters",
+      "detected_at": "2026-09-28T14:46:16+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-29-0619967da3d3",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OPINION | ART HOBSON: Exercise demonstrates risks of rogue artificial intelligence - Northwest Arkansas Democrat-Gazette",
+      "detected_at": "2026-09-29T06:00:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-29-3fd9abaaaf2a",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Nvidia releases software platform to stop AI agents from misbehaving - CNBC",
+      "detected_at": "2026-09-28T09:00:02+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-29-7a27c7228204",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI Notifies Dozens of Organizations as Hugging Face Incident Review Expands - citybiz",
+      "detected_at": "2026-09-28T09:43:09+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-29-41017e25f1e2",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Nvidia releases AI safety tools after Hugging Face hack - Latest news from Azerbaijan",
+      "detected_at": "2026-09-28T10:47:58+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-09-29-650ae8e6771b",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "NVIDIA partners with Anthropic to launch AI agent security tools, claiming they can prevent Hugging Face-style attacks. - 富途牛牛",
+      "detected_at": "2026-09-28T22:28:31+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-8664bb8ca1dc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia has a fix for rogue AI agents to prevent incidents like the Hugging Face hack - Digital Trends",
+      "detected_at": "2026-09-28T15:14:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-67cc31c2b9ca",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "How a simple prompt triggered the Hugging Face AI hack - Yahoo Finance",
+      "detected_at": "2026-09-28T18:44:05+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-a8e9b6608d14",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia Says New Safety Platform Would Have Stopped Hugging Face Hack - PYMNTS.com",
+      "detected_at": "2026-09-28T14:13:49+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-1f1e8d216dd0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI offered to invest $100 million into Hugging Face before Nvidia's $13 billion deal - CNBC",
+      "detected_at": "2026-09-28T20:34:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-73f3a7806473",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The open-source AI platforms vying to become China’s Hugging Face - Rest of World",
+      "detected_at": "2026-09-29T10:00:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-d1d6b88ef66d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI sought to acquire a stake in Hugging Face before Nvidia - Techzine Global",
+      "detected_at": "2026-09-29T08:49:19+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-7d6174eb8df5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face AI Attack Exposes Wealth Management Security Risks - Wealth Management",
+      "detected_at": "2026-09-28T20:36:35+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-bf569c1b12d7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Key facts: NVIDIA raises buyback by $150B; to buy Hugging Face for $13B - TradingView",
+      "detected_at": "2026-09-29T07:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-3c2e71fc91cf",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Opinion: Stop blaming rogue bots. Hold their human developers accountable. - The Mercury News",
+      "detected_at": "2026-09-29T11:00:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-119c931abebc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Sparked Hugging Face Bidding War Before Nvidia's $13B Deal - The Tech Buzz",
+      "detected_at": "2026-09-28T19:08:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-af6aa24a20ef",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI offered to invest roughly $100 million in Hugging Face before Nvidia's $13 billion deal - CNBC - TradingView",
+      "detected_at": "2026-09-28T18:51:40+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-ce02ddb1672d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Who’s liable when AI agents go rogue? - MIT Technology Review",
+      "detected_at": "2026-09-28T08:06:22+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-ee283f177259",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "5 Free Courses to Learn AI Engineering - KDnuggets",
+      "detected_at": "2026-09-29T12:10:05+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-222189fc684e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "NVIDIA Acquires Hugging Face for $13 Billion Amid OpenAI's Inves - GuruFocus",
+      "detected_at": "2026-09-28T20:18:53+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-0a9040afc326",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia agrees to acquire Hugging Face for about $13 billion — CNBC - UA.NEWS",
+      "detected_at": "2026-09-28T19:12:31+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-7309a23dd5cf",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia’s OpenShell and Sentry Aim to Keep AI Agents Inside Their Boundaries, with Open Agent Safety Platform - technology.org",
+      "detected_at": "2026-09-29T06:52:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-775624278335",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Tried $100M Bid as Nvidia Agreed $13B Deal - Briefs Finance",
+      "detected_at": "2026-09-28T17:30:24+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-61c262b983ec",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Fact Check Team: Rogue AI agents raise cybersecurity concerns. Here's what we know - thenationaldesk.com",
+      "detected_at": "2026-09-28T18:53:27+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-8f7eef53b7eb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Rep. Tom Cormen: If AI doesn’t kill us - New Hampshire Union Leader",
+      "detected_at": "2026-09-29T04:04:29+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-17f11d70f5e8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia is touting a software tool to contain runaway AI. How would it work? - wtop.com",
+      "detected_at": "2026-09-28T19:04:12+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-f60331e882d0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging My Face: When AI Agents Go Rogue — A Hospitality Wake-Up Call - Hospitality Net",
+      "detected_at": "2026-09-28T07:47:27+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-04cecd5d775b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Researchers rebuilt exactly how 700 AI agents hacked Hugging Face: a 900-link chain trick - WION",
+      "detected_at": "2026-09-27T22:05:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-905fa6a73fe9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia rolls out guardrails after rogue AI agents breach systems - local21news.com",
+      "detected_at": "2026-09-28T19:04:31+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-f0014d449213",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia Develops Tools to Tackle Rogue AI Risks - The Daily Upside",
+      "detected_at": "2026-09-29T04:04:58+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-e585eb713d88",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia AI Safety Software Says It Could Have Stopped $12.9B HF Hack - tech-insider.org",
+      "detected_at": "2026-09-28T13:21:41+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-9a908b6bd8bd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Will artificial intelligence really kill us all? - CBS News",
+      "detected_at": "2026-09-27T13:48:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-2a3525f71a96",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia OpenShell Targets Hack Tied to $13B Deal [2026] - shattered.io",
+      "detected_at": "2026-09-28T14:03:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-1f3e3202c3b6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia says its new OpenShell platform can stop AI agents from going rogue - CBS News",
+      "detected_at": "2026-09-28T12:36:24+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-239e08348367",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled - WTHI-TV",
+      "detected_at": "2026-09-27T20:39:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-09-29-28e14bf25115",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Top AI researchers warn of ’intelligence explosion’, urge policy oversight - Yahoo! Finance Canada",
+      "detected_at": "2026-09-28T14:58:10+00:00",
       "importance_score": 4.0
     }
   ],

@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "ramp",
   "created_at": "2026-06-03T17:25:17.612435+00:00",
-  "last_updated": "2026-09-29T12:25:15.617071+00:00",
+  "last_updated": "2026-09-30T12:10:18.696926+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,380 +18,12 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "ramp-leadership_change-2026-07-02-ae183aa4b853",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_cto",
-      "title": "Ramp elevates CTO to co-CEO - Banking Dive",
-      "detected_at": "2026-07-01T15:40:20+00:00",
-      "importance_score": 9.5
-    },
-    {
-      "signal_id": "ramp-leadership_change-2026-07-02-fb51314cccb2",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_cto",
-      "title": "Westport I-95 south on-ramp reopens after tractor-trailer crash, officials say - CT Insider",
-      "detected_at": "2026-07-01T20:04:05+00:00",
-      "importance_score": 9.5
-    },
-    {
-      "signal_id": "ramp-leadership_change-2026-07-02-61860e34199b",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_cto",
-      "title": "Tractor-trailer carrying 34K pounds live crabs catches fire on I-81 near Morristown - WSMV",
-      "detected_at": "2026-07-01T12:26:00+00:00",
-      "importance_score": 9.5
-    },
-    {
-      "signal_id": "ramp-product_launch-2026-07-02-17229ee7409b",
-      "signal_type": "product_launch",
-      "signal_subtype": "new_product",
-      "title": "Virginia Beach launches text alert system to ease congestion at Lynnhaven Boat Ramp - WTKR",
-      "detected_at": "2026-07-01T20:29:38+00:00",
-      "importance_score": 7.5
-    },
-    {
-      "signal_id": "ramp-leadership_change-2026-07-02-516a6677ed19",
-      "signal_type": "leadership_change",
-      "signal_subtype": "generic",
-      "title": "Pasadena officials ramp up fireworks enforcement ahead of Fourth of July - ColoradoBoulevard.net",
-      "detected_at": "2026-07-01T20:20:54+00:00",
-      "importance_score": 6.0
-    },
-    {
-      "signal_id": "ramp-product_launch-2026-07-02-faf2846520ac",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Tempe police investigating shooting on freeway on-ramp - AZ Family",
-      "detected_at": "2026-07-02T04:47:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "ramp-github_signal-2026-07-02-f27268c3bbd3",
-      "signal_type": "github_signal",
-      "signal_subtype": "new_public_repo",
-      "title": "Ballwin city employee charged in fatal shooting on I-64 exit ramp in O'Fallon, Missouri - KSDK",
-      "detected_at": "2026-07-01T19:41:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "ramp-product_launch-2026-07-02-86f093d5b03f",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Richmond: On-Ramp Closure Near Richmond-San Rafael Bridge Extended Several Months To Accommodate Open Road Toll Project - SFGATE",
-      "detected_at": "2026-07-01T20:54:04+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-ee73b9d87c9b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Victim ID’d in I-64 off-ramp fatal shooting - FOX 2",
-      "detected_at": "2026-07-01T19:49:26+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-3b0ffe5b8604",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Ramp reopened after Wednesday morning crash in Manhattan - WIBW",
-      "detected_at": "2026-07-01T14:28:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-f69e9a9d63d8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Multiple people injured in wrong-way crash on College Ave. on-ramp to I-8 - 10News.com",
-      "detected_at": "2026-07-01T18:28:09+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-1112e00a139d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Emergency repair forces partial I-70 closure at Providence Road in Columbia - KOMU 8",
-      "detected_at": "2026-07-01T15:30:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-2dc6307be4ce",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Extreme heat buckles pavement, closes northbound I-94/41 off-ramp at College Avenue - TMJ4 News",
-      "detected_at": "2026-07-01T20:17:46+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-6860429b4dba",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Police situation shuts down Tempe freeway on ramp - fox10tv.com",
-      "detected_at": "2026-07-02T05:46:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-4bce3af6cd12",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Ramp to U.S. 54 from Camden County Route Y set to close next week - KOMU 8",
-      "detected_at": "2026-07-02T01:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-6f392705a53b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "INTERVIEW: Ramp-up of Nickel Industries’ new HPAL plant supported by sulfur stocks - S&P Global",
-      "detected_at": "2026-07-02T01:32:20+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-a70a97217e9f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Charges filed in road rage killing on I-64 off ramp - FOX 2",
-      "detected_at": "2026-07-01T21:37:11+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-cc84ebef837f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Alabama agencies ramp up water, road safety enforcement for Fourth of July weekend - WTVM.com",
-      "detected_at": "2026-07-01T22:01:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-504235e44d44",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Texas opens first mechanical runaway truck ramp in El Paso - KTSM 9 News",
-      "detected_at": "2026-07-02T00:04:15+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-996da5ae6716",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "TIMELINE: Storm chances ramp up for Independence Day in Central Florida - WKMG",
-      "detected_at": "2026-07-01T20:46:15+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-62d16b7bc1db",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Extreme heat continues to ramp up across Maryland - CBS News",
-      "detected_at": "2026-07-01T22:26:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-b4131b37a192",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Preparations ramp up for California Mid-State Fair - KSBY News",
-      "detected_at": "2026-07-02T01:06:19+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-688fbedfdd71",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Storm chances ramp up for Independence Day in Central Florida - WKMG",
-      "detected_at": "2026-07-02T00:12:14+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-768024192145",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Emergency I-70 ramp and lane closure expected to be completed by Thursday morning - ABC17NEWS",
-      "detected_at": "2026-07-02T00:37:53+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-bd9d40f93c07",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "This interstate ramp in east Louisville will be closed for one night this week - WHAS11",
-      "detected_at": "2026-07-01T16:16:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-95168f41cc54",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "New runaway ramp opens on Loop 375 West on Transmountain Road - KVIA",
-      "detected_at": "2026-07-01T18:42:07+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-ede1e5b65c8e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Saudi Aramco ramps up exports from Ras Tanura, switches to spot sales, sources say - Reuters",
-      "detected_at": "2026-07-02T07:23:11+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-3130adc8ca33",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "NHL offseason set to ramp up as free agency opens - Sports Business Journal",
-      "detected_at": "2026-07-01T18:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-1e2a06872a4b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Niles Police Ramp Up Traffic Enforcement For Independence Day - Journal & Topics",
-      "detected_at": "2026-07-01T19:52:25+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-3424b8496334",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Dearborn police to have 'zero tolerance' for fireworks violators during 4th of July holiday - The Detroit News",
-      "detected_at": "2026-07-01T16:30:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-43127c8745d4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Motorcycle crash marks Oahu’s 21st traffic fatality of 2026 - Hawaii News Now",
-      "detected_at": "2026-07-01T23:19:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-855d6873b288",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "State ramps up efforts to keep roads safe over holiday weekend - Toledo Blade",
-      "detected_at": "2026-07-01T16:51:57+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-0e7aa8c25714",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "M&A Activity For Scaled RTD Brands Expected to Ramp Up - BevNET.com",
-      "detected_at": "2026-07-01T19:00:19+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-208021891ee7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Low water levels close west boat ramp at John Martin Reservoir State Park; East ramp remains open - The Prowers Journal",
-      "detected_at": "2026-07-01T13:05:49+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-aaa8631cf12c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Southbound 101 Off Ramp Full Closure - Lost Coast Outpost",
-      "detected_at": "2026-07-02T07:22:09+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-20ce5badb522",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Victim ID’d in I-64 off-ramp fatal shooting - Yahoo",
-      "detected_at": "2026-07-01T19:49:26+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-e6d6cbcb02e6",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Apparent Road Rage Ends In Fatal Shooting On Ramp - RiverBender.com",
-      "detected_at": "2026-07-01T20:29:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-2ad9adcd50fc",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "NASA Adds Kuva US to $476 Million Commercial Satellite Data Acquisition On-Ramp Contract - satnews.com",
-      "detected_at": "2026-07-01T14:14:07+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-81dc725fbfcf",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Is POET Technologies (POET) Cheap On Its 2026 Production Ramp Plans? - simplywall.st",
-      "detected_at": "2026-07-01T14:53:48+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-fdb225b63256",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Urban Outfitters: The Bull Case Is Getting Stronger As Ramp-Up Accelerates (NASDAQ:URBN) - Seeking Alpha",
-      "detected_at": "2026-07-01T19:12:30+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-6609066155d9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Saudi Aramco Makes Rare Spot Oil Sales as Its Shipments Ramp Up - Bloomberg.com",
-      "detected_at": "2026-07-01T12:32:01+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-1c9d236952fc",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Financial Wellness Student Loans On Ramp Ends - timesdaily.com",
-      "detected_at": "2026-07-01T17:55:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-02-bc0543fca403",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Taiwan automotive LED maker EOI readies Mexico ramp for humanoid robots and silicon photonics - digitimes",
-      "detected_at": "2026-07-02T03:27:05+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-leadership_change-2026-07-03-fb51314cccb2",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_cto",
-      "title": "Westport I-95 south on-ramp reopens after tractor-trailer crash, officials say - CT Insider",
-      "detected_at": "2026-07-01T13:06:20+00:00",
-      "importance_score": 9.5
-    },
-    {
       "signal_id": "ramp-leadership_change-2026-07-03-915afae7f1a3",
       "signal_type": "leadership_change",
       "signal_subtype": "new_cto",
       "title": "Ramp elevates CTO to co-CEO - Payments Dive",
       "detected_at": "2026-07-02T22:13:12+00:00",
       "importance_score": 9.5
-    },
-    {
-      "signal_id": "ramp-leadership_change-2026-07-03-bf36aaace241",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_cto",
-      "title": "Tractor-trailer carrying 34K pounds live crabs catches fire on I-81 near Morristown - WVLT",
-      "detected_at": "2026-07-01T12:26:00+00:00",
-      "importance_score": 9.5
-    },
-    {
-      "signal_id": "ramp-product_launch-2026-07-03-17229ee7409b",
-      "signal_type": "product_launch",
-      "signal_subtype": "new_product",
-      "title": "Virginia Beach launches text alert system to ease congestion at Lynnhaven Boat Ramp - WTKR",
-      "detected_at": "2026-07-01T20:29:38+00:00",
-      "importance_score": 7.5
     },
     {
       "signal_id": "ramp-leadership_change-2026-07-03-b2271a9a8c91",
@@ -424,22 +56,6 @@
       "title": "Tokenized deposits ramp up in US as Cari grows to 30 banks ahead of pilot - ledgerinsights.com",
       "detected_at": "2026-07-02T15:37:08+00:00",
       "importance_score": 6.0
-    },
-    {
-      "signal_id": "ramp-product_launch-2026-07-03-faf2846520ac",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Tempe police investigating shooting on freeway on-ramp - AZ Family",
-      "detected_at": "2026-07-02T04:47:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "ramp-github_signal-2026-07-03-f27268c3bbd3",
-      "signal_type": "github_signal",
-      "signal_subtype": "new_public_repo",
-      "title": "Ballwin city employee charged in fatal shooting on I-64 exit ramp in O'Fallon, Missouri - KSDK",
-      "detected_at": "2026-07-01T19:41:00+00:00",
-      "importance_score": 5.0
     },
     {
       "signal_id": "ramp-product_launch-2026-07-03-1dcef25f4d27",
@@ -498,43 +114,11 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "ramp-news_mention-2026-07-03-996da5ae6716",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "TIMELINE: Storm chances ramp up for Independence Day in Central Florida - WKMG",
-      "detected_at": "2026-07-01T20:46:15+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-03-d9a4d196dbce",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "TCPD To Ramp Up Loud Vehicle Enforcement, Bike Patrols - The Ticker",
-      "detected_at": "2026-07-02T04:02:55+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "ramp-news_mention-2026-07-03-0ebfdfd6d6a4",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Man Found Dead Near Boat Ramp After He Failed to Return Home from Bar - People.com",
       "detected_at": "2026-07-02T16:23:22+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-03-bd9d40f93c07",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "This interstate ramp in east Louisville will be closed for one night this week - WHAS11",
-      "detected_at": "2026-07-01T16:16:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-03-37206050c048",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Orange County considers dramatic boat dock, ramp permit fee increases to cover costs - Spectrum News 13",
-      "detected_at": "2026-07-02T09:57:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -658,22 +242,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "ramp-news_mention-2026-07-03-ee73b9d87c9b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Victim ID’d in I-64 off-ramp fatal shooting - FOX 2",
-      "detected_at": "2026-07-01T19:49:26+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-03-2dc6307be4ce",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Extreme heat buckles pavement, closes northbound I-94/41 off-ramp at College Avenue - TMJ4 News",
-      "detected_at": "2026-07-01T20:17:46+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "ramp-news_mention-2026-07-03-dfe48f4f2e27",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -754,14 +322,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "ramp-news_mention-2026-07-03-fec79e54804e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Summer heat sticks around as storms slowly ramp up after the Fourth of July - fox10tv.com",
-      "detected_at": "2026-07-02T10:58:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "ramp-news_mention-2026-07-03-88b9ed5bc842",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -775,14 +335,6 @@
       "signal_subtype": "generic",
       "title": "Putin shrugs off fuel shortages in Russia as he ramps up attacks on Ukraine - The Seattle Times",
       "detected_at": "2026-07-03T08:13:13+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-03-504235e44d44",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Texas opens first mechanical runaway truck ramp in El Paso - KTSM 9 News",
-      "detected_at": "2026-07-02T00:04:15+00:00",
       "importance_score": 4.0
     },
     {
@@ -818,22 +370,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "ramp-news_mention-2026-07-03-6f392705a53b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "INTERVIEW: Ramp-up of Nickel Industries’ new HPAL plant supported by sulfur stocks - S&P Global",
-      "detected_at": "2026-07-02T01:32:20+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-03-1112e00a139d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Emergency repair forces partial I-70 closure at Providence Road in Columbia - KOMU 8",
-      "detected_at": "2026-07-01T15:30:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "ramp-news_mention-2026-07-03-56ec2f73371d",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -858,67 +394,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "ramp-news_mention-2026-07-03-d65db5995bf8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Ramp closed while crews respond to injury crash in Manhattan - WIBW",
-      "detected_at": "2026-07-01T14:28:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-03-a70a97217e9f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Charges filed in road rage killing on I-64 off ramp - FOX 2",
-      "detected_at": "2026-07-01T21:37:11+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-03-b9f1835a657d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Police situation shuts down Tempe freeway on ramp - AZ Family",
-      "detected_at": "2026-07-02T05:46:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "ramp-news_mention-2026-07-03-e52a029fd0ce",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Rocket Park reopens ramp - Herald-Citizen.com",
       "detected_at": "2026-07-02T14:36:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-03-cc84ebef837f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Alabama agencies ramp up water, road safety enforcement for Fourth of July weekend - WTVM.com",
-      "detected_at": "2026-07-01T22:01:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-03-257008b696d0",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Runner seriously injured Wednesday after being struck by SUV in Manhattan - WIBW",
-      "detected_at": "2026-07-01T14:28:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-03-cbb1eca5e452",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Traffic alert: Water main break closes I-690 West ramp to Geddes St. - Syracuse.com",
-      "detected_at": "2026-07-02T10:33:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-03-dd305f5c4a3a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "FIRST ALERT: Heat Advisory issued as temperatures ramp up - WIS News 10",
-      "detected_at": "2026-07-02T00:01:59+00:00",
       "importance_score": 4.0
     },
     {
@@ -930,27 +410,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "ramp-news_mention-2026-07-03-723bbd4e62bc",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Confusion grows over city and county ordinances restricting ICE, while arrests by federal agents ramp up - TMJ4 News",
-      "detected_at": "2026-07-01T23:14:51+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "ramp-news_mention-2026-07-03-95abbe02f2e0",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Massachusetts ramps up boating enforcement for Fourth of July weekend - WWLP",
       "detected_at": "2026-07-02T13:36:01+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-03-768024192145",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Emergency I-70 ramp and lane closure expected to be completed by Thursday morning - ABC17NEWS",
-      "detected_at": "2026-07-02T00:37:53+00:00",
       "importance_score": 4.0
     },
     {
@@ -1130,14 +594,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "ramp-news_mention-2026-07-04-c6339a8693d9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "I-380 Southbound to Wright Brothers Boulevard Ramp Closure - July 6 - Iowa Department of Transportation (.gov)",
-      "detected_at": "2026-07-02T12:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "ramp-news_mention-2026-07-04-1d475ecde8fb",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -1151,14 +607,6 @@
       "signal_subtype": "generic",
       "title": "State’s first mechanical runaway truck ramp opens in El Paso - KTSM 9 News",
       "detected_at": "2026-07-03T20:32:04+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "ramp-news_mention-2026-07-04-37206050c048",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Orange County considers dramatic boat dock, ramp permit fee increases to cover costs - Spectrum News 13",
-      "detected_at": "2026-07-02T09:57:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -42472,6 +41920,678 @@
       "title": "ACG: Ramp-up of a high-grade Turkish VMS mine drives strong cash flow and growth, with M&A in focus - TradingView",
       "detected_at": "2026-09-28T15:49:01+00:00",
       "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-leadership_change-2026-09-30-b8dd5d2fe5a8",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_cto",
+      "title": "Indian shares set for weak October as foreign investors ramp up shorts, brokerages say - Reuters",
+      "detected_at": "2026-09-30T03:43:00+00:00",
+      "importance_score": 9.5
+    },
+    {
+      "signal_id": "ramp-leadership_change-2026-09-30-a5014ac1387f",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_cto",
+      "title": "Rain chances ramp up as October begins. Here’s what to expect - WKMG",
+      "detected_at": "2026-09-30T10:33:00+00:00",
+      "importance_score": 9.5
+    },
+    {
+      "signal_id": "ramp-leadership_change-2026-09-30-d18b3b8aa078",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_cto",
+      "title": "Live chickens spill onto freeway on-ramp as poultry truck overturns - The Reflector",
+      "detected_at": "2026-09-29T23:54:54+00:00",
+      "importance_score": 9.5
+    },
+    {
+      "signal_id": "ramp-funding_event-2026-09-30-0212f57001ff",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Cigna To Ramp Up Investments In Specialty Pharmacy And Complex Care - Forbes",
+      "detected_at": "2026-09-30T11:00:00+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "ramp-funding_event-2026-09-30-4441cbcd5f89",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "MCM: Losses narrowed but revenue plunged; future hinges on Makhado ramp-up and new funding - TradingView",
+      "detected_at": "2026-09-30T08:24:10+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "ramp-funding_event-2026-09-30-f35a2664d6ff",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "CDE: Second-half 2026 growth is fueled by ramp-ups, exploration, and disciplined capital allocation - TradingView",
+      "detected_at": "2026-09-29T20:26:12+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "ramp-product_launch-2026-09-30-81c7c3263aae",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Body pulled from water at Mayport Boat Ramp, JSO investigating - News4JAX",
+      "detected_at": "2026-09-29T18:15:52+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "ramp-product_launch-2026-09-30-aed02780e5f9",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Singapore’s Temasek to Ramp Up Middle East Push, New Offices - Bloomberg.com",
+      "detected_at": "2026-09-30T09:10:24+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "ramp-product_launch-2026-09-30-dcb1703540dc",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Fall allergies ramp up in Mid-Michigan alongside respiratory virus season - WNEM",
+      "detected_at": "2026-09-29T22:00:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "ramp-hiring_spike-2026-09-30-0831fb941380",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "GLN: Transitioned to lithium producer with HMW Phase 1 completed, ramp-up in progress, and strong cash position - TradingView",
+      "detected_at": "2026-09-30T07:20:30+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "ramp-product_launch-2026-09-30-80002822c226",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "New Bemus Point boat launch ramp complete - Post Journal",
+      "detected_at": "2026-09-29T06:32:27+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "ramp-product_launch-2026-09-30-fc727b6f08e2",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "I-459 ramps at Galleria, US-31 shut nightly Sept. 28–Oct. 1 - Bham Now",
+      "detected_at": "2026-09-28T14:28:35+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "ramp-product_launch-2026-09-30-9eb9b9eecd1c",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Pamal To Acquire Galaxy Media - RAMP - Radio and Music Pros",
+      "detected_at": "2026-09-29T23:40:28+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-ab33ac8dce94",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Confusion may have caused delays in safety measures at Roque Bluffs boat ramp where 5 people died - WMTW",
+      "detected_at": "2026-09-29T22:47:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-55a5dc4cfca8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Scoop: Trump's hand-picked, taxpayer-funded ads about to ramp up - Axios",
+      "detected_at": "2026-09-30T04:56:03+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-25dc7b0e57e7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Feds using Whatcom County voting rolls to ramp up deportation efforts - Cascadia Daily News",
+      "detected_at": "2026-09-29T04:03:23+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-aa200a8423de",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Analysis | Trump says he has an off-ramp to his biggest political problem. He refuses to take it. - The Washington Post",
+      "detected_at": "2026-09-28T16:23:16+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-775cebc029b5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Dog days are over: Dog beach to close Dec. 1 after council rejects latest ramp contract - Evanston RoundTable",
+      "detected_at": "2026-09-29T05:21:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-f4f11c8b9951",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "3 teens dead, 1 critically injured after stolen vehicle crashes on I-395 exit ramp - WTOP News",
+      "detected_at": "2026-09-29T13:55:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-c912a795fb8b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "3 dead in stolen vehicle crash on I-395 exit ramp - WUSA9",
+      "detected_at": "2026-09-28T12:46:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-b0c76e7c8ca2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Ramp, lane closures for I-70 in downtown Indy - Fox 59",
+      "detected_at": "2026-09-29T10:52:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-75bf972f1b00",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "1 critically injured in stabbing on an I-71 ramp in north Columbus - 10TV",
+      "detected_at": "2026-09-29T10:18:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-760dee3a8f09",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stormy Weather Pattern: Houston sees downpours ramp up heading into the weekend - Click2Houston",
+      "detected_at": "2026-09-30T11:06:58+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-87cfa0aa739a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Pennyfield Lock Boat Ramp Closed to Trailers During Potomac Interceptor Rehabilitation Project - DC Water",
+      "detected_at": "2026-09-29T20:42:54+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-561ae9fb6863",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Cabral Gold's Mine-Building Team Now Faces the Ramp-Up Test After First Pour - Crux Investor",
+      "detected_at": "2026-09-30T09:51:15+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-5e1b67ceea61",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "NCBBA seeks volunteers for Oct. 3 beach cleanup at ORV Ramp 23 - Island Free Press",
+      "detected_at": "2026-09-30T11:47:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-d0745f1d1b86",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "B2Gold Targets Goose Ramp-Up, Fekola Growth and Higher Shareholder Returns - Yahoo Finance",
+      "detected_at": "2026-09-30T09:02:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-4e7ad10e8088",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "No More Kid Gloves: Eagles Have To Ramp Up Jonathan Greenard Immediately - Sports Illustrated",
+      "detected_at": "2026-09-30T10:00:05+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-73a9b36a86a8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "New detour route for on-ramp closure at westbound U.S. 20/U.S. 75 on-ramp to northbound I-29 now in place - Iowa Department of Transportation (.gov)",
+      "detected_at": "2026-09-29T12:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-336aa70a35ed",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Rain chances ramp up by the weekend after dry midweek - fox10tv.com",
+      "detected_at": "2026-09-30T00:35:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-5b8cfa783fd2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Audubon Society to ramp up birding programs for all ages - TribLIVE.com",
+      "detected_at": "2026-09-30T10:03:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-960e175d177f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Thurston Co. freeway ramp blocked after vehicle rolls onto its side, WSDOT says - The Olympian",
+      "detected_at": "2026-09-29T21:33:54+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-1b486efdda6d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "New safety measures fail to stop crashes at Westmoreland County exit ramp, homeowner says - CBS News",
+      "detected_at": "2026-09-29T21:19:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-15bcf7e35a7b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Thune to ramp up midterm campaign stops as Senate Republicans push to hold on to majority - CBS News",
+      "detected_at": "2026-09-29T18:57:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-37bdff874ddf",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "I-495 nightly ramp closures at Route 123 in Tysons tonight - Oct. 3 - Virginia Department of Transportation (.gov)",
+      "detected_at": "2026-09-28T18:33:27+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-fbaea6da5f98",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Weekend ramp closures ahead as Louisville’s I-264, Brownsboro Road project hits halfway point - WDRB",
+      "detected_at": "2026-09-29T20:44:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-14c81aaf302d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Sanders ramps up his midterm play with cash boost for candidates - Politico",
+      "detected_at": "2026-09-30T02:01:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-7085215d5062",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Lane restrictions, ramp closures for Level Up 31 work - Fox 59",
+      "detected_at": "2026-09-29T10:36:14+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-3e71dadc18d0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Building faith one ramp at a time - The Avery Journal-Times",
+      "detected_at": "2026-09-30T04:15:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-f9afa8a6d824",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Due to flooding caused by King Tides, the westbound MacArthur Causeway ramp to Biscayne Boulevard has been closed. - facebook.com",
+      "detected_at": "2026-09-29T16:27:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-32641f96d272",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "As Publishers Ramp Up AI Implementation, Employees Slow Down - Publishers Weekly",
+      "detected_at": "2026-09-29T15:34:43+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-0038a6bb2813",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "3 dead, 4 hurt when semi and stolen car collide in Minneapolis near I-35W off-ramp, police say - CBS News",
+      "detected_at": "2026-09-29T11:55:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-733ed3b3c676",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Iran security forces surge in Tehran as university student protests ramp up - ktsa.com",
+      "detected_at": "2026-09-29T19:13:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-97b1e3a2908f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "I-590 ramp closure in Brighton this week - Democrat and Chronicle",
+      "detected_at": "2026-09-29T17:22:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-baf0a88c2068",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Crash at I-55 on-ramp kills three Southeastern students - Unfiltered with Kiran",
+      "detected_at": "2026-09-29T22:33:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-427b9cb756fe",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Ramp from Monroe Avenue to I-590N in Brighton to close Wednesday - RochesterFirst",
+      "detected_at": "2026-09-29T15:52:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-606d51c941c5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Did We Really Need Ramp’s “Bill Pay The Musical”? - InsideHook",
+      "detected_at": "2026-09-28T20:40:43+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-e28458058f39",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Election campaigns ramp up - franklintimes.co.nz",
+      "detected_at": "2026-09-30T11:02:59+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-750f330bb998",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Teens killed in VA pursuit have yet to be identified | FOX 5 AT 6AM - FOX 5 DC",
+      "detected_at": "2026-09-29T16:30:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-7bbe0800582e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Amazon Sells a $66 Car Ramp Set That’ll Save You Hundreds in Oil Changes - Men's Journal",
+      "detected_at": "2026-09-29T20:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-b30a0e251629",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "White House lays groundwork to reshore production of 86 essential medicines - Fierce Pharma",
+      "detected_at": "2026-09-29T18:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-3db92a43eac0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Dry days give way to a wet weekend: Rain chances ramp up across the Chattahoochee Valley - Yahoo",
+      "detected_at": "2026-09-29T22:04:07+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-0f65e7406615",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Temporary Third Street ramp opens, U.S. 50 ramp closed as Brent Spence project construction continues - WLWT",
+      "detected_at": "2026-09-28T13:05:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-c82d0b6e8bba",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Olympia-area traffic blocked after boat separates from trailer, WSDOT says - The Olympian",
+      "detected_at": "2026-09-29T16:22:34+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-9aef14b31f07",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Overnight work to briefly close I-29 ramp in Fargo - The Bismarck Tribune",
+      "detected_at": "2026-09-29T23:25:12+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-3207f755c334",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Severe flooding stalls cars in downtown Miami, briefly closes WB I-395 off-ramp after day-long reprieve of king tides - WSVN",
+      "detected_at": "2026-09-29T17:43:58+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-29d1b15352c1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Chinese AI models surge in global popularity as performance benchmarks ramp up - CNBC",
+      "detected_at": "2026-09-29T08:12:47+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-e16a93d042ac",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Gibson County Lake implements changes to boat ramp due to low water levels - wbbjtv.com",
+      "detected_at": "2026-09-28T19:21:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-48bb714669de",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "County closes popular boat ramp on Siletz River, cutting major fishing access to 12 miles of the stream - Lincoln Chronicle",
+      "detected_at": "2026-09-28T23:09:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-d37ee088e32f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "SICO: Aggressive ramp-up of two Mexican mines targets 4M+ ounces in 2027 and strong future growth - TradingView",
+      "detected_at": "2026-09-29T23:58:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-a88d71b0a663",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "INDOT: Paving work will close I-465, I-69 ramps to Binford Boulevard this week - wthr.com",
+      "detected_at": "2026-09-29T01:21:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-49fd3ec42f8a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Low water levels lead to boat ramp damage at Gibson County Lake - nbc39.com",
+      "detected_at": "2026-09-29T17:29:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-10a43895cba4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Temperatures ramp up next week - fox5sandiego.com",
+      "detected_at": "2026-09-28T23:23:03+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-a3433c4b6597",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "VW, Gotion deepen ties with US$3.7b commitment to EV battery production - South China Morning Post",
+      "detected_at": "2026-09-28T14:28:42+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-195993fc279b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "We need to slow China down and ramp America's economy up, GOP lawmaker says - Fox Business",
+      "detected_at": "2026-09-29T01:24:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-8c798711a2a4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Motorcyclist thrown from highway ramp in deadly downtown crash - San Antonio Express-News",
+      "detected_at": "2026-09-28T14:17:26+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-3e319d45161a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Driver Blocked A Handicapped Parking Ramp With Her Van And Didn’t Think Twice About It - TwistedSifter",
+      "detected_at": "2026-09-28T12:38:43+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-678eb917c98d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "WRLG: Ramp-up and expansion in Red Lake target 150,000 oz/year via multi-asset growth and consolidation - TradingView",
+      "detected_at": "2026-09-29T20:20:46+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-6e51cba8af98",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Uranium Energy Surges 6% as Multi-Mine Ramp Delivers $93.13 Realized Uranium Price; Oklo and NuScale Power Tick Up - 24/7 Wall St.",
+      "detected_at": "2026-09-29T12:45:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-6df61e8188db",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Planning ramps up for 3 universal childcare pilots upstate - Spectrum News",
+      "detected_at": "2026-09-28T23:34:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-ab6004bcc29d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "US 101 ramp to northbound I-5 reopened after vehicle towing a boat crashes Near Olympia - MyNorthwest.com",
+      "detected_at": "2026-09-29T13:55:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-138cdacb3579",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Temporary I-75 ramp opens as another ramp closes; here's what you need to know - WKRC",
+      "detected_at": "2026-09-29T07:30:12+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-f17d93ab30ea",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Interstate ramp temporarily closed for water line repair - The Cumberland Times-News",
+      "detected_at": "2026-09-29T18:25:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-268ec2f851fa",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Dog beach will close Dec. 1 as city seeks ADA ramp - evanstonnow.com",
+      "detected_at": "2026-09-29T02:55:44+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-e24625c711c2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "I-91 Exit 12 off-ramps in Holyoke closed overnight for construction - wwlp.com",
+      "detected_at": "2026-09-29T15:16:57+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-1584a0928774",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Three Juveniles Die When Stolen Car Fleeing Trooper Crashes on I-395 Ramp - theroanokestar.com",
+      "detected_at": "2026-09-29T15:28:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-62d1a468879f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "NASA ramps up support to get Boeing's astronaut capsule flying after Butch and Suni fiasco - ABC News - Breaking News, Latest News and Videos",
+      "detected_at": "2026-09-29T00:20:32+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-89fa48e9ce41",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "CLEARED: Semi-truck rollover shuts down Route 201 onramp in Vestal - wbng.com",
+      "detected_at": "2026-09-29T15:01:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-677e3f6b96fd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "News Updates From Lotus Seattle - RAMP - Radio and Music Pros",
+      "detected_at": "2026-09-30T01:04:58+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-3d2e7eaace8e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "3 dead, 4 hurt when semi and car collide near Minneapolis off-ramp - CBS News",
+      "detected_at": "2026-09-29T11:49:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-86b1800cd243",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "I-65 Ramp Closures Planned in Williamson County for Resurfacing - Williamson Source",
+      "detected_at": "2026-09-28T22:00:18+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-765423fcbd70",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Millions of Australians face new housing solution: 'Could this be the future?' - Yahoo Finance Australia",
+      "detected_at": "2026-09-29T22:04:47+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-news_mention-2026-09-30-14dc9b3b46b3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Shop price inflation slows as retailers ramp up promotions to drive demand - Yahoo Finance UK",
+      "detected_at": "2026-09-28T23:01:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "ramp-github_signal-2026-09-30-f241cc2d67cb",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Brutal Winter Storms Hammer Gold Mine Ramp-Up, but a Key Q4 Target Is Still Standing - streetwisereports.com",
+      "detected_at": "2026-09-30T04:52:54+00:00",
+      "importance_score": 3.5
     }
   ],
   "brief_history": [],

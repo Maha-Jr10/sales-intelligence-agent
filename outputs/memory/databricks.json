@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "databricks",
   "created_at": "2026-06-03T17:25:17.618603+00:00",
-  "last_updated": "2026-09-29T12:25:15.655132+00:00",
+  "last_updated": "2026-09-30T12:10:18.745827+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,14 +18,6 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "databricks-news_mention-2026-07-02-a8c02980384e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "MathCo Expands Databricks Center of Excellence to Help Retail and CPG Enterprises Operationalize Agentic AI - GlobeNewswire",
-      "detected_at": "2026-07-01T13:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "databricks-leadership_change-2026-07-03-06defc3ea7a1",
       "signal_type": "leadership_change",
       "signal_subtype": "new_cto",
@@ -34,35 +26,11 @@
       "importance_score": 9.5
     },
     {
-      "signal_id": "databricks-product_launch-2026-07-03-c3540a677aef",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Databricks and Nvidia Launch Genesis Workbench for AI Scientists - HPCwire",
-      "detected_at": "2026-07-01T17:21:18+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "databricks-news_mention-2026-07-03-02798dee80eb",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Databricks unifies OLTP and OLAP, depending on what counts as a copy - The Register",
       "detected_at": "2026-07-03T08:30:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-07-03-984ddd39101c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Beyond dashboards: Introducing Decision Execution Platforms - Databricks",
-      "detected_at": "2026-07-01T18:48:20+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-07-03-8c4016421666",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "MathCo Expands Databricks Center of Excellence to Help Retail and CPG Enterprises Operationalize Agentic AI - Yahoo Finance",
-      "detected_at": "2026-07-01T13:00:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -7464,6 +7432,86 @@
       "title": "Abhishek Bishayee joins EY as Partner, Technology Consulting to lead Databricks capability - MediaNews4U",
       "detected_at": "2026-09-28T12:17:53+00:00",
       "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-leadership_change-2026-09-30-f664e03a7e91",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_cto",
+      "title": "Lakebase Search: State-of-the-art full text and vector search for Postgres - Databricks",
+      "detected_at": "2026-09-28T20:57:37+00:00",
+      "importance_score": 9.5
+    },
+    {
+      "signal_id": "databricks-leadership_change-2026-09-30-3309fb361ed8",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_cto",
+      "title": "Databricks Brings Full-Text and Vector Search to Lakebase Postgres - Unite.AI",
+      "detected_at": "2026-09-28T21:15:01+00:00",
+      "importance_score": 9.5
+    },
+    {
+      "signal_id": "databricks-leadership_change-2026-09-30-7d08a7d433fd",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Databricks CEO Says AI Cyberattacks Are Moving Faster Than Humans Can Respond - Benzinga",
+      "detected_at": "2026-09-28T19:14:38+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-09-30-c4e1e4054144",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Cal’s Memorial Stadium gets a new name: Meet Databricks Field - KRON4",
+      "detected_at": "2026-09-29T21:26:28+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-09-30-fd07739e1146",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Databricks Buys Row Zero for Planned Genie Spreadsheet - quasa.io",
+      "detected_at": "2026-09-30T07:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-09-30-398592c50521",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Databricks Lakebase vs. Snowflake Postgres: Which Managed Postgres Fits Your Workload? - atrium.ai",
+      "detected_at": "2026-09-29T19:41:32+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-09-30-9d152b79f655",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Databricks’ free trial gives you up to $400 in credits – here’s how to get it - zdnet.com",
+      "detected_at": "2026-09-28T15:43:49+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-09-30-3e853ab62e10",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Troutman Amin, LLP, Official Law Firm of UC Berkeley Golden Bears, Celebrates Databricks Field Naming Deal - The Manila Times",
+      "detected_at": "2026-09-29T10:08:54+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-09-30-e0ef16a7b830",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Blackbaud Introduces Lantern™, the First Domain-Specific Language Model Purpose-Built for Fundraising - TradingView",
+      "detected_at": "2026-09-29T14:15:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-content_signal-2026-09-30-1588be46d1e1",
+      "signal_type": "content_signal",
+      "signal_subtype": "generic",
+      "title": "Data visualization best practices: A practical guide to clear, honest, effective charts - Databricks",
+      "detected_at": "2026-09-29T20:26:20+00:00",
+      "importance_score": 2.5
     }
   ],
   "brief_history": [],

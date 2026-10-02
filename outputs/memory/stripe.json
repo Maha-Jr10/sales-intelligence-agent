@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "stripe",
   "created_at": "2026-06-03T17:25:17.440750+00:00",
-  "last_updated": "2026-10-01T12:44:11.992855+00:00",
+  "last_updated": "2026-10-02T12:08:22.291049+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,78 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "stripe-product_launch-2026-07-04-fdf09125c72e",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Stripe, Anthropic, and OpenAI Launch $500 Million Nonprofit to End Respiratory Infections - quasa.io",
-      "detected_at": "2026-07-04T00:13:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-04-b05c4b7b79b9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Stripe’s Bridge Wins MiCA and EMI Licenses for EU Stablecoin Operations - TipRanks",
-      "detected_at": "2026-07-04T03:00:52+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-04-aeef10279e89",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AI Agents Can Now Spend Real Money Autonomously: How Stripe Built the Payment Infrastructure - Tech Times",
-      "detected_at": "2026-07-04T00:02:18+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-04-6395fe382f72",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "‘I’m trying to build the next Stripe’: Irish start-ups accepted into top Silicon Valley programme - The Irish Times",
-      "detected_at": "2026-07-04T04:04:52+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-04-d46105f13fed",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Stripe-Backed Bridge Secures EU Licenses to Roll Out Euro Stablecoins Across 27 Nations - finance.biggo.com",
-      "detected_at": "2026-07-03T18:45:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-05-166aefd4509f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "‘I’m trying to build the next Stripe’: Two Irish start-ups accepted into top Silicon Valley programme - The Irish Times",
-      "detected_at": "2026-07-04T04:04:52+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-05-0a1e8e819455",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Photo of the Day: Candy Stripe Hibiscus - mauinews.com",
-      "detected_at": "2026-07-04T10:13:45+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-05-aeef10279e89",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AI Agents Can Now Spend Real Money Autonomously: How Stripe Built the Payment Infrastructure - Tech Times",
-      "detected_at": "2026-07-04T00:02:18+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-05-d46105f13fed",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Stripe-Backed Bridge Secures EU Licenses to Roll Out Euro Stablecoins Across 27 Nations - finance.biggo.com",
-      "detected_at": "2026-07-03T18:45:00+00:00",
-      "importance_score": 4.0
-    },
     {
       "signal_id": "stripe-news_mention-2026-07-06-b05d35b23962",
       "signal_type": "news_mention",
@@ -13511,6 +13439,438 @@
       "signal_subtype": "generic",
       "title": "The Ultimate Guide to Buying Verified Stripe Accounts for ... - timesdaily.com",
       "detected_at": "2026-09-30T16:18:54+00:00",
+      "importance_score": 2.5
+    },
+    {
+      "signal_id": "stripe-product_launch-2026-10-02-fb3f5dc13cd5",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Stripe, Visa-Backed Consortium Launches Dollar Stablecoin - Bloomberg.com",
+      "detected_at": "2026-09-30T16:26:21+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "stripe-product_launch-2026-10-02-2e643ac53680",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Stripe's Bridge Launches OUSD, the Stablecoin That Pays Its Distributors - finance.yahoo.com",
+      "detected_at": "2026-09-30T17:45:57+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "stripe-product_launch-2026-10-02-bb939514a8ec",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Stripe-Backed Bridge Launches OUSD Stablecoin for Businesses - tokenpost.com",
+      "detected_at": "2026-09-30T15:24:00+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "stripe-product_launch-2026-10-02-868bb1fc0666",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Open Standard Launches OUSD Across Four Chains, but Liquidity Is Unclear - Altcoin Buzz",
+      "detected_at": "2026-10-01T07:42:09+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "stripe-product_launch-2026-10-02-373e898d703f",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Stripe's $184 Billion Private-Market Valuation Puts a Price on the AI Agent Economy - Benzinga",
+      "detected_at": "2026-10-02T10:00:09+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "stripe-hiring_spike-2026-10-02-9aa884144731",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "Stripe Expands Hiring in Dublin Helping Offset AI Job Losses - Bloomberg.com",
+      "detected_at": "2026-10-01T23:01:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "stripe-hiring_spike-2026-10-02-b2050baf28d3",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "Stripe adds 200 jobs in Dublin as the city weathers AI-linked cuts - Briefs Finance",
+      "detected_at": "2026-10-01T23:40:34+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "stripe-product_launch-2026-10-02-e5b657f8af08",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Iowa announces sold out Kinnick and stripe out for Ohio State game - Buckeyes Wire",
+      "detected_at": "2026-10-01T17:13:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "stripe-hiring_spike-2026-10-02-77c84cd31ff8",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "200 new jobs for Stripe’s Dublin HQ - Silicon Republic",
+      "detected_at": "2026-10-02T06:02:30+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "stripe-hiring_spike-2026-10-02-22ff90358b8c",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "Stripe announces plans to create 200 jobs in Dublin - rte.ie",
+      "detected_at": "2026-10-01T23:01:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "stripe-product_launch-2026-10-02-da11e00ddfba",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Mastercard, Visa, Stripe-Backed Consortium Enters USD Stablecoin Market - Benzinga",
+      "detected_at": "2026-09-30T17:52:07+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "stripe-hiring_spike-2026-10-02-6fcff418e5ec",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "Stripe to add 200 jobs at Dublin headquarters in endorsement of ‘Irish talent’ - The Irish Times",
+      "detected_at": "2026-10-02T04:51:58+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "stripe-hiring_spike-2026-10-02-7182e89b119a",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "Stripe to add 200 jobs in Dublin after increasing headcount by 35% - businessplus.ie",
+      "detected_at": "2026-10-02T08:21:23+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-bba5ad2afddf",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Ohio State’s latest Glenville hidden gem just lost his black stripe - Cleveland.com",
+      "detected_at": "2026-09-30T23:54:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-29e2562f1035",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe to Buy Parafin to Scale Embedded Finance Across 18,000 Platforms - PYMNTS.com",
+      "detected_at": "2026-10-01T02:17:57+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-36ed0cad13c5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "6 Stripe & Stare underwear sets for autumn that are so comfy, you won't want to take them off – all 20% off - Good Housekeeping",
+      "detected_at": "2026-10-01T23:28:30+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-1e7dc77ad822",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Iowa Sells Out Kinnick Stadium for Stripe Out vs. Ohio State - Eleven Warriors",
+      "detected_at": "2026-09-30T21:45:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-a5a9b48c3329",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Parafin Financed 60,000 Small Businesses With $3 Billion. Now Stripe Is Buying It - inc.com",
+      "detected_at": "2026-09-30T20:04:18+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-9a16c3088d01",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Open USD bets Stripe’s $1.9 trillion network can break USDT and USDC’s grip - CryptoSlate",
+      "detected_at": "2026-10-01T16:00:14+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-753e4e5e575a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe agrees to acquire small-business lender Parafin - American Banker",
+      "detected_at": "2026-10-01T19:52:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-b5e983d96122",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe swallows Parafin - Payments Dive",
+      "detected_at": "2026-10-01T16:08:02+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-ed92fb665994",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe Agrees to Acquire Embedded Finance Platform Parafin - finovate.com",
+      "detected_at": "2026-10-02T04:48:52+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-cdb17c966a95",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Wilson Sonsini Advises Stripe on Acquisition of Parafin - Wilson Sonsini",
+      "detected_at": "2026-10-01T20:47:24+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-e822ed28621c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe to enhance business credit offering with Parafin acquisition - FinTech Futures",
+      "detected_at": "2026-10-02T09:19:47+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-484bbd6c1945",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe is buying SMB lender Parafin - Axios",
+      "detected_at": "2026-09-30T20:05:14+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-1f3a26283b2e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OUSD Stablecoin Goes Live With Visa, Mastercard And Stripe Behind It - Forbes",
+      "detected_at": "2026-09-30T21:23:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-4c8886fbfd00",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "2026 Black Stripe Tracker: Linebacker Cincere Johnson And Safety Deshawn Stewart Become Latest Buckeyes to Shed Black Stripe - Eleven Warriors",
+      "detected_at": "2026-10-01T00:07:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-df8fed1c8df0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Open Standard issues dollar stablecoin backed by Visa, Stripe, and Mastercard - finance.yahoo.com",
+      "detected_at": "2026-09-30T16:54:42+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-16ed54e1b70c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe to buy embedded finance platform Parafin - Finextra Research",
+      "detected_at": "2026-10-01T14:58:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-9ecf4c086ecc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe Agrees To Acquire Parafin, Embedded Financial Products Platform - TradingView",
+      "detected_at": "2026-09-30T16:42:10+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-4c5f7589d571",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "How Mastercard, Stripe, Visa and Coinbase’s New Stablecoin Is Changing the Industry’s Economics - PYMNTS.com",
+      "detected_at": "2026-09-30T20:27:40+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-bfba6cda443f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "New stablecoin Open USD goes live as Coinbase, Mastercard, Stripe and Visa commit $1 billion to liquidity - CoinDesk",
+      "detected_at": "2026-09-30T15:34:50+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-76a420cfa018",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Parafin Is Joining Stripe - Carroll County Mirror-Democrat",
+      "detected_at": "2026-09-30T21:58:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-ccf08feba8e6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Open USD Goes Live as Coinbase, Stripe, Visa, Mastercard Open Minting to Businesses - blockhead.co",
+      "detected_at": "2026-10-01T08:43:13+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-09442b6786bc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Visa and Stripe built their own stablecoin instead of just plugging into one - Startup Fortune",
+      "detected_at": "2026-09-30T15:24:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-29207446a8a5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenUSD joins the stablecoin race, goes live with Coinbase, Mastercard, and Stripe - AMBCrypto",
+      "detected_at": "2026-10-01T10:15:12+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-79a866665bc7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Black Stripe Alert! Five-star linebacker sheds black stripe - Yahoo Sports",
+      "detected_at": "2026-10-01T03:03:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-398de8b08c8c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Open USD Stablecoin Goes Live as Stripe, Visa and Mastercard Open It to Businesses - unchainedcrypto.com",
+      "detected_at": "2026-09-30T16:49:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-ffdad9cddaa1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe Partnered With Open Standard To Make Open USD (OUSD) Available To Businesses Running On Stripe - TradingView",
+      "detected_at": "2026-09-30T17:38:15+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-38ae53baafb3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe to acquire embedded credit firm Parafin - The Paypers",
+      "detected_at": "2026-10-01T12:11:35+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-10510b60ee54",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe linked Open USD stablecoin goes live with Visa, Mastercard as backers - ledgerinsights.com",
+      "detected_at": "2026-10-01T12:19:15+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-e66e177efa46",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe partners with Open Standard to make OUSD available to businesses - FX News Group",
+      "detected_at": "2026-09-30T16:13:35+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-d146defb67e8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe Agrees to Acquire Parafin to Expand Revenue Opportunities for Platforms and Help Small Businesses Grow - Financial IT",
+      "detected_at": "2026-10-01T12:25:19+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-55a71271ac5a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Visa and Mastercard Join $1 Billion Bet on Stripe-Backed OUSD - Bitcoin News",
+      "detected_at": "2026-09-30T23:05:53+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-2a3b19aed5b3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe agrees to acquire Parafin - FX News Group",
+      "detected_at": "2026-10-01T05:32:03+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-0bea32d72057",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Smart Strategies for Managing Your New Verified Stripe Account 2026-2027 - timesdaily.com",
+      "detected_at": "2026-10-01T17:38:26+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-75a4d8bde90e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Macy’s $24 3-Piece Striped Comforter Set Gives Bedrooms a ‘Relaxed, Lived-In, and Effortless’ Look - parade.com",
+      "detected_at": "2026-10-01T01:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-9c6ffa911961",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Top Ways to Buy Verified Stripe Accounts for High-Volume Payments in 2026 - timesdaily.com",
+      "detected_at": "2026-10-01T13:59:57+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-e8aa415665fd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OUSD Stablecoin Goes Live With $1 Billion in Liquidity From Coinbase, Mastercard, Stripe and Visa - genfinity.io",
+      "detected_at": "2026-10-01T14:30:35+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-282e9746a7ea",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "STABLECOINS | 22% of Freelancers in Sub-Saharan Africa Already Receive Stablecoin Payouts, Reveals Latest Stripe Survey - bitcoinke.io",
+      "detected_at": "2026-10-01T08:00:12+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-ffa527cc1456",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Chainlink Backs New OUSD Stablecoin as $1 Billion Liquidity Push Goes Live Across Four Blockchains - Bitcoin Foundation",
+      "detected_at": "2026-10-01T08:16:27+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-9194887ab679",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "DeShawn Stewart loses black stripe: What it means for Stewart, Buckeyes - on3.com",
+      "detected_at": "2026-10-01T13:13:33+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-02-6432709edd14",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Why I tried to kill token billing (and why we kept it)",
+      "detected_at": "2026-10-01T00:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-content_signal-2026-10-02-bc4deb8dd236",
+      "signal_type": "content_signal",
+      "signal_subtype": "generic",
+      "title": "2026 Guide to Buying Verified Stripe Accounts for High-Volume Payments - timesdaily.com",
+      "detected_at": "2026-10-01T13:58:04+00:00",
       "importance_score": 2.5
     }
   ],

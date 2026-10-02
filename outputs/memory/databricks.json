@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "databricks",
   "created_at": "2026-06-03T17:25:17.618603+00:00",
-  "last_updated": "2026-10-01T12:44:12.073956+00:00",
+  "last_updated": "2026-10-02T12:08:22.418028+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,14 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "databricks-news_mention-2026-07-04-c173495f0e87",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks AI’s GPU Reliability Push Exposes Hidden Risks for Large-Scale Training - The Futurum Group",
-      "detected_at": "2026-07-03T15:49:27+00:00",
-      "importance_score": 4.0
-    },
     {
       "signal_id": "databricks-product_launch-2026-07-07-fc25cd3f4da3",
       "signal_type": "product_launch",
@@ -7544,6 +7536,62 @@
       "title": "A practical guide to cost optimization with Lakebase Postgres - Databricks",
       "detected_at": "2026-09-30T17:58:21+00:00",
       "importance_score": 3.0
+    },
+    {
+      "signal_id": "databricks-leadership_change-2026-10-02-1cfef5b6c2c6",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_cto",
+      "title": "Analytics and Data Science News for the Week of October 2; Updates from Anaconda, Databricks, Power BI & More - Solutions Review",
+      "detected_at": "2026-10-02T02:23:34+00:00",
+      "importance_score": 9.5
+    },
+    {
+      "signal_id": "databricks-funding_event-2026-10-02-7804493842f6",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "SBVA Joins Databricks' $5 Billion Funding Round at $190 Billion Valuation - finance.biggo.com",
+      "detected_at": "2026-10-02T01:05:00+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "databricks-funding_event-2026-10-02-307ba9cb4f53",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "SBVA Joins $5 Billion Funding Round for Databricks - Seoul Economic Daily",
+      "detected_at": "2026-10-02T00:00:36+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-10-02-1f9bb807fa4c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Databricks Highlights Postgres-Based Architecture for Agentic AI Data Workloads - TipRanks",
+      "detected_at": "2026-10-02T00:09:28+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-10-02-7187150cb3a4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Introducing ai_decide: make fast decisions on your governed data - databricks.com",
+      "detected_at": "2026-09-30T21:02:32+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-10-02-9430efc59651",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "SBVA backs US AI firm Databricks at 258 trillion won valuation - CHOSUNBIZ - Chosunbiz",
+      "detected_at": "2026-10-02T01:17:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-content_signal-2026-10-02-959a2e49e723",
+      "signal_type": "content_signal",
+      "signal_subtype": "generic",
+      "title": "What Is Delta Lake in Databricks? A Plain-English Guide - Reply",
+      "detected_at": "2026-10-01T21:24:13+00:00",
+      "importance_score": 2.5
     }
   ],
   "brief_history": [],

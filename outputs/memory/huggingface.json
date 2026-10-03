@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-10-02T12:08:22.722964+00:00",
+  "last_updated": "2026-10-03T11:19:40.540978+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,60 +18,12 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "huggingface-product_launch-2026-07-05-2956be34f23c",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Mistral releases Leanstral 1.5 open model for proof engineering - TestingCatalog AI News",
-      "detected_at": "2026-07-04T12:53:43+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-05-c10948a55904",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Qualcomm (QCOM), Hugging Face Expand Partnership to Accelerate Open AI Development - Yahoo Finance",
-      "detected_at": "2026-07-04T12:54:50+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "huggingface-github_signal-2026-07-06-3ee3e41ace59",
       "signal_type": "github_signal",
       "signal_subtype": "new_public_repo",
       "title": "AI.cc Integrates 500+ Hugging Face Open-Source Models Via A Single Unified API - Open Source For You",
       "detected_at": "2026-07-06T08:58:02+00:00",
       "importance_score": 5.0
-    },
-    {
-      "signal_id": "huggingface-product_launch-2026-07-06-fbd641f0d3ef",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Researchers Release AgenticDataBench For LLM Data Agents - Let's Data Science",
-      "detected_at": "2026-07-05T05:44:33+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "huggingface-product_launch-2026-07-06-2956be34f23c",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Mistral releases Leanstral 1.5 open model for proof engineering - TestingCatalog AI News",
-      "detected_at": "2026-07-04T12:53:43+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-06-c10948a55904",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Qualcomm (QCOM), Hugging Face Expand Partnership to Accelerate Open AI Development - Yahoo Finance",
-      "detected_at": "2026-07-04T12:54:50+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-06-7f115f2e71b1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Microsoft Publishes HARC Safety Alignment Adapters - Let's Data Science",
-      "detected_at": "2026-07-05T10:51:07+00:00",
-      "importance_score": 4.0
     },
     {
       "signal_id": "huggingface-github_signal-2026-07-07-3ee3e41ace59",
@@ -18623,6 +18575,158 @@
       "signal_subtype": "blog_post_published",
       "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform - Cloudflare Blog",
       "detected_at": "2026-10-01T15:44:56+00:00",
+      "importance_score": 3.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-10-03-fdc72fd78711",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "California AG Subpoenas OpenAI in Investigation of 'Hugging Face' Hack - Law.com",
+      "detected_at": "2026-10-02T17:00:11+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-10-03-030aac21f293",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Rob Bonta subpoenas OpenAI over Hugging Face hack - Denver Gazette",
+      "detected_at": "2026-10-01T20:30:03+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-10-03-429b931c59f4",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI's rogue agent problem is bigger than Hugging Face, over 100 organizations and counting - techspot.com",
+      "detected_at": "2026-10-02T10:19:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-03-f3dfaa11d929",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI sued over AI agents’ alleged hack of Hugging Face - americanbazaaronline.com",
+      "detected_at": "2026-10-01T17:40:29+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-03-d0ad92ef53e1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI subpoenaed over Hugging Face attack - The Times",
+      "detected_at": "2026-10-01T23:01:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-03-e2e3792138d1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI-Hugging Face incident became a 'turning point' in AI safety discussion, says Walter Isaacson - cnbc.com",
+      "detected_at": "2026-10-01T12:29:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-03-f83d1f8d0e14",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI faces California DOJ subpoena amid growing cybersecurity incident notices - iapp.org",
+      "detected_at": "2026-10-02T16:38:30+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-03-10be83beeda3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "California AG Bonta issues subpoena to OpenAI over AI cybersecurity risks - Reuters",
+      "detected_at": "2026-10-01T21:49:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-03-cbcaa75691a1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "When AI goes beyond the path humans expect - Firstpost",
+      "detected_at": "2026-10-03T08:06:35+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-03-ad9206fda7c2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Senate Hearing Weighs Threats From Unrestrained AI Agents After OpenAI Hack - Tech Policy Press",
+      "detected_at": "2026-10-01T13:32:18+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-03-201739f12933",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Sued Over Rogue AI Cyberattack On Hugging Face In Test Of Liability For Autonomous Agents - Tekedia",
+      "detected_at": "2026-10-01T14:33:05+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-03-2a77a2da03d9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Rogue AI Agents Force OpenAI Into A 50-Petabyte Search Of Its Own Records - Yellow.com",
+      "detected_at": "2026-10-02T17:07:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-03-f4d5937da1dc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test - Decrypt News",
+      "detected_at": "2026-10-02T21:16:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-03-3064152f9796",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI alerts more than 100 groups about rogue AI agent activity - thehindu.com",
+      "detected_at": "2026-10-03T05:00:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-03-7ea1f1d966dc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The Sleuths Who Expose When AI Goes Rogue - WSJ",
+      "detected_at": "2026-10-02T09:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-03-93fd67806f76",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Notifies Over 100 Groups of Rogue AI Agent Incidents After Hugging Face Breach - finance.biggo.com",
+      "detected_at": "2026-10-01T22:55:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-03-0e0ca7737664",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI fires 3 researchers over suspected leak of sensitive information - Ynetnews",
+      "detected_at": "2026-10-02T08:21:28+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-03-bb6f3b043e04",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face Pulls GLM-5.3 Build Made for Cyberattacks - Pasquale Pillitteri",
+      "detected_at": "2026-10-02T19:00:22+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-content_signal-2026-10-03-4ce03fabb437",
+      "signal_type": "content_signal",
+      "signal_subtype": "blog_post_published",
+      "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform - blog.cloudflare.com",
+      "detected_at": "2026-10-01T22:50:24+00:00",
       "importance_score": 3.0
     }
   ],

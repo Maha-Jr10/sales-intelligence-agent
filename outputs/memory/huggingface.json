@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-10-03T11:19:40.540978+00:00",
+  "last_updated": "2026-10-04T11:59:22.066023+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,22 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "huggingface-github_signal-2026-07-06-3ee3e41ace59",
-      "signal_type": "github_signal",
-      "signal_subtype": "new_public_repo",
-      "title": "AI.cc Integrates 500+ Hugging Face Open-Source Models Via A Single Unified API - Open Source For You",
-      "detected_at": "2026-07-06T08:58:02+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "huggingface-github_signal-2026-07-07-3ee3e41ace59",
-      "signal_type": "github_signal",
-      "signal_subtype": "new_public_repo",
-      "title": "AI.cc Integrates 500+ Hugging Face Open-Source Models Via A Single Unified API - Open Source For You",
-      "detected_at": "2026-07-06T08:58:02+00:00",
-      "importance_score": 5.0
-    },
     {
       "signal_id": "huggingface-news_mention-2026-07-07-889f6a876c6b",
       "signal_type": "news_mention",
@@ -88,14 +72,6 @@
       "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community - NVIDIA Blog",
       "detected_at": "2026-07-07T06:05:58+00:00",
       "importance_score": 3.0
-    },
-    {
-      "signal_id": "huggingface-github_signal-2026-07-08-3ee3e41ace59",
-      "signal_type": "github_signal",
-      "signal_subtype": "new_public_repo",
-      "title": "AI.cc Integrates 500+ Hugging Face Open-Source Models Via A Single Unified API - Open Source For You",
-      "detected_at": "2026-07-06T08:58:02+00:00",
-      "importance_score": 5.0
     },
     {
       "signal_id": "huggingface-news_mention-2026-07-08-889f6a876c6b",
@@ -18728,6 +18704,62 @@
       "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform - blog.cloudflare.com",
       "detected_at": "2026-10-01T22:50:24+00:00",
       "importance_score": 3.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-10-04-2ba12eaf548b",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI investigating other potential AI hacking incidents after Hugging Face breach - foxnews.com",
+      "detected_at": "2026-10-02T23:20:43+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-10-04-fdc72fd78711",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "California AG Subpoenas OpenAI in Investigation of 'Hugging Face' Hack - Law.com",
+      "detected_at": "2026-10-02T17:00:11+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-04-bb6f3b043e04",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face Pulls GLM-5.3 Build Made for Cyberattacks - Pasquale Pillitteri",
+      "detected_at": "2026-10-02T19:00:22+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-04-a67bf5881d30",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Issues a Big Warning About Rogue AI - Newser",
+      "detected_at": "2026-10-02T15:09:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-04-c8cc9bea9b85",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Aleph Alpha puts Kolibri's full weights on Hugging Face under Apache 2.0 - Startup Fortune",
+      "detected_at": "2026-10-03T15:16:15+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-04-231a1b2ba79c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The Sleuths Who Expose When AI Goes Rogue - WSJ",
+      "detected_at": "2026-10-04T04:02:22+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-04-f83d1f8d0e14",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI faces California DOJ subpoena amid growing cybersecurity incident notices - IAPP",
+      "detected_at": "2026-10-02T16:38:30+00:00",
+      "importance_score": 4.0
     }
   ],
   "brief_history": [],

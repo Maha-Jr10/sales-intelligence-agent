@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "plaid",
   "created_at": "2026-06-03T17:25:17.739316+00:00",
-  "last_updated": "2026-10-05T14:01:05.435016+00:00",
+  "last_updated": "2026-10-06T13:01:35.989337+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,54 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "plaid-funding_event-2026-07-08-baa0e9e383fc",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "Welsh Government in talks over ALN funding ahead of budget vote | ITV News - ITVX",
-      "detected_at": "2026-07-07T16:23:46+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "plaid-news_mention-2026-07-08-b749dc1c5297",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "First minister told to ‘get on with’ mobile phone ban in schools - BBC",
-      "detected_at": "2026-07-07T17:12:33+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "plaid-news_mention-2026-07-08-874c6e28780e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Call for natural history GCSE in Wales after new qualification in England - South Wales Argus",
-      "detected_at": "2026-07-07T22:30:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "plaid-news_mention-2026-07-08-da823e0166f7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Striking health visitors tell Plaid to keep its promise to end the dispute - Morning Star | The People’s Daily",
-      "detected_at": "2026-07-07T17:40:38+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "plaid-news_mention-2026-07-08-4aa38ef7b6ee",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Labour ‘completely turned their backs on Wales’ communities’ – Plaid MS - Carmarthenshire News Online",
-      "detected_at": "2026-07-07T19:31:43+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "plaid-news_mention-2026-07-08-2d377f33b369",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Ex-Labour ministers dispute First Minister’s ‘overspend’ claims - Nation.Cymru",
-      "detected_at": "2026-07-07T17:21:22+00:00",
-      "importance_score": 4.0
-    },
     {
       "signal_id": "plaid-product_launch-2026-07-09-60906899b33d",
       "signal_type": "product_launch",
@@ -104,14 +56,6 @@
       "title": "Gallery of PLAID Offices / BROOK Inc. - 5 - ArchDaily",
       "detected_at": "2026-07-09T04:01:12+00:00",
       "importance_score": 5.0
-    },
-    {
-      "signal_id": "plaid-news_mention-2026-07-09-b749dc1c5297",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "First minister told to ‘get on with’ mobile phone ban in schools - BBC",
-      "detected_at": "2026-07-07T17:12:33+00:00",
-      "importance_score": 4.0
     },
     {
       "signal_id": "plaid-news_mention-2026-07-09-65c4d7dc10e1",
@@ -7383,6 +7327,198 @@
       "signal_subtype": "generic",
       "title": "Plaid Cymru's conference brings celebration and challenges | ITV News - ITVX",
       "detected_at": "2026-10-03T15:10:55+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-product_launch-2026-10-06-b9443c0fbe01",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Plaid launches LendScore 2 with AI credit-scoring models - qz.com",
+      "detected_at": "2026-10-06T11:51:39+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "plaid-hiring_spike-2026-10-06-eaa5f7497eec",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "Wales' Conservative leader urges Plaid Cymru to focus 'on the day job' over independence - ITVX",
+      "detected_at": "2026-10-06T09:29:23+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "plaid-hiring_spike-2026-10-06-dc934b1a387d",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "Welsh Conservative leader tells Plaid Cymru to 'get on with the day job' | ITV News - ITVX",
+      "detected_at": "2026-10-04T17:28:42+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-10-06-d3ec47cda381",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Plaid’s CFO on Her First Year, and Moving Past ‘Onesie-Twosie’ AI Experiments - WSJ",
+      "detected_at": "2026-10-06T11:39:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-10-06-9543a1c00370",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Fintech Plaid Bets on Credit Scores to Fuel Next Phase of Growth - WSJ",
+      "detected_at": "2026-10-06T10:15:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-10-06-504b0d49e80d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Taylor Swift Proves Why the Plaid Minidress Is a Fall Wardrobe Staple - ELLE",
+      "detected_at": "2026-10-04T18:25:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-10-06-721b451daae6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "It Girls, Editors, *and* Fashion People are Embracing This Cool, Versatile Staple for Fall 2026 - instyle.com",
+      "detected_at": "2026-10-04T21:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-10-06-1d59771a51d6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Taylor Swift is mad for plaid on ‘SNL’ with Dakota Johnson - Page Six",
+      "detected_at": "2026-10-04T17:35:31+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-10-06-555a6250fe81",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Full List (with Prices) of 2026 Plaid & Velvet Christmas Collection, Now Available Online - Walt Disney World News Today",
+      "detected_at": "2026-10-05T14:05:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-10-06-9dcfff608257",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "BEAMS x Lacoste Builds a New Sportswear Uniform in Anniversary Plaid - stupidDOPE",
+      "detected_at": "2026-10-06T11:14:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-10-06-0c0458d74484",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "christopher glass made plaid explode and skyscrapers tilt for boots riley’s latest film - designboom.com",
+      "detected_at": "2026-10-06T10:51:05+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-10-06-29fd60ed1518",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "From the Plaid Turnip to the Philippines - The Suffolk News-Herald",
+      "detected_at": "2026-10-06T02:14:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-10-06-ddfc50066347",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "J.Crew and Barbour Swap Outerwear Icons for Their Latest Collaboration - Hypebeast",
+      "detected_at": "2026-10-06T08:23:26+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-10-06-a0395d267d78",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Surprise! Taylor Swift Returns to 'SNL' in a Perfect-for-Fall Simkhai Dress That's Under-$600 - marieclaire.com",
+      "detected_at": "2026-10-04T14:32:46+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-10-06-deeeb6b0d147",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Taylor Swift Just Put Her Stamp of Approval on This Classic Autumn Pattern: Shop It Here - Sports Illustrated Lifestyle",
+      "detected_at": "2026-10-05T21:00:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-10-06-443452ea9e78",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Man Buys New 2026 Tesla Model X Plaid for $118,880, Drives 7,000 Miles, Sells for $146,000 - autoevolution",
+      "detected_at": "2026-10-05T14:01:33+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-10-06-9b92439c0acc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Queen Letizia Rewears a Favorite Plaid Suit While Departing for State Visit to Finland - AOL.com",
+      "detected_at": "2026-10-05T14:13:34+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-10-06-6e0ef11d5e73",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "This Tartan-Covered Barbour Hedgehog Toy From Nordstrom Is the Squeaky BFF Your Dog Deserves - pethelpful.com",
+      "detected_at": "2026-10-05T22:17:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-10-06-c1f0c39a1241",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "At Plaid Cymru’s annual party conference, it wasn’t always clear who the protesters were - The Irish Times",
+      "detected_at": "2026-10-05T22:10:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-10-06-aee146867b2f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Taylor Swift Is Pretty in Plaid for Surprise ‘SNL’ Cameo With Host Dakota Johnson - Us Weekly",
+      "detected_at": "2026-10-05T02:39:46+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-10-06-b0ef7ac94069",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "11 Best New Dollar Tree Christmas Tablescape Finds Under $5 - bestlifeonline.com",
+      "detected_at": "2026-10-05T11:52:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-10-06-42004883dc67",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Darren Millar accuses Plaid of putting independence before public services - Nation.Cymru",
+      "detected_at": "2026-10-04T13:44:59+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-10-06-186a55d21e79",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Taylor Swift SNL Cameo: One joke revealed the truth about her friendship With Dakota Johnson - The Economic Times",
+      "detected_at": "2026-10-05T15:53:21+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-10-06-ef1fbdc6e99b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Trade unions discuss how to work with a Plaid government - Morning Star | The People’s Daily",
+      "detected_at": "2026-10-05T08:36:32+00:00",
       "importance_score": 4.0
     }
   ],

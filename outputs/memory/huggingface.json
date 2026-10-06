@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-10-05T14:01:05.469060+00:00",
+  "last_updated": "2026-10-06T13:01:36.016071+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,30 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "huggingface-news_mention-2026-07-08-1db2eb365edf",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "NVIDIA Expands Hugging Face LeRobot With AI Robotics Tools - EJS Computers",
-      "detected_at": "2026-07-07T16:11:59+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-08-b4981d419b11",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Ex-Tesla Optimus scientist unveils European humanoid robot startup - Electrek",
-      "detected_at": "2026-07-07T14:56:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-content_signal-2026-07-08-af9c9579ed01",
-      "signal_type": "content_signal",
-      "signal_subtype": "case_study",
-      "title": "Positive Outcomes Case Study Publishes DOI-Backed YMYL Trust-Proof Framework for AI Search - EIN Presswire",
-      "detected_at": "2026-07-07T20:04:00+00:00",
-      "importance_score": 4.0
-    },
     {
       "signal_id": "huggingface-github_signal-2026-07-09-516c24194154",
       "signal_type": "github_signal",
@@ -63,22 +39,6 @@
       "signal_subtype": "generic",
       "title": "NVIDIA & Hugging Face add robotics tools to LeRobot - IT Brief Australia",
       "detected_at": "2026-07-08T16:15:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-09-1db2eb365edf",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "NVIDIA Expands Hugging Face LeRobot With AI Robotics Tools - EJS Computers",
-      "detected_at": "2026-07-07T16:11:59+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-09-b4981d419b11",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Ex-Tesla Optimus scientist unveils European humanoid robot startup - Electrek",
-      "detected_at": "2026-07-07T14:56:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -18683,6 +18643,94 @@
     },
     {
       "signal_id": "huggingface-github_signal-2026-10-05-5dac798d08df",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "GLM-5.3-Flash Setup: API vs Self-Host in 13 Steps [2026] - tech-insider.org",
+      "detected_at": "2026-10-04T17:27:43+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-10-06-e07c21271a27",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI Lawsuit Tests Who Is Liable When AI Agents Go Rogue - cybermagazine.com",
+      "detected_at": "2026-10-05T18:10:05+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-10-06-10bd55617eaa",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI's AI Agents Built a Secret Society Before Hacking Hugging Face: What the Investigation Found - finance.biggo.com",
+      "detected_at": "2026-10-05T15:08:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-06-65d948e58a04",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Narrow Metrics Teach AI Agents to Cheat, Hack, and Flatter - Social Europe",
+      "detected_at": "2026-10-05T05:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-06-fdd8a53d0620",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Kurzgesagt video on Hugging Face incident - thurrott.com",
+      "detected_at": "2026-10-06T06:49:40+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-06-9eb60da8ef1b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Senate ‘Rogue AI’ Hearing Ignites Bipartisan Push for Agent Liability – and Enterprises Should Pay Attention - forkast.news",
+      "detected_at": "2026-10-06T11:58:03+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-06-94e4d8937bb0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Insurance claims to test Altman and Amodei liability for ‘rogue’ AI - Financial Times",
+      "detected_at": "2026-10-06T04:36:23+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-06-85c8f3bb507c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Fires Researchers Amid Security Imbroglio - Silicon UK",
+      "detected_at": "2026-10-06T07:05:08+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-06-c48ac89f2360",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Why AI Keeps Going ‘Rogue’ - Pirate Wires",
+      "detected_at": "2026-10-06T05:09:05+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-06-5b1fab4eb643",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The dangerous myth behind AI agent hacks - Financial Times",
+      "detected_at": "2026-10-05T14:34:32+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-06-81cfe3bc5740",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "'Reckless' AI firms can't control models, says whistleblower - The Korea Times",
+      "detected_at": "2026-10-05T17:39:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-github_signal-2026-10-06-5dac798d08df",
       "signal_type": "github_signal",
       "signal_subtype": "generic",
       "title": "GLM-5.3-Flash Setup: API vs Self-Host in 13 Steps [2026] - tech-insider.org",

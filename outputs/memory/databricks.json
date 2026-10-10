@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "databricks",
   "created_at": "2026-06-03T17:25:17.618603+00:00",
-  "last_updated": "2026-10-09T12:50:38.367039+00:00",
+  "last_updated": "2026-10-10T12:08:38.255529+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,14 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "databricks-product_launch-2026-07-12-f3bd7528f606",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "DX Foundation Announces Official Databricks Partnership Expanding Enterprise AI and Lakehouse Data Capabilities - markets.businessinsider.com",
-      "detected_at": "2026-07-11T15:19:25+00:00",
-      "importance_score": 5.0
-    },
     {
       "signal_id": "databricks-news_mention-2026-07-13-5a49a6890e15",
       "signal_type": "news_mention",
@@ -7455,6 +7447,30 @@
       "signal_subtype": "generic",
       "title": "V2 Strategic Advisors Establishes Dedicated Databricks Practice to Transform Media & Ad Sales Revenue Operations - PR Newswire",
       "detected_at": "2026-10-07T14:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-10-10-c2b376779a3b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Load terabytes of data in minutes into Lakebase Postgres - Databricks",
+      "detected_at": "2026-10-08T22:48:08+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-10-10-ab3d27b7a231",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "News | Sale of Databricks hub in Silicon Valley highlights AI's growing influence on office values - CoStar",
+      "detected_at": "2026-10-08T20:25:48+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-10-10-129e56a49764",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Lakebase and Agentic SDLC: Branching Databases for Coding Agents - Databricks",
+      "detected_at": "2026-10-08T23:39:58+00:00",
       "importance_score": 4.0
     }
   ],

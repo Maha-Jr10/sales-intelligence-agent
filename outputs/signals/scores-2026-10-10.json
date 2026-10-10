@@ -1,0 +1,407 @@
+[
+  {
+    "company_id": "ramp",
+    "company_name": "Ramp",
+    "scored_at": "2026-10-10T12:08:12.986273+00:00",
+    "score": {
+      "total": 80.0,
+      "max": 100,
+      "tier": "A",
+      "breakdown": {
+        "icp_fit": 30.0,
+        "icp_detail": {
+          "employee_count": 5.0,
+          "funding_stage": 5.0,
+          "industry": 20.0,
+          "geography": 0.0
+        },
+        "signal_strength": 35.0,
+        "signal_detail": {
+          "leadership_change:new_cto": 19.0,
+          "funding_event:generic": 14.0,
+          "product_launch:generic": 35.0,
+          "hiring_spike:generic": 5.0,
+          "news_mention:generic": 216.0,
+          "github_signal:generic": 7.0
+        },
+        "timing_bonus": 15.0
+      }
+    },
+    "top_signals": [
+      "leadership_change:new_cto",
+      "leadership_change:new_cto",
+      "funding_event:generic",
+      "funding_event:generic",
+      "product_launch:generic"
+    ],
+    "urgency": "high",
+    "action_window_days": 30,
+    "signals_count": 68
+  },
+  {
+    "company_id": "plaid",
+    "company_name": "Plaid",
+    "scored_at": "2026-10-10T12:08:12.991426+00:00",
+    "score": {
+      "total": 80.0,
+      "max": 100,
+      "tier": "A",
+      "breakdown": {
+        "icp_fit": 30.0,
+        "icp_detail": {
+          "employee_count": 5.0,
+          "funding_stage": 5.0,
+          "industry": 20.0,
+          "geography": 0.0
+        },
+        "signal_strength": 35.0,
+        "signal_detail": {
+          "github_signal:sudden_star_spike": 42.0,
+          "product_launch:generic": 30.0,
+          "news_mention:generic": 36.0
+        },
+        "timing_bonus": 15.0
+      }
+    },
+    "top_signals": [
+      "github_signal:sudden_star_spike",
+      "github_signal:sudden_star_spike",
+      "github_signal:sudden_star_spike",
+      "github_signal:sudden_star_spike",
+      "github_signal:sudden_star_spike"
+    ],
+    "urgency": "high",
+    "action_window_days": 30,
+    "signals_count": 22
+  },
+  {
+    "company_id": "anthropic",
+    "company_name": "Anthropic",
+    "scored_at": "2026-10-10T12:08:12.990862+00:00",
+    "score": {
+      "total": 75.0,
+      "max": 100,
+      "tier": "A",
+      "breakdown": {
+        "icp_fit": 25.0,
+        "icp_detail": {
+          "employee_count": 5.0,
+          "funding_stage": 0.0,
+          "industry": 20.0,
+          "geography": 0.0
+        },
+        "signal_strength": 35.0,
+        "signal_detail": {
+          "product_launch:new_product": 30.0,
+          "leadership_change:generic": 12.0,
+          "github_signal:sudden_star_spike": 150.0,
+          "product_launch:generic": 55.0,
+          "funding_event:ipo": 15.0,
+          "hiring_spike:generic": 5.0,
+          "github_signal:new_public_repo": 15.0,
+          "news_mention:generic": 260.0,
+          "github_signal:generic": 17.5
+        },
+        "timing_bonus": 15.0
+      }
+    },
+    "top_signals": [
+      "product_launch:new_product",
+      "product_launch:new_product",
+      "product_launch:new_product",
+      "product_launch:new_product",
+      "leadership_change:generic"
+    ],
+    "urgency": "high",
+    "action_window_days": 30,
+    "signals_count": 119
+  },
+  {
+    "company_id": "stripe",
+    "company_name": "Stripe",
+    "scored_at": "2026-10-10T12:08:12.985069+00:00",
+    "score": {
+      "total": 70.0,
+      "max": 100,
+      "tier": "B",
+      "breakdown": {
+        "icp_fit": 20.0,
+        "icp_detail": {
+          "employee_count": 0.0,
+          "funding_stage": 0.0,
+          "industry": 20.0,
+          "geography": 0.0
+        },
+        "signal_strength": 35.0,
+        "signal_detail": {
+          "product_launch:new_product": 7.5,
+          "funding_event:generic": 7.0,
+          "github_signal:sudden_star_spike": 54.0,
+          "leadership_change:generic": 6.0,
+          "product_launch:generic": 5.0,
+          "news_mention:generic": 96.0,
+          "github_signal:generic": 3.5
+        },
+        "timing_bonus": 15.0
+      }
+    },
+    "top_signals": [
+      "product_launch:new_product",
+      "funding_event:generic",
+      "github_signal:sudden_star_spike",
+      "github_signal:sudden_star_spike",
+      "github_signal:sudden_star_spike"
+    ],
+    "urgency": "medium",
+    "action_window_days": 60,
+    "signals_count": 38
+  },
+  {
+    "company_id": "databricks",
+    "company_name": "Databricks",
+    "scored_at": "2026-10-10T12:08:12.986667+00:00",
+    "score": {
+      "total": 70.0,
+      "max": 100,
+      "tier": "B",
+      "breakdown": {
+        "icp_fit": 20.0,
+        "icp_detail": {
+          "employee_count": 0.0,
+          "funding_stage": 0.0,
+          "industry": 20.0,
+          "geography": 0.0
+        },
+        "signal_strength": 35.0,
+        "signal_detail": {
+          "leadership_change:new_cto": 9.5,
+          "github_signal:sudden_star_spike": 60.0,
+          "news_mention:generic": 64.0
+        },
+        "timing_bonus": 15.0
+      }
+    },
+    "top_signals": [
+      "leadership_change:new_cto",
+      "github_signal:sudden_star_spike",
+      "github_signal:sudden_star_spike",
+      "github_signal:sudden_star_spike",
+      "github_signal:sudden_star_spike"
+    ],
+    "urgency": "medium",
+    "action_window_days": 60,
+    "signals_count": 27
+  },
+  {
+    "company_id": "snowflake",
+    "company_name": "Snowflake",
+    "scored_at": "2026-10-10T12:08:12.987326+00:00",
+    "score": {
+      "total": 70.0,
+      "max": 100,
+      "tier": "B",
+      "breakdown": {
+        "icp_fit": 20.0,
+        "icp_detail": {
+          "employee_count": 0.0,
+          "funding_stage": 0.0,
+          "industry": 20.0,
+          "geography": 0.0
+        },
+        "signal_strength": 35.0,
+        "signal_detail": {
+          "leadership_change:new_cto": 19.0,
+          "github_signal:sudden_star_spike": 36.0,
+          "product_launch:generic": 15.0,
+          "news_mention:generic": 108.0
+        },
+        "timing_bonus": 15.0
+      }
+    },
+    "top_signals": [
+      "leadership_change:new_cto",
+      "leadership_change:new_cto",
+      "github_signal:sudden_star_spike",
+      "github_signal:sudden_star_spike",
+      "github_signal:sudden_star_spike"
+    ],
+    "urgency": "medium",
+    "action_window_days": 60,
+    "signals_count": 38
+  },
+  {
+    "company_id": "openai",
+    "company_name": "OpenAI",
+    "scored_at": "2026-10-10T12:08:12.989028+00:00",
+    "score": {
+      "total": 70.0,
+      "max": 100,
+      "tier": "B",
+      "breakdown": {
+        "icp_fit": 20.0,
+        "icp_detail": {
+          "employee_count": 0.0,
+          "funding_stage": 0.0,
+          "industry": 20.0,
+          "geography": 0.0
+        },
+        "signal_strength": 35.0,
+        "signal_detail": {
+          "hiring_spike:sales_leadership": 7.5,
+          "product_launch:new_product": 7.5,
+          "github_signal:sudden_star_spike": 174.0,
+          "leadership_change:generic": 6.0,
+          "product_launch:generic": 45.0,
+          "github_signal:new_public_repo": 15.0,
+          "funding_event:ipo": 5.0,
+          "news_mention:generic": 232.0,
+          "github_signal:generic": 31.5
+        },
+        "timing_bonus": 15.0
+      }
+    },
+    "top_signals": [
+      "hiring_spike:sales_leadership",
+      "product_launch:new_product",
+      "github_signal:sudden_star_spike",
+      "github_signal:sudden_star_spike",
+      "github_signal:sudden_star_spike"
+    ],
+    "urgency": "medium",
+    "action_window_days": 60,
+    "signals_count": 112
+  },
+  {
+    "company_id": "huggingface",
+    "company_name": "Hugging Face",
+    "scored_at": "2026-10-10T12:08:12.991943+00:00",
+    "score": {
+      "total": 69.0,
+      "max": 100,
+      "tier": "B",
+      "breakdown": {
+        "icp_fit": 19.0,
+        "icp_detail": {
+          "employee_count": 10.0,
+          "funding_stage": 5.0,
+          "industry": 4.0,
+          "geography": 0.0
+        },
+        "signal_strength": 35.0,
+        "signal_detail": {
+          "github_signal:sudden_star_spike": 66.0,
+          "github_signal:new_public_repo": 15.0,
+          "product_launch:generic": 15.0,
+          "news_mention:generic": 16.0
+        },
+        "timing_bonus": 15.0
+      }
+    },
+    "top_signals": [
+      "github_signal:sudden_star_spike",
+      "github_signal:sudden_star_spike",
+      "github_signal:sudden_star_spike",
+      "github_signal:sudden_star_spike",
+      "github_signal:sudden_star_spike"
+    ],
+    "urgency": "medium",
+    "action_window_days": 60,
+    "signals_count": 21
+  },
+  {
+    "company_id": "brex",
+    "company_name": "Brex",
+    "scored_at": "2026-10-10T12:08:12.991553+00:00",
+    "score": {
+      "total": 49.1,
+      "max": 100,
+      "tier": "C",
+      "breakdown": {
+        "icp_fit": 30.0,
+        "icp_detail": {
+          "employee_count": 5.0,
+          "funding_stage": 5.0,
+          "industry": 20.0,
+          "geography": 0.0
+        },
+        "signal_strength": 9.1,
+        "signal_detail": {
+          "github_signal:sudden_star_spike": 18.0,
+          "news_mention:generic": 8.0
+        },
+        "timing_bonus": 10.0
+      }
+    },
+    "top_signals": [
+      "github_signal:sudden_star_spike",
+      "github_signal:sudden_star_spike",
+      "github_signal:sudden_star_spike",
+      "news_mention:generic",
+      "news_mention:generic"
+    ],
+    "urgency": "low",
+    "action_window_days": 90,
+    "signals_count": 5
+  },
+  {
+    "company_id": "adyen",
+    "company_name": "Adyen",
+    "scored_at": "2026-10-10T12:08:12.991041+00:00",
+    "score": {
+      "total": 48.3,
+      "max": 100,
+      "tier": "C",
+      "breakdown": {
+        "icp_fit": 20.0,
+        "icp_detail": {
+          "employee_count": 0.0,
+          "funding_stage": 0.0,
+          "industry": 20.0,
+          "geography": 0.0
+        },
+        "signal_strength": 13.3,
+        "signal_detail": {
+          "github_signal:sudden_star_spike": 18.0,
+          "news_mention:generic": 20.0
+        },
+        "timing_bonus": 15.0
+      }
+    },
+    "top_signals": [
+      "github_signal:sudden_star_spike",
+      "github_signal:sudden_star_spike",
+      "github_signal:sudden_star_spike",
+      "news_mention:generic",
+      "news_mention:generic"
+    ],
+    "urgency": "low",
+    "action_window_days": 90,
+    "signals_count": 8
+  },
+  {
+    "company_id": "confluent",
+    "company_name": "Confluent",
+    "scored_at": "2026-10-10T12:08:12.991594+00:00",
+    "score": {
+      "total": 20.0,
+      "max": 100,
+      "tier": "D",
+      "breakdown": {
+        "icp_fit": 20.0,
+        "icp_detail": {
+          "employee_count": 0.0,
+          "funding_stage": 0.0,
+          "industry": 20.0,
+          "geography": 0.0
+        },
+        "signal_strength": 0.0,
+        "signal_detail": {},
+        "timing_bonus": 0.0
+      }
+    },
+    "top_signals": [],
+    "urgency": "monitor",
+    "action_window_days": 90,
+    "signals_count": 0
+  }
+]

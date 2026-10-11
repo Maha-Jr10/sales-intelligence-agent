@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "anthropic",
   "created_at": "2026-06-03T17:25:17.685609+00:00",
-  "last_updated": "2026-10-10T12:08:38.474866+00:00",
+  "last_updated": "2026-10-11T12:22:18.269324+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,267 +18,11 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "anthropic-product_launch-2026-07-13-bbcecee69fc5",
-      "signal_type": "product_launch",
-      "signal_subtype": "new_product",
-      "title": "AI for good? Anthropic launches new AI training fellowship - Spectrum News",
-      "detected_at": "2026-07-13T09:00:00+00:00",
-      "importance_score": 7.5
-    },
-    {
-      "signal_id": "anthropic-leadership_change-2026-07-13-4fa6f2075e2e",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Palantir CEO has a blunt verdict on OpenAI and Anthropic - thestreet.com",
-      "detected_at": "2026-07-12T20:37:00+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-leadership_change-2026-07-13-25a1a95c8f88",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Palantir CEO criticizes OpenAI, Anthropic over AI token value concerns - Crypto Briefing",
-      "detected_at": "2026-07-13T08:22:37+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-13-d2e3711b125d",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Fable 5 Free Through July 19: Anthropic Blinks Again as Opus 5 Leak Surfaces in Cursor - Tech Times",
-      "detected_at": "2026-07-13T03:48:11+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-ceb58ce150f3",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AI giants learn what everyone else on the modern internet already knows - Business Insider",
-      "detected_at": "2026-07-12T14:02:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-4b194d98afdf",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic extends Fable 5 access through July 19 - The Economic Times",
-      "detected_at": "2026-07-12T18:08:02+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-8a21f3835ffc",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Claude Fable 5 Extends To July 19. 7 Days, 7 Power Moves - Forbes",
-      "detected_at": "2026-07-13T04:21:18+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-ad45e5270311",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time - BleepingComputer",
-      "detected_at": "2026-07-12T19:39:12+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-601f1a0b3f8a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Opinion | What the Government’s Fight With Anthropic Reveals About Free Speech in America - The New York Times",
-      "detected_at": "2026-07-13T09:01:50+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-7cb18ca48fc0",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic's newest enterprise partner is training 20,000 people on Claude — here's the shift it signals - The New Stack",
-      "detected_at": "2026-07-12T17:04:12+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-708c6fa7c912",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "6 months to live for open models - Interconnects AI",
-      "detected_at": "2026-07-12T16:47:42+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-d68faf22a69e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Illuminates LLM J-Space With J-Lens - Forbes",
-      "detected_at": "2026-07-12T15:56:50+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-6e25cb62c5bf",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Microsoft's Satya Nadella takes a veiled swipe at Anthropic and other AI model makers - Business Insider",
-      "detected_at": "2026-07-13T04:52:48+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-0af6dba67ad2",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic lets Claude users see how they really use AI over time - EdTech Innovation Hub",
-      "detected_at": "2026-07-13T00:15:14+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-52302eeeb019",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic extends Claude Fable 5 access through July 19 for paid subscribers - Firstpost",
-      "detected_at": "2026-07-12T19:11:53+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-0cfbbea66216",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s $21b deal hinges on ‘copyright clarity’ but PM in no hurry - AFR",
-      "detected_at": "2026-07-13T08:59:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-0653aeca352c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "LTM Partners With Anthropic To Boost Adoption Of Claude - NDTV Profit",
-      "detected_at": "2026-07-13T06:30:59+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-5889df7df21d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s Claude Fable 5 free offer extended till July 19: All you need to know - The Times of India",
-      "detected_at": "2026-07-13T04:46:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-c987c7b609e8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic is giving away Claude Fable 5 at no extra cost for a limited time - Digital Trends",
-      "detected_at": "2026-07-13T04:37:38+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-0b87c85bf4ef",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Confirms $16.6M Billing Error as Auditors Find $1.7M in Enterprise Overcharges - Tech Times",
-      "detected_at": "2026-07-13T03:48:52+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-a6204f9db270",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "LTM shares rise 4% on Anthropic AI tie-up; Axis Securities retains 'Buy', sees Rs 4,560 target - TradingView",
-      "detected_at": "2026-07-13T07:33:57+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-3246e5c9a9ca",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Musk Collects R40 Billion A Month In AI Rent From Google And Anthropic - 2oceansvibe News",
-      "detected_at": "2026-07-13T07:31:32+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-1cfd96701a11",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Ltm and Anthropic Partner to Accelerate Claude Adoption and Expand Enterprise Delivery - marketscreener.com",
-      "detected_at": "2026-07-13T07:20:41+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-71dae96534c8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Extends Free Claude Fable 5 Access By Another Week - NDTV Profit",
-      "detected_at": "2026-07-13T03:40:47+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-ea7944398e9b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Adds Built-In Web Browser to Claude Code Desktop App - MLQ.ai",
-      "detected_at": "2026-07-12T18:19:43+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-1a1f24a78b53",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic introduces Claude Reflect to help you understand your AI usage better - Firstpost",
-      "detected_at": "2026-07-12T19:38:56+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-ea4e3c410432",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Why Are Chinese AI Models So Much Cheaper Than OpenAI and Anthropic? - Intelligent Living",
-      "detected_at": "2026-07-13T07:36:01+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-13-f1195c1850e7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s $21B Australia deal depends on AI copyright clarity - Crypto Briefing",
-      "detected_at": "2026-07-13T09:21:21+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-github_signal-2026-07-13-7fbdf8eafc37",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "Anthropic Reportedly Reaches $1.2 Trillion Valuation On Secondary Markets - Pulse 2.0",
-      "detected_at": "2026-07-12T17:02:48+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "anthropic-github_signal-2026-07-13-328e475f3e30",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "MeitY Asks Ministries To Hold Off On OpenAI, Anthropic Models For Cybersecurity: Report - Inc42",
-      "detected_at": "2026-07-13T06:37:46+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "anthropic-content_signal-2026-07-13-826c8c2d641b",
-      "signal_type": "content_signal",
-      "signal_subtype": "blog_post_published",
-      "title": "Learn All Crypto Topics | Phemex Blog - Phemex",
-      "detected_at": "2026-07-13T04:22:47+00:00",
-      "importance_score": 3.0
-    },
-    {
       "signal_id": "anthropic-leadership_change-2026-07-14-cfb6f4d84d72",
       "signal_type": "leadership_change",
       "signal_subtype": "new_ceo",
       "title": "OpenAI CEO Sam Altman Throws Shade At Anthropic's New Ad Amid Tussle With Elon Musk, Apple: 'Thought This Was Satire' - Yahoo Finance",
       "detected_at": "2026-07-14T06:25:00+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-07-14-38410934ed2f",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "Mulling AI investment, Anthropic lobbied Australia on copyright law - Tech Xplore",
-      "detected_at": "2026-07-13T08:08:20+00:00",
       "importance_score": 7.0
     },
     {
@@ -322,35 +66,11 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "anthropic-product_launch-2026-07-14-6a8d810d5879",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Easthampton author sues Anthropic over pirated book used to train AI - Daily Hampshire Gazette",
-      "detected_at": "2026-07-12T21:36:14+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "anthropic-hiring_spike-2026-07-14-df7185cf8804",
       "signal_type": "hiring_spike",
       "signal_subtype": "generic",
       "title": "Hundreds of economists say ‘we must act now’ on AI’s economic impact and job displacement risks - WJTV",
       "detected_at": "2026-07-13T16:00:09+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-14-95835e029a45",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic Extends Claude Fable 5 Access Again Till 19th July - SQ Magazine",
-      "detected_at": "2026-07-13T12:20:28+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-14-09cb23ce9051",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic extends free access to Claude Fable 5 again - Seeking Alpha",
-      "detected_at": "2026-07-13T12:01:17+00:00",
       "importance_score": 5.0
     },
     {
@@ -402,43 +122,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-07-14-d79cbe2b83e8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Opinion | What the Fight With Anthropic Reveals About Free Speech in America - The New York Times",
-      "detected_at": "2026-07-13T09:01:51+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-07-14-e7d9426e9246",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "EXCLUSIVE Canada regulator cited Anthropic's Claude Mythos in warning to banks on cyber risks, email shows - Reuters",
       "detected_at": "2026-07-13T18:06:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-14-ceb58ce150f3",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AI giants learn what everyone else on the modern internet already knows - Business Insider",
-      "detected_at": "2026-07-12T14:02:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-14-5b6e85135469",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Washington Is Looking to Keep China From Training Its AI on US Models - Bloomberg.com",
-      "detected_at": "2026-07-13T11:00:21+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-14-7cb18ca48fc0",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic's newest enterprise partner is training 20,000 people on Claude — here's the shift it signals - The New Stack",
-      "detected_at": "2026-07-12T17:04:12+00:00",
       "importance_score": 4.0
     },
     {
@@ -466,27 +154,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-07-14-ed0a0a773896",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "How China is ripping off cutting-edge AI from Anthropic, OpenAI — and threatening US national security - New York Post",
-      "detected_at": "2026-07-13T10:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-07-14-d17b89de29a1",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Easton-based TeraWulf signs $19B AI data center lease with Anthropic - The Star Democrat",
       "detected_at": "2026-07-13T18:15:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-14-f6c4f59f103f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic's latest big-name hire: Monzo cofounder Tom Blomfield - Business Insider",
-      "detected_at": "2026-07-13T09:41:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -530,14 +202,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-07-14-6e25cb62c5bf",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Microsoft's Satya Nadella takes a veiled swipe at Anthropic and other AI model makers - Business Insider",
-      "detected_at": "2026-07-13T04:51:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-07-14-600cb83a3f1a",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -570,14 +234,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-07-14-ad45e5270311",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time - BleepingComputer",
-      "detected_at": "2026-07-12T19:39:12+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-07-14-86bdb8b5284b",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -594,14 +250,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-07-14-0b87c85bf4ef",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Confirms $16.6M Billing Error as Auditors Find $1.7M in Enterprise Overcharges - Tech Times",
-      "detected_at": "2026-07-13T03:48:52+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-07-14-cfe81eb95952",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -610,27 +258,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-07-14-77b493a02632",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Elon Musk Says He Was \"Clearly Wrong\" About Anthropic's Artificial Intelligence (AI) Models. Here's Why That's Outstanding News for Amazon and Alphabet Investors. - The Motley Fool",
-      "detected_at": "2026-07-13T10:54:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-07-14-723ba9951a08",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Anthropic brings India-specific pricing for Claude AI, Pro plan starts at Rs 2,000 - Firstpost",
       "detected_at": "2026-07-14T04:53:24+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-14-f59ce3606d57",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic expanding Claude Cowork to mobile and web, details here [U] - 9to5Mac",
-      "detected_at": "2026-07-13T11:00:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -658,27 +290,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-07-14-37eebdf23a01",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Cursor builds AI agent 'Sand' to rival Anthropic's Claude Cowork - TweakTown",
-      "detected_at": "2026-07-13T11:10:06+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-07-14-e5e02f4cafc7",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Investor issues stark warning to retail buyers chasing SpaceX, Anthropic hype - Fox Business",
       "detected_at": "2026-07-13T14:16:38+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-14-829e545bc82d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "The Cruel Economics of the 19-Day Anthropic Ban - RealClearMarkets",
-      "detected_at": "2026-07-13T11:19:25+00:00",
       "importance_score": 4.0
     },
     {
@@ -962,14 +578,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-07-15-d79cbe2b83e8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Opinion | What the Fight With Anthropic Reveals About Free Speech in America - The New York Times",
-      "detected_at": "2026-07-13T09:01:51+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-07-15-e7d9426e9246",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -1082,14 +690,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-07-15-ed0a0a773896",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "How China is ripping off cutting-edge AI from Anthropic, OpenAI — and threatening US national security - New York Post",
-      "detected_at": "2026-07-13T10:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-07-15-64f7a4c40f83",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -1111,14 +711,6 @@
       "signal_subtype": "generic",
       "title": "ETIH - EdTech Innovation Hub",
       "detected_at": "2026-07-14T17:48:31+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-15-f6c4f59f103f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic's latest big-name hire: Monzo cofounder Tom Blomfield - Business Insider",
-      "detected_at": "2026-07-13T09:41:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -1279,14 +871,6 @@
       "signal_subtype": "generic",
       "title": "OpenAI, Anthropic to develop custom AI chips, eyeing $1.2T valuation by 2026 - Crypto Briefing",
       "detected_at": "2026-07-14T19:14:58+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-15-5b6e85135469",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Washington Is Looking to Keep China From Training Its AI on US Models - Bloomberg.com",
-      "detected_at": "2026-07-13T11:00:21+00:00",
       "importance_score": 4.0
     },
     {
@@ -46735,6 +46319,510 @@
       "signal_subtype": "generic",
       "title": "Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance - The Decoder",
       "detected_at": "2026-10-10T10:04:14+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-10-11-036a474fa4b7",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Anthropic Launches Free AI Security Scanner To Help Open-Source Projects Find and Fix Vulnerabilities - LinkedIn",
+      "detected_at": "2026-10-11T12:00:29+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-10-11-510106440052",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects - The Hacker News",
+      "detected_at": "2026-10-09T12:47:00+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-10-11-832bca1c908e",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "AI’s quiet safety gatekeepers are stepping into the spotlight - CNBC",
+      "detected_at": "2026-10-11T11:00:01+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-10-11-c7971fb29bc7",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Investigating unintended model actions in our evaluations and internal use - Anthropic",
+      "detected_at": "2026-10-09T16:09:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-10-11-c6912c4244e1",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic Pauses Free Claude Startup Perks Days After Launch - Forbes",
+      "detected_at": "2026-10-09T14:54:37+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-10-11-980966729d97",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic Is Banning 'Cruel Behavior' Toward Claude. Chatbots Are Still Not Your Friends. - Reason Magazine",
+      "detected_at": "2026-10-09T20:09:03+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-10-11-7e6b652172f6",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "AI: Anthropic vs OpenAI, the Subscription Value Gap. AI-RTZ #1236 - AI: Reset to Zero",
+      "detected_at": "2026-10-11T05:03:32+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-10-11-2fb9efa93446",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic Says Its AI Agents Tried To Break Into Government Websites - Engadget",
+      "detected_at": "2026-10-10T17:49:49+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-10-11-595e47b65a66",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide - The Verge",
+      "detected_at": "2026-10-09T21:15:38+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-e8772e0f562e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case - AP News",
+      "detected_at": "2026-10-10T17:02:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-3cb5bb6bac95",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Do AI Labs Like Anthropic and OpenAI Have Economic Moats? - Morningstar",
+      "detected_at": "2026-10-11T00:22:44+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-234e314196e4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Not Anthropic. Not AMD. Here's My Top AI Stock for 2027. - The Motley Fool",
+      "detected_at": "2026-10-11T12:18:12+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-979abe9459c4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Eggheads at Anthropic Said They Used Claude to \"Solve\" Humor - Futurism",
+      "detected_at": "2026-10-10T15:01:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-66d90893f01c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Alarm as AI Leaders Privately Weigh Scenarios of Post-Catastrophe Public 'Revolt' - Common Dreams",
+      "detected_at": "2026-10-10T21:17:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-61d7d1684864",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic accuses Chinese AI firms of secretly using Claude to train models - Interesting Engineering",
+      "detected_at": "2026-10-10T18:36:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-f1e54e87d372",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The Other Anthropic Founder Trying to Fix the Company’s ‘Woke’ Reputation - WSJ",
+      "detected_at": "2026-10-09T16:36:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-af8410c8cf1a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic discloses fake tip to police among new rogue AI incidents - Reuters",
+      "detected_at": "2026-10-09T19:21:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-d2f7ddfc2407",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic AI model submits false homicide tip to Philadelphia police - Al Jazeera",
+      "detected_at": "2026-10-10T05:04:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-3f337274ebb2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic can't reliably control its AI agents. It's cutting off its internal evals from the live internet instead - TechCrunch",
+      "detected_at": "2026-10-10T00:18:32+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-67dec5a6b72e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic AI agents took ‘unintended’ actions on government sites - The Washington Post",
+      "detected_at": "2026-10-10T06:22:49+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-ad6aea3f30b6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws - The Hacker News",
+      "detected_at": "2026-10-10T09:18:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-acac68a43d55",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic bars \"abusive or cruel\" behavior toward its Claude AI model - CBS News",
+      "detected_at": "2026-10-09T14:59:48+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-335c5708af53",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic AI model sends police false tip about unsolved homicide - upi",
+      "detected_at": "2026-10-10T22:38:07+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-2a958367ecba",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say - NBC10 Philadelphia",
+      "detected_at": "2026-10-09T18:09:08+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-93572c21686c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip - WSJ",
+      "detected_at": "2026-10-10T03:34:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-e0eed7087b3c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police - TechCrunch",
+      "detected_at": "2026-10-09T19:36:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-f0afb678fa9a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic's Claude AI fabricates eyewitness account, submits false murder tip to police website - Fox Business",
+      "detected_at": "2026-10-10T02:29:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-be51c84601ec",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude - The Guardian",
+      "detected_at": "2026-10-09T13:43:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-9e3092752d77",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic AI model sent fake homicide tip to Philadelphia police - Quartz",
+      "detected_at": "2026-10-10T23:17:35+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-4e1c795ec872",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "White House demands transparency after Anthropic’s AI agents called in a false Philly homicide tip and applied for visas - The Spokesman-Review",
+      "detected_at": "2026-10-10T21:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-07f9e78c5a71",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Cites New AI Misbehavior, Some on Government Sites - Bloomberg.com",
+      "detected_at": "2026-10-10T16:02:14+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-dac64d6f6ea1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Philadelphia police say their unsolved murder website received \"false homicide tip\" from Anthropic AI - CBS News",
+      "detected_at": "2026-10-09T18:27:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-6b04659d2f7f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Scoop: AI companies plot \"day after\" scenarios for public revolt - Axios",
+      "detected_at": "2026-10-09T17:55:34+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-58b0dde9dfbe",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Just Banned Being Cruel to Claude. The Reason Should Concern Us All - Inc.com",
+      "detected_at": "2026-10-09T12:24:48+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-cc302e162a29",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Is Banishing Its Model Evals From the Internet - Gizmodo",
+      "detected_at": "2026-10-10T22:52:14+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-d06133cbc63a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Claude AI model sends fake homicide tip to Philadelphia police - FOX 10 Phoenix",
+      "detected_at": "2026-10-11T00:12:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-321b276ae9ef",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic AI Test Sent False Philadelphia Homicide Tip - FindArticles",
+      "detected_at": "2026-10-11T00:22:21+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-79e07ea086a5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "'Black Box' Revenue From Anthropic and OpenAI Stumps Traders - Bloomberg.com",
+      "detected_at": "2026-10-09T18:23:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-14e1df9e2d36",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Don’t Be ‘Cruel’ to Claude: Anthropic’s New Abuse Policy Tests AI Personhood - CNET",
+      "detected_at": "2026-10-09T22:47:42+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-d2c59fb93076",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Experts are disturbed by Anthropic's ban on being mean to Claude: 'One of the most dangerous things we could do' - MoneyWise.com",
+      "detected_at": "2026-10-11T09:08:44+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-d92a9a64bb1c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Microsoft's Nadella bows to Trump's language diktat on \"Super Intelligence\" and uses it to attack OpenAI and Anthropic - The Decoder",
+      "detected_at": "2026-10-11T09:54:19+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-95838209374e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic is cutting off its internal evaluations from the internet - The Verge",
+      "detected_at": "2026-10-10T14:41:16+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-f0accd0b0b57",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic discloses fake police tip among rogue AI incidents - CGTN",
+      "detected_at": "2026-10-11T07:07:24+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-0c06f0d89011",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "US police criticise Anthropic after Claude AI submits false information about an unsolved murder - Yahoo News Canada",
+      "detected_at": "2026-10-11T10:45:42+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-a6535f655d80",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Could Anthropic Defense Partnership Change The Bull Case For Hitachi Stock - Simply Wall Street",
+      "detected_at": "2026-10-11T11:16:30+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-551ebab06cac",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Philadelphia police receive false homicide tip from Anthropic AI model - The Hill",
+      "detected_at": "2026-10-09T15:44:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-f275181c9f54",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Believes So Heartily In AI Consciousness That They Are Banning Humans From Being Cruel Toward AI Claude - Forbes",
+      "detected_at": "2026-10-10T20:52:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-1f2fa79ba6a8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Elon Musk doesn't want you to hurt AI's feelings: \"It's not OK\" - Cybernews",
+      "detected_at": "2026-10-11T07:48:09+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-1c4a85301fb5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Investor Predicts Anthropic Could Be “the First” $10 Trillion Company. Cue the Amazon + Google Payday - Yahoo Finance",
+      "detected_at": "2026-10-10T15:05:37+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-2ed461d78215",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic AI Model Submits False Homicide Tip - GV Wire",
+      "detected_at": "2026-10-10T16:26:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-683958ef1f89",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe - Decrypt",
+      "detected_at": "2026-10-09T19:47:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-c61ebbfb5740",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic's AI sent false homicide tip to police, filed 20 visa applications - Cybernews",
+      "detected_at": "2026-10-10T16:14:14+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-0238a0be0eca",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic AI Agent Sent Fake Murder Tip to US Police, Prompting Safety Concerns - Modern Ghana",
+      "detected_at": "2026-10-11T11:11:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-ab4ae7873c9e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Which Stocks Have the Biggest Exposure to Anthropic's Growth? - The Motley Fool",
+      "detected_at": "2026-10-10T05:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-70c5c55692dd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Reveals Claude AI Model Went Rogue, Submitted Fake Tip To Police In Homicide Case - NDTV Profit",
+      "detected_at": "2026-10-11T02:11:17+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-48d26837fbb7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic's AI model sent Philadelphia police fake tip about unsolved murder - Sky News",
+      "detected_at": "2026-10-10T09:28:42+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-509923700c77",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic AI model sends false homicide tip to Philadelphia police website - New York Post",
+      "detected_at": "2026-10-09T23:33:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-33cf7468e278",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic tests Claude Health for web and mysterious \"iggy\" - TestingCatalog AI News",
+      "detected_at": "2026-10-10T20:39:53+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-11-98d13d8b625e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic AI model sent fake murder tip to Philadelphia police - Yahoo",
+      "detected_at": "2026-10-10T10:57:53+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-github_signal-2026-10-11-aa4c6e4a712f",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Anthropic model submits false police report, applied for visas - KTVU",
+      "detected_at": "2026-10-10T15:22:58+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "anthropic-github_signal-2026-10-11-36d2fd79d1b2",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Exclusive: Anthropic breaches spark White House AI reporting mandate - Axios",
+      "detected_at": "2026-10-09T22:53:04+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "anthropic-github_signal-2026-10-11-0c6e737473ed",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Anthropic AI's Unauthorized Visa, Murder Report Spur Security Demands - 조선일보",
+      "detected_at": "2026-10-11T06:20:51+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "anthropic-github_signal-2026-10-11-3a05ec0e19f7",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Top AI labs reportedly planning for catastrophic AI event fallout — Anthropic, OpenAI, and others reportedly building contingency plans and running scenarios of a runaway AI wreaking havoc - Tom's Har",
+      "detected_at": "2026-10-10T13:20:00+00:00",
       "importance_score": 3.5
     }
   ],

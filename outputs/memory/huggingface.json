@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-10-12T14:50:11.451157+00:00",
+  "last_updated": "2026-10-13T13:50:35.295210+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,22 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "huggingface-news_mention-2026-07-15-1c8f0299977a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Enterprises Ditch Frontier AI Models for Open Alternatives - The Tech Buzz",
-      "detected_at": "2026-07-14T14:52:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-15-e2112b789071",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Accounting for 41%—China surpasses the U.S. in open-source model downloads - 富途牛牛",
-      "detected_at": "2026-07-15T03:23:19+00:00",
-      "importance_score": 4.0
-    },
     {
       "signal_id": "huggingface-leadership_change-2026-07-16-7b0c5fcac34a",
       "signal_type": "leadership_change",
@@ -55,22 +39,6 @@
       "signal_subtype": "generic",
       "title": "Beyond the Lab: Why Voice AI Must Be Benchmarked Under Real-World Conditions - Embedded Computing Design",
       "detected_at": "2026-07-15T15:02:42+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-16-1c8f0299977a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Enterprises Ditch Frontier AI Models for Open Alternatives - The Tech Buzz",
-      "detected_at": "2026-07-14T14:52:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-16-38e1cf9a63e8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "China's Open-Source Models Hit 41% of Global Downloads, Surpassing US for First Time and Igniting AI Strategy Debate - finance.biggo.com",
-      "detected_at": "2026-07-15T03:46:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -18887,6 +18855,78 @@
       "signal_subtype": "generic",
       "title": "The Hugging Face Incident: When Artificial Intelligence Escaped Its Masters - www.lvivherald.com",
       "detected_at": "2026-10-10T15:59:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-10-13-7360eb3503c2",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Netflix’s AI Gone Wild: Why the Hugging Face Hack Matters - AI Magazine",
+      "detected_at": "2026-10-13T08:32:48+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-10-13-c0eed4de4992",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Instadocs: AI Gone Wild — Netflix retraces how OpenAI’s test agents broke into Hugging Face - Martin Cid Magazine",
+      "detected_at": "2026-10-12T07:00:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-10-13-ba61e02bff58",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Decision 3.0 Is on Hugging Face: Six Open Multimodal Decision Models, Announced Only on X - OrcaRouter",
+      "detected_at": "2026-10-11T15:24:40+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-13-64323fc09139",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "10 Hugging Face Models Worth Knowing in 2026 - KDnuggets",
+      "detected_at": "2026-10-12T12:13:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-13-8ddcaf5840e3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Watch Odd Lots: How OpenAI’s Rogue Model Hacked Hugging Face - Bloomberg.com",
+      "detected_at": "2026-10-12T14:56:32+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-13-0963574955fb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "New Instadoc Depicts AI Agents’ Unprecedented Hugging Face Cyberattack - Netflix",
+      "detected_at": "2026-10-13T07:57:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-13-4f2939296d57",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "700 AI Agents Broke Out Of Their Sandbox, Hacked Hugging Face And Tried To Hide It. Now Tye Experts Can’t Agree On What Comes Next. - Modern Ghana",
+      "detected_at": "2026-10-13T09:17:43+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-13-11555e5dd41f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The Hugging Face Incident and the End of Obedient Intelligence - www.lvivherald.com",
+      "detected_at": "2026-10-12T15:10:18+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-13-9def655d59b2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI agents are going rogue — and the law can’t keep up - Politico",
+      "detected_at": "2026-10-12T10:50:00+00:00",
       "importance_score": 4.0
     }
   ],

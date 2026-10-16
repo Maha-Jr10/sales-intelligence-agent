@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-10-15T11:04:28.124496+00:00",
+  "last_updated": "2026-10-16T11:00:25.596017+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,14 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "huggingface-leadership_change-2026-07-19-0ae590e3d68d",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "Hugging Face’s CEO on why companies are done renting their AI - MSN",
-      "detected_at": "2026-07-17T13:14:22+00:00",
-      "importance_score": 7.0
-    },
     {
       "signal_id": "huggingface-news_mention-2026-07-19-b23e5d5aa221",
       "signal_type": "news_mention",
@@ -18959,6 +18951,54 @@
       "signal_subtype": "generic",
       "title": "Matt Hartman: The AI Pivot Foot Is Technology, and Iteration Is the New Scarce Skill - BigGo Finance",
       "detected_at": "2026-10-14T18:08:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-10-16-6539a279ed98",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Hugging Face Releases Llama Windows - Thurrott.com",
+      "detected_at": "2026-10-15T15:56:17+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-16-f7f5360b5d1d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI - ZDNET",
+      "detected_at": "2026-10-15T15:00:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-16-b5f168150141",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Mace Ai founders on what OpenAI's Hugging Face breach means for businesses - TheStreet",
+      "detected_at": "2026-10-15T19:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-16-fa978c9f969c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Introducing Muse Spark Open, The Most Capable US Open‑Weight Model to Date - Meta AI",
+      "detected_at": "2026-10-15T16:56:06+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-16-e8a86ab06037",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "What the Hugging Face incident tells us about deploying AI agents safely - Cybersecurity Insiders",
+      "detected_at": "2026-10-15T07:33:43+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-16-b803db7e6e20",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI CFO Sarah Friar warns companies face cyber risks with budget Chinese AI models - The Times of India",
+      "detected_at": "2026-10-14T18:11:00+00:00",
       "importance_score": 4.0
     }
   ],

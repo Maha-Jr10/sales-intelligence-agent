@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "stripe",
   "created_at": "2026-06-03T17:25:17.440750+00:00",
-  "last_updated": "2026-10-15T11:04:27.760326+00:00",
+  "last_updated": "2026-10-16T11:00:25.314048+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,126 +18,6 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "stripe-product_launch-2026-07-18-a3aa61a2b123",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Could Stripe’s US$53bn PayPal Bid Reshape Global Payments? - FinTech Magazine",
-      "detected_at": "2026-07-17T11:39:55+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "stripe-product_launch-2026-07-18-2be93e6d59df",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Stripe’s PayPal Bid Shows Private Fintech Has Become Powerful Enough To Buy Public Giants - Benzinga",
-      "detected_at": "2026-07-17T19:48:39+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "stripe-product_launch-2026-07-18-b7925ba46e2e",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Morgan Stanley Says Stripe-Advent Deal Is PYPL's 'Most Credible' Path To Value Realization After PayPal Board Reportedly Deems Offer Inadequate - Stocktwits",
-      "detected_at": "2026-07-17T14:35:55+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-18-bb2a5ccbd72d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Applications close in 48 hours — here's everything Australian founders need to know about Stripe x Startup Battlefield - TechCrunch",
-      "detected_at": "2026-07-17T23:08:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-18-2e2a1e335735",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Visa, Stripe join AI protocol project - Payments Dive",
-      "detected_at": "2026-07-17T15:04:23+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-18-af6e761dd681",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "PayPal balks at Stripe acquisition offer - American Banker",
-      "detected_at": "2026-07-17T19:17:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-18-6350e4765dde",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "The payment war shifts to distribution as stablecoins reach mainstream status - CoinDesk",
-      "detected_at": "2026-07-17T17:27:42+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-18-ba3bf4a9d5a7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Birth Of Royal Child | Pinnacle Stripe Knit Shirt | Shirts - Complex",
-      "detected_at": "2026-07-17T19:57:08+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-18-1e3e6b165cbe",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "PayPal board considers $53bn Stripe-Advent offer inadequate - Reuters - Finextra Research",
-      "detected_at": "2026-07-17T14:52:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-18-1dd36c80f94b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Chip stocks drag down Nasdaq for the week; PayPal soars on Stripe takeover bid (AMD:NASDAQ) - Seeking Alpha",
-      "detected_at": "2026-07-17T20:15:53+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-18-95543f5e951c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "PayPal's Board Thinks Stripe And Advent's $53 Billion Offer Is Too Low. The Rejection Could Set The Stage For A Bigger Bid. - International Business Times",
-      "detected_at": "2026-07-17T14:28:36+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-18-6a4383083763",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "PayPal Board Sees $53 Billion Stripe-Advent Bid as Too Low - TradingView",
-      "detected_at": "2026-07-17T17:15:50+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-github_signal-2026-07-18-1f733b36f21c",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "PayPal shares surge amid reported joint takeover bid from Stripe and Advent International - Crypto Briefing",
-      "detected_at": "2026-07-17T16:18:37+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "stripe-github_signal-2026-07-18-f3485c4e76a8",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "PayPal Shares Jump 17% After Reported R945 Billion Stripe Bid - 2oceansvibe News",
-      "detected_at": "2026-07-17T22:03:11+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "stripe-product_launch-2026-07-19-a3aa61a2b123",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Could Stripe’s US$53bn PayPal Bid Reshape Global Payments? - FinTech Magazine",
-      "detected_at": "2026-07-17T11:39:55+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "stripe-product_launch-2026-07-19-87dc5e92306d",
       "signal_type": "product_launch",
       "signal_subtype": "generic",
@@ -146,67 +26,11 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "stripe-news_mention-2026-07-19-bb2a5ccbd72d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Applications close in 48 hours — here's everything Australian founders need to know about Stripe x Startup Battlefield - TechCrunch",
-      "detected_at": "2026-07-17T23:08:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-19-1dd36c80f94b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Chip stocks drag down Nasdaq for the week; PayPal soars on Stripe takeover bid (AMD:NASDAQ) - Seeking Alpha",
-      "detected_at": "2026-07-17T20:15:53+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "stripe-news_mention-2026-07-19-3b606a568d45",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Why would Stripe want PayPal? - Investing.com",
       "detected_at": "2026-07-19T00:46:33+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-19-2e2a1e335735",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Visa, Stripe join AI protocol project - Payments Dive",
-      "detected_at": "2026-07-17T15:04:23+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-19-af6e761dd681",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "PayPal balks at Stripe acquisition offer - American Banker",
-      "detected_at": "2026-07-17T19:17:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-19-6350e4765dde",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "The payment war shifts to distribution as stablecoins reach mainstream status - CoinDesk",
-      "detected_at": "2026-07-17T17:27:42+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-19-1e3e6b165cbe",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "PayPal board considers $53bn Stripe-Advent offer inadequate - Reuters - Finextra Research",
-      "detected_at": "2026-07-17T14:52:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-07-19-95543f5e951c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "PayPal's Board Thinks Stripe And Advent's $53 Billion Offer Is Too Low. The Rejection Could Set The Stage For A Bigger Bid. - International Business Times",
-      "detected_at": "2026-07-17T14:28:36+00:00",
       "importance_score": 4.0
     },
     {
@@ -13691,6 +13515,206 @@
     },
     {
       "signal_id": "stripe-content_signal-2026-10-15-72a06f680c22",
+      "signal_type": "content_signal",
+      "signal_subtype": "generic",
+      "title": "Stripe Malaysia payment guide for businesses [2027] - WorldFirst",
+      "detected_at": "2026-10-14T11:27:59+00:00",
+      "importance_score": 2.5
+    },
+    {
+      "signal_id": "stripe-leadership_change-2026-10-16-200dfc0477bc",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_cto",
+      "title": "Fusion Betley Duvet Cover Set - Classic Wide Stripe Design, Polycotton, Double Size With 2 Pillowcases, Blue - umlconnector.com",
+      "detected_at": "2026-10-16T06:08:02+00:00",
+      "importance_score": 9.5
+    },
+    {
+      "signal_id": "stripe-product_launch-2026-10-16-731c348675e0",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "WVU Reveals Uniform Combo for Stripe the Stadium Game vs. Cincinnati - Sports Illustrated",
+      "detected_at": "2026-10-16T00:00:49+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "stripe-product_launch-2026-10-16-0b6e3007311c",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Dell Just Released Its New 32\" Alienware AW3226Q 4K Gaming Monitor With RGB Stripe Tandem OLED Tech - IGN",
+      "detected_at": "2026-10-15T21:44:28+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "stripe-product_launch-2026-10-16-858daa4856c3",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Plasma: Announces Stripe partnership to co-develop multi-currency cards - 15 Oct 2026 - TradingView",
+      "detected_at": "2026-10-15T14:00:46+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "stripe-product_launch-2026-10-16-b2470d97a4ac",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Stripe and Plasma launch stablecoin cards to cu... - Pluang",
+      "detected_at": "2026-10-15T18:06:14+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-16-1c56675a7288",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe Teams With Plasma To Unveil Multi-Currency Stablecoin Cards - PYMNTS.com",
+      "detected_at": "2026-10-15T20:14:30+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-16-d6a2606d2168",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Watch Stripe Bets on AI-Powered Commerce - Bloomberg",
+      "detected_at": "2026-10-14T14:28:05+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-16-bd589c30da54",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Plasma partners with Stripe to build multi-currency stablecoin cards - Crypto Briefing",
+      "detected_at": "2026-10-15T13:36:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-16-91a4fbdadc46",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe agentic commerce revs up - Payments Dive",
+      "detected_at": "2026-10-15T15:59:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-16-27bbb3e7e422",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Google, Stripe, Shopify Sign Carbon Removal Deal with CO2-Into-Rock Startup 44.01 - ESG Today",
+      "detected_at": "2026-10-16T10:15:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-16-f47521efecef",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Plasma (XPL) Surges 8.41% on Stripe, BVNK Partnerships - CoinMarketCap",
+      "detected_at": "2026-10-16T04:05:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-16-ac6a20bdb8d9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI can pay small-business bills with owner approval; Wix is rolling out the feature. - Stock Titan",
+      "detected_at": "2026-10-15T13:15:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-16-a8af5a95d068",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Wix’s Symphony by Wix Integrates Stripe’s Link Wallet to Let AI Agents Make Approved Payments for Small Businesses - Quiver Quantitative",
+      "detected_at": "2026-10-15T13:20:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-16-bcc5ef24b896",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe’s Privy and Ripple Bring Crypto Wallet Infrastructure to XRPL Blockchain - PYMNTS.com",
+      "detected_at": "2026-10-14T17:03:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-16-aad916bc6be3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Bucks' Kasparas Jakucionis: Excellent from charity stripe Wednesday - CBS Sports",
+      "detected_at": "2026-10-15T04:57:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-16-b4593f28c897",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stephon Castle News: Lives at charity stripe in preseason win - RotoWire",
+      "detected_at": "2026-10-15T03:32:53+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-16-f2154a9b5e49",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Wix.com Ltd. Integrates Stripe?s Link Wallet For Agents With Symphony By Wix, Enabling AI Agents To Make Payments On Behalf Of Small Businesses - www.marketscreener.com",
+      "detected_at": "2026-10-15T15:50:53+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-16-dd58d7eddd4b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Wix.com Lets Symphony AI Agents Pay Bills Through Stripe's Link Wallet - www.marketscreener.com",
+      "detected_at": "2026-10-15T14:32:54+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-16-7db55ce451af",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe to Develop Multi-Currency Stablecoin Card With Plasma - bloomingbit",
+      "detected_at": "2026-10-15T13:18:15+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-16-e1fa8052bfd8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "U.S. Payments Giant Stripe Climbs to No. 4 Among Corporate Bitcoin Holders, Adding 2,822 BTC in Two Days - BigGo Finance",
+      "detected_at": "2026-10-14T13:05:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-16-b5b3ca61faa1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe, Plasma to develop multi-currency stablecoin card - 디지털투데이",
+      "detected_at": "2026-10-15T21:19:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-10-16-3988a40733da",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Sync real-time Stripe data to Postgres with Stripe Data Pipeline",
+      "detected_at": "2026-10-15T00:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-github_signal-2026-10-16-b8181e17502b",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Reven Integrations Reports $6 Million in Revenue in Three Months Amid Stripe Reserve Challenges, Seeks Strategic Payment Processing Partner - CustomerThink",
+      "detected_at": "2026-10-16T05:51:54+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "stripe-github_signal-2026-10-16-bdd08d04ea53",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Stripe Raises $500 Million to Buy More Bitcoin as BlackRock Reports $205 Billion in Quarterly Inflows - Tekedia",
+      "detected_at": "2026-10-16T04:01:53+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "stripe-content_signal-2026-10-16-72a06f680c22",
       "signal_type": "content_signal",
       "signal_subtype": "generic",
       "title": "Stripe Malaysia payment guide for businesses [2027] - WorldFirst",

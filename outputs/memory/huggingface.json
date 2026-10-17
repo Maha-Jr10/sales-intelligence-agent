@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-10-16T11:00:25.596017+00:00",
+  "last_updated": "2026-10-17T10:21:52.763495+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,30 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "huggingface-news_mention-2026-07-19-b23e5d5aa221",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Open-Source AI Community Platforms - Trend Hunter",
-      "detected_at": "2026-07-18T16:16:24+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-19-ef2f79a0d64d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Hugging Face Confirms AI-Driven Breach: Attackers used Autonomous Agents, defenders countered with AI - CyberSecurityNews",
-      "detected_at": "2026-07-18T23:45:45+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-19-05dd80960729",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Nvidia and Hugging Face expand LeRobot with new open robotics AI tools - Robotics & Automation News",
-      "detected_at": "2026-07-18T11:08:25+00:00",
-      "importance_score": 4.0
-    },
     {
       "signal_id": "huggingface-product_launch-2026-07-20-04cf5c108ece",
       "signal_type": "product_launch",
@@ -106,35 +82,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "huggingface-news_mention-2026-07-20-b23e5d5aa221",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Open-Source AI Community Platforms - Trend Hunter",
-      "detected_at": "2026-07-18T16:16:24+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "huggingface-news_mention-2026-07-20-2cb12c06b6e9",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Hugging Face Security Breach Exposes Internal Datasets, Credentials, and Tokens - gbhackers.com",
       "detected_at": "2026-07-20T04:37:39+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-20-05dd80960729",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Nvidia and Hugging Face expand LeRobot with new open robotics AI tools - Robotics & Automation News",
-      "detected_at": "2026-07-18T11:08:25+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-20-9c9f4bcc6376",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Hugging Face Confirms AI-Driven Breach: Attackers used Autonomous Agents, defenders countered with AI - CyberSecurityNews",
-      "detected_at": "2026-07-19T00:40:34+00:00",
       "importance_score": 4.0
     },
     {
@@ -18999,6 +18951,86 @@
       "signal_subtype": "generic",
       "title": "OpenAI CFO Sarah Friar warns companies face cyber risks with budget Chinese AI models - The Times of India",
       "detected_at": "2026-10-14T18:11:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-10-17-b87a4f327b57",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "OpenAI–Hugging Face breach is a great example of how 'potent' these AI models are, says Cohere CEO - CNBC",
+      "detected_at": "2026-10-16T14:51:01+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-10-17-3dbb16fd6fbb",
+      "signal_type": "product_launch",
+      "signal_subtype": "major_release",
+      "title": "Reflection Releases Beam’s Open Weights Under Apache 2.0 License - Unite.AI",
+      "detected_at": "2026-10-16T14:22:08+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-10-17-6539a279ed98",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Hugging Face Releases Llama Windows - Thurrott.com",
+      "detected_at": "2026-10-15T15:56:17+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-10-17-51f722410896",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "NVIDIA Nemotron Labs Dory 1.0 4B: a quiet HF release - OrcaRouter",
+      "detected_at": "2026-10-17T01:00:09+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-17-7308d8d591fa",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Why a Chinese AI Lab’s Product Lead Thinks AGI is “Inevitable” - ChinaTalk | Jordan Schneider",
+      "detected_at": "2026-10-16T11:08:34+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-17-f7f5360b5d1d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI - ZDNET",
+      "detected_at": "2026-10-15T15:00:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-17-b5f168150141",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Mace Ai founders on what OpenAI's Hugging Face breach means for businesses - TheStreet",
+      "detected_at": "2026-10-15T19:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-17-fa978c9f969c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Introducing Muse Spark Open, The Most Capable US Open‑Weight Model to Date - Meta AI",
+      "detected_at": "2026-10-15T16:56:06+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-17-dbc444f4fb04",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Gives METR 6 Staff AI System Access [2026] - tech-insider.org",
+      "detected_at": "2026-10-16T10:59:21+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-17-e82d12a0441b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Reflection Beam Open Weights: Apache 2.0 License [2026] - shattered.io",
+      "detected_at": "2026-10-16T21:00:00+00:00",
       "importance_score": 4.0
     }
   ],

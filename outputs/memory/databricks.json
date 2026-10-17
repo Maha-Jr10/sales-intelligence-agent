@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "databricks",
   "created_at": "2026-06-03T17:25:17.618603+00:00",
-  "last_updated": "2026-10-16T11:00:25.406117+00:00",
+  "last_updated": "2026-10-17T10:21:52.519908+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,22 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "databricks-news_mention-2026-07-19-11249aaff4a5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks raises at $188B valuation to push its multi-AI governance and agent platform - MarketScale",
-      "detected_at": "2026-07-18T12:23:22+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-07-20-11249aaff4a5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks raises at $188B valuation to push its multi-AI governance and agent platform - MarketScale",
-      "detected_at": "2026-07-18T12:23:22+00:00",
-      "importance_score": 4.0
-    },
     {
       "signal_id": "databricks-news_mention-2026-07-20-c6aa9003c4e5",
       "signal_type": "news_mention",
@@ -6648,6 +6632,30 @@
       "title": "HighByte Announces Partnership with Databricks to Unlock Dormant Data - Business Wire",
       "detected_at": "2026-10-14T13:00:00+00:00",
       "importance_score": 5.0
+    },
+    {
+      "signal_id": "databricks-product_launch-2026-10-17-79584277677d",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Databricks launches Private Network Gateway to simplify serverless networking - SDxCentral",
+      "detected_at": "2026-10-16T18:42:52+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "databricks-product_launch-2026-10-17-ca964bbb92b8",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "HighByte Announces Partnership with Databricks to Unlock Dormant Data - HPCwire",
+      "detected_at": "2026-10-16T16:12:04+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-10-17-634d26dfef26",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "7 AI-First Alternatives to Alteryx, Scored for 2026 - FindArticles",
+      "detected_at": "2026-10-17T06:35:11+00:00",
+      "importance_score": 4.0
     }
   ],
   "brief_history": [],

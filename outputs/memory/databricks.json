@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "databricks",
   "created_at": "2026-06-03T17:25:17.618603+00:00",
-  "last_updated": "2026-10-17T10:21:52.519908+00:00",
+  "last_updated": "2026-10-18T10:37:54.000788+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,27 +18,11 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "databricks-news_mention-2026-07-20-c6aa9003c4e5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks raises 188 billion to accelerate ai platform development - Indiatimes",
-      "detected_at": "2026-07-19T22:29:53+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "databricks-leadership_change-2026-07-21-255fcb784bbd",
       "signal_type": "leadership_change",
       "signal_subtype": "new_cto",
       "title": "CGI earns Databricks specializations in public sector and GenAI - Investing.com",
       "detected_at": "2026-07-20T10:51:06+00:00",
-      "importance_score": 9.5
-    },
-    {
-      "signal_id": "databricks-leadership_change-2026-07-21-d9650f327e0c",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_cto",
-      "title": "CGI strengthens enterprise AI leadership with Databricks Brickbuilder Specializations in Public Sector and Generative AI - marketscreener.com",
-      "detected_at": "2026-07-20T10:30:12+00:00",
       "importance_score": 9.5
     },
     {
@@ -55,14 +39,6 @@
       "signal_subtype": "new_ceo",
       "title": "Databricks CEO Says GPU Shortages Are Fueling AI Fundraising - Benzinga",
       "detected_at": "2026-07-20T18:14:51+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "databricks-funding_event-2026-07-21-5ce9184d0b65",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "Databricks raises at $188B as Coatue’s enterprise AI governance play outpaces the models underneath it - Tech Funding News",
-      "detected_at": "2026-07-20T10:14:54+00:00",
       "importance_score": 7.0
     },
     {
@@ -122,14 +98,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "databricks-news_mention-2026-07-21-b49d5496f58c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "CGI's AI assistants cut utility document search time by 85% - Stock Titan",
-      "detected_at": "2026-07-20T10:30:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "databricks-news_mention-2026-07-21-d9e572f3736b",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -144,14 +112,6 @@
       "title": "Responsible AI: Governance, Principles, and Practical Guide - Databricks",
       "detected_at": "2026-07-20T18:12:41+00:00",
       "importance_score": 2.5
-    },
-    {
-      "signal_id": "databricks-leadership_change-2026-07-22-70a551c2597e",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_cto",
-      "title": "CGI strengthens enterprise AI leadership with Databricks Brickbuilder Specializations in Public Sector and Generative AI - Yahoo Finance",
-      "detected_at": "2026-07-20T10:30:00+00:00",
-      "importance_score": 9.5
     },
     {
       "signal_id": "databricks-leadership_change-2026-07-22-255fcb784bbd",
@@ -343,14 +303,6 @@
       "signal_subtype": "generic",
       "title": "Cincinnati Reds Select Flexor to Hit a Home Run by Turning Unstructured Data Into AI Context on Databricks - Business Wire",
       "detected_at": "2026-07-21T13:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-07-22-b49d5496f58c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "CGI's AI assistants cut utility document search time by 85% - Stock Titan",
-      "detected_at": "2026-07-20T10:30:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -6656,6 +6608,22 @@
       "title": "7 AI-First Alternatives to Alteryx, Scored for 2026 - FindArticles",
       "detected_at": "2026-10-17T06:35:11+00:00",
       "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-product_launch-2026-10-18-79584277677d",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Databricks launches Private Network Gateway to simplify serverless networking - SDxCentral",
+      "detected_at": "2026-10-16T18:42:52+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "databricks-product_launch-2026-10-18-ca964bbb92b8",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "HighByte Announces Partnership with Databricks to Unlock Dormant Data - HPCwire",
+      "detected_at": "2026-10-16T16:12:04+00:00",
+      "importance_score": 5.0
     }
   ],
   "brief_history": [],

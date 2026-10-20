@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "brex",
   "created_at": "2026-06-03T17:25:17.744286+00:00",
-  "last_updated": "2026-10-19T12:34:38.151978+00:00",
+  "last_updated": "2026-10-20T11:09:16.204226+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,22 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "brex-funding_event-2026-07-22-1b13d2143027",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "Capital One highlights Discover, Brex integration - American Banker",
-      "detected_at": "2026-07-22T00:34:00+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "brex-funding_event-2026-07-23-1b13d2143027",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "Capital One highlights Discover, Brex integration - American Banker",
-      "detected_at": "2026-07-22T00:34:00+00:00",
-      "importance_score": 7.0
-    },
     {
       "signal_id": "brex-news_mention-2026-07-23-1a2c32d8bf6a",
       "signal_type": "news_mention",
@@ -571,6 +555,38 @@
     },
     {
       "signal_id": "brex-news_mention-2026-10-19-6cd13e3d62de",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Utsunomiya Brex v Gunma Crane Thunders Odds - FanDuel Sportsbook",
+      "detected_at": "2026-10-18T13:36:09+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "brex-news_mention-2026-10-20-df465adfac99",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "DualEntry and Brex Bring Spend and Accounting Into One Workflow - Business Wire",
+      "detected_at": "2026-10-20T11:04:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "brex-news_mention-2026-10-20-386fae0d9d6d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Utsunomiya Brex v Nagoya Diamond Dolphins Odds - FanDuel Sportsbook",
+      "detected_at": "2026-10-20T10:58:41+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "brex-news_mention-2026-10-20-da88f33d56c6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Mercury vs Brex: Three Users Reverse the Paid-Plan Price Edge - Quasa.io",
+      "detected_at": "2026-10-18T14:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "brex-news_mention-2026-10-20-6cd13e3d62de",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Utsunomiya Brex v Gunma Crane Thunders Odds - FanDuel Sportsbook",

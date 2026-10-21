@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "anthropic",
   "created_at": "2026-06-03T17:25:17.685609+00:00",
-  "last_updated": "2026-10-20T11:09:16.130190+00:00",
+  "last_updated": "2026-10-21T11:25:48.750057+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,486 +18,6 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "anthropic-leadership_change-2026-07-23-f08482933d7e",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_cto",
-      "title": "The Anthropic Economic Index connector - Anthropic",
-      "detected_at": "2026-07-22T17:13:51+00:00",
-      "importance_score": 9.5
-    },
-    {
-      "signal_id": "anthropic-leadership_change-2026-07-23-d997448fba68",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_cto",
-      "title": "AMD rises 2% on blockbuster Anthropic AI deal as broader tech rebound lifts sector - Investing.com",
-      "detected_at": "2026-07-22T17:01:34+00:00",
-      "importance_score": 9.5
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-07-23-84ee769241df",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "Exclusive | AMD and Anthropic Sign Major Chips-and-Investment Deal - WSJ",
-      "detected_at": "2026-07-22T12:30:00+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-07-23-213918fa9fad",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "AMD, Anthropic sign chip and investment deal worth billions (AMD:NASDAQ) - Seeking Alpha",
-      "detected_at": "2026-07-22T14:26:00+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-07-23-6e6fe2ac158c",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model) - TechCrunch",
-      "detected_at": "2026-07-22T18:02:57+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-hiring_spike-2026-07-23-a2fc77989ca5",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "generic",
-      "title": "How Anthropic is sending a signal to the market by hiring Teresa Carlson - Washington Technology",
-      "detected_at": "2026-07-22T20:48:45+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-23-129ffaec2adb",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic to buy up to 2 gigawatts of GPU capacity from AMD - SiliconANGLE",
-      "detected_at": "2026-07-22T20:07:31+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-23-1af5a1ca263a",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "AI: Anthropic & OpenAI now against China open source AI. AI-RTZ #1156 - AI: Reset to Zero",
-      "detected_at": "2026-07-23T05:02:25+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-23-c79c208de246",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic to deploy 2 gigawatts of AMD Instinct MI450 chips - Evertiq",
-      "detected_at": "2026-07-23T05:02:41+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-23-18e733dfa7ec",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "AMD Invests $5B in Anthropic for Gigawatt AI Compute - Briefs Finance",
-      "detected_at": "2026-07-23T02:30:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-23-92b0e5c8e11d",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "AMD and Anthropic Announce Strategic Partnership to Deploy Up to 2 Gigawatts of AMD Instinct MI450 Series GPUs - GlobeNewswire",
-      "detected_at": "2026-07-22T13:00:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-23-b1c333bdd7bc",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win - the-decoder.com",
-      "detected_at": "2026-07-22T19:38:38+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-23-1c6d327f7828",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "AMD commits up to $5 billion to Anthropic in 2-gigawatt AI infrastructure deal - Blockspace Media",
-      "detected_at": "2026-07-22T14:46:22+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-1e5625e1ea12",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says - BBC",
-      "detected_at": "2026-07-23T01:52:10+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-8f3761c84ac7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic and SpaceX just handed Google the biggest profit quarter in company history—on paper - Fortune",
-      "detected_at": "2026-07-22T23:24:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-6d11db53724c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "A Startling Glimpse at AI’s Ruthless Efficiency - The Atlantic",
-      "detected_at": "2026-07-22T19:29:26+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-d21041175a6e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Harry Potter publisher to receive millions in Anthropic copyright settlement - The Guardian",
-      "detected_at": "2026-07-22T18:33:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-f8b5bf01a6b3",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Details How It Contains Claude Across Web, Code, and Cowork - infoq.com",
-      "detected_at": "2026-07-22T12:26:15+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-37e540a0355c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Investor in Talks to Fund New Lab Run By Two Stanford AI Professors - The Information",
-      "detected_at": "2026-07-22T15:56:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-7c2defe1ffff",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Trump tech official accuses China’s Moonshot AI of stealing from Anthropic - South China Morning Post",
-      "detected_at": "2026-07-22T19:32:25+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-6eb08150dec4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "White House official accuses Chinese startup of distilling Anthropic model, accessing banned Nvidia chips - The Hill",
-      "detected_at": "2026-07-22T22:50:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-35391b196571",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Judge approves record $1.5 billion AI copyright settlement involving Anthropic - Jurist.org",
-      "detected_at": "2026-07-22T22:11:40+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-d2683e25b958",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic to donate $20 million to US political group that supports AI regulation - Reuters",
-      "detected_at": "2026-07-22T19:16:56+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-228c2f9dfa2a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "A research agenda for the Economic Futures Research Fund - Anthropic",
-      "detected_at": "2026-07-22T17:13:46+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-e606423113af",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Judge Approves a $1.5B Anthropic Settlement Over Books Used to Train Claude - Broadband Breakfast",
-      "detected_at": "2026-07-23T00:24:21+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-7125158f84f1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AMD (AMD) Lands $5 Billion Anthropic Partnership For AI Chips - Yahoo Finance",
-      "detected_at": "2026-07-22T22:10:44+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-8649daad5ece",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Why are OpenAI and Anthropic cheering on regulation in Australia? The answer has global reach - The Guardian",
-      "detected_at": "2026-07-23T00:23:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-0baf4e20929f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "US says China’s Moonshot stole from Anthropic - Semafor",
-      "detected_at": "2026-07-22T22:57:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-5edcebf3207d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "US accuses China's Moonshot of stealing from Anthropic's Fable for latest AI model - Yahoo",
-      "detected_at": "2026-07-22T14:36:59+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-9b446d32bf1e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "White House accuses Chinese company of distilling Anthropic’s Fable - CyberScoop",
-      "detected_at": "2026-07-22T16:47:46+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-6c56589bbd17",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Copyright Case Reaches Settlement - newsbreaks.infotoday.com",
-      "detected_at": "2026-07-23T04:00:54+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-71ae4e191a2e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic literary piracy settlement finalized - KALW",
-      "detected_at": "2026-07-22T22:57:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-4fdbbca50846",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "White House accuses China’s Moonshot of stealing Anthropic AI - Hong Kong Free Press HKFP",
-      "detected_at": "2026-07-23T04:22:41+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-1a5cf3ee19da",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Gives $40 Million to AI Regulation Group - PYMNTS.com",
-      "detected_at": "2026-07-22T14:42:33+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-375eacd56e6d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Senior White House official claims China’s K3 model stolen from Anthropic - The Register",
-      "detected_at": "2026-07-23T05:05:43+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-d8b864e64fc5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "U.S. accuses China's Moonshot AI of stealing from Anthropic - Japan Wire by Kyodo News",
-      "detected_at": "2026-07-23T01:36:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-4c9e9f520ffa",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "US may sanction China’s Moonshot for distilling Anthropic’s Fable - Asia Times",
-      "detected_at": "2026-07-22T23:48:27+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-79e50aa8c9b1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AMD invests $5B in Anthropic, bags major chip deal - Fierce Network",
-      "detected_at": "2026-07-22T19:02:15+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-25557586a1a4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AMD plans to invest to up $5 billion into Anthropic as it seeks to cut into Nvidia’s dominance - MarketWatch",
-      "detected_at": "2026-07-22T16:58:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-74cb163beecf",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AMD to invest up to $5bn in Anthropic, AI company to deploy up to 2GW of Instinct MI450 GPUs - Data Center Dynamics",
-      "detected_at": "2026-07-22T15:59:05+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-b4ade71c237d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "A top White House official is escalating the fight over Moonshot AI's viral Kimi K3 model - Business Insider",
-      "detected_at": "2026-07-22T16:34:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-365f80d1b270",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AMD commits up to $5 billion to Anthropic - The Verge",
-      "detected_at": "2026-07-22T14:44:27+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-1100ac005198",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AMD and Anthropic sign chip deal worth up to $5 billion - qz.com",
-      "detected_at": "2026-07-22T13:19:50+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-01340309211c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Judge Approves Anthropic’s $1.5 Billion Copyright Settlement Over Pirated Books - Law Commentary",
-      "detected_at": "2026-07-22T18:52:23+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-9a4516809385",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic partnership is driving uptick in Google could revenue, says DA Davidson's Gil Luria - CNBC",
-      "detected_at": "2026-07-22T19:54:11+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-9757bdb021d8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic is heating up the midterm proxy war over AI regulation - Business Insider",
-      "detected_at": "2026-07-22T14:58:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-e4e4ce372269",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "White House accused China's Moonshot AI of accessing banned Nvidia chips and stealing from Anthropic - qz.com",
-      "detected_at": "2026-07-22T17:22:50+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-8dcf3b217d3a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Settlement Receives Final Approval - Locus Online",
-      "detected_at": "2026-07-22T16:00:41+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-9153cc808fa0",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "SemiAnalysis Latest Interview: OpenAI and Anthropic in a Two-Horse Race, Google Falling Behind, Programming Consuming Nearly Half of All Tokens - Moomoo",
-      "detected_at": "2026-07-23T07:34:47+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-91341d46d6cb",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "University Sues Anthropic Over Neural Net Patents - Technology Org",
-      "detected_at": "2026-07-22T20:59:29+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-1f2865f52ce3",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AMD to Invest Up to $5 Billion in Anthropic, Deploy Chips - Bloomberg.com",
-      "detected_at": "2026-07-22T12:48:42+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-2b3b01ddc70c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "What Meta’s Potential $10 Billion Data-Center Leasing Deal With Anthropic Signals About the AI Trade - MarketWise",
-      "detected_at": "2026-07-22T19:07:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-ee87a64ae855",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AMD to Invest Up to $5 Billion in Anthropic, Strikes Chip Deal - The Information",
-      "detected_at": "2026-07-22T17:35:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-149ac4867f8a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AMD inks blockbuster multi-billion-dollar Anthropic AI deal - TradingView",
-      "detected_at": "2026-07-22T21:02:17+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-5d79af7273d7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AMD to invest up to $5bn in Anthropic in chip deal - Financial Times",
-      "detected_at": "2026-07-22T13:16:28+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-c41577d569c7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic and AMD are signing a major AI chip deal. What could this mean for Nvidia? - Yahoo Finance",
-      "detected_at": "2026-07-22T18:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-23-65ba2c581a1d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Optum, Anthropic team up on AI, but impact on healthcare is still unclear - TechTarget",
-      "detected_at": "2026-07-22T17:43:50+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-leadership_change-2026-07-24-f08482933d7e",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_cto",
-      "title": "The Anthropic Economic Index connector - Anthropic",
-      "detected_at": "2026-07-22T17:13:51+00:00",
-      "importance_score": 9.5
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-07-24-84ee769241df",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "Exclusive | AMD and Anthropic Sign Major Chips-and-Investment Deal - WSJ",
-      "detected_at": "2026-07-22T12:30:00+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-07-24-213918fa9fad",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "AMD, Anthropic sign chip and investment deal worth billions (AMD:NASDAQ) - Seeking Alpha",
-      "detected_at": "2026-07-22T14:26:00+00:00",
-      "importance_score": 7.0
-    },
-    {
       "signal_id": "anthropic-funding_event-2026-07-24-42fb52bc60b7",
       "signal_type": "funding_event",
       "signal_subtype": "generic",
@@ -511,14 +31,6 @@
       "signal_subtype": "generic",
       "title": "Anthropic's $1.5 Billion Copyright Settlement Sets a Bad Precedent - Reason Magazine",
       "detected_at": "2026-07-23T17:30:14+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-funding_event-2026-07-24-d8c0b7a25833",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "$1 Trillion Anthropic IPO Is a Go. Here’s Why I Won’t Touch It - 24/7 Wall St.",
-      "detected_at": "2026-07-23T09:37:17+00:00",
       "importance_score": 5.0
     },
     {
@@ -602,22 +114,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "anthropic-hiring_spike-2026-07-24-a2fc77989ca5",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "generic",
-      "title": "How Anthropic is sending a signal to the market by hiring Teresa Carlson - Washington Technology",
-      "detected_at": "2026-07-22T20:48:45+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-24-129ffaec2adb",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic to buy up to 2 gigawatts of GPU capacity from AMD - SiliconANGLE",
-      "detected_at": "2026-07-22T20:07:31+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "anthropic-product_launch-2026-07-24-862ee1d4076d",
       "signal_type": "product_launch",
       "signal_subtype": "generic",
@@ -658,59 +154,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-07-24-b5b857749bca",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good - TechCrunch",
-      "detected_at": "2026-07-23T11:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-07-24-1e5625e1ea12",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says - BBC",
       "detected_at": "2026-07-23T23:50:38+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-24-6d11db53724c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "A Startling Glimpse at AI’s Ruthless Efficiency - The Atlantic",
-      "detected_at": "2026-07-22T19:29:26+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-24-c41577d569c7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic and AMD are signing a major AI chip deal. What could this mean for Nvidia? - Yahoo Finance",
-      "detected_at": "2026-07-22T18:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-24-2aceda89b385",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AMD to sell Anthropic tens of billions in AI servers, invest up to $5 billion in startup - Reuters",
-      "detected_at": "2026-07-22T16:46:20+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-24-1f2865f52ce3",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AMD to Invest Up to $5 Billion in Anthropic, Deploy Chips - Bloomberg.com",
-      "detected_at": "2026-07-22T12:48:42+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-24-8f3761c84ac7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic and SpaceX just handed Google the biggest profit quarter in company history—on paper - Fortune",
-      "detected_at": "2026-07-22T23:24:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -727,14 +175,6 @@
       "signal_subtype": "generic",
       "title": "Anthropic, SpaceX Hand Google Profit Windfall - Yahoo Finance",
       "detected_at": "2026-07-23T15:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-24-caa90d87005a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI and Anthropic could go public for trillions. Will S.F. cash in? - San Francisco Chronicle",
-      "detected_at": "2026-07-23T11:04:04+00:00",
       "importance_score": 4.0
     },
     {
@@ -762,30 +202,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-07-24-d2683e25b958",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic to donate $20 million to US political group that supports AI regulation - Reuters",
-      "detected_at": "2026-07-22T19:16:56+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-24-cbb2836b3d85",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AMD to invest up to $5 billion in Anthropic as part of computing power deal - CNBC",
-      "detected_at": "2026-07-22T13:38:03+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-24-9e386a7aa4a2",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Judge approves Anthropic’s $1.5-billion settlement with authors - Los Angeles Times",
-      "detected_at": "2026-07-23T02:50:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-07-24-8a3e22e096c8",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -802,51 +218,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-07-24-228c2f9dfa2a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "A research agenda for the Economic Futures Research Fund - Anthropic",
-      "detected_at": "2026-07-22T17:13:46+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-24-7c2defe1ffff",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Trump tech official accuses China’s Moonshot AI of stealing from Anthropic - South China Morning Post",
-      "detected_at": "2026-07-22T19:32:25+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-07-24-50a3e3294e1c",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Anthropic upgrades Claude voice mode with more powerful models - 9to5Mac",
       "detected_at": "2026-07-23T19:16:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-24-f063bc092ac0",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "How Amazon weaned Alexa off Anthropic's pricey models to slash AI costs - Business Insider",
-      "detected_at": "2026-07-23T09:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-24-9b446d32bf1e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "White House accuses Chinese company of distilling Anthropic’s Fable - CyberScoop",
-      "detected_at": "2026-07-22T16:47:46+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-24-8649daad5ece",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Why are OpenAI and Anthropic cheering on regulation in Australia? The answer has global reach - The Guardian",
-      "detected_at": "2026-07-23T00:23:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -863,14 +239,6 @@
       "signal_subtype": "generic",
       "title": "The Startups Angling to Go Public After Anthropic - The Information",
       "detected_at": "2026-07-23T22:39:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-24-6eb08150dec4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "White House official accuses Chinese startup of distilling Anthropic model, accessing banned Nvidia chips - The Hill",
-      "detected_at": "2026-07-22T22:50:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -895,14 +263,6 @@
       "signal_subtype": "generic",
       "title": "Key facts: BX joins $35B Anthropic chip deal; raises dividend; EPS cuts - TradingView",
       "detected_at": "2026-07-24T07:15:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-24-f8b5bf01a6b3",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Details How It Contains Claude Across Web, Code, and Cowork - infoq.com",
-      "detected_at": "2026-07-22T12:26:15+00:00",
       "importance_score": 4.0
     },
     {
@@ -938,14 +298,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-07-24-7125158f84f1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AMD (AMD) Lands $5 Billion Anthropic Partnership For AI Chips - Yahoo Finance",
-      "detected_at": "2026-07-22T22:10:44+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-07-24-d99e1683c6c2",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -959,14 +311,6 @@
       "signal_subtype": "generic",
       "title": "FIS partners with Anthropic for Mythos 5 AI - ATM Marketplace",
       "detected_at": "2026-07-23T13:12:46+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-24-5edcebf3207d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "US accuses China's Moonshot of stealing from Anthropic's Fable for latest AI model - Yahoo",
-      "detected_at": "2026-07-22T14:36:59+00:00",
       "importance_score": 4.0
     },
     {
@@ -1338,14 +682,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-07-25-b5b857749bca",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good - TechCrunch",
-      "detected_at": "2026-07-23T11:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-07-25-a961c949741e",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -1447,14 +783,6 @@
       "signal_subtype": "generic",
       "title": "Anthropic's New Claude Opus 5 Nearly Matches Flagship Fable 5 at Half the Cost - MacRumors",
       "detected_at": "2026-07-24T17:43:27+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-25-caa90d87005a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI and Anthropic could go public for trillions. Will S.F. cash in? - San Francisco Chronicle",
-      "detected_at": "2026-07-23T11:04:04+00:00",
       "importance_score": 4.0
     },
     {
@@ -47119,6 +46447,582 @@
       "signal_subtype": "generic",
       "title": "Anthropic nearing second $45B deal with Nscale for compute power: report (ANTHRO:Private) - Seeking Alpha",
       "detected_at": "2026-10-19T19:35:12+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "anthropic-leadership_change-2026-10-21-ed0ff5951e06",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Anthropic CEO defends record on safety, sales to China - Fox News",
+      "detected_at": "2026-10-21T10:34:54+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "anthropic-leadership_change-2026-10-21-0a13b0effecb",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Former Google CEO Schmidt owns 1% stake in Anthropic, Bloomberg reports - Reuters",
+      "detected_at": "2026-10-19T22:58:19+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "anthropic-leadership_change-2026-10-21-e8a17831e4c5",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei - Yahoo Finance",
+      "detected_at": "2026-10-20T17:55:12+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "anthropic-leadership_change-2026-10-21-62f22eb47f00",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Morning Coffee: Anthropic is making bank CEOs look overpaid. Hedge funds have to decide who’s really a partner - eFinancialCareers",
+      "detected_at": "2026-10-21T08:32:32+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "anthropic-leadership_change-2026-10-21-d6c242358473",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Former Google CEO Eric Schmidt Holds 1% Stake in Anthropic Ahead of Public Offering - Northeast Times",
+      "detected_at": "2026-10-20T17:58:34+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "anthropic-leadership_change-2026-10-21-6d0299faf36d",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "HHS to make sole-source award to Anthropic ahead of broader AI competition - FedScoop",
+      "detected_at": "2026-10-20T23:12:13+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "anthropic-leadership_change-2026-10-21-6227176d1751",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "Daily Digest: Anthropic reveals growing debt, Meta policy chief to exit - The Business Journals",
+      "detected_at": "2026-10-20T21:08:00+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-21-c65cd8fbd3e9",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Ahead of massive IPOs, AI companies are sketching plans to share their wealth - AP News",
+      "detected_at": "2026-10-20T16:16:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-21-05b21031b1a5",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say - Reuters",
+      "detected_at": "2026-10-19T23:18:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-21-0b383889d473",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Why Anthropic can't afford to delay its IPO - Axios",
+      "detected_at": "2026-10-21T09:03:43+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-hiring_spike-2026-10-21-28b5836b45f1",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "SpaceX, Anthropic plan to share wealth with the public amid concern AI could trigger job losses - Los Angeles Times",
+      "detected_at": "2026-10-20T10:00:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-10-21-6914177ee816",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Elon Musk promises SpaceX shares for U.S. kids - SFGATE",
+      "detected_at": "2026-10-20T23:28:03+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-10-21-cecf840ec800",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "A closer look at Anthropic's $100 billion public-good gamble - Yahoo Finance",
+      "detected_at": "2026-10-20T16:41:51+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-21-cbf63ca4cbeb",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Why Anthropic has a major China problem ahead of its blockbuster IPO - South China Morning Post",
+      "detected_at": "2026-10-21T00:00:15+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-10-21-d07c68d0bbed",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "How Claude designed protein binders against scorpion neurotoxins - Anthropic",
+      "detected_at": "2026-10-20T17:03:55+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-21-f6ea1c0daccc",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic Is Targeting an IPO as Soon as Mid-November - Yahoo Finance",
+      "detected_at": "2026-10-21T00:20:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-21-faf0367f8937",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Why Anthropic’s IPO Faces a Test That Goes Beyond Its Price Tag - Barron's",
+      "detected_at": "2026-10-20T20:12:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-21-f3993c9380bf",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic revenue hits $16.3 billion as preliminary S-1 outlines IPO risks - WSJ - Investing.com",
+      "detected_at": "2026-10-21T01:55:08+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-21-f96ab6266ce5",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic’s $80.7 billion loss puts its IPO ambitions under scrutiny - CTech",
+      "detected_at": "2026-10-21T06:28:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-21-5af877617650",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic is AI trade's last big hope for a major IPO this year - CNBC",
+      "detected_at": "2026-10-19T15:25:27+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-hiring_spike-2026-10-21-344dc045fb9c",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "A $345,000 writing job at Anthropic says a lot about what humans still bring to the table - Business Insider",
+      "detected_at": "2026-10-21T08:01:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-21-0df298a247dc",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic’s First-Half Net Loss Widens to over $80 Billion Ahead of IPO - Hungarian Conservative",
+      "detected_at": "2026-10-21T10:58:53+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-21-812e814d56b8",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Investors eagerly await key Anthropic filing to see blockbuster IPO will stoke demand - New York Post",
+      "detected_at": "2026-10-20T23:19:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-21-4c4355296d3e",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic could spend $750B on computing power ahead of IPO: Report - Anadolu Ajansı",
+      "detected_at": "2026-10-20T20:50:24+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-21-80d7c2e20c79",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic's Cloud Partners Turn Rivals Ahead of IPO - The Tech Buzz",
+      "detected_at": "2026-10-20T22:06:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-21-aa0f8f40bfcd",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic Lost $80 Billion in Six Months as AI Spending Soars, Draft IPO Filing Shows - Benzinga",
+      "detected_at": "2026-10-20T21:52:39+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-21-5df02a7a751e",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic's IPO prospectus reveals $80.7B net loss - Yahoo Finance",
+      "detected_at": "2026-10-20T21:08:16+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-f163ef505cd8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic logged net loss of over $80 billion in first half of 2026 - Reuters",
+      "detected_at": "2026-10-20T19:41:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-fada06a48316",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed - TechCrunch",
+      "detected_at": "2026-10-20T23:01:23+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-8846fbdf23d7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Plans Massive Computing Spend - WSJ",
+      "detected_at": "2026-10-21T10:17:49+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-a83686db8065",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC - CNBC",
+      "detected_at": "2026-10-20T14:12:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-b425b3820ec6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal - Yahoo Finance",
+      "detected_at": "2026-10-20T09:05:02+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-b87fca54404b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says - Reuters",
+      "detected_at": "2026-10-19T23:21:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-9934b64c2916",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Eric Schmidt’s 1% Anthropic Stake Set to Pay Huge Windfall - Bloomberg.com",
+      "detected_at": "2026-10-20T02:51:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-09599b612bba",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Welcome to the future of work: More meetings and nagging bots - The Washington Post",
+      "detected_at": "2026-10-20T20:15:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-963a894fa91c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic posts $80bn loss in first half of 2026: WSJ - Al Jazeera",
+      "detected_at": "2026-10-21T05:52:53+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-1196246f8db3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic’s cloud partnerships are getting messy - TechCrunch",
+      "detected_at": "2026-10-20T21:25:22+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-cfa17b26ac91",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Why Anthropic’s draft bill sets $1 billion threshold for AI risk - Politico",
+      "detected_at": "2026-10-21T09:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-426e01b5f00d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Loss: $80 Billion, but Mostly on Paper - trendingtopics.eu",
+      "detected_at": "2026-10-21T05:19:20+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-f87cd69c2ed0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic books colossal $81B loss, warns of data center backlash as Amodei siblings draw modest salaries - New York Post",
+      "detected_at": "2026-10-20T22:06:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-6d79d33c99eb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Is in Talks for Another $45 Billion AI Deal. Nvidia Could Be a Big Winner. - The Motley Fool",
+      "detected_at": "2026-10-20T20:24:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-88707d1257e0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic, music labels to make key arguments in AI training case - Reuters",
+      "detected_at": "2026-10-21T10:13:43+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-a45cf1c02a82",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Musk, Anthropic outline dueling approaches to AI-era philanthropy - Reuters",
+      "detected_at": "2026-10-19T21:25:32+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-b44aa33a412c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Dario Amodei spent 2,000 words laying out to a critic on X why Anthropic must persist in the AI ‘race to the top’ - Business Insider",
+      "detected_at": "2026-10-21T06:54:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-c04fee557689",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock | Artificial Intelligence - Amazon Web Services (AWS)",
+      "detected_at": "2026-10-19T23:32:19+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-a249666c3ce4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic's public benefit fund and how it compares with other big philanthropic efforts - Reuters",
+      "detected_at": "2026-10-20T20:21:46+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-3b8c6c32f87d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic and OpenAI Face Commodification Threats. Here’s What to Watch For - Morningstar",
+      "detected_at": "2026-10-21T06:12:27+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-ec1cb1eafcd1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "‘An army of Claudes, with every one asking for my attention’: Anthropic calls human attention the bottleneck in the botsitting world to come - Fortune",
+      "detected_at": "2026-10-19T18:10:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-d57c0eba8847",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Elon Musk and Anthropic make promises to give the public a piece of the AI pie - NBC News",
+      "detected_at": "2026-10-19T14:39:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-32446d38ac60",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Inside AMD and Anthropic’s ‘chips for shares’ deal - Protos | Informed crypto news",
+      "detected_at": "2026-10-21T10:52:06+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-0acdb7ffc555",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic's draft S-1 reveals $16.3B revenue, $80.7B loss and up to $750B compute bill - Dealroom",
+      "detected_at": "2026-10-21T07:40:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-254506145a1b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Names Brian Mikkelsen Federal Civilian Go-to-Market Head - GovCon Wire",
+      "detected_at": "2026-10-21T08:59:16+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-654744b3a1b0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Readies Model That Reads Users' Intentions Better - The Information",
+      "detected_at": "2026-10-19T14:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-7cf477c886a4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic had $16.3 billion in revenue during first half of 2026: WSJ - CNBC",
+      "detected_at": "2026-10-20T19:54:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-6a29e6ff5e82",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic's AI Safety Bill Hides Judge-Only Block Clause - The Tech Buzz",
+      "detected_at": "2026-10-21T00:06:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-650f597db4b4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic plans $750 billion compute spend - Semafor",
+      "detected_at": "2026-10-21T11:16:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-600d99053412",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic loses $80bn in six months - The Telegraph",
+      "detected_at": "2026-10-20T21:46:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-4d543c8da024",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Watch Nscale Anthropic in AI Computing Talks - Bloomberg.com",
+      "detected_at": "2026-10-20T20:30:37+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-93f8ae958122",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic’s Proposed Regulations for AI Include a Death Threshold of at Least 50 People Before Halting Models - Truthout",
+      "detected_at": "2026-10-20T15:01:35+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-b50faa1df272",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic’s I.P.O. Charity - The New York Times",
+      "detected_at": "2026-10-19T11:47:58+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-8228348924ce",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic in talks for second multibillion-dollar Nscale deal - CNBC - Yahoo Finance",
+      "detected_at": "2026-10-20T14:54:28+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-533ef994fd3e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic pledges 5% of its shares to new public benefit fund - EdTech Innovation Hub",
+      "detected_at": "2026-10-20T23:15:09+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-b74e995a6f24",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic and Nscale in talks for second multibillion-dollar deal - Financial Times",
+      "detected_at": "2026-10-19T22:27:32+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-a44f4804ede4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Inside Anthropic, Every Employee Now Manages Agents - TLNT",
+      "detected_at": "2026-10-20T22:39:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-3639ad7d7d1e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic’s $80.7 Billion First-Half Loss Driven by Financing Charges - TheEnergyMag",
+      "detected_at": "2026-10-21T08:50:48+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-3aa002f6be8c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic AI infrastructure cost — 1000 Trillion Won Spent Over 10 Years - The Korea Daily",
+      "detected_at": "2026-10-21T09:39:59+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-21-97c22dd7d1a3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI: Anthropic’s $750 Billion Compute Bill, SpaceX’s AI Profit. AI-RTZ #1246 - AI: Reset to Zero",
+      "detected_at": "2026-10-21T05:02:35+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-github_signal-2026-10-21-2cc8ff4e9f58",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Anthropic's draft S-1 filing shows revenue growth, customer concentration, risks: report (ANTHRO:Private) - Seeking Alpha",
+      "detected_at": "2026-10-20T20:50:35+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "anthropic-github_signal-2026-10-21-b7dd3ab3f75d",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Anthropic May Spend $750 Billion on Computing Costs, Report Says - Bloomberg.com",
+      "detected_at": "2026-10-21T03:44:00+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "anthropic-github_signal-2026-10-21-8977eefe86cc",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal - TechCrunch",
+      "detected_at": "2026-10-19T23:39:38+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "anthropic-github_signal-2026-10-21-0b26bd6fa7f5",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Anthropic Recorded Net Loss Of Over $80 Billion In 1st Half Of 2026: Report - NDTV",
+      "detected_at": "2026-10-20T20:03:41+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "anthropic-github_signal-2026-10-21-79d4f2d4bbfb",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Anthropic’s New Prospectus Shows Revenue Is Growing Fast, So Are Its Compute Costs, Losses And AI Risks: Report - Stocktwits",
+      "detected_at": "2026-10-20T22:48:26+00:00",
       "importance_score": 3.5
     }
   ],

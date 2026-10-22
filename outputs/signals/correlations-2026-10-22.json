@@ -1,0 +1,454 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-10-22T11:24:46.650926+00:00",
+  "date": "2026-10-22",
+  "lookback_days": 30,
+  "companies": [
+    {
+      "company_id": "ramp",
+      "correlation_detected": true,
+      "highest_confidence": 0.93,
+      "patterns_matched": [
+        {
+          "pattern_id": "triple-signal-conviction",
+          "pattern_name": "Triple Signal \u2014 High Conviction Buy",
+          "confidence_score": 0.93,
+          "priority_boost": 25,
+          "matched_signals": [
+            "ramp-leadership_change-2026-10-22-74017ca0176a",
+            "ramp-leadership_change-2026-10-22-579b8e22cf8e",
+            "ramp-funding_event-2026-10-22-bc3bc1e5a30f"
+          ],
+          "why_matched": [
+            "leadership_change:new_cto detected on 2026-10-21 (1 days ago)",
+            "leadership_change:new_cto detected on 2026-10-21 (0 days ago)",
+            "funding_event:generic detected on 2026-10-21 (0 days ago)"
+          ],
+          "narrative": "Ramp has generated 3 independent buying signals in the past 30 days. The convergence of funding_event, leadership_change from multiple sources indicates a genuine and active buying cycle."
+        },
+        {
+          "pattern_id": "leadership-driven-evaluation",
+          "pattern_name": "Leadership-Driven Tool Evaluation",
+          "confidence_score": 0.91,
+          "priority_boost": 20,
+          "matched_signals": [
+            "ramp-leadership_change-2026-10-22-30150f90ead4",
+            "ramp-hiring_spike-2026-10-22-afd9c8d50b2f"
+          ],
+          "why_matched": [
+            "leadership_change detected on 2026-10-22 (within 45-day window)",
+            "hiring_spike detected on 2026-10-20 (within 45-day window)"
+          ],
+          "narrative": "A new executive has joined Ramp. New executives typically evaluate and reshape the technology stack in their first 60-90 days. The concurrent hiring spike confirms a scaling phase is underway."
+        },
+        {
+          "pattern_id": "post-funding-leadership",
+          "pattern_name": "Post-Funding Leadership Restructure",
+          "confidence_score": 0.89,
+          "priority_boost": 22,
+          "matched_signals": [
+            "ramp-leadership_change-2026-10-22-30150f90ead4",
+            "ramp-funding_event-2026-10-22-bc3bc1e5a30f"
+          ],
+          "why_matched": [
+            "leadership_change detected on 2026-10-22 (within 90-day window)",
+            "funding_event detected on 2026-10-21 (within 90-day window)"
+          ],
+          "narrative": "Ramp closed generic and subsequently brought in a new executive. This combination \u2014 new capital plus new leadership \u2014 creates a high-conviction window for vendor evaluation before the new executive sets the technology agenda."
+        },
+        {
+          "pattern_id": "post-funding-expansion",
+          "pattern_name": "Post-Funding Expansion",
+          "confidence_score": 0.87,
+          "priority_boost": 15,
+          "matched_signals": [
+            "ramp-funding_event-2026-10-22-bc3bc1e5a30f",
+            "ramp-hiring_spike-2026-10-22-afd9c8d50b2f"
+          ],
+          "why_matched": [
+            "funding_event detected on 2026-10-21 (within 60-day window)",
+            "hiring_spike detected on 2026-10-20 (within 60-day window)"
+          ],
+          "narrative": "Ramp recently closed generic and immediately began expanding headcount. This combination signals a 90-day window during which infrastructure and tooling decisions are actively being made."
+        },
+        {
+          "pattern_id": "product-launch-infrastructure",
+          "pattern_name": "Product Launch Infrastructure Build",
+          "confidence_score": 0.72,
+          "priority_boost": 10,
+          "matched_signals": [
+            "ramp-product_launch-2026-10-22-8da07f834d10",
+            "ramp-hiring_spike-2026-10-22-afd9c8d50b2f"
+          ],
+          "why_matched": [
+            "product_launch detected on 2026-10-22 (within 30-day window)",
+            "hiring_spike detected on 2026-10-20 (within 30-day window)"
+          ],
+          "narrative": "Ramp launched NSKOG: Q3 EBITDA reached NOK 448m, including a NOK 338m NND gain, as cost and ramp-up pressures persisted - TradingView and is simultaneously scaling their engineering team, indicating a platform build-out is underway."
+        }
+      ],
+      "composite_narrative": "Multiple buying patterns detected for Ramp: Triple Signal \u2014 High Conviction Buy, Leadership-Driven Tool Evaluation. Ramp has generated 3 independent buying signals in the past 30 days. The convergence of funding_event, leadership_change from multiple sources indicates a genuine and active buying cycle.",
+      "total_priority_boost": 92
+    },
+    {
+      "company_id": "anthropic",
+      "correlation_detected": true,
+      "highest_confidence": 0.93,
+      "patterns_matched": [
+        {
+          "pattern_id": "triple-signal-conviction",
+          "pattern_name": "Triple Signal \u2014 High Conviction Buy",
+          "confidence_score": 0.93,
+          "priority_boost": 25,
+          "matched_signals": [
+            "anthropic-product_launch-2026-10-22-570aabfba7db",
+            "anthropic-product_launch-2026-10-22-b63a11adb2fb",
+            "anthropic-product_launch-2026-10-22-f32ca6f4ad47"
+          ],
+          "why_matched": [
+            "product_launch:new_product detected on 2026-10-21 (0 days ago)",
+            "product_launch:new_product detected on 2026-10-21 (0 days ago)",
+            "product_launch:new_product detected on 2026-10-21 (0 days ago)"
+          ],
+          "narrative": "Anthropic has generated 3 independent buying signals in the past 30 days. The convergence of product_launch from multiple sources indicates a genuine and active buying cycle."
+        },
+        {
+          "pattern_id": "leadership-driven-evaluation",
+          "pattern_name": "Leadership-Driven Tool Evaluation",
+          "confidence_score": 0.91,
+          "priority_boost": 20,
+          "matched_signals": [
+            "anthropic-hiring_spike-2026-10-22-35709df11b1b",
+            "anthropic-leadership_change-2026-10-22-7d5ae8f941d1"
+          ],
+          "why_matched": [
+            "hiring_spike detected on 2026-10-22 (within 45-day window)",
+            "leadership_change detected on 2026-10-21 (within 45-day window)"
+          ],
+          "narrative": "A new executive has joined Anthropic. New executives typically evaluate and reshape the technology stack in their first 60-90 days. The concurrent hiring spike confirms a scaling phase is underway."
+        },
+        {
+          "pattern_id": "post-funding-leadership",
+          "pattern_name": "Post-Funding Leadership Restructure",
+          "confidence_score": 0.89,
+          "priority_boost": 22,
+          "matched_signals": [
+            "anthropic-funding_event-2026-10-22-c932cdd1f89b",
+            "anthropic-leadership_change-2026-10-22-7d5ae8f941d1"
+          ],
+          "why_matched": [
+            "funding_event detected on 2026-10-22 (within 90-day window)",
+            "leadership_change detected on 2026-10-21 (within 90-day window)"
+          ],
+          "narrative": "Anthropic closed ipo and subsequently brought in a new executive. This combination \u2014 new capital plus new leadership \u2014 creates a high-conviction window for vendor evaluation before the new executive sets the technology agenda."
+        },
+        {
+          "pattern_id": "post-funding-expansion",
+          "pattern_name": "Post-Funding Expansion",
+          "confidence_score": 0.87,
+          "priority_boost": 15,
+          "matched_signals": [
+            "anthropic-funding_event-2026-10-22-c932cdd1f89b",
+            "anthropic-hiring_spike-2026-10-22-35709df11b1b"
+          ],
+          "why_matched": [
+            "funding_event detected on 2026-10-22 (within 60-day window)",
+            "hiring_spike detected on 2026-10-22 (within 60-day window)"
+          ],
+          "narrative": "Anthropic recently closed ipo and immediately began expanding headcount. This combination signals a 90-day window during which infrastructure and tooling decisions are actively being made."
+        },
+        {
+          "pattern_id": "product-launch-infrastructure",
+          "pattern_name": "Product Launch Infrastructure Build",
+          "confidence_score": 0.72,
+          "priority_boost": 10,
+          "matched_signals": [
+            "anthropic-product_launch-2026-10-22-ea4cf446a162",
+            "anthropic-hiring_spike-2026-10-22-35709df11b1b"
+          ],
+          "why_matched": [
+            "product_launch detected on 2026-10-22 (within 30-day window)",
+            "hiring_spike detected on 2026-10-22 (within 30-day window)"
+          ],
+          "narrative": "Anthropic launched Anthropic\u2019s Ambitions in Legal Technology Get a Reality Check - Bloomberg Law News and is simultaneously scaling their engineering team, indicating a platform build-out is underway."
+        }
+      ],
+      "composite_narrative": "Multiple buying patterns detected for Anthropic: Triple Signal \u2014 High Conviction Buy, Leadership-Driven Tool Evaluation. Anthropic has generated 3 independent buying signals in the past 30 days. The convergence of product_launch from multiple sources indicates a genuine and active buying cycle.",
+      "total_priority_boost": 92
+    },
+    {
+      "company_id": "openai",
+      "correlation_detected": true,
+      "highest_confidence": 0.93,
+      "patterns_matched": [
+        {
+          "pattern_id": "triple-signal-conviction",
+          "pattern_name": "Triple Signal \u2014 High Conviction Buy",
+          "confidence_score": 0.93,
+          "priority_boost": 25,
+          "matched_signals": [
+            "openai-product_launch-2026-10-22-4b54c8b1f649",
+            "openai-product_launch-2026-10-22-8e2967dcea0f",
+            "openai-leadership_change-2026-10-22-11cd7af13302"
+          ],
+          "why_matched": [
+            "product_launch:new_product detected on 2026-10-21 (0 days ago)",
+            "product_launch:new_product detected on 2026-10-21 (0 days ago)",
+            "leadership_change:new_ceo detected on 2026-10-20 (1 days ago)"
+          ],
+          "narrative": "OpenAI has generated 3 independent buying signals in the past 30 days. The convergence of product_launch, leadership_change from multiple sources indicates a genuine and active buying cycle."
+        },
+        {
+          "pattern_id": "leadership-driven-evaluation",
+          "pattern_name": "Leadership-Driven Tool Evaluation",
+          "confidence_score": 0.91,
+          "priority_boost": 20,
+          "matched_signals": [
+            "openai-hiring_spike-2026-10-22-b4139238f778",
+            "openai-leadership_change-2026-10-22-11cd7af13302"
+          ],
+          "why_matched": [
+            "hiring_spike detected on 2026-10-21 (within 45-day window)",
+            "leadership_change detected on 2026-10-20 (within 45-day window)"
+          ],
+          "narrative": "A new executive has joined OpenAI. New executives typically evaluate and reshape the technology stack in their first 60-90 days. The concurrent hiring spike confirms a scaling phase is underway."
+        },
+        {
+          "pattern_id": "post-funding-leadership",
+          "pattern_name": "Post-Funding Leadership Restructure",
+          "confidence_score": 0.89,
+          "priority_boost": 22,
+          "matched_signals": [
+            "openai-funding_event-2026-10-22-b9d6e058f1c8",
+            "openai-leadership_change-2026-10-22-11cd7af13302"
+          ],
+          "why_matched": [
+            "funding_event detected on 2026-10-22 (within 90-day window)",
+            "leadership_change detected on 2026-10-20 (within 90-day window)"
+          ],
+          "narrative": "OpenAI closed ipo and subsequently brought in a new executive. This combination \u2014 new capital plus new leadership \u2014 creates a high-conviction window for vendor evaluation before the new executive sets the technology agenda."
+        },
+        {
+          "pattern_id": "post-funding-expansion",
+          "pattern_name": "Post-Funding Expansion",
+          "confidence_score": 0.87,
+          "priority_boost": 15,
+          "matched_signals": [
+            "openai-funding_event-2026-10-22-b9d6e058f1c8",
+            "openai-hiring_spike-2026-10-22-b4139238f778"
+          ],
+          "why_matched": [
+            "funding_event detected on 2026-10-22 (within 60-day window)",
+            "hiring_spike detected on 2026-10-21 (within 60-day window)"
+          ],
+          "narrative": "OpenAI recently closed ipo and immediately began expanding headcount. This combination signals a 90-day window during which infrastructure and tooling decisions are actively being made."
+        },
+        {
+          "pattern_id": "product-launch-infrastructure",
+          "pattern_name": "Product Launch Infrastructure Build",
+          "confidence_score": 0.72,
+          "priority_boost": 10,
+          "matched_signals": [
+            "openai-product_launch-2026-10-22-4f4bf1b1e5fa",
+            "openai-hiring_spike-2026-10-22-b4139238f778"
+          ],
+          "why_matched": [
+            "product_launch detected on 2026-10-22 (within 30-day window)",
+            "hiring_spike detected on 2026-10-21 (within 30-day window)"
+          ],
+          "narrative": "OpenAI launched Experts on OpenAI Agents That Disabled Monitoring Systems - AI Magazine and is simultaneously scaling their engineering team, indicating a platform build-out is underway."
+        }
+      ],
+      "composite_narrative": "Multiple buying patterns detected for OpenAI: Triple Signal \u2014 High Conviction Buy, Leadership-Driven Tool Evaluation. OpenAI has generated 3 independent buying signals in the past 30 days. The convergence of product_launch, leadership_change from multiple sources indicates a genuine and active buying cycle.",
+      "total_priority_boost": 92
+    },
+    {
+      "company_id": "databricks",
+      "correlation_detected": true,
+      "highest_confidence": 0.93,
+      "patterns_matched": [
+        {
+          "pattern_id": "triple-signal-conviction",
+          "pattern_name": "Triple Signal \u2014 High Conviction Buy",
+          "confidence_score": 0.93,
+          "priority_boost": 25,
+          "matched_signals": [
+            "databricks-leadership_change-2026-10-22-78357a82d17b",
+            "databricks-product_launch-2026-10-22-51d05cabed5f",
+            "databricks-product_launch-2026-10-22-fa38bfc81427"
+          ],
+          "why_matched": [
+            "leadership_change:new_cto detected on 2026-10-21 (1 days ago)",
+            "product_launch:beta_announcement detected on 2026-10-20 (1 days ago)",
+            "product_launch:generic detected on 2026-10-22 (0 days ago)"
+          ],
+          "narrative": "Databricks has generated 3 independent buying signals in the past 30 days. The convergence of product_launch, leadership_change from multiple sources indicates a genuine and active buying cycle."
+        },
+        {
+          "pattern_id": "post-funding-leadership",
+          "pattern_name": "Post-Funding Leadership Restructure",
+          "confidence_score": 0.89,
+          "priority_boost": 22,
+          "matched_signals": [
+            "databricks-leadership_change-2026-10-22-78357a82d17b",
+            "databricks-funding_event-2026-10-22-f0d062c98764"
+          ],
+          "why_matched": [
+            "leadership_change detected on 2026-10-21 (within 90-day window)",
+            "funding_event detected on 2026-10-21 (within 90-day window)"
+          ],
+          "narrative": "Databricks closed ipo and subsequently brought in a new executive. This combination \u2014 new capital plus new leadership \u2014 creates a high-conviction window for vendor evaluation before the new executive sets the technology agenda."
+        }
+      ],
+      "composite_narrative": "Multiple buying patterns detected for Databricks: Triple Signal \u2014 High Conviction Buy, Post-Funding Leadership Restructure. Databricks has generated 3 independent buying signals in the past 30 days. The convergence of product_launch, leadership_change from multiple sources indicates a genuine and active buying cycle.",
+      "total_priority_boost": 47
+    },
+    {
+      "company_id": "snowflake",
+      "correlation_detected": true,
+      "highest_confidence": 0.93,
+      "patterns_matched": [
+        {
+          "pattern_id": "triple-signal-conviction",
+          "pattern_name": "Triple Signal \u2014 High Conviction Buy",
+          "confidence_score": 0.93,
+          "priority_boost": 25,
+          "matched_signals": [
+            "snowflake-leadership_change-2026-10-22-f5c45e292593",
+            "snowflake-leadership_change-2026-10-22-c2dbd5469268",
+            "snowflake-leadership_change-2026-10-22-3e173217a0b7"
+          ],
+          "why_matched": [
+            "leadership_change:new_cto detected on 2026-10-20 (1 days ago)",
+            "leadership_change:new_cto detected on 2026-10-22 (0 days ago)",
+            "leadership_change:new_cto detected on 2026-10-21 (0 days ago)"
+          ],
+          "narrative": "Snowflake has generated 3 independent buying signals in the past 30 days. The convergence of leadership_change from multiple sources indicates a genuine and active buying cycle."
+        }
+      ],
+      "composite_narrative": "Snowflake has generated 3 independent buying signals in the past 30 days. The convergence of leadership_change from multiple sources indicates a genuine and active buying cycle.",
+      "total_priority_boost": 25
+    },
+    {
+      "company_id": "plaid",
+      "correlation_detected": true,
+      "highest_confidence": 0.93,
+      "patterns_matched": [
+        {
+          "pattern_id": "triple-signal-conviction",
+          "pattern_name": "Triple Signal \u2014 High Conviction Buy",
+          "confidence_score": 0.93,
+          "priority_boost": 25,
+          "matched_signals": [
+            "plaid-leadership_change-2026-10-22-3fb220ad40e6",
+            "plaid-leadership_change-2026-10-22-fb720d0aec46",
+            "plaid-leadership_change-2026-10-22-d7a12101b3e6"
+          ],
+          "why_matched": [
+            "leadership_change:new_cto detected on 2026-10-21 (0 days ago)",
+            "leadership_change:new_cto detected on 2026-10-21 (0 days ago)",
+            "leadership_change:generic detected on 2026-10-21 (0 days ago)"
+          ],
+          "narrative": "Plaid has generated 3 independent buying signals in the past 30 days. The convergence of leadership_change from multiple sources indicates a genuine and active buying cycle."
+        }
+      ],
+      "composite_narrative": "Plaid has generated 3 independent buying signals in the past 30 days. The convergence of leadership_change from multiple sources indicates a genuine and active buying cycle.",
+      "total_priority_boost": 25
+    },
+    {
+      "company_id": "huggingface",
+      "correlation_detected": true,
+      "highest_confidence": 0.93,
+      "patterns_matched": [
+        {
+          "pattern_id": "triple-signal-conviction",
+          "pattern_name": "Triple Signal \u2014 High Conviction Buy",
+          "confidence_score": 0.93,
+          "priority_boost": 25,
+          "matched_signals": [
+            "huggingface-leadership_change-2026-10-22-243e04d545e8",
+            "huggingface-leadership_change-2026-10-22-529ba6105c9c",
+            "huggingface-leadership_change-2026-10-22-61bd2a7ee2f9"
+          ],
+          "why_matched": [
+            "leadership_change:new_ceo detected on 2026-10-20 (1 days ago)",
+            "leadership_change:new_ceo detected on 2026-10-21 (0 days ago)",
+            "leadership_change:new_ceo detected on 2026-10-20 (1 days ago)"
+          ],
+          "narrative": "Hugging Face has generated 3 independent buying signals in the past 30 days. The convergence of leadership_change from multiple sources indicates a genuine and active buying cycle."
+        }
+      ],
+      "composite_narrative": "Hugging Face has generated 3 independent buying signals in the past 30 days. The convergence of leadership_change from multiple sources indicates a genuine and active buying cycle.",
+      "total_priority_boost": 25
+    },
+    {
+      "company_id": "stripe",
+      "correlation_detected": true,
+      "highest_confidence": 0.93,
+      "patterns_matched": [
+        {
+          "pattern_id": "triple-signal-conviction",
+          "pattern_name": "Triple Signal \u2014 High Conviction Buy",
+          "confidence_score": 0.93,
+          "priority_boost": 25,
+          "matched_signals": [
+            "stripe-leadership_change-2026-10-22-22a876dd1a1b",
+            "stripe-leadership_change-2026-10-22-67da2bd028a1",
+            "stripe-leadership_change-2026-10-22-21db130e5c7f"
+          ],
+          "why_matched": [
+            "leadership_change:new_cto detected on 2026-10-21 (0 days ago)",
+            "leadership_change:new_cto detected on 2026-10-21 (0 days ago)",
+            "leadership_change:new_cto detected on 2026-10-21 (1 days ago)"
+          ],
+          "narrative": "Stripe has generated 3 independent buying signals in the past 30 days. The convergence of leadership_change from multiple sources indicates a genuine and active buying cycle."
+        }
+      ],
+      "composite_narrative": "Stripe has generated 3 independent buying signals in the past 30 days. The convergence of leadership_change from multiple sources indicates a genuine and active buying cycle.",
+      "total_priority_boost": 25
+    },
+    {
+      "company_id": "brex",
+      "correlation_detected": true,
+      "highest_confidence": 0.93,
+      "patterns_matched": [
+        {
+          "pattern_id": "triple-signal-conviction",
+          "pattern_name": "Triple Signal \u2014 High Conviction Buy",
+          "confidence_score": 0.93,
+          "priority_boost": 25,
+          "matched_signals": [
+            "brex-funding_event-2026-10-22-729ff4b78565",
+            "brex-news_mention-2026-10-22-60386009e56a",
+            "brex-news_mention-2026-10-22-1295ae70ef0d"
+          ],
+          "why_matched": [
+            "funding_event:generic detected on 2026-10-21 (0 days ago)",
+            "news_mention:generic detected on 2026-10-21 (0 days ago)",
+            "news_mention:generic detected on 2026-10-22 (0 days ago)"
+          ],
+          "narrative": "Brex has generated 3 independent buying signals in the past 30 days. The convergence of news_mention, funding_event from multiple sources indicates a genuine and active buying cycle."
+        }
+      ],
+      "composite_narrative": "Brex has generated 3 independent buying signals in the past 30 days. The convergence of news_mention, funding_event from multiple sources indicates a genuine and active buying cycle.",
+      "total_priority_boost": 25
+    },
+    {
+      "company_id": "adyen",
+      "correlation_detected": false,
+      "highest_confidence": 0.0,
+      "patterns_matched": [],
+      "composite_narrative": "",
+      "total_priority_boost": 0
+    },
+    {
+      "company_id": "confluent",
+      "correlation_detected": false,
+      "highest_confidence": 0.0,
+      "patterns_matched": [],
+      "composite_narrative": "",
+      "total_priority_boost": 0
+    }
+  ],
+  "companies_with_correlations": 9
+}

@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-10-21T11:25:48.846631+00:00",
+  "last_updated": "2026-10-22T11:25:11.475508+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,254 +18,6 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "huggingface-leadership_change-2026-07-24-dfb63a2a1253",
-      "signal_type": "leadership_change",
-      "signal_subtype": "generic",
-      "title": "After Hugging Face breach, FedRAMP chief tells slow-to-patch vendors to stay out of government - Nextgov/FCW",
-      "detected_at": "2026-07-23T18:32:00+00:00",
-      "importance_score": 6.0
-    },
-    {
-      "signal_id": "huggingface-product_launch-2026-07-24-48c438106dd5",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI's AI Models Autonomously Hack Hugging Face - Cyber Magazine",
-      "detected_at": "2026-07-23T16:13:52+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "huggingface-product_launch-2026-07-24-c3330a7e50ea",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "When AI Becomes the Hacker: What the OpenAI–Hugging Face Breach Means for Your Organization - Foley Hoag",
-      "detected_at": "2026-07-23T15:14:46+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "huggingface-product_launch-2026-07-24-874037cc9af5",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Security Experts Discuss the Hugging Face, OpenAI Incident - Security Magazine",
-      "detected_at": "2026-07-23T14:55:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "huggingface-product_launch-2026-07-24-f2bc2e1e8353",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI GPT 6 Escaped Sandbox to Hack HuggingFace, Chinese Model Used to Investigate - NextBigFuture.com",
-      "detected_at": "2026-07-24T00:32:28+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "huggingface-product_launch-2026-07-24-3dc73b3358fc",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI Reveals Autonomous AI Agent Breached Hugging Face During Security Test - Hungarian Conservative",
-      "detected_at": "2026-07-23T12:34:53+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "huggingface-product_launch-2026-07-24-72c7a5c0fe5f",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "First Take: OpenAI’s Hugging Face Hack — CISOs Must Focus on Fundamentals and Ignore the Hype - Gartner",
-      "detected_at": "2026-07-23T21:04:08+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-528f997e7fe9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Hugging Face OpenAI hack: Agent went rogue, escaped and hacked everything in its path - Mashable",
-      "detected_at": "2026-07-23T20:02:43+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-f512a0abeec2",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress - CNBC",
-      "detected_at": "2026-07-23T19:51:08+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-474d3ae67fd0",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "The Hugging Face Incident - Astral Codex Ten",
-      "detected_at": "2026-07-24T05:43:14+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-5d5003631890",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AI labs have a trust problem, and the Hugging Face hack just proved it - Fortune",
-      "detected_at": "2026-07-23T18:29:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-3f1ed946905c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "How OpenAI’s Models Escaped Their Sandbox and Slipped Past California's AI Law - KQED",
-      "detected_at": "2026-07-23T23:47:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-39fd8df4f58b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AMD’s Lisa Su defends open-source AI following Hugging Face security breach caused by OpenAI agents - Fortune",
-      "detected_at": "2026-07-23T23:06:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-3d4ddffba801",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI’s Hugging Face Breach Shows Frontier AI Guardrails Are Failing - Forbes",
-      "detected_at": "2026-07-23T17:47:01+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-d5e901ab47e7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Models Breached Hugging Face in Matter of Hours - Bloomberg.com",
-      "detected_at": "2026-07-23T23:01:36+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-a54db09ca494",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI-Hugging Face attack doesn't mean agents are evil – unless you tell them to be - The Register",
-      "detected_at": "2026-07-23T23:51:28+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-084f3b6beff4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "What the OpenAI-Hugging Face Breach Reveals About AI Governance Failures | Newswise - Newswise",
-      "detected_at": "2026-07-23T22:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-a05369730f59",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "What the OpenAI-Hugging Face Hack Means for Enterprises - AI Business",
-      "detected_at": "2026-07-23T21:06:17+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-fe37f82b4d4d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI models escape containment, hack Hugging Face - TechTarget",
-      "detected_at": "2026-07-23T22:39:02+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-034fe3999c51",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI’s Autonomous AI Agent Escape and Attempted Intrusion of Hugging Face – and Why it Matters to You - JD Supra",
-      "detected_at": "2026-07-23T20:32:23+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-530e73640d88",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Why OpenAI’s Hugging Face AI Hack Spooked Employees - The Information",
-      "detected_at": "2026-07-23T16:31:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-8a8eeea6a77e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Can we build software secure enough to thwart AI attacks? - Wake Forest University",
-      "detected_at": "2026-07-23T20:40:09+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-ff6624a18c9c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI's AI \"goes rogue\" and hacks Hugging Face: what you need to know - Bitdefender",
-      "detected_at": "2026-07-23T14:06:52+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-4536814079f1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI escapes the sandbox: A lesson in AI governance post Hugging Face incident - | Governance Intelligence",
-      "detected_at": "2026-07-23T16:14:27+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-47abb804271f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Hugging Face security incident explained: The rise of autonomous AI-powered attacks - Security Boulevard",
-      "detected_at": "2026-07-24T01:22:14+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-74ac36b76090",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "What OpenAI’s Breach of HuggingFace Does and Does Not Mean - Daily Kos",
-      "detected_at": "2026-07-23T12:05:47+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-4cd0400a8f3d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI's agent breached Hugging Face before an AI defender caught it: What users should do next - ZDNET",
-      "detected_at": "2026-07-23T14:29:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-6760d55ed886",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI model breaches Hugging Face in unprecedented incident - SecurityBrief Australia",
-      "detected_at": "2026-07-24T08:15:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-a463a25dde34",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI hacking incident highlights new era of cybersecurity - KSNV",
-      "detected_at": "2026-07-23T23:16:05+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-24-a2d7220eda25",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI behind Hugging Face hack, TrickBot tunnels through DNS, Acrobat extension opens WhatsApp - LinkedIn",
-      "detected_at": "2026-07-23T14:08:02+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-github_signal-2026-07-24-16c3d024b71f",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "What Happened Between OpenAI and Hugging Face? - Rapid7",
-      "detected_at": "2026-07-23T12:50:39+00:00",
-      "importance_score": 3.5
-    },
-    {
       "signal_id": "huggingface-leadership_change-2026-07-25-2235b11ed7ff",
       "signal_type": "leadership_change",
       "signal_subtype": "new_cto",
@@ -274,27 +26,11 @@
       "importance_score": 9.5
     },
     {
-      "signal_id": "huggingface-leadership_change-2026-07-25-dfb63a2a1253",
-      "signal_type": "leadership_change",
-      "signal_subtype": "generic",
-      "title": "After Hugging Face breach, FedRAMP chief tells slow-to-patch vendors to stay out of government - Nextgov/FCW",
-      "detected_at": "2026-07-23T18:32:00+00:00",
-      "importance_score": 6.0
-    },
-    {
       "signal_id": "huggingface-product_launch-2026-07-25-b5ae0c7ffe43",
       "signal_type": "product_launch",
       "signal_subtype": "generic",
       "title": "How OpenAI Lost Control of an AI Model—and What Needs to Change - Time Magazine",
       "detected_at": "2026-07-24T15:13:52+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "huggingface-product_launch-2026-07-25-c3330a7e50ea",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "When AI Becomes the Hacker: What the OpenAI–Hugging Face Breach Means for Your Organization - Foley Hoag",
-      "detected_at": "2026-07-23T15:14:46+00:00",
       "importance_score": 5.0
     },
     {
@@ -322,14 +58,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "huggingface-product_launch-2026-07-25-874037cc9af5",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Security Experts Discuss the Hugging Face, OpenAI Incident - Security Magazine",
-      "detected_at": "2026-07-23T14:55:00+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "huggingface-product_launch-2026-07-25-97748c2a829f",
       "signal_type": "product_launch",
       "signal_subtype": "generic",
@@ -354,35 +82,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "huggingface-news_mention-2026-07-25-20e8eaafaa9d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack - CNBC",
-      "detected_at": "2026-07-24T11:00:01+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "huggingface-news_mention-2026-07-25-023ec7b2b427",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "OpenAI, Hugging Face breach stokes fear on what’s next for AI - The Hill",
       "detected_at": "2026-07-24T20:48:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-25-f512a0abeec2",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress - CNBC",
-      "detected_at": "2026-07-23T19:51:08+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-25-5d5003631890",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AI labs have a trust problem, and the Hugging Face hack just proved it - Fortune",
-      "detected_at": "2026-07-23T18:29:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -418,22 +122,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "huggingface-news_mention-2026-07-25-cc59b25386bd",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "What the OpenAI-hugging face breach reveals about AI governance failures - Tech Xplore",
-      "detected_at": "2026-07-24T11:20:05+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-25-dc00796a9d81",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday - SecurityWeek",
-      "detected_at": "2026-07-24T11:19:46+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "huggingface-news_mention-2026-07-25-5138c6c4487b",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -458,35 +146,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "huggingface-news_mention-2026-07-25-9c325214ca10",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "How the Futuristic Hack by Rogue OpenAI Models Unfolded - WSJ",
-      "detected_at": "2026-07-24T00:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-25-46d3c7ea2167",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Hugging Face Warns 17,000 Attacks From Rogue OpenAI Model Changed Cybersecurity Forever - Yellow.com",
-      "detected_at": "2026-07-24T11:24:49+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "huggingface-news_mention-2026-07-25-97a594c4a9ea",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Hugging Who? Hacking What? An Encyclopedia of OpenAI’s Security Snafu. - The Ringer",
       "detected_at": "2026-07-24T14:15:05+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-25-3f1ed946905c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "How OpenAI’s Models Escaped Their Sandbox and Slipped Past California's AI Law - KQED",
-      "detected_at": "2026-07-23T23:47:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -504,14 +168,6 @@
       "title": "Weekly news roundup: OpenAI hacks Hugging Face, Google expands Gemini, Meta lawsuit dropped - TechTarget",
       "detected_at": "2026-07-24T16:16:44+00:00",
       "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-github_signal-2026-07-25-16c3d024b71f",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "What Happened Between OpenAI and Hugging Face? - Rapid7",
-      "detected_at": "2026-07-23T12:50:39+00:00",
-      "importance_score": 3.5
     },
     {
       "signal_id": "huggingface-github_signal-2026-07-25-c28d4b7e3ed6",
@@ -586,35 +242,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "huggingface-news_mention-2026-07-26-e8a4fe690c2b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI’s breach of Hugging Face stokes fears about what’s next for AI - The Hill",
-      "detected_at": "2026-07-24T10:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-26-20e8eaafaa9d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack - CNBC",
-      "detected_at": "2026-07-24T11:00:01+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "huggingface-news_mention-2026-07-26-4e1910171334",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters",
       "detected_at": "2026-07-24T22:14:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-26-54be4de37a29",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "A rogue OpenAI model hacked a startup, and some experts worry that’s just the start - NBC News",
-      "detected_at": "2026-07-24T09:00:40+00:00",
       "importance_score": 4.0
     },
     {
@@ -650,35 +282,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "huggingface-news_mention-2026-07-26-dc00796a9d81",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday - SecurityWeek",
-      "detected_at": "2026-07-24T11:19:46+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-26-cc59b25386bd",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "What the OpenAI-hugging face breach reveals about AI governance failures - Tech Xplore",
-      "detected_at": "2026-07-24T11:20:05+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "huggingface-news_mention-2026-07-26-d66415344ee9",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Who should be responsible for OpenAI’s hack of Hugging Face? - Transformer | Substack",
       "detected_at": "2026-07-24T16:17:10+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-07-26-46d3c7ea2167",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Hugging Face Warns 17,000 Attacks From Rogue OpenAI Model Changed Cybersecurity Forever - Yellow.com",
-      "detected_at": "2026-07-24T11:24:49+00:00",
       "importance_score": 4.0
     },
     {
@@ -17191,6 +16799,126 @@
       "signal_subtype": "generic",
       "title": "The EU AI Act Mandates AI Incident Reporting—If We’re Lucky - Lawfare",
       "detected_at": "2026-10-19T17:04:07+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-10-22-243e04d545e8",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate - TechCrunch",
+      "detected_at": "2026-10-20T22:24:02+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-10-22-529ba6105c9c",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Hugging Face CEO Says Netflix’s AI Hack Documentary Gets It Wrong - Technology Org",
+      "detected_at": "2026-10-21T16:32:00+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-10-22-61bd2a7ee2f9",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Hugging Face CEO says the Netflix doc about its famous hack went 'full doomer mode' - Business Insider",
+      "detected_at": "2026-10-20T17:38:57+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-10-22-da62dcdd0f3e",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Hugging Face CEO Criticises Netflix Documentary on OpenAI Agent Cyberattack - Analytics India Magazine",
+      "detected_at": "2026-10-21T09:21:11+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-10-22-75435a333c56",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Hugging Face CEO Criticizes Netflix's 'AI Gone Wild' Documentary for Alarmist Tone - KuCoin",
+      "detected_at": "2026-10-20T18:55:52+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-10-22-d17527726ce0",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "AI Safety and Cybersecurity Should Be Allies. Instead, They're at Odds - Time Magazine",
+      "detected_at": "2026-10-20T14:51:01+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-22-c255bbee7638",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA - WIRED",
+      "detected_at": "2026-10-22T10:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-22-717d2d60ece6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Ask Anika: AI can’t really ”go rogue.” - Columbia Journalism Review",
+      "detected_at": "2026-10-22T10:02:40+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-22-77e6a2f5ce45",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Meet Microduck: A robot duck you can teach new tricks - Interesting Engineering",
+      "detected_at": "2026-10-22T09:50:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-22-6df585da3dcd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI Mythmaking After the Hugging Face Hack - ORF Middle East",
+      "detected_at": "2026-10-22T06:01:50+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-22-5302f612dd39",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face Leaders Question AI Evaluation Standards and Netflix’s Portrayal of Rogue Agents - AI Insider",
+      "detected_at": "2026-10-21T13:55:17+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-22-56c82904e226",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Hack Inaccuracies Spark Criticism of Netflix AI Documentary - The Cryptonomist",
+      "detected_at": "2026-10-21T13:34:03+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-22-85496e75e3cd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Embedl takes any Hugging Face model to NVIDIA Jetson in a single step - EIN News",
+      "detected_at": "2026-10-21T11:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-10-22-0b5441a1a7db",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Recursive Debuts Flint: A Laptop-Sized Coding Model That AI Helped Build in Under Four Months - BigGo Finance",
+      "detected_at": "2026-10-22T04:55:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-github_signal-2026-10-22-5784ae967aa9",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Hugging Face says its new AI model can help scientists study DNA and develop new gene therapies - Business Insider",
+      "detected_at": "2026-10-22T10:00:00+00:00",
       "importance_score": 3.5
     }
   ],

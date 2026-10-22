@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "snowflake",
   "created_at": "2026-06-03T17:25:17.673223+00:00",
-  "last_updated": "2026-10-21T11:25:48.562777+00:00",
+  "last_updated": "2026-10-22T11:25:11.168903+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,46 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "snowflake-product_launch-2026-07-24-489025aa0247",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Snowflake (SNOW) Stock Looks Pricey Following Fresh AI Growth News - Yahoo Finance Singapore",
-      "detected_at": "2026-07-24T06:09:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-07-24-50115fe0f857",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "How we pushed CDC into Postgres — and turned replication into clockwork - Snowflake",
-      "detected_at": "2026-07-23T21:30:47+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-07-24-5316ac6e9bdc",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake (SNOW) Just Landed A Rogo AI Tie Up For Governed Finance Data - Yahoo Finance UK",
-      "detected_at": "2026-07-23T23:16:49+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-07-24-cd320b29ceda",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Why Is Snowflake (NYSE:SNOW) Drawing Nasdaq Attention? - Kalkine Media",
-      "detected_at": "2026-07-24T04:53:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-07-24-6d4a3e0bbb53",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "SNOW|Snowflake Inc|Price:265.040|Chg%:-2.760 - TradingKey",
-      "detected_at": "2026-07-24T08:21:56+00:00",
-      "importance_score": 4.0
-    },
     {
       "signal_id": "snowflake-leadership_change-2026-07-25-9a06136fee18",
       "signal_type": "leadership_change",
@@ -106,14 +66,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-07-25-25cfadac2902",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake (SNOW) Deepens AI Data Ties, Is The Valuation Upside Already Priced In? - Yahoo Finance",
-      "detected_at": "2026-07-24T10:10:31+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-news_mention-2026-07-25-eb33bd044ec8",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -122,59 +74,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-07-25-d3f04ede2dbd",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake (SNOW) Could Be 42% Below Fair Value As Valuation Views Split - simplywall.st",
-      "detected_at": "2026-07-24T10:36:54+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-news_mention-2026-07-25-2814bdbd2c95",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Snowflake Integrates Claude Opus 5 - StartupHub.ai",
       "detected_at": "2026-07-24T21:04:10+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-07-25-50115fe0f857",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "How we pushed CDC into Postgres — and turned replication into clockwork - Snowflake",
-      "detected_at": "2026-07-23T21:30:47+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-07-25-6b34fad1990a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake (SNOW) Stock Looks Pricey Following Fresh AI Growth News - Yahoo Finance",
-      "detected_at": "2026-07-24T06:09:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-07-25-f2aedea570d4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake (SNOW) Just Landed A Rogo AI Tie Up For Governed Finance Data - Yahoo! Finance Canada",
-      "detected_at": "2026-07-23T23:16:49+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-07-25-a4d65f070b9f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Mizuho Markets Americas LLC Sells 244,625 Shares of Snowflake Inc. $SNOW - MarketBeat",
-      "detected_at": "2026-07-24T10:17:33+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-07-25-c89bcb2250c3",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Lido Advisors LLC Buys 88,503 Shares of Snowflake Inc. $SNOW - MarketBeat",
-      "detected_at": "2026-07-24T09:53:51+00:00",
       "importance_score": 4.0
     },
     {
@@ -218,43 +122,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-07-26-25cfadac2902",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake (SNOW) Deepens AI Data Ties, Is The Valuation Upside Already Priced In? - Yahoo Finance",
-      "detected_at": "2026-07-24T10:10:31+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-07-26-d3f04ede2dbd",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake (SNOW) Could Be 42% Below Fair Value As Valuation Views Split - simplywall.st",
-      "detected_at": "2026-07-24T10:36:54+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-news_mention-2026-07-26-c0ce804df04b",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Solid Joins Snowflake and Industry Leaders to Advance Open Standards for AI-Ready Semantic Context - PR Newswire",
       "detected_at": "2026-07-24T15:26:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-07-26-c89bcb2250c3",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Lido Advisors LLC Buys 88,503 Shares of Snowflake Inc. $SNOW - MarketBeat",
-      "detected_at": "2026-07-24T09:53:51+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-07-26-a4d65f070b9f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Mizuho Markets Americas LLC Sells 244,625 Shares of Snowflake Inc. $SNOW - MarketBeat",
-      "detected_at": "2026-07-24T10:17:33+00:00",
       "importance_score": 4.0
     },
     {
@@ -16143,6 +16015,102 @@
       "signal_subtype": "generic",
       "title": "Snowflake hosts fall junior ski jumping tournament Sunday - La Crosse Tribune",
       "detected_at": "2026-10-20T10:15:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-leadership_change-2026-10-22-f5c45e292593",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_cto",
+      "title": "Rachel Maddow: Trump’s ‘presidential snowflake factor’ could leave GOP in the cold - MS NOW",
+      "detected_at": "2026-10-20T18:27:15+00:00",
+      "importance_score": 9.5
+    },
+    {
+      "signal_id": "snowflake-leadership_change-2026-10-22-c2dbd5469268",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_cto",
+      "title": "Snowflake director Frank Slootman sells $94.9 million in shares By Investing.com - Investing.com Australia",
+      "detected_at": "2026-10-22T00:23:23+00:00",
+      "importance_score": 9.5
+    },
+    {
+      "signal_id": "snowflake-leadership_change-2026-10-22-3e173217a0b7",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_cto",
+      "title": "Form 4 Snowflake Inc: Frank Slootman (Director) For: 19 October By Investing.com - Investing.com UK",
+      "detected_at": "2026-10-21T23:50:00+00:00",
+      "importance_score": 9.5
+    },
+    {
+      "signal_id": "snowflake-leadership_change-2026-10-22-d13bd4bc88ee",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_cto",
+      "title": "Form 144 Snowflake Inc. For: 21 October By Investing.com - Investing.com UK",
+      "detected_at": "2026-10-21T17:02:00+00:00",
+      "importance_score": 9.5
+    },
+    {
+      "signal_id": "snowflake-product_launch-2026-10-22-2fcfc102224b",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Make Your Holiday Party Sparkle With Target’s $6 Snowflake Appetizer Plates - Dengarden",
+      "detected_at": "2026-10-21T23:02:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-10-22-3d7e7e1d4c61",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Fireworks AI targets former Snowflake HQ as space needs explode - The Business Journals",
+      "detected_at": "2026-10-21T14:07:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-10-22-7c94f966c8b8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake's AI monetization efforts advance as Salesforce says adoption still early: BNP - Seeking Alpha",
+      "detected_at": "2026-10-20T16:04:26+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-10-22-263173d3800a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake Spa to Open New Location at 619 Ninth Avenue in Hell’s Kitchen - Commercial Observer",
+      "detected_at": "2026-10-21T16:25:53+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-10-22-d60488eb005d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "America, circa soon? Snowflake socialists who say U.S. deserved 9/11 - Washington Times",
+      "detected_at": "2026-10-22T11:08:26+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-10-22-fa650304d683",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake High School lockdown lifted after person detained - White Mountain Independent",
+      "detected_at": "2026-10-21T14:50:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-10-22-4145f053aac2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Horizon Context: Put Your Business Knowledge to Work for AI - Snowflake",
+      "detected_at": "2026-10-20T18:58:55+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-10-22-fbc8d752af79",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "66,389 Snowflake Inc. $SNOW Shares Purchased by Robeco Institutional Asset Management B.V. - MarketBeat",
+      "detected_at": "2026-10-22T09:31:14+00:00",
       "importance_score": 4.0
     }
   ],

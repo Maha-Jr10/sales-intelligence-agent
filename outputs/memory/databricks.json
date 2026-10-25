@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "databricks",
   "created_at": "2026-06-03T17:25:17.618603+00:00",
-  "last_updated": "2026-10-24T10:33:56.905932+00:00",
+  "last_updated": "2026-10-25T10:59:32.550217+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,22 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "databricks-news_mention-2026-07-27-c392208a50b5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks raises at a $188 billion valuation to push multi-AI governance and agentic infrastructure - MarketScale",
-      "detected_at": "2026-07-26T12:15:24+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-product_launch-2026-07-28-04721091c3bf",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Databricks Deepens Azure Bet With Extended Microsoft Deal - Technology Magazine",
-      "detected_at": "2026-07-27T09:02:49+00:00",
-      "importance_score": 5.0
-    },
     {
       "signal_id": "databricks-news_mention-2026-07-28-c5e3e67d6f96",
       "signal_type": "news_mention",
@@ -87,14 +71,6 @@
       "signal_subtype": "generic",
       "title": "Real-Time Retail Intelligence - Databricks",
       "detected_at": "2026-07-27T21:41:15+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-07-28-c392208a50b5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks raises at a $188 billion valuation to push multi-AI governance and agentic infrastructure - MarketScale",
-      "detected_at": "2026-07-26T12:15:24+00:00",
       "importance_score": 4.0
     },
     {
@@ -6191,6 +6167,22 @@
       "signal_subtype": "generic",
       "title": "9 Best AI Data Analysis and Preparation Platforms, Sorted by Use Case - Technology Org",
       "detected_at": "2026-10-23T03:27:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-10-25-f459b7e06cf2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Databricks is Available in Hebbia - Hebbia",
+      "detected_at": "2026-10-23T16:10:16+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-10-25-b949b14eba63",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Built for Agents: The Case for Spark Declarative Pipelines - Databricks",
+      "detected_at": "2026-10-23T20:38:25+00:00",
       "importance_score": 4.0
     }
   ],

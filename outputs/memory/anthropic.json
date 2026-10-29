@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "anthropic",
   "created_at": "2026-06-03T17:25:17.685609+00:00",
-  "last_updated": "2026-10-28T12:23:17.603933+00:00",
+  "last_updated": "2026-10-29T12:32:43.360911+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,651 +18,11 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "anthropic-funding_event-2026-07-31-835eb1925ad5",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations - Venturebeat",
-      "detected_at": "2026-07-31T01:45:48+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-c4fc8494dba3",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic AI Models Hacked Three Organizations During Tests - Bloomberg.com",
-      "detected_at": "2026-07-30T23:53:16+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-caa9f21d161f",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations - Anthropic",
-      "detected_at": "2026-07-30T23:03:16+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-b720d437be29",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic Says Its A.I. Systems Broke Into Computers at 3 Organizations - The New York Times",
-      "detected_at": "2026-07-31T01:37:43+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-c648d9ba56e7",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic's AI models hacked 3 organizations during testing - Politico",
-      "detected_at": "2026-07-31T01:03:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-4612363b135e",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems - CNBC",
-      "detected_at": "2026-07-30T23:27:36+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-ad48fc4e589d",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s AI Claude escaped testing environment and hacked organizations - The Guardian",
-      "detected_at": "2026-07-31T00:10:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-4de0e89ea457",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic says Claude models ‘gained unauthorized access’ to 3 companies during cyber test - The Hill",
-      "detected_at": "2026-07-31T01:05:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-f09631a8fbbb",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic Says Its AI Models Hacked Into Three Organizations During Testing - Forbes",
-      "detected_at": "2026-07-31T06:44:26+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-cfcb636c69e6",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s Claude escaped test sandbox to attack three organizations - The Register",
-      "detected_at": "2026-07-31T02:19:39+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-cd1229b82092",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic says its AI models hacked 3 organizations during testing - AP News",
-      "detected_at": "2026-07-31T06:11:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-b88d0d596157",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic reveals Claude \"gained unauthorized access\" to \"real-world systems\" during testing - cbsnews.com",
-      "detected_at": "2026-07-31T03:44:59+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-f31e625ecca2",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic Says Its AI Models Also Hacked Three Organizations On Their Own - Engadget",
-      "detected_at": "2026-07-31T06:10:12+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-a3c04bafb9ff",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic says AI models accessed systems of 3 real organizations during testing - Fox Business",
-      "detected_at": "2026-07-31T01:54:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-github_signal-2026-07-31-c47811aaaebd",
-      "signal_type": "github_signal",
-      "signal_subtype": "new_public_repo",
-      "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic - WIRED",
-      "detected_at": "2026-07-30T17:51:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-ce2375754153",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations - The Hacker News",
-      "detected_at": "2026-07-31T06:41:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-071095a76c8c",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic Reveals Claude Escaped Testing, Breaching Three Companies - Infosecurity Magazine",
-      "detected_at": "2026-07-31T08:35:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-e8050ed81cea",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic says Claude AI breached three organisations during cyber tests - thenationalnews.com",
-      "detected_at": "2026-07-31T04:54:52+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-7b9fe6fbbbb1",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Claude models gained unauthorized access to 3 companies: Anthropic - Türkiye Today",
-      "detected_at": "2026-07-31T07:46:32+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-dd1f6947c465",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "The Pentagon’s Case Against Anthropic Isn’t Going Well - Gizmodo",
-      "detected_at": "2026-07-30T21:30:53+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-3b54f29a7601",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "After OpenAI's 'scary' agent, Anthropic's Claude goes rogue; AI gains unauthorised 'real-world' access during testing - wionews.com",
-      "detected_at": "2026-07-31T06:06:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-7cc8052ad71c",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Behind Anthropic's Cryptanalysis and Claude Chat Leaks - AI Magazine",
-      "detected_at": "2026-07-31T08:12:58+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-11c1d377fd1c",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "After OpenAI, Anthropic finds Claude hacked organisations - Silicon Republic",
-      "detected_at": "2026-07-31T08:14:47+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-c200e06e1ddc",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic reports its AI models breached three organizations during cybersecurity tests - TradingView",
-      "detected_at": "2026-07-31T05:02:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-3406626347da",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic Finds Claude Gained Unauthorized Access to 3 Organizations’ Systems - BeInCrypto",
-      "detected_at": "2026-07-31T06:05:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-164c382c28bb",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic's Claude AI escapes tests to hack three organisations - BBC",
-      "detected_at": "2026-07-31T00:08:46+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-0d7e41590fa8",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic says its AI models hacked 3 organisations during testing - sowetan.co.za",
-      "detected_at": "2026-07-31T08:48:52+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-07-31-f561cc48fea4",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic says Claude AI hacked three organizations during safety tests: Here’s what happened - The News International",
-      "detected_at": "2026-07-31T05:34:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-c1b8f1273674",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Exclusive | Banks in Talks to Lend $15 Billion for Anthropic Data Center Backed by Google - WSJ",
-      "detected_at": "2026-07-30T23:47:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-a0757250b3a1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Nexus Data Centers in advanced talks to secure $15B for Google-backed Anthropic data center - CNBC",
-      "detected_at": "2026-07-30T21:50:17+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-f9c5a9fe9fbe",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "CoreWeave bows to investor pushback on debt linked to Anthropic contracts - Financial Times",
-      "detected_at": "2026-07-30T21:09:18+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-e8311d839d07",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Judge says government's case got \"worse\" in Anthropic fight - Axios",
-      "detected_at": "2026-07-30T22:59:16+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-bf15a7906117",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Trump admin has not justified labeling Anthropic a national security risk, judge says - Politico",
-      "detected_at": "2026-07-30T19:22:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-c0b3a0baddc9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic v. U.S. Department of War: A Hearing Diary - Lawfare",
-      "detected_at": "2026-07-30T22:13:46+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-0155d7f22b4f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says three Claude models reached real-world systems during cyber tests - Axios",
-      "detected_at": "2026-07-31T07:27:03+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-b1c0cc88dad0",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic AI Models Hacked Three Companies During Tests - WSJ",
-      "detected_at": "2026-07-31T00:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-63c47f494be8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic said its AI models hacked into other companies’ systems during testing - CNN",
-      "detected_at": "2026-07-31T02:09:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-66fec4ba7c82",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "After OpenAI disclosure, Anthropic says Claude also hacked outside systems - aljazeera.com",
-      "detected_at": "2026-07-31T04:09:17+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-e58225a46a03",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says its own AI models breached three companies during security tests - techcrunch.com",
-      "detected_at": "2026-07-31T01:06:54+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-d11051f81865",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says Claude AI hacked three companies during cyber tests - NBC News",
-      "detected_at": "2026-07-31T01:23:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-99588494e4a1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Second major AI company says its systems hacked into other firms - The Washington Post",
-      "detected_at": "2026-07-31T04:14:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-c91773491b6c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic's AI hacked three companies during tests, highlighting growing security risks - Reuters",
-      "detected_at": "2026-07-30T23:13:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-fc882a77da26",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance - WIRED",
-      "detected_at": "2026-07-30T20:12:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-6dc24c6f1f7b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says Claude models accessed outside systems during testing - France 24",
-      "detected_at": "2026-07-31T03:22:10+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-6d8247056927",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says its models went rogue and hacked 3 companies during testing - Business Insider",
-      "detected_at": "2026-07-31T04:46:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-412e55750558",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "After OpenAI, Anthropic reveals AI hacking incidents linked to Israeli startup Irregular - calcalistech.com",
-      "detected_at": "2026-07-31T06:19:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-428400247618",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Says Claude Models Breached Three Companies During Security Tests - Technology Org",
-      "detected_at": "2026-07-31T08:30:57+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-c97b306a9603",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares - techcrunch.com",
-      "detected_at": "2026-07-30T23:25:58+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-d4c1ecdeca29",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic's Claude AI model hacks three companies during safety tests - ABC News & Headlines – Australian Broadcasting Corporation",
-      "detected_at": "2026-07-30T23:39:21+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-595570bda04b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label - techcrunch.com",
-      "detected_at": "2026-07-30T20:26:38+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-507a506a7cbe",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s Claude AI models hack into 3 outside groups during testing - Financial Times",
-      "detected_at": "2026-07-31T00:55:13+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-c7472d3dd2ad",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic reveals Claude AI models breached external entities in testing error (ANTHRO:Private) - Seeking Alpha",
-      "detected_at": "2026-07-31T04:18:13+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-9001f4bb475d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Nexus Data Centers nears $15B financing for Google-backed Anthropic AI campus - Seeking Alpha",
-      "detected_at": "2026-07-31T07:22:22+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-7c5f397c9f0c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic AI Models Breached Company Systems During Cybersecurity Tests - StratNews Global",
-      "detected_at": "2026-07-31T07:45:55+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-1f2e40d4585a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Finds Claude Accessed Three Companies' Systems in Security Tests After OpenAI's Hugging Face Breach - Yahoo Finance UK",
-      "detected_at": "2026-07-31T04:05:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-848db136cfa0",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s AI Claude escaped test environment and hacked companies - The Telegraph",
-      "detected_at": "2026-07-31T03:06:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-05965ee27ca3",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic, following OpenAI, claims that Claude hacked other systems - Українські Національні Новини (УНН)",
-      "detected_at": "2026-07-31T05:43:37+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-5b42939094f2",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Cybersecurity - Journal-News.com",
-      "detected_at": "2026-07-31T05:30:47+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-f861455d4cb2",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Says Claude AI Breached Three Companies During Testing - Yahoo",
-      "detected_at": "2026-07-31T08:45:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-ada053a17935",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests - BleepingComputer",
-      "detected_at": "2026-07-31T00:57:25+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-31863770d339",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s AI hacked 3 firms during tests, showing growing security risks - rappler.com",
-      "detected_at": "2026-07-31T06:05:20+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-26dde9f9b005",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says Claude breached three real companies in cyber tests - Notebookcheck",
-      "detected_at": "2026-07-31T07:11:20+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-f3c566805dad",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic AI breaches expose flaws in one-size-fits-all AI regulation - The News International",
-      "detected_at": "2026-07-31T07:34:20+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-dfba559d1c73",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic's Opus 4.7 and Mythos 5 attacked real companies online - Neowin",
-      "detected_at": "2026-07-31T08:40:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-b30d50dc7ae4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says Claude AI models breached systems of 3 companies during cybersecurity tests - The Indian Express",
-      "detected_at": "2026-07-31T03:17:09+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-4a217742a9ef",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic Says Claude Breached Three Companies In Security Tests - Yellow.com",
-      "detected_at": "2026-07-31T05:03:53+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-7a07a63090bb",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Driven Tech Joins Anthropic's Cyber Verification Program to Advance the Future of AI-Powered Cyber Defense - marketscreener.com",
-      "detected_at": "2026-07-31T06:20:30+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-912885804dcf",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s Claude AI hacked three real companies during testing - SMH.com.au",
-      "detected_at": "2026-07-30T23:58:34+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-67f0590e050b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic's models confused the simulation with reality and attacked real-world systems - Mezha",
-      "detected_at": "2026-07-31T06:07:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-07-31-a0451000546d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AI safety scare: Anthropic says Claude models accessed outside systems during testing - Modern Ghana",
-      "detected_at": "2026-07-31T08:45:59+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-github_signal-2026-07-31-80867c1e5829",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "Banks in talks to lend $15 billion for Anthropic data center backed by Google, WSJ reports - Reuters",
-      "detected_at": "2026-07-30T18:25:00+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "anthropic-leadership_change-2026-08-01-bd2c04f25b6a",
-      "signal_type": "leadership_change",
-      "signal_subtype": "generic",
-      "title": "Head Of Anthropic’s Claude Code Says Prompt Engineering Not That Important - searchenginejournal.com",
-      "detected_at": "2026-07-30T12:30:07+00:00",
-      "importance_score": 6.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-08-01-927e543b5c38",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic says its AI models hacked 3 organizations during testing - ABC News - Breaking News, Latest News and Videos",
-      "detected_at": "2026-07-31T06:32:01+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-08-01-caa9f21d161f",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations - Anthropic",
-      "detected_at": "2026-07-30T23:03:16+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "anthropic-product_launch-2026-08-01-8dbac1ca76bf",
       "signal_type": "product_launch",
       "signal_subtype": "generic",
       "title": "Anthropic confirms its AI breached 3 organizations during testing - Nextgov/FCW",
       "detected_at": "2026-07-31T13:40:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-08-01-4612363b135e",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems - CNBC",
-      "detected_at": "2026-07-30T23:27:36+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-08-01-c648d9ba56e7",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic's AI models hacked 3 organizations during testing - Politico",
-      "detected_at": "2026-07-31T01:03:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-08-01-b720d437be29",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic Says Its A.I. Systems Broke Into Computers at 3 Organizations - The New York Times",
-      "detected_at": "2026-07-31T07:02:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-08-01-c4fc8494dba3",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic AI Models Hacked Three Organizations During Tests - Bloomberg.com",
-      "detected_at": "2026-07-30T23:00:26+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-08-01-063b7ab3b37d",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests - WIRED",
-      "detected_at": "2026-07-31T01:24:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-08-01-59b1cf89e180",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic's Claude AI escapes tests to hack three organisations - BBC",
-      "detected_at": "2026-07-31T10:18:54+00:00",
       "importance_score": 5.0
     },
     {
@@ -674,43 +34,11 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "anthropic-product_launch-2026-08-01-ce2375754153",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations - The Hacker News",
-      "detected_at": "2026-07-31T06:41:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-08-01-4de0e89ea457",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic says Claude models ‘gained unauthorized access’ to 3 companies during cyber test - The Hill",
-      "detected_at": "2026-07-31T01:05:00+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-08-01-61d0c8ee1de9",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s AI Claude hacked into three organizations during cybersecurity test - The Guardian",
-      "detected_at": "2026-07-31T00:10:00+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "anthropic-product_launch-2026-08-01-e0fbde34458e",
       "signal_type": "product_launch",
       "signal_subtype": "generic",
       "title": "AI vs. Authors Update: Court Approves Historic Anthropic Settlement While Meta Litigation Continues - JD Supra",
       "detected_at": "2026-07-31T20:09:33+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-08-01-cfcb636c69e6",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s Claude escaped test sandbox to attack three organizations - The Register",
-      "detected_at": "2026-07-31T02:19:39+00:00",
       "importance_score": 5.0
     },
     {
@@ -746,14 +74,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "anthropic-product_launch-2026-08-01-83a07d2ec05a",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "What Anthropic & OpenAI Agentic Hack Says About AI Controls - Cyber Magazine",
-      "detected_at": "2026-07-31T11:27:23+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "anthropic-product_launch-2026-08-01-22dcdcfe5ce1",
       "signal_type": "product_launch",
       "signal_subtype": "generic",
@@ -778,35 +98,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-08-01-6d8247056927",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says its models went rogue and hacked 3 companies during testing - Business Insider",
-      "detected_at": "2026-07-31T11:50:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-08-01-0155d7f22b4f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says three Claude models reached real-world systems during cyber tests - Axios",
-      "detected_at": "2026-07-31T00:23:18+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-08-01-34438a05977f",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Record ‘has gotten worse for the government’ in Anthropic dispute, judge says - FedScoop",
       "detected_at": "2026-07-31T21:42:30+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-08-01-b1c0cc88dad0",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic AI Models Hacked Three Companies During Tests - WSJ",
-      "detected_at": "2026-07-31T00:00:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -818,59 +114,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-08-01-66fec4ba7c82",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "After OpenAI disclosure, Anthropic says Claude also hacked outside systems - Al Jazeera",
-      "detected_at": "2026-07-31T04:09:17+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-08-01-b79fc31bfa7c",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Anthropic, PBC - Encyclopedia Britannica",
       "detected_at": "2026-07-31T14:59:55+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-08-01-d11051f81865",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says Claude AI hacked three companies during cyber tests - NBC News",
-      "detected_at": "2026-07-31T01:23:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-08-01-e8311d839d07",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Judge says government's case got \"worse\" in Anthropic fight - Axios",
-      "detected_at": "2026-07-30T17:29:22+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-08-01-bf15a7906117",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Trump admin has not justified labeling Anthropic a national security risk, judge says - Politico",
-      "detected_at": "2026-07-30T19:22:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-08-01-e58225a46a03",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says its own AI models breached three companies during security tests - TechCrunch",
-      "detected_at": "2026-07-31T01:06:54+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-08-01-63c47f494be8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic said its AI models hacked into other companies’ systems during testing - CNN",
-      "detected_at": "2026-07-31T02:09:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -890,22 +138,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-08-01-73a1566a8662",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says its AI accidentally hacked three companies during safety tests - CyberScoop",
-      "detected_at": "2026-07-31T01:16:15+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-08-01-fc882a77da26",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance - WIRED",
-      "detected_at": "2026-07-30T20:12:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-08-01-aca0ae99d0fd",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -922,14 +154,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-08-01-a0757250b3a1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Nexus Data Centers in advanced talks to secure $15B for Google-backed Anthropic data center - CNBC",
-      "detected_at": "2026-07-30T21:50:17+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-08-01-190415faa1bc",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -943,14 +167,6 @@
       "signal_subtype": "generic",
       "title": "Anthropic claims its AI models went rogue, hacked 3 companies - CBS News",
       "detected_at": "2026-07-31T21:30:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-08-01-c1b8f1273674",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Exclusive | Banks in Talks to Lend $15 Billion for Anthropic Data Center Backed by Google - WSJ",
-      "detected_at": "2026-07-30T23:47:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -999,14 +215,6 @@
       "signal_subtype": "generic",
       "title": "US lawmaker calls for AI hearings after Anthropic, OpenAI incidents - CFO Dive",
       "detected_at": "2026-07-31T20:46:41+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-08-01-c91773491b6c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic's AI hacked three companies during tests, highlighting growing security risks - Reuters",
-      "detected_at": "2026-07-30T23:13:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -1074,14 +282,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-08-01-307a3698c9aa",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic's Claude AI models breached three real companies during cybersecurity tests - qz.com",
-      "detected_at": "2026-07-31T12:32:03+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-08-01-a9c7baf75117",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -1090,35 +290,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-08-01-507a506a7cbe",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s Claude AI models hack into 3 outside groups during testing - Financial Times",
-      "detected_at": "2026-07-31T01:02:46+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-08-01-176de473130b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s Claude breached three companies during security tests - Help Net Security",
-      "detected_at": "2026-07-31T09:41:35+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-08-01-731913818611",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Anthropic says Claude accidentally hacked real companies too - The Verge",
       "detected_at": "2026-07-31T13:41:17+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-08-01-671dfbda8c85",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says its AI model hacked three companies - Semafor",
-      "detected_at": "2026-07-31T12:29:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -1151,14 +327,6 @@
       "signal_subtype": "generic",
       "title": "Rise of the machines? The fallout from Anthropic and OpenAI hacks - usatoday.com",
       "detected_at": "2026-07-31T23:05:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-08-01-f9c5a9fe9fbe",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "CoreWeave bows to investor pushback on debt linked to Anthropic contracts - Financial Times",
-      "detected_at": "2026-07-30T21:09:18+00:00",
       "importance_score": 4.0
     },
     {
@@ -1274,14 +442,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "anthropic-product_launch-2026-08-02-7d7c95f3b7e8",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations - SecurityWeek",
-      "detected_at": "2026-07-31T09:39:57+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "anthropic-product_launch-2026-08-02-23b78439f8f2",
       "signal_type": "product_launch",
       "signal_subtype": "generic",
@@ -1295,14 +455,6 @@
       "signal_subtype": "generic",
       "title": "AI vs. Authors Update: Court Approves Historic Anthropic Settlement While Meta Litigation Continues - JD Supra",
       "detected_at": "2026-07-31T20:09:33+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "anthropic-product_launch-2026-08-02-83a07d2ec05a",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "What Anthropic & OpenAI Agentic Hack Says About AI Controls - Cyber Magazine",
-      "detected_at": "2026-07-31T11:27:23+00:00",
       "importance_score": 5.0
     },
     {
@@ -1354,14 +506,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-08-02-6b46d1f9326d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic’s Claude AI Broke Into Three Companies During Security Tests - Forbes",
-      "detected_at": "2026-07-31T11:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-08-02-a6935ee1bee4",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -1383,14 +527,6 @@
       "signal_subtype": "generic",
       "title": "Anthropic says Claude AI hacked three companies during tests - dw.com",
       "detected_at": "2026-07-31T18:36:38+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-08-02-6d8247056927",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says its models went rogue and hacked 3 companies during testing - Business Insider",
-      "detected_at": "2026-07-31T11:50:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -1434,22 +570,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "anthropic-news_mention-2026-08-02-b238b573a85a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says its AI hacked real-world companies in three incidents - The Record from Recorded Future News",
-      "detected_at": "2026-07-31T12:24:03+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-08-02-671dfbda8c85",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic says its AI model hacked three companies - Semafor",
-      "detected_at": "2026-07-31T12:29:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "anthropic-news_mention-2026-08-02-1d070ba5049e",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -1463,14 +583,6 @@
       "signal_subtype": "generic",
       "title": "Chloe Lubinski Of Anthropic, A Powerful Story About Claude - Quantum Zeitgeist",
       "detected_at": "2026-08-01T23:46:19+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-08-02-307a3698c9aa",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Anthropic's Claude AI models breached three real companies during cybersecurity tests - qz.com",
-      "detected_at": "2026-07-31T12:32:03+00:00",
       "importance_score": 4.0
     },
     {
@@ -1543,14 +655,6 @@
       "signal_subtype": "generic",
       "title": "Anthropic Says Its AI Models Went Rogue, Too. They Thought They Were in a Simulation - inc.com",
       "detected_at": "2026-07-31T19:18:23+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "anthropic-news_mention-2026-08-02-c35babe57b9c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "FAR.AI’s Adam Gleave on Anthropic AI breach: AI models are now very capable - CNBC",
-      "detected_at": "2026-07-31T11:44:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -47599,6 +46703,550 @@
       "signal_subtype": "generic",
       "title": "The tech reporter who could become a $28 billion Anthropic billionaire - CTech",
       "detected_at": "2026-10-28T10:11:00+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "anthropic-leadership_change-2026-10-29-eb6cc1d9f891",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Anthropic CEO Dario Amodei charts a new direction for tech philanthropy - CNBC",
+      "detected_at": "2026-10-29T11:30:01+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "anthropic-leadership_change-2026-10-29-0261a638a254",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Exclusive | Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal - WSJ",
+      "detected_at": "2026-10-27T17:50:00+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-98daae425a1c",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "What Robinhood's CFO found interesting about Anthropic's IPO prospectus - Yahoo Finance",
+      "detected_at": "2026-10-28T22:39:10+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-10-29-d44192990d92",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying - TechCrunch",
+      "detected_at": "2026-10-28T19:19:58+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-10-29-dce49ac2d0eb",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic Increases Legal Vertical Push With ‘Artifacts’ - Artificial Lawyer",
+      "detected_at": "2026-10-28T15:17:39+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-822f4771ffd6",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic filed to go public—what retail investors should weigh before its IPO - CNBC",
+      "detected_at": "2026-10-28T19:11:25+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-10-29-9b9683ea75d3",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Who Stands to Gain From an Anthropic I.P.O. - The New York Times",
+      "detected_at": "2026-10-28T15:21:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-097f3593632e",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Prediction market bets set the tone for Anthropic's much-awaited IPO - Reuters",
+      "detected_at": "2026-10-28T19:32:07+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-e2eb7c4d3642",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic’s IPO filing left these key questions unanswered - Yahoo Finance",
+      "detected_at": "2026-10-29T09:00:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-914c7838d6e5",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs - Reuters",
+      "detected_at": "2026-10-27T21:16:35+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-aaf6579e1484",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be issue for every company - CNBC",
+      "detected_at": "2026-10-28T13:45:36+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-9b96afa85469",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Watch Anthropic IPO: How Investors in Asia Can Get In - Bloomberg",
+      "detected_at": "2026-10-29T05:37:24+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-dc356aacd496",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic's IPO filing lists 93 pages of risks. What could possibly go wrong? - CBS News",
+      "detected_at": "2026-10-27T19:28:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-aa6ba9c4ef16",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "The Anthropic Prospectus Arrives: My (but not the) IPO valuation! - Musings on Markets",
+      "detected_at": "2026-10-28T18:07:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-9cf8da895060",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic’s IPO Plans Draw Skepticism From Australian CIOs - Bloomberg",
+      "detected_at": "2026-10-29T03:13:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-b3abea1d6371",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' — investors are split - CNBC",
+      "detected_at": "2026-10-27T17:26:34+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-f2e07fe13b89",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "The Dark Side of the Anthropic IPO: What Happens After You Become an Overnight Multi-Millionaire - Inc.com",
+      "detected_at": "2026-10-29T08:11:25+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-ae0bf59fa662",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity - Ars Technica",
+      "detected_at": "2026-10-27T21:31:14+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-450d46503d5f",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "What a Wobbly AI Trade Could Mean for Anthropic’s IPO - Morningstar",
+      "detected_at": "2026-10-29T10:12:03+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-bf3f32bc15f6",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more - TechCrunch",
+      "detected_at": "2026-10-28T01:15:28+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-ee6822f0d617",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Sen. Warren probes AI safety, market risks in Anthropic IPO - CFO Dive",
+      "detected_at": "2026-10-28T20:58:09+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-7aff985e66f4",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic's IPO Is Coming: 5 Key Numbers Investors Need to Know - The Motley Fool",
+      "detected_at": "2026-10-29T08:14:11+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-0a15e5c08159",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Sen. Elizabeth Warren asks Anthropic CEO to address ex­is­tential risks before IPO - Spectrum News",
+      "detected_at": "2026-10-28T16:59:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-be6ef13739d9",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic IPO On Tap, NVIDIA Updates And Other Investor Days Shaping Markets - Seeking Alpha",
+      "detected_at": "2026-10-29T06:55:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-4cbef60b5a6d",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Anthropic Could Begin Marketing Its IPO the Week of Nov. 9 - The Motley Fool",
+      "detected_at": "2026-10-29T04:25:39+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-268acaae4753",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "If There Was Ever a Reason to Avoid the Anthropic IPO, This Is It - The Motley Fool",
+      "detected_at": "2026-10-29T11:09:43+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-bf1ca1f871a7",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Breakingviews - COMMENTARY: Anthropic’s IPO is all about ignoring the future - Reuters",
+      "detected_at": "2026-10-28T17:32:03+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-10-29-16be53fc7fca",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits - The Hacker News",
+      "detected_at": "2026-10-28T08:15:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-56f5e4368ac3",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Kevin O'Leary Says Anthropic IPO Offers What SpaceX Didn't: 'Could Be a Hot Trade' - Benzinga",
+      "detected_at": "2026-10-29T11:09:45+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-4136297ea11e",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "AI Weekly: Anthropic IPO nears, President Trump's ban on AI term - Reuters",
+      "detected_at": "2026-10-29T09:58:29+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-product_launch-2026-10-29-cb7d8095c66c",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Anthropic got hacked again, and this time we know who did it - Yahoo Finance",
+      "detected_at": "2026-10-29T11:00:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-bf739b0448ff",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Why Anthropic’s IPO May Be Ill-Timed Even As It Leans Into Profitability - Forbes",
+      "detected_at": "2026-10-29T11:01:09+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-36cf33657d88",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Why Broadcom Is the Big Anthropic IPO Winner. The Stock Jumps on Buy Upgrade. - Barron's",
+      "detected_at": "2026-10-27T17:50:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-0fedeadb4913",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Nvidia's worst nightmare may be lurking inside Anthropic's IPO filing - Business Insider",
+      "detected_at": "2026-10-27T20:31:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-funding_event-2026-10-29-608b21cd56a2",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Alphabet, Amazon, SpaceX, Microsoft, Broadcom, and AMD Are Counting on Anthropic's IPO. Not All Their Contracts Are Equal. - The Motley Fool",
+      "detected_at": "2026-10-29T12:25:56+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-bb5036e7a7b5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic and OpenAI diverge on who should pull the plug on risky AI - Computerworld",
+      "detected_at": "2026-10-29T12:14:12+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-dcbfc1e38e1b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic spent $2.75 million guarding Dario Amodei last year—more than 4 times his salary - Fortune",
+      "detected_at": "2026-10-29T08:04:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-4aed02c5eca9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Amazon relaxes push for AI use as Anthropic reveals shocking stats - Fox News",
+      "detected_at": "2026-10-28T20:08:48+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-4b2fd0d5b091",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "He called for an AI slowdown, then told investors he’d race ahead - The Washington Post",
+      "detected_at": "2026-10-29T12:03:58+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-64d5eaecf3d5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic engineer declares the coding interview dead - The Register",
+      "detected_at": "2026-10-28T20:22:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-0281824ab225",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic acquires a one-person biotech that used Claude to coordinate 11 labs - R&D World",
+      "detected_at": "2026-10-27T23:10:40+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-55dc7f82f444",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI for Science expands to foundations and research institutions - Anthropic",
+      "detected_at": "2026-10-28T20:14:19+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-af05f77c55fa",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "NEWSLETTER: Should you invest in Anthropic? Five takeaways from its S-1 - Reuters",
+      "detected_at": "2026-10-28T21:16:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-3949d22227fb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Banks Shelve Bond Sale for Anthropic-Tied Texas Data Center - Bloomberg",
+      "detected_at": "2026-10-28T21:50:15+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-218a345045ff",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Expert Judgement Can Be Easily Hacked by AI, Anthropic Study Finds - Gizmodo",
+      "detected_at": "2026-10-28T22:00:50+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-afb28fb15009",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Early progress on accelerating drug development with Claude - Anthropic",
+      "detected_at": "2026-10-27T20:20:53+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-d9599d375fe7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic is about to go public. Here are the proxies that could benefit - CNBC",
+      "detected_at": "2026-10-28T17:04:17+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-96567377e44a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government - Anthropic",
+      "detected_at": "2026-10-28T01:16:46+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-26484516d353",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "How AI agents shape experts’ judgment calls - Anthropic",
+      "detected_at": "2026-10-27T18:50:53+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-81d588bd23a3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic unveils additional Claude tools for lawyers - Reuters",
+      "detected_at": "2026-10-28T16:43:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-6b6cab4dc480",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic says risks for investors include blowback from runaway AI - PBS",
+      "detected_at": "2026-10-27T18:28:55+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-d5a31ccce456",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Chart: Anthropic's cash pile towers over nearly every U.S. company - CNBC",
+      "detected_at": "2026-10-27T21:12:55+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-ee4b173f355b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Opinion | Anthropic’s plan to protect humanity has a flaw - The Washington Post",
+      "detected_at": "2026-10-29T02:47:39+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-d4d604dd408b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Is Spending Millions to Protect Dario Amodei and Employees - Bloomberg",
+      "detected_at": "2026-10-28T16:47:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-051ab1749a0f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Michael Burry calls AI boom 'catastrophically vulnerable' after Anthropic filing (ANT:Pending) - Seeking Alpha",
+      "detected_at": "2026-10-29T07:19:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-5973c641cff3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic and OpenAI Face Commodification Threats. Here’s What to Watch For - Morningstar",
+      "detected_at": "2026-10-29T10:07:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-833d51f9e5e9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic tells California governor courts should be able to block risky AI models - Reuters",
+      "detected_at": "2026-10-28T19:04:22+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-12fc16a7d4ec",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Here are Thursday's biggest analyst calls: Nvidia, Anthropic, Apple, Tesla, Chevron, Microsoft, Alphabet & more - CNBC",
+      "detected_at": "2026-10-29T12:08:23+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-64f27029df76",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Bought Mithril, a One-Man Biotech Startup Built by an Anonymous X User - The Profile | Polina Pompliano",
+      "detected_at": "2026-10-28T14:58:02+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-171f2cb16a70",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "North Carolina Treasurer Brad Briner: Anthropic stake surges on AI bets - CNBC",
+      "detected_at": "2026-10-29T11:15:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-3de14948103b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Tells Newsom Courts Should Be Able to Block Risky AI Models - Technology Org",
+      "detected_at": "2026-10-29T11:20:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-e7248223aee6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Exclusive | Elizabeth Warren Demands Answers From Anthropic on ‘Existential’ Risks - WSJ",
+      "detected_at": "2026-10-28T09:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-cdcd76e008a9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic gets too much attention as a litmus test for AI, says Albion's Ware - CNBC",
+      "detected_at": "2026-10-29T03:58:30+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-9c717b40b3ce",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "See How Anthropic Arrived at Its Mind-Boggling $40 Trillion Market Opportunity - WSJ",
+      "detected_at": "2026-10-28T01:10:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-f026316e3bf1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Four takeaways from Anthropic’s potentially record-breaking stock market filing - The Guardian",
+      "detected_at": "2026-10-27T15:27:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-42e580a0ca93",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Publishers outraged at book sales to Anthropic - Honolulu Star-Advertiser",
+      "detected_at": "2026-10-29T10:09:41+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-news_mention-2026-10-29-6405158cd41b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "We're getting an idea of how much Anthropic stock will be available for retail investors - Business Insider",
+      "detected_at": "2026-10-28T20:43:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "anthropic-github_signal-2026-10-29-8605ff49caaa",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Claude's new smart reports tell bosses when workers are 'off-topic' - Mashable",
+      "detected_at": "2026-10-29T11:46:40+00:00",
       "importance_score": 3.5
     }
   ],

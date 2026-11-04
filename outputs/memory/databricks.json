@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "databricks",
   "created_at": "2026-06-03T17:25:17.618603+00:00",
-  "last_updated": "2026-11-03T13:52:01.339452+00:00",
+  "last_updated": "2026-11-04T13:59:08.089699+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,14 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "databricks-news_mention-2026-08-06-18e2d194f050",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "WarrenAI on private companies: Anthropic, Stripe, Databricks and OpenAI compared - Investing.com Canada",
-      "detected_at": "2026-08-05T15:00:34+00:00",
-      "importance_score": 4.0
-    },
     {
       "signal_id": "databricks-product_launch-2026-08-07-beb0a975fb16",
       "signal_type": "product_launch",
@@ -5863,6 +5855,30 @@
       "signal_subtype": "generic",
       "title": "Interlock Equity Completes Sale of Lovelytics to CDW - 01net",
       "detected_at": "2026-11-02T19:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-funding_event-2026-11-04-b5c1de914ec6",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Databricks Plans US$350M Singapore Investment, Expands AI Operations - Asia Business Outlook",
+      "detected_at": "2026-11-04T03:56:50+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-04-5374522403ec",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Wood, Databricks partner to scale AI across energy asset lifecycle - World Oil",
+      "detected_at": "2026-11-03T18:06:02+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-04-75bda4221595",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Wood partners with Databricks to help energy companies realize greater value from AI - Hydrocarbon Processing",
+      "detected_at": "2026-11-03T19:35:48+00:00",
       "importance_score": 4.0
     }
   ],

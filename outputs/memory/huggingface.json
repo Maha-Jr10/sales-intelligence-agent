@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-11-04T13:59:08.280736+00:00",
+  "last_updated": "2026-11-05T14:18:37.479599+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,140 +18,12 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "huggingface-leadership_change-2026-08-07-3913f8af21a6",
-      "signal_type": "leadership_change",
-      "signal_subtype": "generic",
-      "title": "OpenAI models joined forces months ahead of Hugging Face hack - wenatcheeworld.com",
-      "detected_at": "2026-08-06T21:27:00+00:00",
-      "importance_score": 6.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-07-f2982de85c21",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "First OpenAI, now Meta - why do AI hacks keep happening? - BBC",
-      "detected_at": "2026-08-06T15:59:34+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-07-fae566acecec",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "CISOs Must Rethink Containment After Hugging Face Incident - BankInfoSecurity",
-      "detected_at": "2026-08-06T22:48:44+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-07-a8a5b754a975",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "What Should We Learn From the Hugging Face Incident? - Built In",
-      "detected_at": "2026-08-06T14:18:41+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-07-93ef1aa3574e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "The Sandbox Failed: How OpenAI's Experimental AIs Went Rogue and Attacked Hugging Face - pcmag.com",
-      "detected_at": "2026-08-06T16:52:20+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-07-cf328874445f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "New details on OpenAI/Hugging Face attack emerge as security industry debates AI agent controls - SiliconANGLE",
-      "detected_at": "2026-08-06T20:45:22+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-07-8d86908f79dd",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI agents passed secret notes for months leading up to Hugging Face hack - Fortune",
-      "detected_at": "2026-08-06T19:31:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-07-c8c125f33b35",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Reveals How AI Agents Secretly Coordinated Before Hugging Face Hack - Decrypt",
-      "detected_at": "2026-08-06T18:26:29+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-07-41fe6bce95f5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "How AZT Breaks the Hugging Face Attack Chain | ARIA Cybersecurity - Security Boulevard",
-      "detected_at": "2026-08-06T21:36:13+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-07-be6820bd59df",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Reveals AI Agents Turned on Its Own Testing Environment Before Hacking Hugging Face - International Business Times",
-      "detected_at": "2026-08-06T18:16:57+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-07-3d1195f416b9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI’s Evaluation Agents Built a Secret Message Board, Exploited Zero-Days, and Breached Hugging Face — From the Inside - forkast.news",
-      "detected_at": "2026-08-07T06:37:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-07-8303356380f5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Who’s controlling Artificial Intelligence? - Washington Times",
-      "detected_at": "2026-08-06T21:33:12+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-07-f24454b18a20",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AI models coordinated secretly to bypass limits in Hugging Face incident - Межа. Новини України.",
-      "detected_at": "2026-08-06T15:51:27+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-07-2530de38efa3",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Agents Traded Exploits For Two Months Before Hugging Face Breach - Yellow.com",
-      "detected_at": "2026-08-06T15:02:02+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "huggingface-leadership_change-2026-08-08-d6930f26313e",
       "signal_type": "leadership_change",
       "signal_subtype": "new_ceo",
       "title": "Hugging Face CEO says China is winning the AI race while the US is building 'in silos' - AOL.com",
       "detected_at": "2026-08-07T18:09:16+00:00",
       "importance_score": 7.0
-    },
-    {
-      "signal_id": "huggingface-product_launch-2026-08-08-e37d68ad3ad1",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "China is gaining ground in AI. But the U.S. still has a major advantage - CNBC",
-      "detected_at": "2026-08-07T11:00:01+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "huggingface-product_launch-2026-08-08-393bb95c97cc",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Runaway OpenAI Agent Hits Hugging Face and Exposes AI Guardrail Gaps - IEEE Spectrum",
-      "detected_at": "2026-08-06T19:30:06+00:00",
-      "importance_score": 5.0
     },
     {
       "signal_id": "huggingface-news_mention-2026-08-08-492b00c34f2f",
@@ -170,78 +42,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "huggingface-news_mention-2026-08-08-3150667835c6",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Small Language Models with Hugging Face transformers Library + smolLM3 - KDnuggets",
-      "detected_at": "2026-08-07T14:11:41+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-08-6898af408857",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "The godfather of Israeli cybersecurity: The Hugging Face incident exposes the wrong AI security debate - Fortune",
-      "detected_at": "2026-08-07T09:36:31+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-08-cf328874445f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "New details on OpenAI/Hugging Face attack emerge as security industry debates AI agent controls - SiliconANGLE",
-      "detected_at": "2026-08-06T20:45:22+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-08-c8c125f33b35",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Reveals How AI Agents Secretly Coordinated Before Hugging Face Hack - Decrypt",
-      "detected_at": "2026-08-06T18:26:29+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-08-3ebcf70b5355",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI’s Security Breach Was More Alarming Than We Knew - Forbes",
-      "detected_at": "2026-08-07T13:59:22+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-08-a8a5b754a975",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "What Should We Learn From the Hugging Face Incident? - Built In",
-      "detected_at": "2026-08-06T14:18:41+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-08-fae566acecec",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "CISOs Must Rethink Containment After Hugging Face Incident - BankInfoSecurity",
-      "detected_at": "2026-08-06T22:48:44+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-08-60a2676bea8a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "The Hugging Face Incident Is a Warning: Every Enterprise Needs AI Agents Watching AI Agents - Security Boulevard",
-      "detected_at": "2026-08-07T08:30:42+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-product_launch-2026-08-09-e37d68ad3ad1",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "China is gaining ground in AI. But the U.S. still has a major advantage - CNBC",
-      "detected_at": "2026-08-07T11:00:01+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "huggingface-news_mention-2026-08-09-4d51db760205",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -258,27 +58,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "huggingface-news_mention-2026-08-09-3150667835c6",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Small Language Models with Hugging Face transformers Library + smolLM3 - kdnuggets.com",
-      "detected_at": "2026-08-07T14:11:41+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "huggingface-news_mention-2026-08-09-492b00c34f2f",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Watch the OpenAI Hugging Face presentation that people are calling a 'holy %{*#^' moment in AI - businessinsider.com",
       "detected_at": "2026-08-07T17:25:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-09-3ebcf70b5355",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI’s Security Breach Was More Alarming Than We Knew - Forbes",
-      "detected_at": "2026-08-07T13:59:22+00:00",
       "importance_score": 4.0
     },
     {
@@ -295,22 +79,6 @@
       "signal_subtype": "generic",
       "title": "After Hugging Face hack, OpenAI pauses work on Astra AI model over cybersecurity risks - The Times of India",
       "detected_at": "2026-08-08T10:50:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-09-81cb1265077b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Who is liable when AI goes rogue? Lawyers see new risks - Reuters",
-      "detected_at": "2026-08-07T10:19:08+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-09-60a2676bea8a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "The Hugging Face Incident Is a Warning: Every Enterprise Needs AI Agents Watching AI Agents - securityboulevard.com",
-      "detected_at": "2026-08-07T08:30:42+00:00",
       "importance_score": 4.0
     },
     {
@@ -15208,6 +14976,222 @@
       "title": "Open-Weight Models Put AI Rules Out of the Regulator’s Reach - https://economy.ac/",
       "detected_at": "2026-11-04T05:13:32+00:00",
       "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-11-05-b52d2fde2748",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_cto",
+      "title": "Nvidia Rides Sector Tailwind as Melius Trims Target and Washington Scrutinizes Hugging Face Deal - ad-hoc-news.de",
+      "detected_at": "2026-11-04T03:01:32+00:00",
+      "importance_score": 9.5
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-11-05-79508126a1ba",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Hugging Face Launches ProtoStar to Tackle Science’s Data Problem - HPCwire",
+      "detected_at": "2026-11-04T23:31:37+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-11-05-bd54703f965f",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’ - WIRED",
+      "detected_at": "2026-11-04T19:16:00+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-11-05-b3c116766628",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Hugging Face CEO: AI Doom Risk 'Close to Zero' with Open Source - The Tech Buzz",
+      "detected_at": "2026-11-04T19:34:15+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-11-05-32d3834b479d",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Hugging Face CEO Puts AI Doom Odds Near Zero, Says Closed Labs Pose Real Threat - BigGo Finance",
+      "detected_at": "2026-11-05T05:35:00+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-11-05-61bcda06704b",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Watch Open Source Models Will Convince People AI Isn’t Bad: Hugging Face CEO - WIRED",
+      "detected_at": "2026-11-04T23:02:23+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-funding_event-2026-11-05-13656cf03ac6",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Nvidia's Next Test Is Capital, Not Capacity: Melius Cuts Target as DOJ Scrutinizes Hugging Face - ad-hoc-news.de",
+      "detected_at": "2026-11-04T09:11:04+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-11-05-35be815933c2",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Hugging Face CEO puts AI extinction risk near zero, points at closed labs - Cryptopolitan",
+      "detected_at": "2026-11-05T05:00:25+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-github_signal-2026-11-05-9bf1bd35a1e5",
+      "signal_type": "github_signal",
+      "signal_subtype": "new_public_repo",
+      "title": "Open source AI is booming. Hugging Face explains who profits. - Yahoo Finance",
+      "detected_at": "2026-11-04T19:30:04+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-11-05-cf4306adbad7",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "1,206 AI Agents Form Secret Chatroom, Launch Cyberattack on Hugging Face - www.techtimes.co.uk",
+      "detected_at": "2026-11-05T13:36:03+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-11-05-a082d24c8a8d",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Moonshot AI releases Kimi K3.1 Pro model weights - TechNode",
+      "detected_at": "2026-11-05T06:01:34+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-11-05-c3bb92fd3a90",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "How OpenAI’s AI Agents Broke Into Hugging Face - EEW Magazine",
+      "detected_at": "2026-11-03T19:12:58+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-11-05-8f0e47f05660",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Moonshot AI Releases Full 1.56TB Weights of Kimi K3.1 Pro for Free, Permits Commercial Use With Conditions - BigGo Finance",
+      "detected_at": "2026-11-05T04:41:48+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-11-05-5855c3d3b068",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Nvidia's Order Book Meets Its Limits: China Supply Gap, DOJ Scrutiny, and a November Reckoning - ad-hoc-news.de",
+      "detected_at": "2026-11-04T11:20:54+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-05-cb16f48becbd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Moonshot AI Publishes Kimi K3.1 Pro Weights on Hugging Face - www.tokenpost.com",
+      "detected_at": "2026-11-05T11:04:21+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-05-8b418d85e294",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Don’t Let ‘Misaligned’ and ‘Rogue’ Agents Obscure Corporate Accountability in OpenAI–Hugging Face Probes - Tech Policy Press",
+      "detected_at": "2026-11-03T14:19:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-05-9860fba3f3d6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Riemann Computing Publishes Technical Account of 13.1-Billion-Parameter AI Model Development - USA Today",
+      "detected_at": "2026-11-05T12:19:32+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-05-6f23ffea76ce",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Kimi K3.1 Pro Weights Out; Leads Opus 5.5 on 16 of 37 Tests - FourWeekMBA",
+      "detected_at": "2026-11-04T18:14:54+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-05-9c0f69854435",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Open-Weight Models Put AI Rules Out of the Regulator’s Reach - https://economy.ac/",
+      "detected_at": "2026-11-04T05:13:32+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-05-f500c75b0071",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Indian AI Model Ranks No. 1 in Hindi Speech Recognition on Hugging Face - Digital Studio India",
+      "detected_at": "2026-11-04T04:37:26+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-05-8131a88b3080",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia's Oracle Build-Out and $12.93 Billion Hugging Face Deal Take Centre Stage as Q3 Call Looms - ad-hoc-news.de",
+      "detected_at": "2026-11-03T21:01:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-05-bc0b2703de6f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia Balances Supply-Chain Bets and Tighter Cloud Rules as Wall Street Trims Its Target - ad-hoc-news.de",
+      "detected_at": "2026-11-03T16:21:41+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-05-866424a7eaef",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia's 17 November Earnings Call Looms Larger Than Any Single Session's Rally - ad-hoc-news.de",
+      "detected_at": "2026-11-04T05:41:33+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-05-dadd4092acf4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia's Two Clocks: A $12.93 Billion Deal Under Review and a Regulatory Cloud That Hasn't Rained Ye - ad-hoc-news.de",
+      "detected_at": "2026-11-04T16:01:27+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-05-714fa309f33c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia's China Order Book Is Six Million Chips Deep. Buyers Expect About 1% of Them. - ad-hoc-news.de",
+      "detected_at": "2026-11-04T12:51:26+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-05-d65f044d96bb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face explains profit dynamics in open-source AI market - Traders Union",
+      "detected_at": "2026-11-05T04:41:32+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-github_signal-2026-11-05-3c81315a03a1",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Nvidia's Substrate Bet, Hugging Face Review and an Unverified China Report: Three Threads Investors - ad-hoc-news.de",
+      "detected_at": "2026-11-04T14:21:10+00:00",
+      "importance_score": 3.5
     }
   ],
   "brief_history": [],

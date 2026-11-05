@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "openai",
   "created_at": "2026-06-03T17:25:17.679650+00:00",
-  "last_updated": "2026-11-04T13:59:08.150795+00:00",
+  "last_updated": "2026-11-05T14:18:37.318560+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,454 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "openai-hiring_spike-2026-08-07-ae806ac6484c",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "bulk_engineering",
-      "title": "‘Don’t apply to OpenAI’: This hiring platform CEO sees 2,539 applicants for every 10 jobs - Fortune",
-      "detected_at": "2026-08-07T07:00:00+00:00",
-      "importance_score": 8.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-08-07-975eade98e43",
-      "signal_type": "product_launch",
-      "signal_subtype": "new_product",
-      "title": "Meta Launches Muse Code to Challenge OpenAI, Anthropic - mexicobusiness.news",
-      "detected_at": "2026-08-06T17:50:07+00:00",
-      "importance_score": 7.5
-    },
-    {
-      "signal_id": "openai-product_launch-2026-08-07-0926eccfb9f3",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker - The Verge",
-      "detected_at": "2026-08-06T20:55:39+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-08-07-879f50e5c667",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI’s Doughnut-Shaped ChatGPT Speaker Leaks With Moving Parts, $300-$400 Price, 2027 Release - NewsCord",
-      "detected_at": "2026-08-07T06:47:30+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-08-07-f6637b8cf142",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI's Ring-Shaped Smart Speaker Will Reportedly Cost Between $300 And $400 - Engadget",
-      "detected_at": "2026-08-06T21:46:26+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-08-07-25d3803b6b83",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "OpenAI Will No Longer Limit How Many Texts Free Accounts Can Send To ChatGPT - Engadget",
-      "detected_at": "2026-08-06T17:01:56+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-product_launch-2026-08-07-d2e2d57cfa56",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Meta is launching its first AI coding agent to rival Anthropic and OpenAI - qz.com",
-      "detected_at": "2026-08-06T17:35:22+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-f4503f4d8685",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI’s New Device Will Be Hockey Puck-Sized and Cost Over $300 - Bloomberg.com",
-      "detected_at": "2026-08-06T19:59:38+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-e9c7006381e8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI’s latest math breakthroughs commit research misconduct, experts say - Scientific American",
-      "detected_at": "2026-08-06T18:47:54+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-162abb672f98",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case - Yahoo Finance",
-      "detected_at": "2026-08-06T15:10:32+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-64d127df3d2f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "ChatGPT brings unlimited text chats to free users - TechCrunch",
-      "detected_at": "2026-08-06T17:34:42+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-59e8a22c427c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI is giving ChatGPT free users unlimited text chats - The Verge",
-      "detected_at": "2026-08-06T17:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-cf25aa615e37",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "What is OpenAI Astra? Everything we know about the quantum math-solving model. - Mashable",
-      "detected_at": "2026-08-06T16:16:54+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-c18a6d4837e6",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI agents passed secret notes for months leading up to Hugging Face hack - Fortune",
-      "detected_at": "2026-08-06T19:31:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-4e69353ff486",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI's new hardware leaks: Over $300, same size as an Alexa Dot - AppleInsider",
-      "detected_at": "2026-08-06T20:36:58+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-d0ee4637eeb9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI makes major upgrades for free and paid ChatGPT users. Here's what they are - Axios",
-      "detected_at": "2026-08-06T17:35:52+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-db7c7295d267",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "New details on OpenAI/Hugging Face attack emerge as security industry debates AI agent controls - SiliconANGLE",
-      "detected_at": "2026-08-06T20:45:22+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-3c4ea8d126c4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "From asking to doing: How the world is putting ChatGPT to work - OpenAI",
-      "detected_at": "2026-08-06T18:09:10+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-3013d6ed8eff",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Meta becomes third major AI lab after Anthropic and OpenAI to admit its agents have gone rogue - Fortune",
-      "detected_at": "2026-08-06T19:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-bbcc91b15a24",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Aims to Redefine Smart Speakers With First AI Device - PYMNTS.com",
-      "detected_at": "2026-08-07T02:19:21+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-87e78fb82158",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Reveals How AI Agents Secretly Coordinated Before Hugging Face Hack - Decrypt",
-      "detected_at": "2026-08-06T18:26:29+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-68982a727d8f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI's AI models teamed up to hack their way online. Then Meta admitted a breach of its own - Insurance Business",
-      "detected_at": "2026-08-06T19:34:52+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-64cd775d218b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Drops ChatGPT Limits for Free Users and Upgrades Paid Tiers - PYMNTS.com",
-      "detected_at": "2026-08-06T21:48:33+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-3479080cc686",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Jealously Watching OpenAI and Anthropic, Meta Suddenly Claims That Its AI Went on a Hacking Spree Too - Futurism",
-      "detected_at": "2026-08-06T20:23:05+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-d20362b39c59",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Asks Judge to Toss Apple’s Trade Secrets Lawsuit - Bloomberg.com",
-      "detected_at": "2026-08-06T16:06:49+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-dc6c912c7424",
-      "signal_type": "news_mention",
-      "signal_subtype": "award",
-      "title": "Massive Bio named OpenAI Select Partner for oncology AI - MobiHealthNews",
-      "detected_at": "2026-08-06T19:42:14+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-c73459297713",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI says Apple's trade-secrets lawsuit is really about losing the AI talent war - Business Insider",
-      "detected_at": "2026-08-06T17:40:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-5f1bbd62d82f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Seeks Dismissal of Apple Trade Secrets Lawsuit - PYMNTS.com",
-      "detected_at": "2026-08-06T16:16:33+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-570c0ccfbb3a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "The Sandbox Failed: How OpenAI's Experimental AIs Went Rogue and Attacked Hugging Face - PCMag Middle East",
-      "detected_at": "2026-08-07T04:20:05+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-ec7df70e9c68",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AI Agents Built a Secret Message Board to Trade Hacking Tips, OpenAI Says - SOFX",
-      "detected_at": "2026-08-07T04:00:51+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-a7f7ce143ad2",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AWS’ OpenAI And Anthropic Coding Integrations To Drive AI Wins Via Security, Partners Say - crn.com",
-      "detected_at": "2026-08-06T15:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-a5cf3a390729",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Tried to Hire Influencers to Spread Love for Its Products, But It Backfired Horrendously - Futurism",
-      "detected_at": "2026-08-06T18:58:18+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-f1108b4840b8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Google’s Shake-Up Complicates Race With OpenAI, Anthropic - Bloomberg.com",
-      "detected_at": "2026-08-06T21:00:01+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-b5b7a1ed5a56",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Meta Model’s Hack Mirrors Previous OpenAI and Anthropic Security Breaches - PYMNTS.com",
-      "detected_at": "2026-08-06T16:46:39+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-8d20deda522a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "How OpenAI Is Capturing the Most Valuable Moment in Healthcare - inc.com",
-      "detected_at": "2026-08-06T17:52:31+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-33bf35298313",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI fires back saying Apple is suing because it can't compete - AppleInsider",
-      "detected_at": "2026-08-06T15:38:32+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-e8dd08c57b9f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AWS Extends DevSecOps Reach to AI Coding Tools from Anthropic and OpenAI - DevOps.com",
-      "detected_at": "2026-08-06T15:53:22+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-56172e3088e3",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI’s new device will be hockey puck-size and cost over $300 - The Japan Times",
-      "detected_at": "2026-08-07T03:02:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-3e49325e23f1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it - BleepingComputer",
-      "detected_at": "2026-08-06T22:48:22+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-c9ca06d639e9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI selects 14 research projects to study AI’s effects on work, education and inequality - EdTech Innovation Hub",
-      "detected_at": "2026-08-06T23:01:17+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-55c597d5a5d2",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "SoftBank’s OpenAI-Backed Loan Highlights Risks in Financing Strategy - The Information",
-      "detected_at": "2026-08-07T00:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-ee647ce1d908",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Effingham County residents are coming to grips with their neighbor-to-be: OpenAI - Georgia Public Broadcasting",
-      "detected_at": "2026-08-06T16:17:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-de69acdecf9f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "SoftBank Is Putting More Leverage Behind Its OpenAI Bet - Yahoo Finance UK",
-      "detected_at": "2026-08-06T19:46:09+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-3132c16d3b44",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI and four rivals just agreed on one standard for AI agents - The Next Web",
-      "detected_at": "2026-08-06T18:12:25+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-eb8315f0d72e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Former OpenAI researcher predicts brain-controlled AI coding agents by 2027 - CryptoSlate",
-      "detected_at": "2026-08-07T07:00:35+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-14eadd9b4308",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI's ChatGPT Speaker Will Be Hockey Puck-Sized and Cost Over $300 - MacRumors",
-      "detected_at": "2026-08-06T21:00:48+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-6634c394b250",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Says Apple’s Real Problem Is Being Bad at AI, Not Stolen Secrets - Gizmodo",
-      "detected_at": "2026-08-06T16:30:33+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-4e310d07084e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue - KIRO 7 News Seattle",
-      "detected_at": "2026-08-06T20:38:51+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-9bbaab654a5c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Dem senator presses OpenAI, Anthropic for answers in AI hacking probe - Fox News",
-      "detected_at": "2026-08-06T14:03:15+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-84a5b512992a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Improves GPT-5.6 Sol And Gives Free Users Unlimited GPT-5.6 Luna Text Chats - Pulse 2.0",
-      "detected_at": "2026-08-06T19:59:18+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-c7c0c5b682ab",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model - the-decoder.com",
-      "detected_at": "2026-08-06T18:43:54+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-07-5e0681bd2c6c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "GPT-5 turning one as OpenAI shares new Agent Plugins standard - 9to5mac.com",
-      "detected_at": "2026-08-06T16:30:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-github_signal-2026-08-07-e3e80dac2967",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400 - TechCrunch",
-      "detected_at": "2026-08-06T22:43:53+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "openai-github_signal-2026-08-07-77f1af43a399",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "Creators Get Slammed for Taking OpenAI Luxury Trip, Company Welcomes “Healthy Debate” - The Hollywood Reporter",
-      "detected_at": "2026-08-06T23:28:49+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "openai-github_signal-2026-08-07-de5543204181",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "Report: OpenAI’s upcoming AI speaker will be shaped like a donut and cost around $300 - SiliconANGLE",
-      "detected_at": "2026-08-06T23:40:28+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "openai-github_signal-2026-08-07-0c07554f1999",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "OpenAI's AI smart speaker will reportedly be shaped 'like a doughnut' - Mashable",
-      "detected_at": "2026-08-07T07:16:23+00:00",
-      "importance_score": 3.5
-    },
     {
       "signal_id": "openai-leadership_change-2026-08-08-489c4e642847",
       "signal_type": "leadership_change",
@@ -514,14 +66,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "openai-news_mention-2026-08-08-f4503f4d8685",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI’s New Device Will Be Hockey Puck-Sized and Cost Over $300 - bloomberg.com",
-      "detected_at": "2026-08-06T19:59:38+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-08-08-8a0464d8f4df",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -546,51 +90,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-08-08-e9c7006381e8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI’s latest math breakthroughs commit research misconduct, experts say - Scientific American",
-      "detected_at": "2026-08-06T18:47:54+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-08-08-2f63fb7fb810",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Opinion | Silicon Valley has embraced a strange new faith - The Washington Post",
       "detected_at": "2026-08-07T18:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-08-64d127df3d2f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "ChatGPT brings unlimited text chats to free users - TechCrunch",
-      "detected_at": "2026-08-06T17:34:42+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-08-d0ee4637eeb9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI makes major upgrades for free and paid ChatGPT users. Here's what they are - Axios",
-      "detected_at": "2026-08-06T17:02:56+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-08-59e8a22c427c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI is giving ChatGPT free users unlimited text chats - The Verge",
-      "detected_at": "2026-08-06T17:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-08-ef6890ac6fc7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Backlash to OpenAI luxury retreat highlights influencers' uncertain relationship with AI - CBC",
-      "detected_at": "2026-08-07T08:00:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -615,14 +119,6 @@
       "signal_subtype": "generic",
       "title": "OpenAI says its upcoming Astra model may have 'critical' cybersecurity capabilities amid rash of AI model hacks - Yahoo Finance",
       "detected_at": "2026-08-07T19:49:09+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-08-886201d7be6d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI’s Security Breach Was More Alarming Than We Knew - Forbes",
-      "detected_at": "2026-08-07T13:59:22+00:00",
       "importance_score": 4.0
     },
     {
@@ -690,14 +186,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-08-08-3c4ea8d126c4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "From asking to doing: How the world is putting ChatGPT to work - OpenAI",
-      "detected_at": "2026-08-06T18:09:10+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-08-08-ca324a55a2ce",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -706,35 +194,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-08-08-c18a6d4837e6",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI agents passed secret notes for months leading up to Hugging Face hack - Fortune",
-      "detected_at": "2026-08-06T19:31:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-08-069080f018dd",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI, Anthropic AI agents implicated in new security breaches - Reuters",
-      "detected_at": "2026-08-06T14:31:49+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-08-08-1020b4a68aa1",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Next steps for Effingham County’s OpenAI data center - WTOC",
       "detected_at": "2026-08-08T03:17:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-08-ce15ee84f6d5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory - OpenAI",
-      "detected_at": "2026-08-07T09:27:29+00:00",
       "importance_score": 4.0
     },
     {
@@ -802,14 +266,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-08-08-4e69353ff486",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI's new hardware leaks: Over $300, same size as an Alexa Dot - AppleInsider",
-      "detected_at": "2026-08-06T20:36:58+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-08-08-c209a0d9af1f",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -866,14 +322,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-08-08-5c4129c69647",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI will bring ChatGPT ads to Brazil and Mexico, and is adding a raft of fresh features - Business Insider",
-      "detected_at": "2026-08-07T09:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-08-08-13cedce9fc13",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -887,14 +335,6 @@
       "signal_subtype": "generic",
       "title": "OpenAI pauses work on upcoming Astra model over cyber capabilities (OPENAI:Private) - Seeking Alpha",
       "detected_at": "2026-08-07T17:57:47+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-08-80fe2916ec70",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "The Israeli startup testing the limits of OpenAI, Anthropic and Meta’s models - calcalistech.com",
-      "detected_at": "2026-08-07T10:56:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -914,43 +354,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-08-08-26d7beaa73ba",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "detected_at": "2026-08-07T09:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-github_signal-2026-08-08-0c07554f1999",
       "signal_type": "github_signal",
       "signal_subtype": "generic",
       "title": "OpenAI's AI smart speaker will reportedly be shaped 'like a doughnut' - Mashable",
       "detected_at": "2026-08-07T17:13:39+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "openai-github_signal-2026-08-08-e3e80dac2967",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400 - TechCrunch",
-      "detected_at": "2026-08-06T22:43:53+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "openai-github_signal-2026-08-08-357d8a13546f",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "OpenAI’s new device is reportedly a $300 portable donut that watches you - Fortune",
-      "detected_at": "2026-08-07T10:27:00+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "openai-github_signal-2026-08-08-77f1af43a399",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "Creators Get Slammed for Taking OpenAI Luxury Trip, Company Welcomes “Healthy Debate” - The Hollywood Reporter",
-      "detected_at": "2026-08-06T23:28:49+00:00",
       "importance_score": 3.5
     },
     {
@@ -1082,27 +490,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-08-09-886201d7be6d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI’s Security Breach Was More Alarming Than We Knew - Forbes",
-      "detected_at": "2026-08-07T13:59:22+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-08-09-f64b9fc43a81",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls - Reuters",
       "detected_at": "2026-08-07T17:46:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-09-ce15ee84f6d5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory - OpenAI",
-      "detected_at": "2026-08-07T09:27:29+00:00",
       "importance_score": 4.0
     },
     {
@@ -1218,27 +610,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "openai-news_mention-2026-08-09-ef6890ac6fc7",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Backlash to OpenAI luxury retreat highlights influencers' uncertain relationship with AI - cbc.ca",
-      "detected_at": "2026-08-07T08:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "openai-news_mention-2026-08-09-ca324a55a2ce",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash - The Register",
       "detected_at": "2026-08-07T23:41:07+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-09-5c4129c69647",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI will bring ChatGPT ads to Brazil and Mexico, and is adding a raft of fresh features - businessinsider.com",
-      "detected_at": "2026-08-07T09:00:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -1303,14 +679,6 @@
       "signal_subtype": "generic",
       "title": "Responding to the next frontier of critical cyber capabilities",
       "detected_at": "2026-08-07T15:20:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "openai-news_mention-2026-08-09-26d7beaa73ba",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "detected_at": "2026-08-07T09:00:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -49543,6 +48911,694 @@
       "signal_subtype": "generic",
       "title": "Rewarding defenders with bigger bug bounties",
       "detected_at": "2026-11-02T18:00:00+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "openai-product_launch-2026-11-05-e1161231701d",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "OpenAI launches Images 2.6 with GIFs and image reference - TestingCatalog AI News",
+      "detected_at": "2026-11-05T00:44:32+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-11-05-09a83cfcdc89",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer - OpenAI",
+      "detected_at": "2026-11-03T19:31:13+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "openai-leadership_change-2026-11-05-0d094421f6d0",
+      "signal_type": "leadership_change",
+      "signal_subtype": "generic",
+      "title": "OpenAI reveals 5 AI priorities ahead of 2028 US election - Digital Watch Observatory",
+      "detected_at": "2026-11-05T12:01:49+00:00",
+      "importance_score": 6.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-11-05-9b30ababc724",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "OpenAI, ready to IPO in 2027, now counts majority of sales from enterprises, Brockman says - Reuters",
+      "detected_at": "2026-11-05T02:05:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-11-05-f382f944f8da",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "AMD's AI megadeals with OpenAI and Meta just cost it $1.1 billion: Chart of the Day - Yahoo Finance",
+      "detected_at": "2026-11-04T13:09:53+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-11-05-73a829211e92",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Andrew Garfield Says He ‘Never Had Any Interaction’ With Sam Altman While Filming ‘Artificial,’ Despite Altman Claiming They Waved to Each Other: ‘I Was Very Confused By That’ - Variety",
+      "detected_at": "2026-11-05T02:49:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-11-05-598c4689e286",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI Says It Will Protect Local Resources And Report On The Impact Of Its Data Centers - Engadget",
+      "detected_at": "2026-11-05T12:37:38+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-hiring_spike-2026-11-05-27503d19918d",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "OpenAI hires Uber President Jill Hazelbaker to lead communications, filling key role after 10 months - Fortune",
+      "detected_at": "2026-11-03T22:28:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-11-05-c9d624dc4d01",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "😺 OpenAI launched Images 2.6 with GIFs - The Neuron",
+      "detected_at": "2026-11-05T09:33:13+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-11-05-eee46509bf86",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "OpenAI will be ready for an IPO in 2027, says Greg Brockman - The Next Web",
+      "detected_at": "2026-11-05T09:33:41+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-11-05-e04ddb3dddc4",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI's coding, enterprise push gains ground on Anthropic: report - Seeking Alpha",
+      "detected_at": "2026-11-05T13:28:36+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-11-05-296ee250ebe6",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "AIVideoFree Integrates OpenAI’s GPT Image 2.6 a Day After Release, Running Both New Models Alongside Competing Image Generators - USA Today",
+      "detected_at": "2026-11-05T12:59:10+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-11-05-bdc7c19bead1",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "OpenAI Pledges to Shield American Households From AI Data Center Power Costs: ‘We’ll Pay the Full Cost of - Benzinga",
+      "detected_at": "2026-11-05T12:33:46+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-hiring_spike-2026-11-05-45ef5fa5a7a2",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "OpenAI pledges to cover data centre power costs amid growing public opposition after US polls - Firstpost",
+      "detected_at": "2026-11-05T13:28:23+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-funding_event-2026-11-05-694772943a91",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "OpenAI’s Enterprise Sales Take Majority as Brockman Sees IPO Readiness - Unite.AI",
+      "detected_at": "2026-11-05T02:33:04+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-product_launch-2026-11-05-a257c055185e",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model - Decrypt",
+      "detected_at": "2026-11-04T22:16:05+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-hiring_spike-2026-11-05-d4216082c12e",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "detected_at": "2026-11-05T02:00:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-40b89ec18744",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI kicks off charm offensive to change voters' view of data centers - Reuters",
+      "detected_at": "2026-11-05T13:03:14+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-299f273f1bcc",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run - The Hacker News",
+      "detected_at": "2026-11-05T04:31:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-1e99051ef29f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Finds 948 Local Privilege Escalation Bugs In The Linux Kernel - Phoronix",
+      "detected_at": "2026-11-05T10:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-b38a483099f5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Man sues OpenAI alleging ChatGPT encouraged his wife to poison him - USA Today",
+      "detected_at": "2026-11-05T14:01:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-5a79cc18df96",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s approach to mathematics does not add up - The Economist",
+      "detected_at": "2026-11-04T18:11:10+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-0208fa6704de",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Had ‘Rough’ First Half of Year Before Coding Takeoff, Brockman Says - WSJ",
+      "detected_at": "2026-11-05T04:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-d5bf43815a90",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "‘Most profound shift of our lifetime’: Jill Hazelbaker joins OpenAI - The Next Web",
+      "detected_at": "2026-11-05T14:07:41+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-50a9435a6ed5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "ChatGPT will now make you animated GIFs - The Verge",
+      "detected_at": "2026-11-04T18:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-20caa7a6bf03",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Exclusive: OpenAI targets Microsoft's GitHub with deal for startup - Axios",
+      "detected_at": "2026-11-04T23:05:30+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-29ba07d27837",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI is already trying to shape the 2028 election - TechCrunch",
+      "detected_at": "2026-11-04T21:25:44+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-2cc764eb67e1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Setting a new standard for responsible AI infrastructure - OpenAI",
+      "detected_at": "2026-11-05T10:14:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-edd141dd4881",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI lays out new policy framework for data centers - Politico",
+      "detected_at": "2026-11-05T11:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-de922b23087a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "A top Anthropic product leader has been poached by OpenAI - Business Insider",
+      "detected_at": "2026-11-05T00:57:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-e7fd370dfd20",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc. - OpenAI",
+      "detected_at": "2026-11-04T14:33:56+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-e9eef0fa25cd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Accelerating engineering for the physical world - OpenAI",
+      "detected_at": "2026-11-03T21:53:57+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-b172170f8e24",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI employees warned about operational security lapses for years, sources say - Reuters",
+      "detected_at": "2026-11-03T18:56:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-c6080c29fdbd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East) - OpenAI",
+      "detected_at": "2026-11-04T15:10:13+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-7f0c75f4473d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI to Bring Pierre Computer’s Code Storage to Codex Through Acquisition - WSJ",
+      "detected_at": "2026-11-04T17:24:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-5caf909146cb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI to Change How It Handles Data Center Efforts After Outcry - Bloomberg.com",
+      "detected_at": "2026-11-05T10:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-5871921d7c3a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "How Trust Is Holding Back AI Agents - Bloomberg.com",
+      "detected_at": "2026-11-05T11:29:33+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-f2e58c4a0b8b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "ChatGPT Search Hits 20% Of Google’s Query Volume, OpenAI Says - Forbes",
+      "detected_at": "2026-11-05T07:05:17+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-9486d251d4fb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks - SecurityWeek",
+      "detected_at": "2026-11-05T10:02:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-fc0114bad708",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "RPT AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge - Reuters",
+      "detected_at": "2026-11-04T02:12:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-5639cd9581ea",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI says ChatGPT is catching up to Google in search - The Verge",
+      "detected_at": "2026-11-03T18:30:42+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-073757f6c32e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI pledges no NDAs, protection from power costs in data center deals (OPENAI:Private) - Seeking Alpha",
+      "detected_at": "2026-11-05T11:03:47+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-f9b6c16451c5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections - The New York Times",
+      "detected_at": "2026-11-03T18:00:07+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-aa1c7771c272",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Musk says Grok Bot's costs are 'unsustainably high,' while OpenAI admits Dots are ‘compute heavy.' - Fortune",
+      "detected_at": "2026-11-03T20:01:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-e7dbdbb92a7d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI to acquire developer tooling startup Pierre Computer - SiliconANGLE",
+      "detected_at": "2026-11-04T21:14:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-dfb72df71d50",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI says its AI can break into Linux at scale. Here's what it means for crypto - CoinDesk",
+      "detected_at": "2026-11-05T08:26:26+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-0d2ade43eea7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Effingham County delays vote on OpenAI data center site plan - WTOC",
+      "detected_at": "2026-11-05T05:06:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-93018f4c5e43",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI signals new approach to data centers amid voter backlash - Quartz",
+      "detected_at": "2026-11-05T13:06:28+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-b10c9c8491a8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI is changing mathematics -- but not how you think : Short Wave - NPR",
+      "detected_at": "2026-11-04T08:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-b4c9f6c793ec",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Security Lapses Drew Staff Warnings for Years, Sources Say - Technology Org",
+      "detected_at": "2026-11-05T12:08:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-87a368915f62",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Musk and OpenAI Hit Compute Limits on AI Agents - Technology Org",
+      "detected_at": "2026-11-05T13:19:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-bc4823918f5e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s upcoming AI model built 948 working Linux root exploits in a single run - Help Net Security",
+      "detected_at": "2026-11-05T09:05:06+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-4002b1a5f604",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Publishes Community Compact and AI Campus Policy Blueprint - Unite.AI",
+      "detected_at": "2026-11-05T10:36:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-13fcd7bf96b3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The Deal With Meta & OpenAI Just Cost AMD $1.1 Billion - Yahoo Finance",
+      "detected_at": "2026-11-05T00:26:37+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-4df3c09f9100",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI promises to drop NDAs and increase community transparency, following anti-data center wave - Data Center Dynamics",
+      "detected_at": "2026-11-05T13:08:17+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-924f3ff8d5eb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI is quietly renaming data centers ‘compute campuses’ - The Verge",
+      "detected_at": "2026-11-03T15:00:44+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-500fdcedd6f3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Pierre Acquisition: 3 Open-Source Tools [2026] - tech-insider.org",
+      "detected_at": "2026-11-05T07:45:21+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-8a8fd73ec9e1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles - the-decoder.com",
+      "detected_at": "2026-11-05T14:13:15+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-d0c591c17d90",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s Pierre Acquisition Signals a New Era for Supply Chain Software Development - Logistics Viewpoints",
+      "detected_at": "2026-11-05T12:08:18+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-179a60369ab8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Says ChatGPT’s Search Volume Is Now a Fifth of Google’s - 24/7 Wall St.",
+      "detected_at": "2026-11-04T20:47:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-68f547687ed3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI model finds 948 root exploits in the Linux kernel - Techzine Global",
+      "detected_at": "2026-11-05T10:07:28+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-48c11e0393c0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI faces fresh Data Privacy and Security controversy amid Insider Threat concerns - Cybersecurity Insiders",
+      "detected_at": "2026-11-05T05:46:13+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-fbc87846db2e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Pledges to Pay Data Center Power Costs After Voter Revolt - The Tech Buzz",
+      "detected_at": "2026-11-05T10:35:46+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-70a833f1df5b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Expedia Group testing OpenAI ad products as agentic partnership economics take shape - PhocusWire",
+      "detected_at": "2026-11-05T00:20:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-5c37d4abc17c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Will Be Ready to Go Public in 2027, Says Co-Founder - marketscreener.com",
+      "detected_at": "2026-11-05T13:10:48+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-af637a74977c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI - the-decoder.com",
+      "detected_at": "2026-11-05T12:23:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-df137dc3d75f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s agent uncovers 1K Linux kernel flaws, saving millions of dollars - Cybernews",
+      "detected_at": "2026-11-05T11:17:20+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-f3fcb9092354",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI is trying to make data centers into Chilean sea bass. Good luck! - Business Insider",
+      "detected_at": "2026-11-05T11:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-978feab02080",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit - The Hacker News",
+      "detected_at": "2026-11-04T16:06:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-807e8f508abb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Cat Wu to Lead Product Management for OpenAI’s Core Products - Unite.AI",
+      "detected_at": "2026-11-05T01:43:03+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-c82ecf0d137f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Cyber Model Uncovers 948 Linux Kernel Privilege Escalation Vulnerabilities - CyberSecurityNews",
+      "detected_at": "2026-11-05T03:00:33+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-437490f45c2b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI agents expose 948 Linux flaws with 10 new attack methods-63 - Interesting Engineering",
+      "detected_at": "2026-11-05T02:27:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-2da2ec3d6cc7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Datacentres are deeply unpopular – so the geniuses at OpenAI are rebranding them | Arwa Mahdawi - The Guardian",
+      "detected_at": "2026-11-03T17:03:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-931d94da6da7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI pledges to pay full power costs for data centres after voter backlash | Hindustan Times - Hindustan Times",
+      "detected_at": "2026-11-05T12:02:22+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-60bac8055f47",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Cognizant forms 25,000-person OpenAI delivery group | ETIH EdTech News - EdTech Innovation Hub",
+      "detected_at": "2026-11-05T01:02:07+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-c0ecdb7ca3aa",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI Pipeline Finds 948 Linux Kernel Privilege Escalation Flaws - Unite.AI",
+      "detected_at": "2026-11-05T00:15:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-f987ac05f030",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "ChatGPT Images 2.6: OpenAI Adds GIFs - www.trendingtopics.eu",
+      "detected_at": "2026-11-05T06:27:44+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-af063376522f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Uber President, Longtime Executive Hazelbaker Departs for OpenAI - Bloomberg.com",
+      "detected_at": "2026-11-03T20:50:58+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-317332486ac7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Researchers identify prompt adware targeting OpenAI Codex - SC Media",
+      "detected_at": "2026-11-05T01:23:19+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-b9f6a9600126",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "detected_at": "2026-11-04T14:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-e9c46599c7c6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "detected_at": "2026-11-04T07:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-e8fd1d5cb175",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "A thousand fewer paths to root",
+      "detected_at": "2026-11-04T08:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-news_mention-2026-11-05-296e8cc8e530",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "detected_at": "2026-11-04T00:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "openai-github_signal-2026-11-05-8267a3ea3aa9",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "OpenAI Says a Cyber Pipeline Racks Up $1.2 Million in API Costs - Gizmodo",
+      "detected_at": "2026-11-05T10:00:39+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "openai-github_signal-2026-11-05-d2d1c95988fc",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Report: OpenAI asks public to use new name for data centers - WBAY",
+      "detected_at": "2026-11-04T23:34:00+00:00",
+      "importance_score": 3.5
+    },
+    {
+      "signal_id": "openai-github_signal-2026-11-05-f5167eeb947f",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Introducing Images 2.6",
+      "detected_at": "2026-11-04T00:00:00+00:00",
       "importance_score": 3.5
     }
   ],

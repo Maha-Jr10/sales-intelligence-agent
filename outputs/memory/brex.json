@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "brex",
   "created_at": "2026-06-03T17:25:17.744286+00:00",
-  "last_updated": "2026-11-06T13:57:15.618125+00:00",
+  "last_updated": "2026-11-07T12:41:32.725828+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,28 +18,12 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "brex-product_launch-2026-08-10-39411215a26d",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "FX week in review: Brex Capital launch, Robinhood UK crypto approval, NAGA results, CFDs broker loses license - FX News Group",
-      "detected_at": "2026-08-09T08:59:21+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "brex-funding_event-2026-08-11-d7bbc79cd4ac",
       "signal_type": "funding_event",
       "signal_subtype": "generic",
       "title": "Brex assumes its AI agents could do anything — so it watches the network, not the code - VentureBeat",
       "detected_at": "2026-08-10T18:31:04+00:00",
       "importance_score": 7.0
-    },
-    {
-      "signal_id": "brex-product_launch-2026-08-11-39411215a26d",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "FX week in review: Brex Capital launch, Robinhood UK crypto approval, NAGA results, CFDs broker loses license - FX News Group",
-      "detected_at": "2026-08-09T08:59:21+00:00",
-      "importance_score": 5.0
     },
     {
       "signal_id": "brex-funding_event-2026-08-12-d7bbc79cd4ac",
@@ -464,6 +448,14 @@
       "title": "List of 25 Acquisitions by Capital One (Nov 2026) - Tracxn",
       "detected_at": "2026-11-01T16:01:45+00:00",
       "importance_score": 7.0
+    },
+    {
+      "signal_id": "brex-news_mention-2026-11-07-ec785ad46667",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Springboks duo hailed by injured Italy star: 'They're probably the best centre partnership in the world' - Planet Rugby",
+      "detected_at": "2026-11-06T16:41:14+00:00",
+      "importance_score": 4.0
     }
   ],
   "brief_history": [],

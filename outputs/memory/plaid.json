@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "plaid",
   "created_at": "2026-06-03T17:25:17.739316+00:00",
-  "last_updated": "2026-11-06T13:57:15.609326+00:00",
+  "last_updated": "2026-11-07T12:41:32.717319+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,70 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "plaid-product_launch-2026-08-09-33be13f438e4",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Reflections on Becoming Professional - The Plaid Horse Magazine",
-      "detected_at": "2026-08-08T18:01:23+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "plaid-product_launch-2026-08-09-b9f12cc6dbd6",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "A Horse-First Culture Starts With How We Teach Humans - The Plaid Horse Magazine",
-      "detected_at": "2026-08-08T17:28:19+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "plaid-product_launch-2026-08-09-75758b9cb560",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "When Comparison Walks into the Warmup Ring - The Plaid Horse Magazine",
-      "detected_at": "2026-08-08T18:30:33+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "plaid-news_mention-2026-08-09-21cdd012c98b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Lady Doesn't Know What's Going On With Her Tesla Plaid as Owners Have a New Enemy, Their Own Tires - Torque News",
-      "detected_at": "2026-08-09T02:32:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "plaid-news_mention-2026-08-10-fa4a8fa7f875",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Reflections on Becoming Professional - theplaidhorse.com",
-      "detected_at": "2026-08-08T18:01:23+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "plaid-news_mention-2026-08-10-21cdd012c98b",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Lady Doesn't Know What's Going On With Her Tesla Plaid as Owners Have a New Enemy, Their Own Tires - Torque News",
-      "detected_at": "2026-08-09T02:32:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "plaid-news_mention-2026-08-10-461ca68390b5",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "A Horse-First Culture Starts With How We Teach Humans - theplaidhorse.com",
-      "detected_at": "2026-08-08T17:28:19+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "plaid-news_mention-2026-08-10-e9c963b1f6d8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "When Comparison Walks into the Warmup Ring - theplaidhorse.com",
-      "detected_at": "2026-08-08T18:30:33+00:00",
-      "importance_score": 4.0
-    },
     {
       "signal_id": "plaid-news_mention-2026-08-10-f5cd2cc11094",
       "signal_type": "news_mention",
@@ -10431,6 +10367,198 @@
       "signal_subtype": "generic",
       "title": "Anthropic adds Plaid account linking to Claude for spending insights - NewsBytes",
       "detected_at": "2026-11-06T02:58:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-product_launch-2026-11-07-a7c07ded0b2b",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Anthropic Launches Read-Only Personal Finance for Claude, Via Plaid: how 13 outlets framed it - NewsCord",
+      "detected_at": "2026-11-05T23:19:22+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "plaid-product_launch-2026-11-07-85428ac36645",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Anthropic Launches Personal Finance in Claude: AI-Powered Banking Insights via Plaid - FF News",
+      "detected_at": "2026-11-06T15:33:48+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "plaid-product_launch-2026-11-07-cc2891227338",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Claude Launches Personal Finance via Plaid, From $17 a Month - FourWeekMBA",
+      "detected_at": "2026-11-05T18:15:29+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "plaid-funding_event-2026-11-07-ff69e28f3870",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Uganda tree-planting scheme loses Welsh government funding - BBC",
+      "detected_at": "2026-11-06T13:14:24+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "plaid-product_launch-2026-11-07-7ab78f2c48e1",
+      "signal_type": "product_launch",
+      "signal_subtype": "beta_announcement",
+      "title": "Claude Personal Finance reads bank accounts via Plaid - BetaNews",
+      "detected_at": "2026-11-06T19:06:07+00:00",
+      "importance_score": 5.5
+    },
+    {
+      "signal_id": "plaid-product_launch-2026-11-07-dc0c3d662f74",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Walmart's 9-Piece Reversible Plaid Comforter Set Brings Cozy Country Charm to Your Home - Parade Magazine",
+      "detected_at": "2026-11-06T16:00:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "plaid-product_launch-2026-11-07-dbbbbf1385ec",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Walmart’s ‘Festive’ $43 Plaid Outdoor Rug Gives Patios a ‘Holly Jolly’ Holiday Makeover - Parade Magazine",
+      "detected_at": "2026-11-06T10:45:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-11-07-1629a11edb56",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Pottery Barn’s Plaid Shop Has Classic Southern Christmas Written All Over It—Shop 14 Nostalgic Finds Under $100 - Southern Living",
+      "detected_at": "2026-11-07T11:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-11-07-6dd2b33f69e1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "🌟3/$20🌟 Carter’s Baby Boy Plaid Button Down Shirt - khorasantimes.com",
+      "detected_at": "2026-11-07T11:47:57+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-11-07-6b6685173eb5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic, Plaid Collaborate on AI Consumer Finance Guidance - Bloomberg.com",
+      "detected_at": "2026-11-05T18:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-11-07-f314a878cf7a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Macy's Has a $398 Italian Wool Plaid Jacket for 50% Off - Yahoo",
+      "detected_at": "2026-11-06T16:35:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-11-07-100fdf23d24e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Claude AI can plug directly into your bank account - The Verge",
+      "detected_at": "2026-11-05T18:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-11-07-7474bac288c8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic adds Plaid integration to Claude AI for Personal Finance - Digital Watch Observatory",
+      "detected_at": "2026-11-06T15:16:20+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-11-07-86ebebe14e3e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool - TechCrunch",
+      "detected_at": "2026-11-05T18:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-11-07-8322295892f8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "This Gorgeous Vintage Camper Van Has A Plaid Interior, A Manual Transmission, And The Cutest Little Diesel Engine - The Autopian",
+      "detected_at": "2026-11-06T20:57:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-11-07-b6ade8cc3338",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Claude's new Personal Finance tool aims to help analyze your spending - read-only, of course - ZDNET",
+      "detected_at": "2026-11-05T18:00:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-11-07-e86c78193137",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic links Claude to Plaid for finance guidance - The Paypers",
+      "detected_at": "2026-11-06T13:11:37+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-11-07-4df76e87a181",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "[NEW with Tag] & OTHER STORIES Asymmetric Single Button Plaid Blazer - khorasantimes.com",
+      "detected_at": "2026-11-07T00:40:33+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-11-07-5d8d8d42d284",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic partners with Plaid for AI financial advice tool - Investing.com",
+      "detected_at": "2026-11-05T19:35:57+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-11-07-eb94217b530a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic Links Claude to Plaid, Giving AI Read-Only View of 12,000 Banks - BigGo Finance",
+      "detected_at": "2026-11-05T18:35:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-11-07-fe02ff24a17a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Sydney Sweeney suffers wardrobe malfunction in tiny plaid top and short shorts for Grinch-themed Syrn ad - The Sun",
+      "detected_at": "2026-11-06T15:41:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-11-07-c9dd51488543",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Claude Personal Finance Links US Bank Accounts via Plaid - ShiftDelete.Net",
+      "detected_at": "2026-11-05T18:37:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-11-07-922d0cdf6286",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Planning A Vacation? Manushi Chhillar's Autumn Plaid Skirt Is The Inspiration You Need - News18",
+      "detected_at": "2026-11-07T03:40:20+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "plaid-news_mention-2026-11-07-da2c0d712cbb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Sam Rowlands MS concerned over Plaid Cymru’s obsession with independence - Herald.Wales",
+      "detected_at": "2026-11-06T11:46:35+00:00",
       "importance_score": 4.0
     }
   ],

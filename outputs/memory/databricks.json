@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "databricks",
   "created_at": "2026-06-03T17:25:17.618603+00:00",
-  "last_updated": "2026-11-09T15:37:44.131717+00:00",
+  "last_updated": "2026-11-10T14:33:34.177383+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,107 +18,11 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "databricks-news_mention-2026-08-12-a21d006fdc42",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Open-sourcing Metals v2: Databricks’ Java and Scala language server for multi‑million line codebases - databricks.com",
-      "detected_at": "2026-08-11T20:00:09+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-12-dbcc0aa78966",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks acquires Electric to give every AI agent its own Postgres database - The New Stack",
-      "detected_at": "2026-08-11T16:47:23+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-12-eea757e30ce4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks acquires Electric to bring Postgres to AI agent sandboxes - Dealroom",
-      "detected_at": "2026-08-12T02:34:21+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-12-7cd82f22ee46",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks buys Electric to power AI agent sandboxes - IT Brief Australia",
-      "detected_at": "2026-08-12T01:48:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-product_launch-2026-08-13-782839bbb784",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Databricks Acquires Electric to Power ‘Blazing Fast’ Agents - AI Magazine",
-      "detected_at": "2026-08-12T10:02:54+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "databricks-hiring_spike-2026-08-13-541575041170",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "generic",
-      "title": "The Future of Data Analytics: Why AI is rewriting the Analyst’s Job Description - Databricks",
-      "detected_at": "2026-08-12T10:39:28+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "databricks-github_signal-2026-08-13-9e7b1c12e71c",
-      "signal_type": "github_signal",
-      "signal_subtype": "new_public_repo",
-      "title": "Databricks Open-Sources Metals v2 - Open Source For You",
-      "detected_at": "2026-08-12T07:47:19+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-13-a21d006fdc42",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Open-sourcing Metals v2: Databricks’ Java and Scala language server for multi‑million line codebases - Databricks",
-      "detected_at": "2026-08-11T20:00:09+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-13-dbcc0aa78966",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks acquires Electric to give every AI agent its own Postgres database - The New Stack",
-      "detected_at": "2026-08-11T16:47:23+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-13-1dbee847c7eb",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Oh no, not another one! Databricks buys Electric - Blocks & Files",
-      "detected_at": "2026-08-12T11:51:33+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-13-c6184d4231f4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks acquires Electric and brings Postgres to AI agents - Techzine Global",
-      "detected_at": "2026-08-12T13:18:16+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "databricks-news_mention-2026-08-13-5c7c390953f2",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Databricks Network Configuration delivery to Tens of Millions of Serverless VMs - Databricks",
       "detected_at": "2026-08-12T20:48:53+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-13-eea757e30ce4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks acquires Electric to bring Postgres to AI agent sandboxes - Dealroom",
-      "detected_at": "2026-08-12T02:30:14+00:00",
       "importance_score": 4.0
     },
     {
@@ -135,22 +39,6 @@
       "signal_subtype": "generic",
       "title": "How a major freight railroad scaled pipeline creation with Genie Code - Databricks",
       "detected_at": "2026-08-12T19:50:37+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-13-7cd82f22ee46",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks buys Electric to power AI agent sandboxes - IT Brief Australia",
-      "detected_at": "2026-08-12T01:48:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-13-964f77432392",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks Enhances AUTO CDC - StartupHub.ai",
-      "detected_at": "2026-08-12T00:08:31+00:00",
       "importance_score": 4.0
     },
     {
@@ -306,14 +194,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "databricks-hiring_spike-2026-08-14-541575041170",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "generic",
-      "title": "The Future of Data Analytics: Why AI is rewriting the Analyst’s Job Description - Databricks",
-      "detected_at": "2026-08-12T10:39:28+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "databricks-product_launch-2026-08-14-fa94ceed3276",
       "signal_type": "product_launch",
       "signal_subtype": "generic",
@@ -327,14 +207,6 @@
       "signal_subtype": "generic",
       "title": "H1: Databricks Hits $190bn as Its Margins Fall - European Business Magazine",
       "detected_at": "2026-08-14T00:55:30+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "databricks-product_launch-2026-08-14-782839bbb784",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Databricks Acquires Electric to Power ‘Blazing Fast’ Agents - AI Magazine",
-      "detected_at": "2026-08-12T10:02:54+00:00",
       "importance_score": 5.0
     },
     {
@@ -458,14 +330,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "databricks-news_mention-2026-08-14-1dbee847c7eb",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Oh no, not another one! Databricks buys Electric - Blocks & Files",
-      "detected_at": "2026-08-12T11:51:33+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "databricks-news_mention-2026-08-14-5a41b20cf10e",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -495,14 +359,6 @@
       "signal_subtype": "generic",
       "title": "Databricks Lands $5 Billion To Fund Its AI Tooling Push - Finimize",
       "detected_at": "2026-08-13T15:48:42+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-14-c6184d4231f4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks acquires Electric and brings Postgres to AI agents - Techzine Global",
-      "detected_at": "2026-08-12T13:18:16+00:00",
       "importance_score": 4.0
     },
     {
@@ -6055,6 +5911,110 @@
       "signal_subtype": "generic",
       "title": "Genie Wins Over AkzoNobel - Databricks",
       "detected_at": "2026-11-08T02:53:17+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-product_launch-2026-11-10-561760c681bb",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Commvault launches Data Activate product for Databricks platform - StreetInsider",
+      "detected_at": "2026-11-10T13:35:19+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "databricks-funding_event-2026-11-10-ecc976544981",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Databricks plans USD 500 mln investment in the Netherlands - Telecompaper",
+      "detected_at": "2026-11-10T11:15:25+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "databricks-product_launch-2026-11-10-7326ffe1f7fb",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Commvault announces data solution for Databricks platform - Investing.com",
+      "detected_at": "2026-11-10T14:05:46+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "databricks-product_launch-2026-11-10-771e3f66c0e3",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "129th Big Game Kickoff Time Announced - California Golden Bears Athletics",
+      "detected_at": "2026-11-09T23:35:22+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "databricks-product_launch-2026-11-10-0be8c51140f9",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Databricks Is Doubling Its Singapore Team to 500: What That Means for Your AI Career - DANAMIC",
+      "detected_at": "2026-11-10T03:35:59+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-10-cdbb75aed959",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Databricks to Invest More Than $500M in the Netherlands to Accelerate Enterprise Data + AI - Databricks",
+      "detected_at": "2026-11-10T09:08:54+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-10-82f020e65185",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Databricks' Commitment to European Sovereignty - Databricks",
+      "detected_at": "2026-11-09T20:51:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-10-f80363bfb522",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Reco Delivers Continuous Visibility and Security for Databricks Genie Agents - Yahoo Finance",
+      "detected_at": "2026-11-10T14:03:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-10-25f992356cff",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Accelerate GPU training on Unity Catalog tables with UCDataset - Databricks",
+      "detected_at": "2026-11-09T15:16:36+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-10-74ce6df98321",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Genie Powers People Analytics at Mars - Databricks",
+      "detected_at": "2026-11-09T20:03:22+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-10-cc105b52606b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Databricks invests over 500 million in the Netherlands - Techzine Global",
+      "detected_at": "2026-11-10T12:12:46+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-10-c4fd773df729",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Commvault and Databricks Unlock Trusted Enterprise Data for AI - TradingView",
+      "detected_at": "2026-11-10T13:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-10-e80a30a16517",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Enterprise AI needs context and control to scale says Databricks’ Simon Davies - DQ",
+      "detected_at": "2026-11-10T13:21:24+00:00",
       "importance_score": 4.0
     }
   ],

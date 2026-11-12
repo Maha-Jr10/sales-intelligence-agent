@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "confluent",
   "created_at": "2026-06-03T17:25:17.749197+00:00",
-  "last_updated": "2026-11-11T13:48:44.810110+00:00",
+  "last_updated": "2026-11-12T14:52:01.732170+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,28 +18,12 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "confluent-leadership_change-2026-08-15-539f86ba13e3",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "IBM in new software blow as Confluent CEO exits - SDxCentral",
-      "detected_at": "2026-08-14T13:56:51+00:00",
-      "importance_score": 7.0
-    },
-    {
       "signal_id": "confluent-product_launch-2026-08-15-c5a4354bccd7",
       "signal_type": "product_launch",
       "signal_subtype": "generic",
       "title": "How IBM Confluent helps organizations act on data as it arrives - IBM",
       "detected_at": "2026-08-14T19:33:50+00:00",
       "importance_score": 5.0
-    },
-    {
-      "signal_id": "confluent-leadership_change-2026-08-16-539f86ba13e3",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_ceo",
-      "title": "IBM in new software blow as Confluent CEO exits - SDxCentral",
-      "detected_at": "2026-08-14T13:56:51+00:00",
-      "importance_score": 7.0
     },
     {
       "signal_id": "confluent-product_launch-2026-08-16-c5a4354bccd7",
@@ -999,6 +983,22 @@
       "signal_subtype": "generic",
       "title": "IBM's Confluent Refreshes Streamhouse While Apptio Turns to AI Cost Tracking - ad-hoc-news.de",
       "detected_at": "2026-11-10T03:50:37+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "confluent-hiring_spike-2026-11-12-e3b9c66f4e5a",
+      "signal_type": "hiring_spike",
+      "signal_subtype": "generic",
+      "title": "Confluent Positions Streamhouse as the Operational Memory Tier for AI - The Futurum Group",
+      "detected_at": "2026-11-10T14:56:19+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "confluent-news_mention-2026-11-12-99b7404f52db",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Confluent Medical Technologies acquires Northern Nitinol - Today's Medical Developments",
+      "detected_at": "2026-11-12T07:00:00+00:00",
       "importance_score": 4.0
     }
   ],

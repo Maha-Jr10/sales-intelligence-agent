@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "databricks",
   "created_at": "2026-06-03T17:25:17.618603+00:00",
-  "last_updated": "2026-11-14T13:12:21.707524+00:00",
+  "last_updated": "2026-11-15T13:40:47.147393+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,44 +18,12 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "databricks-news_mention-2026-08-17-311d581fd9c9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks Managed Iceberg Tables: Iceberg, but with Less to Manage? | by Mamta Singhal | Aug, 2026 - DataDrivenInvestor",
-      "detected_at": "2026-08-17T03:21:44+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-17-42e5afb1bfde",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "IG&H buys Databricks specialist RevoData, pushing headcount past 700 - Dealroom",
-      "detected_at": "2026-08-16T15:26:08+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-17-936e2e68e402",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks Hits $190 Billion Valuation, Rewarding Nvidia, Nancy Pelosi, And Cathie Wood - foreignpolicyjournal.com",
-      "detected_at": "2026-08-16T19:22:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "databricks-leadership_change-2026-08-18-4afc6d8606d3",
       "signal_type": "leadership_change",
       "signal_subtype": "new_cto",
       "title": "Andreessen Horowitz focus of DOJ probe over board directors, Bloomberg News reports - reuters.com",
       "detected_at": "2026-08-17T19:50:21+00:00",
       "importance_score": 9.5
-    },
-    {
-      "signal_id": "databricks-funding_event-2026-08-18-e596b6afe0e2",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "What Do Investors See in Databricks After Its $5 Billion Funding Round? - entARABI",
-      "detected_at": "2026-08-17T12:48:32+00:00",
-      "importance_score": 7.0
     },
     {
       "signal_id": "databricks-product_launch-2026-08-18-cf0644b03ab9",
@@ -79,14 +47,6 @@
       "signal_subtype": "generic",
       "title": "Andreessen Horowitz Focus of DOJ Antitrust Probe Over Databricks, Fivetran Board Seats - The Information",
       "detected_at": "2026-08-17T19:07:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-18-32ba20a8230a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Private Markets: Databricks secures $5B as Kalshi targets $40B valuation - TipRanks",
-      "detected_at": "2026-08-17T07:50:02+00:00",
       "importance_score": 4.0
     },
     {
@@ -130,46 +90,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "databricks-news_mention-2026-08-18-21f97a9f1831",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Building a Governed Data Mesh - Databricks",
-      "detected_at": "2026-08-17T08:37:30+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-18-61fc657d8166",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks Raises $5B as Revenue Run Rate Tops $7 Billion - citybiz",
-      "detected_at": "2026-08-17T10:41:43+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-18-42e5afb1bfde",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "IG&H buys Databricks specialist RevoData, pushing headcount past 700 - Dealroom",
-      "detected_at": "2026-08-16T15:26:08+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-18-936e2e68e402",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks Hits $190 Billion Valuation, Rewarding Nvidia, Nancy Pelosi, And Cathie Wood - foreignpolicyjournal.com",
-      "detected_at": "2026-08-16T19:22:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-18-e43cb0baf0c9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks Managed Iceberg Tables: Iceberg, but with Less to Manage? | by Mamta Singhal | Aug, 2026 - DataDrivenInvestor",
-      "detected_at": "2026-08-16T15:11:01+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "databricks-funding_event-2026-08-19-ad247fc80151",
       "signal_type": "funding_event",
       "signal_subtype": "generic",
@@ -186,14 +106,6 @@
       "importance_score": 7.0
     },
     {
-      "signal_id": "databricks-funding_event-2026-08-19-e596b6afe0e2",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "What Do Investors See in Databricks After Its $5 Billion Funding Round? - entARABI",
-      "detected_at": "2026-08-17T12:48:32+00:00",
-      "importance_score": 7.0
-    },
-    {
       "signal_id": "databricks-product_launch-2026-08-19-cf0644b03ab9",
       "signal_type": "product_launch",
       "signal_subtype": "generic",
@@ -207,14 +119,6 @@
       "signal_subtype": "generic",
       "title": "Andreessen Horowitz Focus of DOJ Antitrust Probe Over Databricks, Fivetran Board Seats - The Information",
       "detected_at": "2026-08-17T19:07:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-19-32ba20a8230a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Private Markets: Databricks secures $5B as Kalshi targets $40B valuation - TipRanks",
-      "detected_at": "2026-08-17T07:50:02+00:00",
       "importance_score": 4.0
     },
     {
@@ -295,14 +199,6 @@
       "signal_subtype": "generic",
       "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs - TechCrunch",
       "detected_at": "2026-08-18T20:36:20+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-19-61fc657d8166",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks Raises $5B as Revenue Run Rate Tops $7 Billion - citybiz",
-      "detected_at": "2026-08-17T10:41:43+00:00",
       "importance_score": 4.0
     },
     {
@@ -6095,6 +5991,54 @@
       "signal_subtype": "generic",
       "title": "Databricks Upgrades Genie Into Always-On AI Agent for Business Leaders - AI Insider",
       "detected_at": "2026-11-13T07:56:26+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-product_launch-2026-11-15-39bc7ca61ad3",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Databricks Launches New Always-on Genie: Autonomous AI for Complex Enterprise Work - SD Times",
+      "detected_at": "2026-11-15T03:36:13+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "databricks-funding_event-2026-11-15-87af6be4da83",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Databricks Opens 235,000 Sq Ft SF HQ in $1B+ City Investment - FourWeekMBA",
+      "detected_at": "2026-11-15T10:26:21+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "databricks-funding_event-2026-11-15-8159de3cec4c",
+      "signal_type": "funding_event",
+      "signal_subtype": "ipo",
+      "title": "Databricks IPO: Is Databricks Public? Status and Valuation - Admirals",
+      "detected_at": "2026-11-15T02:27:15+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-15-8ff2e119f52e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Databricks Details Three Enterprise Adoption Paths for OpenAI Tools - Unite.AI",
+      "detected_at": "2026-11-13T16:03:02+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-15-2880f1a29aac",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Runtime: AWS rolls out a Nitro boost - www.thestack.technology",
+      "detected_at": "2026-11-14T17:20:01+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-15-4c886591a6b3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Israeli Startup Edelbyte Raises $70 Million to Enter Data Infrastructure Market - Israel Defense",
+      "detected_at": "2026-11-15T06:12:24+00:00",
       "importance_score": 4.0
     }
   ],

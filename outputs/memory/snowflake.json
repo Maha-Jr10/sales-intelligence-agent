@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "snowflake",
   "created_at": "2026-06-03T17:25:17.673223+00:00",
-  "last_updated": "2026-11-15T13:40:47.169126+00:00",
+  "last_updated": "2026-11-16T15:12:59.477027+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,150 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "snowflake-funding_event-2026-08-18-997a58119508",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "SNOW Maintained by Jefferies -- Price Target Raised to $385 - GuruFocus",
-      "detected_at": "2026-08-17T16:03:49+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-18-469c632fce07",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Red Agent Exploits Snowflake Vuln Missed by Github Copilot - wiz.io",
-      "detected_at": "2026-08-17T14:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-18-0c26aa2c3138",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection - The Hacker News",
-      "detected_at": "2026-08-17T18:44:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-18-6b4b033c594c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "An AI broke Snowflake's code. Then another AI agent exploited it - The Register",
-      "detected_at": "2026-08-17T16:36:21+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-18-cfe5ad169809",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Copilot Autofix did not write the Snowflake flaw, GitHub say - The Next Web",
-      "detected_at": "2026-08-18T00:09:58+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-18-07921d9e1fb6",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Wiz’s AI Agent Finds A Vulnerability In Snowflake’s Internal Systems - Forbes",
-      "detected_at": "2026-08-17T21:33:52+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-18-17221eae62c9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake Builds AI Context Layer - StartupHub.ai",
-      "detected_at": "2026-08-18T00:04:27+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-18-50a8f2ed79e1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "How marketers are actually building the data infrastructure to scale AI - thecurrent.com",
-      "detected_at": "2026-08-17T13:45:40+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-18-41f1eee464f9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake Inc. Price Today | XSNOW Live Price, Chart & Market Cap - OKX",
-      "detected_at": "2026-08-17T17:59:18+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-18-607d01085e8e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Copilot Autofix Opened a Shell Injection in Snowflake’s CI/CD Pipeline - Unite.AI",
-      "detected_at": "2026-08-17T15:55:01+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-18-052762e3d48d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake names Lee Yong-seok Korea head to drive data and AI growth - CHOSUNBIZ - Chosunbiz",
-      "detected_at": "2026-08-18T00:16:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-leadership_change-2026-08-19-0e76bba1fb16",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_cto",
-      "title": "Critical Command Injection Vulnerability in Snowflake snowflake-connector-net GitHub Actions Exposes Jira Credentials - Rescana",
-      "detected_at": "2026-08-18T08:02:02+00:00",
-      "importance_score": 9.5
-    },
-    {
-      "signal_id": "snowflake-product_launch-2026-08-19-be1ea830adf9",
-      "signal_type": "product_launch",
-      "signal_subtype": "new_product",
-      "title": "Evolution Analytics Launches WIRE™ for Claims, a Snowflake Native App, on Snowflake Marketplace - EIN News",
-      "detected_at": "2026-08-18T12:15:00+00:00",
-      "importance_score": 7.5
-    },
-    {
-      "signal_id": "snowflake-funding_event-2026-08-19-f422b61e9c22",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "Enterprises are overpaying for simple AI queries — Snowflake's gateway now auto-routes to cut costs up to 3x - VentureBeat",
-      "detected_at": "2026-08-18T13:00:00+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "snowflake-funding_event-2026-08-19-ecb13c5e5699",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "Snowflake (NYSE:SNOW) Price Target Raised to $408.00 at Citizens Jmp - MarketBeat",
-      "detected_at": "2026-08-18T12:21:32+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "snowflake-funding_event-2026-08-19-7e7398f95458",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "Plato Investment Management Ltd Invests $1.69 Million in Snowflake Inc. $SNOW - MarketBeat",
-      "detected_at": "2026-08-18T09:38:48+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "snowflake-leadership_change-2026-08-19-131b2c0262ee",
-      "signal_type": "leadership_change",
-      "signal_subtype": "generic",
-      "title": "UBS Reports Accelerating Demand for Snowflake Ahead of Q2 Results - Intellectia AI",
-      "detected_at": "2026-08-18T12:21:11+00:00",
-      "importance_score": 6.0
-    },
-    {
-      "signal_id": "snowflake-product_launch-2026-08-19-44951df0e348",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Snowflake adds dynamic model routing to Cortex AI Gateway to cut enterprise AI costs - cio.com",
-      "detected_at": "2026-08-18T07:11:49+00:00",
-      "importance_score": 5.0
-    },
     {
       "signal_id": "snowflake-product_launch-2026-08-19-c6bc9d152e9e",
       "signal_type": "product_launch",
@@ -186,59 +42,11 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-08-19-469c632fce07",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Red Agent Exploits Snowflake Vuln Missed by Github Copilot - wiz.io",
-      "detected_at": "2026-08-17T14:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-19-5d61ba022905",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Cramer’s Stop Trading: Snowflake - CNBC",
-      "detected_at": "2026-08-18T14:02:58+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-19-0c26aa2c3138",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection - The Hacker News",
-      "detected_at": "2026-08-17T18:44:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-19-c8c74d21d3d3",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Watch Snowflake’s Plan to Cut AI Costs - Bloomberg.com",
-      "detected_at": "2026-08-18T00:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-19-521be1a49b74",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake Unlocks Better AI Economics with Dynamic Model Routing, Delivering More Value to Customers - Morningstar",
-      "detected_at": "2026-08-18T13:29:20+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-news_mention-2026-08-19-8b3f919478a8",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Slop pipeline: Wiz's AI bot hacks Snowflake through a bug co-authored by Copilot - Cybernews",
       "detected_at": "2026-08-19T06:45:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-19-6b4b033c594c",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "An AI broke Snowflake's code. Then another AI agent exploited it - The Register",
-      "detected_at": "2026-08-17T16:36:21+00:00",
       "importance_score": 4.0
     },
     {
@@ -258,27 +66,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-08-19-abdb5745e9fe",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake’s 172% Melt‑Up Has Bulls Saying Agentic AI Could Extend the Run - 24/7 Wall St.",
-      "detected_at": "2026-08-18T13:47:33+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-news_mention-2026-08-19-2d9e01fb5f6d",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "“Enterprises are becoming much more rigorous about the economics of AI”: Snowflake wants to help you cut AI costs by choosing the right model for the right task - IT Pro",
       "detected_at": "2026-08-18T16:34:19+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-19-c4a2d6cb9302",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake Wants to Stop You From Overpaying for Easy AI Tasks - The AI Economy | Ken Yeung",
-      "detected_at": "2026-08-18T13:03:40+00:00",
       "importance_score": 4.0
     },
     {
@@ -290,43 +82,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-08-19-cb503fa4d471",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake's AI-driven data momentum justifies Buy rating: UBS - Proactive financial news",
-      "detected_at": "2026-08-18T14:37:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-19-e6d14fe36288",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Maximize AI Impact: More Model Choice, Smarter Routing - Snowflake",
-      "detected_at": "2026-08-18T14:21:08+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-news_mention-2026-08-19-f5947d2fde69",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Snowflake Faces High But 'Achievable' Sales Growth Expectations, UBS Says - Yahoo Finance",
       "detected_at": "2026-08-18T16:34:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-19-66ca81e9dd61",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake's Plan to Cut AI Costs - Yahoo Finance",
-      "detected_at": "2026-08-18T13:52:05+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-19-75be6f5d3846",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake targets cost of AI with dynamic model routing - techtarget.com",
-      "detected_at": "2026-08-18T13:33:53+00:00",
       "importance_score": 4.0
     },
     {
@@ -354,43 +114,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-08-19-dfbf813160d1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake adds dynamic routing, new AI models to cut costs - Investing.com",
-      "detected_at": "2026-08-18T13:14:22+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-19-2fd7d299f2e4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AI Agent Introduced A Flaw in Snowflake’s Code—Then Another AI Agent Exploited It - LinkedIn",
-      "detected_at": "2026-08-18T10:00:15+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-news_mention-2026-08-19-8b7113e904bd",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Snowflake’s AI Tailwind Sets A Tough Bar For Q2 - finimize.com",
       "detected_at": "2026-08-18T17:42:30+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-19-a5da04380961",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Wall Street Believes SNOW's AI Demand Is Accelerating After Pre-Q2 Checks — Citizens Says 88% Of Data Points Are Positive - TradingView",
-      "detected_at": "2026-08-18T11:38:29+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-19-cfe5ad169809",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Copilot Autofix did not write the Snowflake flaw, GitHub say - The Next Web",
-      "detected_at": "2026-08-18T00:09:58+00:00",
       "importance_score": 4.0
     },
     {
@@ -410,38 +138,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-08-19-07921d9e1fb6",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Wiz’s AI Agent Finds A Vulnerability In Snowflake’s Internal Systems - Forbes",
-      "detected_at": "2026-08-17T21:33:52+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-19-21002d447181",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Citizens raises Snowflake stock price target on improved customer spending outlook - Investing.com",
-      "detected_at": "2026-08-18T09:08:50+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-19-50a8f2ed79e1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "How marketers are actually building the data infrastructure to scale AI - thecurrent.com",
-      "detected_at": "2026-08-17T13:45:40+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-19-17221eae62c9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake Builds AI Context Layer - StartupHub.ai",
-      "detected_at": "2026-08-18T00:04:27+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-news_mention-2026-08-19-97855c897d28",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -450,51 +146,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-08-19-cc8185c5b89a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake-Taylor Police Department log, July 22-28 - White Mountain Independent",
-      "detected_at": "2026-08-17T22:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-19-0d1d077d992f",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "UBS raises Snowflake stock price target on strong AI demand trends - Investing.com Canada",
-      "detected_at": "2026-08-18T12:20:24+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-19-41f1eee464f9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake Inc. Price Today | XSNOW Live Price, Chart & Market Cap - OKX",
-      "detected_at": "2026-08-17T17:59:18+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-github_signal-2026-08-19-a664f338c4ef",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "Wiz agent finds Snowflake repo flaw in code co-authored by GitHub Copilot Autofix - SC Media",
-      "detected_at": "2026-08-18T11:00:00+00:00",
-      "importance_score": 3.5
-    },
-    {
       "signal_id": "snowflake-leadership_change-2026-08-20-841d087aba8f",
       "signal_type": "leadership_change",
       "signal_subtype": "new_cto",
       "title": "Wiz CTO speaks out amid confusion over Snowflake-GitHub Copilot flaw - IT Pro",
       "detected_at": "2026-08-19T09:36:06+00:00",
-      "importance_score": 9.5
-    },
-    {
-      "signal_id": "snowflake-leadership_change-2026-08-20-0e76bba1fb16",
-      "signal_type": "leadership_change",
-      "signal_subtype": "new_cto",
-      "title": "Critical Command Injection Vulnerability in Snowflake snowflake-connector-net GitHub Actions Exposes Jira Credentials - Rescana",
-      "detected_at": "2026-08-18T08:02:02+00:00",
       "importance_score": 9.5
     },
     {
@@ -506,27 +162,11 @@
       "importance_score": 7.0
     },
     {
-      "signal_id": "snowflake-funding_event-2026-08-20-f422b61e9c22",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "Enterprises are overpaying for simple AI queries — Snowflake's gateway now auto-routes to cut costs up to 3x - VentureBeat",
-      "detected_at": "2026-08-18T13:00:00+00:00",
-      "importance_score": 7.0
-    },
-    {
       "signal_id": "snowflake-funding_event-2026-08-20-4551ff8875ea",
       "signal_type": "funding_event",
       "signal_subtype": "generic",
       "title": "Snowflake vs. DELL: Which AI Infrastructure Stock Is the Better Buy? - Zacks Investment Research",
       "detected_at": "2026-08-19T16:01:36+00:00",
-      "importance_score": 7.0
-    },
-    {
-      "signal_id": "snowflake-funding_event-2026-08-20-ecb13c5e5699",
-      "signal_type": "funding_event",
-      "signal_subtype": "generic",
-      "title": "Snowflake (NYSE:SNOW) Price Target Raised to $408.00 at Citizens Jmp - marketbeat.com",
-      "detected_at": "2026-08-18T12:21:32+00:00",
       "importance_score": 7.0
     },
     {
@@ -554,14 +194,6 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "snowflake-product_launch-2026-08-20-44951df0e348",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Snowflake adds dynamic model routing to Cortex AI Gateway to cut enterprise AI costs - cio.com",
-      "detected_at": "2026-08-18T07:11:49+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "snowflake-product_launch-2026-08-20-ace092340197",
       "signal_type": "product_launch",
       "signal_subtype": "generic",
@@ -578,27 +210,11 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-08-20-5d61ba022905",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Cramer’s Stop Trading: Snowflake - CNBC",
-      "detected_at": "2026-08-18T14:02:58+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-news_mention-2026-08-20-2b203c6e683f",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Snowflake flaw slips past AI checks, gets exploited by another AI - csoonline.com",
       "detected_at": "2026-08-19T05:32:45+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-20-bb104023c206",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake Unlocks Better AI Economics with Dynamic Model Routing, Delivering More Value to Customers - Snowflake",
-      "detected_at": "2026-08-18T13:38:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -650,14 +266,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-08-20-e6d14fe36288",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Maximize AI Impact: More Model Choice, Smarter Routing - Snowflake",
-      "detected_at": "2026-08-18T14:21:08+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-news_mention-2026-08-20-29f175d3dadf",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -671,22 +279,6 @@
       "signal_subtype": "generic",
       "title": "Snowflake (NYSE:SNOW) Given New $395.00 Price Target at Bank of America - marketbeat.com",
       "detected_at": "2026-08-19T17:11:47+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-20-abdb5745e9fe",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake’s 172% Melt‑Up Has Bulls Saying Agentic AI Could Extend the Run - 24/7 Wall St.",
-      "detected_at": "2026-08-18T13:47:33+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-20-c4a2d6cb9302",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake Wants to Stop You From Overpaying for Easy AI Tasks - The AI Economy | Ken Yeung",
-      "detected_at": "2026-08-18T13:03:40+00:00",
       "importance_score": 4.0
     },
     {
@@ -714,14 +306,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-08-20-cb503fa4d471",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake's AI-driven data momentum justifies Buy rating: UBS - Proactive financial news",
-      "detected_at": "2026-08-18T14:37:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-news_mention-2026-08-20-f5947d2fde69",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -730,35 +314,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-08-20-66ca81e9dd61",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake's Plan to Cut AI Costs - Yahoo Finance",
-      "detected_at": "2026-08-18T13:52:05+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-20-75be6f5d3846",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake targets cost of AI with dynamic model routing - TechTarget",
-      "detected_at": "2026-08-18T13:33:53+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-news_mention-2026-08-20-bc5b36b3498e",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Critical Snowflake GitHub Actions Flaw Allows Attackers to Steal Internal Jira Credentials - gbhackers.com",
       "detected_at": "2026-08-20T05:07:42+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-20-2fd7d299f2e4",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "AI Agent Introduced A Flaw in Snowflake’s Code—Then Another AI Agent Exploited It - LinkedIn",
-      "detected_at": "2026-08-18T10:00:15+00:00",
       "importance_score": 4.0
     },
     {
@@ -783,30 +343,6 @@
       "signal_subtype": "generic",
       "title": "Slop pipeline: Wiz's AI bot hacks Snowflake through a bug co-authored by Copilot - Cybernews",
       "detected_at": "2026-08-19T06:45:57+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-20-a5da04380961",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Wall Street Believes SNOW's AI Demand Is Accelerating After Pre-Q2 Checks — Citizens Says 88% Of Data Points Are Positive - TradingView",
-      "detected_at": "2026-08-18T11:38:29+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-20-dfbf813160d1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake adds dynamic routing, new AI models to cut costs - Investing.com",
-      "detected_at": "2026-08-18T13:14:22+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-news_mention-2026-08-20-21002d447181",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Citizens raises Snowflake stock price target on improved customer spending outlook - Investing.com",
-      "detected_at": "2026-08-18T09:08:50+00:00",
       "importance_score": 4.0
     },
     {
@@ -842,14 +378,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "snowflake-news_mention-2026-08-20-e19d8603fb3a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Snowflake's Plan to Cut AI Costs - marketscreener.com",
-      "detected_at": "2026-08-18T14:41:35+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "snowflake-news_mention-2026-08-20-6a595e10e7b4",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -864,14 +392,6 @@
       "title": "Snowflake’s AI Tailwind Sets A Tough Bar For Q2 - Finimize",
       "detected_at": "2026-08-18T17:42:30+00:00",
       "importance_score": 4.0
-    },
-    {
-      "signal_id": "snowflake-github_signal-2026-08-20-a664f338c4ef",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "Wiz agent finds Snowflake repo flaw in code co-authored by GitHub Copilot Autofix - SC Media",
-      "detected_at": "2026-08-18T11:00:00+00:00",
-      "importance_score": 3.5
     },
     {
       "signal_id": "snowflake-leadership_change-2026-08-21-0631ffc278a4",
@@ -17032,6 +16552,118 @@
       "title": "Snowflake - John Shand",
       "detected_at": "2026-11-14T03:28:23+00:00",
       "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-funding_event-2026-11-16-069c092e9527",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Snowflake Inc. $SNOW Stock Sold by William Blair Investment Management LLC - MarketBeat",
+      "detected_at": "2026-11-16T13:15:12+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "snowflake-product_launch-2026-11-16-5a201d5eb1a2",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Swarovski’s $62 Snowflake Earrings Add a Delicate, Sparkling Touch to Winter Outfits - Parade Magazine",
+      "detected_at": "2026-11-14T20:30:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "snowflake-product_launch-2026-11-16-9573cf553145",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "No. 1 Snowflake beats No. 16 Coconino to set up quarterfinal game with No. 8 Peoria - White Mountain Independent",
+      "detected_at": "2026-11-15T07:19:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "snowflake-product_launch-2026-11-16-ccd29dbc9592",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Forget Me Not children’s hospice launching Snowflake Appeal at annual Christmas Fayre - Dewsbury Reporter",
+      "detected_at": "2026-11-14T16:30:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-11-16-312898f597df",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Investors Heavily Search Snowflake Inc. (SNOW): Here is What You Need to Know - Yahoo Finance",
+      "detected_at": "2026-11-16T13:00:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-11-16-cf515708eb4e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "What Is Snowflake (SNOW) Signaling With Its New AI Agent Push? - Yahoo Finance",
+      "detected_at": "2026-11-16T02:08:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-11-16-499cf611fc36",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake (SNOW) Stock Could Be 33% Overvalued After New AI Agent Push - Simply Wall St",
+      "detected_at": "2026-11-16T02:20:05+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-11-16-49c74ff96e8f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Neo4j appoints Snowflake veteran Vimal Venkatram as India Country Manager and Regional Vice President - CXOToday.com",
+      "detected_at": "2026-11-16T11:40:49+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-11-16-ce4308a7949d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Spotlight: No two snowflakes are alike and neither is this Toronto holiday show - TorontoToday.ca",
+      "detected_at": "2026-11-16T12:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-11-16-1a6fd2b5a7e3",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Landor reveals snowflake-inspired visual identity for Crystal Ski - Design Week",
+      "detected_at": "2026-11-16T07:09:41+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-11-16-e6578d7ac8c0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Snowflake-linked SNOWUSDT futures drop 0.95% in premarket trading, separate from NYSE stock price. - Pluang",
+      "detected_at": "2026-11-16T15:08:05+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-11-16-a50db2918f35",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Form 144 Snowflake Inc. For: 15 November By Investing.com - Investing.com India",
+      "detected_at": "2026-11-15T18:37:31+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-news_mention-2026-11-16-1e9b72e013e2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "'When I have more time' is an obsolete phrase in today's snowflake-catching world - Illawarra Mercury",
+      "detected_at": "2026-11-16T03:03:20+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "snowflake-github_signal-2026-11-16-f8280666ca02",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "Register now for Hussey-Mayfield Memorial Public Library's Secret Snowflake Shop - www.reporter.net",
+      "detected_at": "2026-11-16T11:00:00+00:00",
+      "importance_score": 3.5
     }
   ],
   "brief_history": [],

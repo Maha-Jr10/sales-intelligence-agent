@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "databricks",
   "created_at": "2026-06-03T17:25:17.618603+00:00",
-  "last_updated": "2026-11-18T15:21:28.334562+00:00",
+  "last_updated": "2026-11-19T15:27:47.459433+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,38 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "databricks-news_mention-2026-08-21-84cbc324a349",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks bolsters private access - StartupHub.ai",
-      "detected_at": "2026-08-20T22:22:53+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-21-1d01e2b985af",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "The Fastest Way to Get On-Prem Regulated Data in Databricks? Don’t Move it - HPCwire",
-      "detected_at": "2026-08-20T20:37:28+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-21-5c502975b3a9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks SQL Migration Myths Busted - StartupHub.ai",
-      "detected_at": "2026-08-20T20:04:06+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-21-ca60ff0eceb8",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "MathCo Earns Databricks RCT Specialization, Solidifying Enterprise AI & Data Leadership - CXOToday.com",
-      "detected_at": "2026-08-20T19:44:31+00:00",
-      "importance_score": 4.0
-    },
     {
       "signal_id": "databricks-news_mention-2026-08-22-aad1227817f5",
       "signal_type": "news_mention",
@@ -74,35 +42,11 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "databricks-news_mention-2026-08-22-4dfac9415331",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "US-based Databricks invests in UK’s Advancing Analytics - Research Live",
-      "detected_at": "2026-08-21T10:29:31+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "databricks-news_mention-2026-08-22-88c7b42e0a6c",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Databricks links retail planning to store execution - StartupHub.ai",
       "detected_at": "2026-08-21T18:06:32+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-22-84cbc324a349",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks bolsters private access - StartupHub.ai",
-      "detected_at": "2026-08-20T22:22:53+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "databricks-news_mention-2026-08-22-5c502975b3a9",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Databricks SQL Migration Myths Busted - StartupHub.ai",
-      "detected_at": "2026-08-20T20:04:06+00:00",
       "importance_score": 4.0
     },
     {
@@ -6015,6 +5959,150 @@
       "signal_subtype": "generic",
       "title": "Cohesity expands Microsoft backup & AI data access - IT Brief UK",
       "detected_at": "2026-11-17T09:15:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-product_launch-2026-11-19-5204edd222ed",
+      "signal_type": "product_launch",
+      "signal_subtype": "new_product",
+      "title": "Introducing Unity Gateway Insights - Databricks",
+      "detected_at": "2026-11-18T17:42:34+00:00",
+      "importance_score": 7.5
+    },
+    {
+      "signal_id": "databricks-funding_event-2026-11-19-959eaaa50b86",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Databricks Wins A-Team Award for AI in Capital Markets - Databricks",
+      "detected_at": "2026-11-19T04:22:17+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "databricks-funding_event-2026-11-19-24e5ba228296",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Databricks Ventures backs data consultancy SunnyData in $5M round - Dealroom",
+      "detected_at": "2026-11-19T00:40:10+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "databricks-product_launch-2026-11-19-6bc1848bdbc6",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "5 Interesting Learnings from the Databricks AI Index: Open-Weight Jumps to 31% of Enterprise Tokens, 72% of Companies Now Use Multiple Model Providers, and a 281x Gap Between Median and Power Users -",
+      "detected_at": "2026-11-18T14:49:17+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-19-080f0f323c9e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Introducing CustomerLake Conversions: Improve advertising performance with first-party customer context - Databricks",
+      "detected_at": "2026-11-19T14:04:48+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-19-9ddb08c7c020",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Faster insights at Aon - Databricks",
+      "detected_at": "2026-11-19T08:54:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-19-6db982960421",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nextdoor’s Data Activation Engine for Lifecycle Marketing - Databricks",
+      "detected_at": "2026-11-19T02:39:40+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-19-41d3846d34a9",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Genie Powers GSK’s Supply Chain - Databricks",
+      "detected_at": "2026-11-19T02:39:39+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-19-25525ddfe9ed",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Advancing Catalog Interoperability with Unity Catalog and Google Cloud’s Borderless Lakehouse - Databricks",
+      "detected_at": "2026-11-17T16:45:27+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-19-55c2145218a5",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Emerson And Databricks Collaborate To Bring Industrial And Enterprise Ai Together - TradingView",
+      "detected_at": "2026-11-19T14:05:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-19-8af0c014db94",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "What's new for Genie in Microsoft: Copilot Cowork and Chat, Microsoft Teams, and Excel. - Databricks",
+      "detected_at": "2026-11-18T16:11:49+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-19-1ec596472789",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Emerson partners with Databricks on industrial data integration - Investing.com",
+      "detected_at": "2026-11-19T14:52:26+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-19-7535c5d789ee",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Emerson Electric, Databricks Team Up to Make Industrial Data AI-Ready - marketscreener.com",
+      "detected_at": "2026-11-19T14:58:19+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-19-ca9ae647a560",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Databricks’ Agent Technology Switches To ‘Always On’ - CRN",
+      "detected_at": "2026-11-18T03:15:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-19-4a167d8f5886",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "What is Databricks' second-generation Genie, and where does its $3 billion European push fit in? - diginomica",
+      "detected_at": "2026-11-18T09:00:02+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-19-61472e38ede4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Devin Expands Beyond Software: Enterprises Now Use Cognition’s AI Engineer for Data Migrations - Business Wire",
+      "detected_at": "2026-11-19T15:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-19-ea2c037c0fc5",
+      "signal_type": "news_mention",
+      "signal_subtype": "award",
+      "title": "Telefónica Tech named Databricks UK&I Growth Partner of the Year - Belfast Telegraph",
+      "detected_at": "2026-11-18T14:01:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "databricks-news_mention-2026-11-19-e7691a8096a7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Databricks Made $1,000 Seats Free: AI’s Dashboards vs Pipes - FourWeekMBA",
+      "detected_at": "2026-11-19T10:02:48+00:00",
       "importance_score": 4.0
     }
   ],

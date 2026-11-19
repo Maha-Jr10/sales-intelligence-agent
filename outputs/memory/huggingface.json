@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-11-18T15:21:28.695182+00:00",
+  "last_updated": "2026-11-19T15:27:47.803549+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,54 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "huggingface-hiring_spike-2026-08-21-c1398915419e",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "bulk_engineering",
-      "title": "Hugging Face Engineer Automates Job with AI Agents - StartupHub.ai",
-      "detected_at": "2026-08-20T17:08:40+00:00",
-      "importance_score": 8.0
-    },
-    {
-      "signal_id": "huggingface-hiring_spike-2026-08-21-80096d3462d7",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "bulk_engineering",
-      "title": "Niels Rogge: How One Engineer Automated His Entire Job With a Bot That Won't Say It's a Bot - finance.biggo.com",
-      "detected_at": "2026-08-21T00:08:00+00:00",
-      "importance_score": 8.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-21-b4ec8e658da6",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Support the AI Kill Switch Act - 5 Calls",
-      "detected_at": "2026-08-21T00:13:58+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-hiring_spike-2026-08-22-c1398915419e",
-      "signal_type": "hiring_spike",
-      "signal_subtype": "bulk_engineering",
-      "title": "Hugging Face Engineer Automates Job with AI Agents - StartupHub.ai",
-      "detected_at": "2026-08-20T17:08:40+00:00",
-      "importance_score": 8.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-22-12573e84970e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI Adds Controls That Should've Been There Already - Dark Reading",
-      "detected_at": "2026-08-21T13:31:09+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-22-1fc2aab4d71a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Hugging Face Got Breached by an Optimizer, Not an Attacker. - Illumio",
-      "detected_at": "2026-08-21T01:01:15+00:00",
-      "importance_score": 4.0
-    },
     {
       "signal_id": "huggingface-news_mention-2026-08-22-489c306b6788",
       "signal_type": "news_mention",
@@ -15951,6 +15903,230 @@
       "signal_subtype": "generic",
       "title": "California sues OpenAI – AI agents hacked Hugging Face - Metro Mode",
       "detected_at": "2026-11-16T23:30:06+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-11-19-d922d2c9fb94",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_cto",
+      "title": "Claude Unveils AI Factory: 38 Custom AI Models Built in 7 Weeks, Surpassing 55,000 Total Downloads - 36Kr",
+      "detected_at": "2026-11-19T10:53:03+00:00",
+      "importance_score": 9.5
+    },
+    {
+      "signal_id": "huggingface-leadership_change-2026-11-19-94e15c6499e9",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Hugging Face CEO Clément Delangue on the AI agent attack and the case for open models - Crypto Briefing",
+      "detected_at": "2026-11-17T16:14:16+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "huggingface-github_signal-2026-11-19-cf93933e5cbf",
+      "signal_type": "github_signal",
+      "signal_subtype": "new_public_repo",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit - TechCrunch",
+      "detected_at": "2026-11-17T23:04:35+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-11-19-04e2dddfb04a",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Calif. AG Files Landmark Suit Against OpenAI Over Hugging Face Hack - Law.com",
+      "detected_at": "2026-11-17T18:32:35+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-11-19-f5a594b9e390",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Aion 1.0 Instruct: Unannounced HF Release, Jan 2027 Deadline - OrcaRouter",
+      "detected_at": "2026-11-18T23:23:03+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-86c0b1251cde",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model - BleepingComputer",
+      "detected_at": "2026-11-17T18:21:24+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-5bf2495c40cb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65% - MarkTechPost",
+      "detected_at": "2026-11-18T16:07:50+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-f78d8929cf82",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "California attorney general sues OpenAI for ‘entirely foreseeable’ Hugging Face attack - Transparency Coalition",
+      "detected_at": "2026-11-18T18:58:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-53fabdb1f5fb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "California sues OpenAI over safety concerns after rogue agent hacking - The Guardian",
+      "detected_at": "2026-11-17T18:06:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-d480b51a99ba",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "“Collaboration over competition”: Hugging Face hands model inference traffic to OpenRouter - The New Stack",
+      "detected_at": "2026-11-18T14:02:57+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-452e886fef45",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face now routes model requests through OpenRouter for the best price or speed - The Decoder",
+      "detected_at": "2026-11-18T14:47:19+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-0aa01458cc1b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "‘Autonomous’ Hacking of Hugging Face Prompts CA to Sue OpenAI - San Jose Inside",
+      "detected_at": "2026-11-17T18:06:35+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-5fb37fcf1c9c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "California Sues OpenAI Over Hugging Face Hack, Says It Ignored Warning Signs - Gizmodo",
+      "detected_at": "2026-11-17T15:30:06+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-f057165462e4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "California Sues OpenAI After AI Agents Escape Lab and Hack Hugging Face - Lynnwood Times",
+      "detected_at": "2026-11-17T18:29:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-c8880b170f97",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia's $12.9 Billion Hugging Face Deal Survives Huang Exit as Microduck Robot Nears Shipment - BigGo Finance",
+      "detected_at": "2026-11-19T08:36:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-36ca185fbeae",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "California sues OpenAI over AI agents hacking a software platform - NPR",
+      "detected_at": "2026-11-17T22:25:11+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-d20fdaab2012",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Study Finds 22,096 Uncensored AI Models On Major Hosting Platforms - Dataconomy",
+      "detected_at": "2026-11-19T11:13:44+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-eadc90720d4e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Domain Lapse Let Researchers Hijack Kokoro Voice AI Hugging Face Account, Edit Weights in 87 Seconds - Tech Times",
+      "detected_at": "2026-11-18T08:20:51+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-25b997c9e12f",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Key facts: NVIDIA lifts outlook; commitments rise; Hugging Face deal - TradingView",
+      "detected_at": "2026-11-18T08:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-5e0077119a83",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia Says Its Open-Source AI Strategy and Hugging Face Deal Survive Jensen Huang’s Exit - Technology Org",
+      "detected_at": "2026-11-18T10:48:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-4ff936bb1d06",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face OpenAI agent attack: what happened - NeoTeo",
+      "detected_at": "2026-11-19T01:03:42+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-1ae174ce3391",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "California Sues OpenAI Over AI Agents and Hugging Face Hack - Brave New Coin",
+      "detected_at": "2026-11-18T04:24:41+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-97fa3c6fb1ca",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OpenAI’s Agents Broke Out, and California Sent the Bill - PYMNTS.com",
+      "detected_at": "2026-11-18T17:28:27+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-3c13d5f15998",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Nvidia says Hugging Face deal is on track after Huang exit - Tbreak UAE",
+      "detected_at": "2026-11-18T07:41:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-fe9882ec5bab",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face AI agent attack: OpenAI’s account - NeoTeo",
+      "detected_at": "2026-11-18T11:00:59+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-a7c68e114f66",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Self-Hosting Open-Source LLMs: Ollama vs vLLM vs Hugging Face - Nasscom",
+      "detected_at": "2026-11-18T12:38:10+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-4c1994482b5e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Could the Still-Pending Hugging Face Purchase Alter the Story for Nvidia (NASDAQ:NVDA) After a USD 115.8 Billion Quarter? - Kalkine",
+      "detected_at": "2026-11-18T10:22:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-19-86c2d47fd338",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Where Does the Pending Hugging Face Deal Leave Nvidia (NASDAQ:NVDA), Given Its USD 115.8 Billion Quarter? - kalkine.ca",
+      "detected_at": "2026-11-18T09:34:00+00:00",
       "importance_score": 4.0
     }
   ],

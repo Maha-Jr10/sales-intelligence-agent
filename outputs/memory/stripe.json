@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "stripe",
   "created_at": "2026-06-03T17:25:17.440750+00:00",
-  "last_updated": "2026-11-19T15:27:47.330913+00:00",
+  "last_updated": "2026-11-20T15:04:47.581235+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,70 +18,6 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "stripe-product_launch-2026-08-22-59639cc299e6",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Stripe Agrees to Buy OpenRouter as It Embraces ‘The Singularity’ - galaxy.com",
-      "detected_at": "2026-08-22T00:56:15+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "stripe-funding_event-2026-08-22-97f83f83d25d",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "AI: Mega-IPO Preps, Stripe M&A, Open Source Steam, & More. AI-RTZ #1186 - AI: Reset to Zero",
-      "detected_at": "2026-08-22T05:02:36+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-08-22-8908e7efb123",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Stripe’s OpenRouter deal shows where the AI money is moving - IBM",
-      "detected_at": "2026-08-21T19:44:53+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-08-22-33f3e9f1467d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Stripe agrees to acquire OpenRouter for $8 billion - Semafor",
-      "detected_at": "2026-08-21T17:31:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-08-22-7f04b307f9ba",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "LANE CLOSURES SCHEDULED IN SEDALIA AS CREWS STRIPE SCHOOL CROSSINGS - KMMO",
-      "detected_at": "2026-08-21T23:29:43+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-08-22-c3dae839329e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Stripe 16-Year Chronicle: From 7 Lines of Code to a $100 Billion Valuation - PANews",
-      "detected_at": "2026-08-21T23:58:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-leadership_change-2026-08-23-299f8eb48d02",
-      "signal_type": "leadership_change",
-      "signal_subtype": "generic",
-      "title": "Stripe's Product Chief Says AI Agents Will Kill the Checkout Page - Startup Fortune",
-      "detected_at": "2026-08-22T12:15:44+00:00",
-      "importance_score": 6.0
-    },
-    {
-      "signal_id": "stripe-product_launch-2026-08-23-59639cc299e6",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Stripe Agrees to Buy OpenRouter as It Embraces ‘The Singularity’ - galaxy.com",
-      "detected_at": "2026-08-22T01:03:03+00:00",
-      "importance_score": 5.0
-    },
-    {
       "signal_id": "stripe-funding_event-2026-08-23-68479158dac6",
       "signal_type": "funding_event",
       "signal_subtype": "ipo",
@@ -90,67 +26,11 @@
       "importance_score": 5.0
     },
     {
-      "signal_id": "stripe-funding_event-2026-08-23-97f83f83d25d",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "AI: Mega-IPO Preps, Stripe M&A, Open Source Steam, & More. AI-RTZ #1186 - AI: Reset to Zero",
-      "detected_at": "2026-08-22T05:02:36+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-08-23-e10819ddfb75",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Stripe president says checkout pages ‘will go away’ as AI commerce expands - Business Insider",
-      "detected_at": "2026-08-22T09:01:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-08-23-8908e7efb123",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Stripe’s OpenRouter deal shows where the AI money is moving - IBM",
-      "detected_at": "2026-08-21T19:44:53+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-08-23-33f3e9f1467d",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Stripe agrees to acquire OpenRouter for $8 billion - Semafor",
-      "detected_at": "2026-08-21T17:31:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-08-23-7f04b307f9ba",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "LANE CLOSURES SCHEDULED IN SEDALIA AS CREWS STRIPE SCHOOL CROSSINGS - KMMO",
-      "detected_at": "2026-08-21T23:29:43+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-leadership_change-2026-08-24-299f8eb48d02",
-      "signal_type": "leadership_change",
-      "signal_subtype": "generic",
-      "title": "Stripe's Product Chief Says AI Agents Will Kill the Checkout Page - Startup Fortune",
-      "detected_at": "2026-08-22T12:15:44+00:00",
-      "importance_score": 6.0
-    },
-    {
       "signal_id": "stripe-news_mention-2026-08-24-5b4ea3e22ff1",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "This Asus Monitor Fixes One of the Main Gripes Over OLED - WIRED",
       "detected_at": "2026-08-23T13:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-08-24-e10819ddfb75",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Stripe president says checkout pages ‘will go away’ as AI commerce expands - Business Insider",
-      "detected_at": "2026-08-22T09:01:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -12167,6 +12047,118 @@
       "signal_subtype": "generic",
       "title": "Candy Stripe Scoop: Step Into the Spotlight (Week Three) - SportsGrid",
       "detected_at": "2026-11-17T16:32:04+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-funding_event-2026-11-20-e4d53f215d1f",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Collison brothers lead $5.5M seed in AI coding startup Hoplite - Dealroom",
+      "detected_at": "2026-11-20T13:53:01+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "stripe-product_launch-2026-11-20-949dcd378d2e",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Shaurya Pethe outlines Stripe integration patterns for legacy codebases - news.lavx.hu",
+      "detected_at": "2026-11-19T04:41:52+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-20-af3b56bd5ff8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Give your agents controlled access to analyze your data and move funds",
+      "detected_at": "2026-11-19T00:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-20-f40f0923bd99",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Exclusive: Stripe founders and Paul Graham back AI agent swarm startup Hoplite with $5.5m - Sifted",
+      "detected_at": "2026-11-20T13:03:48+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-20-840996b0158c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Alienware's 39\" 5K Monitor With RGB Stripe Tandem OLED Technology Hits a New Price Low for Black Friday - IGN",
+      "detected_at": "2026-11-18T22:08:14+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-20-e222376aba04",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Florist says he borrowed $50,000 to pay staff after $126,000 vanished from Stripe account - The Cool Down",
+      "detected_at": "2026-11-20T04:05:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-20-c30cbe8515b1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI startup founded by two Irish YC alumni gets backing from Stripe's Collison brothers - Tech.eu",
+      "detected_at": "2026-11-20T13:08:32+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-20-2db8a51f0469",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe & Stare is doing up to 50% off 'world's comfiest pants' and silky soft PJs this Black Friday - Good Housekeeping",
+      "detected_at": "2026-11-18T17:34:16+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-20-162b349b7e5a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Token Fraud: How ChatPRD and Stripe Fight AI Trial Abuse - explainx.ai",
+      "detected_at": "2026-11-20T03:32:14+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-20-b27c5d8dcdd6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI and digital tech project entries surge for Stripe YSTE 2027 - RTE.ie",
+      "detected_at": "2026-11-20T12:50:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-20-1dc83b1afeca",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Minipay Upgrades Its 20 Million Stablecoin Wallets On Celo To Stripe-Owned Privy Wallet Infrastructure - TradingView",
+      "detected_at": "2026-11-19T13:21:03+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-20-c64d286d061e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Fill feeders this way to see white-throated sparrows this winter in NJ - Bergen Record",
+      "detected_at": "2026-11-19T10:15:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-20-d5b4a320baad",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Something Extra | Friday - Jamaica Gleaner",
+      "detected_at": "2026-11-20T06:06:18+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-20-b18b1480652b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe founders back Irish duo’s €5m AI cloud coding startup - Business Post",
+      "detected_at": "2026-11-20T13:39:15+00:00",
       "importance_score": 4.0
     }
   ],

@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-11-20T15:04:47.912943+00:00",
+  "last_updated": "2026-11-21T14:25:35.507450+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,22 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "huggingface-news_mention-2026-08-23-8272f6d7e26e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "What The Hugging Face Cyberattack Teaches Leaders About AI - Forbes",
-      "detected_at": "2026-08-22T15:43:23+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-github_signal-2026-08-23-ebe8daad3668",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "MiniMax H3: The Open-Weight AI Video Model Reshaping the Industry - Intelligent Living",
-      "detected_at": "2026-08-22T20:08:07+00:00",
-      "importance_score": 3.5
-    },
     {
       "signal_id": "huggingface-product_launch-2026-08-24-4992efe07660",
       "signal_type": "product_launch",
@@ -74,14 +58,6 @@
       "importance_score": 4.0
     },
     {
-      "signal_id": "huggingface-news_mention-2026-08-24-8272f6d7e26e",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "What The Hugging Face Cyberattack Teaches Leaders About AI - Forbes",
-      "detected_at": "2026-08-22T15:43:23+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "huggingface-news_mention-2026-08-24-d6731cda49cc",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
@@ -119,14 +95,6 @@
       "signal_subtype": "generic",
       "title": "Hugging Face Weighs A $13 Billion Sale - Finimize",
       "detected_at": "2026-08-23T22:04:34+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-24-0fdee4032f1a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI's AI Models Broke Out and Hacked Hugging Face, So It Built Daybreak - Startup Fortune",
-      "detected_at": "2026-08-23T10:05:23+00:00",
       "importance_score": 4.0
     },
     {
@@ -495,14 +463,6 @@
       "signal_subtype": "generic",
       "title": "Hugging Face, 'GitHub of AI,' Explores Sale at $13 Billion - Seoul Economic Daily",
       "detected_at": "2026-08-24T21:01:05+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-25-0fdee4032f1a",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI's AI Models Broke Out and Hacked Hugging Face, So It Built Daybreak - Startup Fortune",
-      "detected_at": "2026-08-23T10:05:23+00:00",
       "importance_score": 4.0
     },
     {
@@ -16224,6 +16184,126 @@
       "title": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team - Cloudflare Blog",
       "detected_at": "2026-11-18T22:05:20+00:00",
       "importance_score": 3.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-11-21-11397c1da09a",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "We gave AI the green light and now there is no stopping it - The Alpena News",
+      "detected_at": "2026-11-21T06:36:03+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-11-21-fa71a9e6ab76",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "California Files New Lawsuit Against OpenAI After Hugging Face Hack - Legal Reader",
+      "detected_at": "2026-11-19T19:48:27+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-11-21-cadb7473db1d",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Big tech may finally face legal consequences for AI’s actions - New Scientist",
+      "detected_at": "2026-11-19T22:35:15+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-11-21-3366be2a14db",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Thinking Machines releases Inkling 2 Mini open-weight model - TestingCatalog AI News",
+      "detected_at": "2026-11-20T22:13:04+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-21-fa6bab7a866a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Anthropic’s rise risks ‘dangerous’ grip on AI, warns rival - The Times",
+      "detected_at": "2026-11-19T17:31:21+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-21-efaabe8f8859",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "California Sues OpenAI Over Hugging Face Hack, ‘Dangerous’ AI Models - WSJ",
+      "detected_at": "2026-11-20T06:27:48+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-21-dcf5cf6c1eaf",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face says it delivers almost an exabyte a month. Mind the bandwidth. - Digg",
+      "detected_at": "2026-11-20T16:01:34+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-21-6cc13b2ab396",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face Harness Adapters Boost AI Model Performance - The Chenab Times",
+      "detected_at": "2026-11-20T17:22:57+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-21-a14cdaaa3ceb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Inkling 2 Mini: 26.4B Open Weights, 3.4B Active - shattered.io",
+      "detected_at": "2026-11-21T06:09:22+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-21-3b93085ea0fb",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Harness Adapters: Qwen3.8-27B Super-Adapter, 63.5% Mean - explainx.ai",
+      "detected_at": "2026-11-20T14:49:28+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-21-01f90af42029",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face CDN: 1 Exabyte/Month Open Models (Nov 20) - explainx.ai",
+      "detected_at": "2026-11-20T00:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-21-24a8c198d7c8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Isaac 0.5 Checkpoints: YAM SO-100 LIBERO on Hugging Face - explainx.ai",
+      "detected_at": "2026-11-20T00:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-21-e1a15f39732e",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "LingSante-Pulse-1.0 Is Live; the Code to Run It Is Not - OrcaRouter",
+      "detected_at": "2026-11-20T14:51:43+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-21-d746d8d00ac2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "How to read Qwen3.8 27B Uncensored, the name piece by piece - Pasquale Pillitteri",
+      "detected_at": "2026-11-20T20:52:18+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-21-7743b655884c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI Summit 2027: A Conversation Before Geneva - Superpower Daily",
+      "detected_at": "2026-11-20T02:00:00+00:00",
+      "importance_score": 4.0
     }
   ],
   "brief_history": [],

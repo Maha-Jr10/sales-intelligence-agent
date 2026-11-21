@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "stripe",
   "created_at": "2026-06-03T17:25:17.440750+00:00",
-  "last_updated": "2026-11-20T15:04:47.581235+00:00",
+  "last_updated": "2026-11-21T14:25:35.217972+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -18,35 +18,11 @@
   "known_contacts": [],
   "signal_history": [
     {
-      "signal_id": "stripe-funding_event-2026-08-23-68479158dac6",
-      "signal_type": "funding_event",
-      "signal_subtype": "ipo",
-      "title": "This Week in AI (Aug 16-22): Mysterious Ox Alpha Model; Stripe Buys OpenRouter; YMTC's IPO - Smartkarma",
-      "detected_at": "2026-08-23T04:01:07+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-08-24-5b4ea3e22ff1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "This Asus Monitor Fixes One of the Main Gripes Over OLED - WIRED",
-      "detected_at": "2026-08-23T13:00:00+00:00",
-      "importance_score": 4.0
-    },
-    {
       "signal_id": "stripe-news_mention-2026-08-24-70457d4ebe96",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Stripe Buys OpenRouter for $7B, Anthropic Turns Its First Profit, and Silver Lake Circles Workday at $43B: 20VC x SaaStr - saastr.com",
       "detected_at": "2026-08-23T21:09:33+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-08-24-34d3ffe53944",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "The Sequence Radar - Issue 919: Last Week in AI: Stripe Wants to Own the Token Economy - TheSequence | Jesus Rodriguez",
-      "detected_at": "2026-08-23T11:02:34+00:00",
       "importance_score": 4.0
     },
     {
@@ -64,14 +40,6 @@
       "title": "Stripe & OpenRouter: Acquisition Powering AI Token Economics - AI Magazine",
       "detected_at": "2026-08-24T10:39:24+00:00",
       "importance_score": 5.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-08-25-5b4ea3e22ff1",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "This Asus Monitor Fixes One of the Main Gripes Over OLED - WIRED",
-      "detected_at": "2026-08-23T13:00:00+00:00",
-      "importance_score": 4.0
     },
     {
       "signal_id": "stripe-news_mention-2026-08-25-e059b0de8d0b",
@@ -135,14 +103,6 @@
       "signal_subtype": "generic",
       "title": "Stripe Buys OpenRouter for $7B, Anthropic Turns Its First Profit, and Silver Lake Circles Workday at $43B: 20VC x SaaStr - saastr.com",
       "detected_at": "2026-08-23T21:09:33+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "stripe-news_mention-2026-08-25-34d3ffe53944",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "The Sequence Radar - Issue 919: Last Week in AI: Stripe Wants to Own the Token Economy - TheSequence | Jesus Rodriguez",
-      "detected_at": "2026-08-23T11:02:34+00:00",
       "importance_score": 4.0
     },
     {
@@ -12159,6 +12119,142 @@
       "signal_subtype": "generic",
       "title": "Stripe founders back Irish duo’s €5m AI cloud coding startup - Business Post",
       "detected_at": "2026-11-20T13:39:15+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-leadership_change-2026-11-21-c0606f040813",
+      "signal_type": "leadership_change",
+      "signal_subtype": "new_ceo",
+      "title": "Gap Inc. CEO touts 'Happy Stripe' as brand gains cultural traction - Yahoo Finance",
+      "detected_at": "2026-11-20T16:48:57+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "stripe-funding_event-2026-11-21-e4d53f215d1f",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Collison brothers lead $5.5M seed in AI coding startup Hoplite - Dealroom",
+      "detected_at": "2026-11-20T13:53:01+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "stripe-product_launch-2026-11-21-97682e56a90c",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Webinar: Stripe on Modern Money Management in the Age of AI - FinTech Magazine",
+      "detected_at": "2026-11-20T16:14:36+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "stripe-product_launch-2026-11-21-13fd1cd2b468",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Pakistani freelancers, small tech firms lose clients over payment gateway restrictions - Arab News PK",
+      "detected_at": "2026-11-21T03:31:05+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-21-af83766abec4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "The Rebellion—and Hidden Risks—of Stripe and the Billion-Dollar Startups Rejecting Wall Street - 1 Smart Business Story",
+      "detected_at": "2026-11-20T21:32:38+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-21-f40f0923bd99",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Exclusive: Stripe founders and Paul Graham back AI agent swarm startup Hoplite with $5.5m - Sifted",
+      "detected_at": "2026-11-20T17:22:46+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-21-a1f55f72c07a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Welcome to the singularity - Fortune",
+      "detected_at": "2026-11-21T12:30:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-21-b99e60a2fed0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe Agent Wallet Daily Spending Rises Nearly 80-Fold Since Early September - TradingView",
+      "detected_at": "2026-11-21T00:26:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-21-718e130142a6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "How to Calculate Net Dollar Retention Without Cohort Data From a Stripe Export - Startup Fortune",
+      "detected_at": "2026-11-19T18:08:15+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-21-c30cbe8515b1",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI startup founded by two Irish YC alumni gets backing from Stripe's Collison brothers - Tech.eu",
+      "detected_at": "2026-11-20T13:11:48+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-21-b27c5d8dcdd6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "AI and digital tech project entries surge for Stripe YSTE 2027 - RTE.ie",
+      "detected_at": "2026-11-20T12:50:45+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-21-d5b4a320baad",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Something Extra | Friday - Jamaica Gleaner",
+      "detected_at": "2026-11-20T06:06:18+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-21-b18b1480652b",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Stripe founders back Irish duo’s €5m AI cloud coding startup - Business Post",
+      "detected_at": "2026-11-20T13:41:02+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-21-fe3dbae77697",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Michael McGrath urges founders to give EU start-up regime ‘a chance’ - Irish Independent",
+      "detected_at": "2026-11-20T19:55:47+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-21-7c164faab938",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Florist says he borrowed $50,000 to pay staff after $126,000 vanished from Stripe account - NewsBreak: Local News & Alerts",
+      "detected_at": "2026-11-20T04:28:07+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-21-0cab8922eace",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "'Luxurious' hotel bedding in seven colours now £22 in deal - Belfast Live",
+      "detected_at": "2026-11-21T05:51:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "stripe-news_mention-2026-11-21-22df65866192",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Leaked PSG 27/28 Home Kit Ditches Clean Lines for Blurred Hechter Stripe - Thick Accent – Football",
+      "detected_at": "2026-11-20T19:59:00+00:00",
       "importance_score": 4.0
     }
   ],

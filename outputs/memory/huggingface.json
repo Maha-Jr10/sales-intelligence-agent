@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-11-23T17:41:10.414461+00:00",
+  "last_updated": "2026-11-24T17:12:54.564721+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,46 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "huggingface-product_launch-2026-08-26-47e40cb5fb54",
-      "signal_type": "product_launch",
-      "signal_subtype": "new_product",
-      "title": "Alabama launches ‘Rogue AI’ probe into ChatGPT after Hugging Face ‘lab leak’ - Baltimore Sun",
-      "detected_at": "2026-08-25T19:28:57+00:00",
-      "importance_score": 7.5
-    },
-    {
-      "signal_id": "huggingface-product_launch-2026-08-26-e9e7980befae",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Alabama AG Subpoenas OpenAI After Rogue Agent Breached Hugging Face - eGamers.io",
-      "detected_at": "2026-08-25T23:44:16+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "huggingface-product_launch-2026-08-26-77916181a32a",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Alabama investigating whether OpenAI violated consumer protection laws after Hugging Face hack - Global News",
-      "detected_at": "2026-08-25T23:14:37+00:00",
-      "importance_score": 5.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-26-969352dfaccb",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "OpenAI asks for more regulation after its own cybersecurity incident proves AI's hacking capability - Fortune",
-      "detected_at": "2026-08-25T18:53:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-26-b30e20701d25",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "These Researchers Just Shrunk an AI Model and Somehow Made It Smarter - Decrypt",
-      "detected_at": "2026-08-25T20:46:03+00:00",
-      "importance_score": 4.0
-    },
     {
       "signal_id": "huggingface-product_launch-2026-08-27-590f0287cc77",
       "signal_type": "product_launch",
@@ -80,14 +40,6 @@
       "title": "OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack - SecurityWeek",
       "detected_at": "2026-08-27T11:58:01+00:00",
       "importance_score": 6.0
-    },
-    {
-      "signal_id": "huggingface-product_launch-2026-08-27-73e9fc11f1fd",
-      "signal_type": "product_launch",
-      "signal_subtype": "generic",
-      "title": "Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident - METR",
-      "detected_at": "2026-08-26T07:00:00+00:00",
-      "importance_score": 5.0
     },
     {
       "signal_id": "huggingface-github_signal-2026-08-27-5e8f384b7f56",
@@ -15456,6 +15408,166 @@
       "title": "Bank AI agents lose password access and get limits on working time - Cryptopolitan",
       "detected_at": "2026-11-23T17:01:35+00:00",
       "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-11-24-14e531a28ab5",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Kimi K4 Release Date: What We Know So Far - Fello AI",
+      "detected_at": "2026-11-24T12:05:53+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-11-24-3843b94012f7",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "Chinese Open-Source AI Models Surpass 10 Billion Global Downloads; Derivative Model Count Emerges as New Gauge of Ecosystem Stickiness - BigGo Finance",
+      "detected_at": "2026-11-23T02:05:00+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-product_launch-2026-11-24-439178ebf392",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "AI Models Too Powerful: Anthropic, OpenAI Employees Warn Against Public Release - theopenpress.in",
+      "detected_at": "2026-11-24T16:51:53+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-24-9d6b118015a2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "7 Most Downloaded AI Models on Hugging Face - KDnuggets",
+      "detected_at": "2026-11-24T13:11:18+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-24-21ebdcf04661",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Tether’s QVAC AI models pass 100,000 downloads on Hugging Face - Crypto Briefing",
+      "detected_at": "2026-11-24T15:08:30+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-24-2d16d433e2b7",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "To stop AI cheating, we need to fix shoddy training environments - Transformer | Substack",
+      "detected_at": "2026-11-24T16:01:05+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-24-ae08ee1181f8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "US Banks Strip Passwords From Their Own AI Agents After Hugging Face Breach - BigGo Finance",
+      "detected_at": "2026-11-23T23:56:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-24-8d49d6779317",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "ERNIE 5.5 Flash Preview Weights Are on Hugging Face - OrcaRouter",
+      "detected_at": "2026-11-24T03:55:25+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-24-4616798a3bf8",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "LingSante-3.1-flash: 560B Open Medical MoE (MIT) - explainx.ai",
+      "detected_at": "2026-11-24T00:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-24-02dc245f54bd",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Ling-3.2-air: 124B MoE Open Weights (MIT) - explainx.ai",
+      "detected_at": "2026-11-24T00:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-24-869ce937db94",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "SAM 3D Body: Meta Open HMR Model (2026) - explainx.ai",
+      "detected_at": "2026-11-24T00:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-24-d96f0219f203",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "OmniEVIE-4B: Tencent Open Retrieval Model - explainx.ai",
+      "detected_at": "2026-11-24T00:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-24-0fc9f69e4e0d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "U.S. banks tight AI-agent controls after Hugging Face incident: Reuters - BNN Bloomberg",
+      "detected_at": "2026-11-23T14:32:10+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-24-3bb91576b340",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Self-Rewriting AI: Models Edit Own Weights (2026) - explainx.ai",
+      "detected_at": "2026-11-23T00:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-24-2afd51fb42e4",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face Ties the Emoji: 42 Cloud Words Now Fighting Over Their Meaning - HackerNoon",
+      "detected_at": "2026-11-24T00:06:10+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-24-64a953868098",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Tether: Open-Source AI Models Hit 100K Downloads - Blockchain News",
+      "detected_at": "2026-11-24T06:48:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-24-3488a76eba61",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face’s Cofounder Backs a $6M Fix for Robot Integration Hell - Business Model Analyst",
+      "detected_at": "2026-11-23T13:08:05+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-24-3de94df3266a",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Bank AI agents lose password access and get limits on working time - Cryptopolitan",
+      "detected_at": "2026-11-23T17:01:35+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-24-993ad9df7760",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "US banks tighten controls on in-house AI agents after OpenAI security incidents - Business Upturn",
+      "detected_at": "2026-11-23T18:33:18+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-github_signal-2026-11-24-63c3b554aa74",
+      "signal_type": "github_signal",
+      "signal_subtype": "generic",
+      "title": "EXCLUSIVE: Some US banks tighten AI-agent controls on concern about models escaping safeguards - Reuters",
+      "detected_at": "2026-11-23T22:45:12+00:00",
+      "importance_score": 3.5
     }
   ],
   "brief_history": [],

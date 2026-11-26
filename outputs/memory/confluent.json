@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "confluent",
   "created_at": "2026-06-03T17:25:17.749197+00:00",
-  "last_updated": "2026-11-25T16:58:04.608658+00:00",
+  "last_updated": "2026-11-26T16:36:44.591430+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -1079,6 +1079,30 @@
       "signal_subtype": "generic",
       "title": "IBM Paid $31 a Share for Confluent; Its Stock Is 9% Lower - FourWeekMBA",
       "detected_at": "2026-11-24T19:04:40+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "confluent-news_mention-2026-11-26-7cd59456aca2",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Confluent spent 3 months rewriting Kafka’s Java client in Rust with AI — and had to start over - The New Stack",
+      "detected_at": "2026-11-24T19:29:14+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "confluent-news_mention-2026-11-26-35903e3bf2e0",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Black Friday’s newest shopper is AI. But is retail data ready? - Diginomica",
+      "detected_at": "2026-11-26T13:19:44+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "confluent-news_mention-2026-11-26-6200f792bf19",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Qantas previews FinOps for data streaming platform - iTnews",
+      "detected_at": "2026-11-25T20:20:00+00:00",
       "importance_score": 4.0
     }
   ],

@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "confluent",
   "created_at": "2026-06-03T17:25:17.749197+00:00",
-  "last_updated": "2026-11-26T16:36:44.591430+00:00",
+  "last_updated": "2026-11-27T16:22:09.229944+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -1099,6 +1099,14 @@
     },
     {
       "signal_id": "confluent-news_mention-2026-11-26-6200f792bf19",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Qantas previews FinOps for data streaming platform - iTnews",
+      "detected_at": "2026-11-25T20:20:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "confluent-news_mention-2026-11-27-6200f792bf19",
       "signal_type": "news_mention",
       "signal_subtype": "generic",
       "title": "Qantas previews FinOps for data streaming platform - iTnews",

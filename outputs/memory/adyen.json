@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "adyen",
   "created_at": "2026-06-03T17:25:17.733626+00:00",
-  "last_updated": "2026-11-26T16:36:44.558422+00:00",
+  "last_updated": "2026-11-27T16:22:09.202561+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,14 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "adyen-news_mention-2026-08-29-b175a4852287",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Adyen stock holds steady as payment volumes top EUR 804 billion in H1 2026 - Ad-hoc-news.de",
-      "detected_at": "2026-08-29T08:33:23+00:00",
-      "importance_score": 4.0
-    },
     {
       "signal_id": "adyen-news_mention-2026-08-31-44a9b98bc7f7",
       "signal_type": "news_mention",
@@ -4623,6 +4615,38 @@
       "signal_subtype": "generic",
       "title": "Adyen news - MLQ.ai",
       "detected_at": "2026-11-25T18:23:27+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "adyen-funding_event-2026-11-27-71af12d58cac",
+      "signal_type": "funding_event",
+      "signal_subtype": "generic",
+      "title": "Fresha Capital Surpasses $20 Million in Loans for Beauty and Wellness Businesses - FF News",
+      "detected_at": "2026-11-26T16:18:12+00:00",
+      "importance_score": 7.0
+    },
+    {
+      "signal_id": "adyen-product_launch-2026-11-27-018a650473a2",
+      "signal_type": "product_launch",
+      "signal_subtype": "generic",
+      "title": "How Stripe, Adyen & Airwallex are Innovating Payment Rails - FinTech Magazine",
+      "detected_at": "2026-11-26T15:27:17+00:00",
+      "importance_score": 5.0
+    },
+    {
+      "signal_id": "adyen-news_mention-2026-11-27-cedb809ce002",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Why insurers need responsible modernisation, not just more AI - CFOtech Australia",
+      "detected_at": "2026-11-25T21:00:00+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "adyen-news_mention-2026-11-27-36851ea18dc6",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Adyen stock lands Roots deal for North American payments - ad-hoc-news.de",
+      "detected_at": "2026-11-26T09:06:17+00:00",
       "importance_score": 4.0
     }
   ],

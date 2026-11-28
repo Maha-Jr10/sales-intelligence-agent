@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "company_id": "huggingface",
   "created_at": "2026-06-03T17:25:17.754407+00:00",
-  "last_updated": "2026-11-27T16:22:09.244834+00:00",
+  "last_updated": "2026-11-28T15:15:57.558148+00:00",
   "relationship_context": {
     "warm_intro": false,
     "engagement_status": "not_contacted",
@@ -17,30 +17,6 @@
   },
   "known_contacts": [],
   "signal_history": [
-    {
-      "signal_id": "huggingface-news_mention-2026-08-30-c1a4bcfd8450",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Why Nvidia May Spend $13bn on Hugging Face’s Doorway to AI Demand - semivision",
-      "detected_at": "2026-08-30T05:38:26+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-30-462b40d106fa",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Kevin Durant Is About To Make More Money From Nvidia Than His NBA Salary - lindyssports.com",
-      "detected_at": "2026-08-29T18:04:00+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-30-589496f0e562",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "Kevin Durant to reap profits higher than annual salary from Nvidia's acquiring of Hugging Face - The Standard (HK)",
-      "detected_at": "2026-08-30T10:45:39+00:00",
-      "importance_score": 4.0
-    },
     {
       "signal_id": "huggingface-product_launch-2026-08-31-4e2ebd8d6805",
       "signal_type": "product_launch",
@@ -63,14 +39,6 @@
       "signal_subtype": "generic",
       "title": "Tyler Cowen: Should You Believe the Dire Warnings About ‘AI Takeover’? - The Free Press",
       "detected_at": "2026-08-31T00:08:05+00:00",
-      "importance_score": 4.0
-    },
-    {
-      "signal_id": "huggingface-news_mention-2026-08-31-24bab5466390",
-      "signal_type": "news_mention",
-      "signal_subtype": "generic",
-      "title": "1,200 AI agents formed a rogue swarm — and tried to hide it - Notebookcheck",
-      "detected_at": "2026-08-30T10:09:00+00:00",
       "importance_score": 4.0
     },
     {
@@ -143,14 +111,6 @@
       "signal_subtype": "generic",
       "title": "Nvidia reportedly acquires Hugging Face in defensive move, DA Davidson comments - Investing.com",
       "detected_at": "2026-08-31T11:45:40+00:00",
-      "importance_score": 3.5
-    },
-    {
-      "signal_id": "huggingface-github_signal-2026-08-31-2fe3f8fec2c4",
-      "signal_type": "github_signal",
-      "signal_subtype": "generic",
-      "title": "Nvidia to buy Hugging Face for $12.9 billion, report says - Mashable",
-      "detected_at": "2026-08-30T09:01:23+00:00",
       "importance_score": 3.5
     },
     {
@@ -13968,6 +13928,54 @@
       "title": "Hugging Face AI Agent Swarm Report: Server Blocked Admin Token Attempt, Accepted Peer Review Swap - Tech Times",
       "detected_at": "2026-11-26T06:50:22+00:00",
       "importance_score": 3.5
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-28-e81439772159",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Cybercriminals use AI website builder to host phishing pages on Hugging Face - SC Media",
+      "detected_at": "2026-11-27T20:30:26+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-28-388a35f1bb6c",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Reinforcement Learning Reward Hacking Exposed in Sandbox Bypasses and Hugging Face Incident + Video - Howl.Link",
+      "detected_at": "2026-11-27T17:54:24+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-28-6fe072f406db",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "Hugging Face’s tiny AI swarm got chattier—and used fewer training tokens - Digg",
+      "detected_at": "2026-11-27T10:17:35+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-28-1cafdad2248d",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "ARTEX Autonomous Pentest Agent Backfires: Booby-Trapped Hugging Face Models Leak Operator Secrets in 14 Seconds + Video - Howl.Link",
+      "detected_at": "2026-11-27T15:19:41+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-28-c7f468540974",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "@ClementDelangue wants to talk open-source AI in Washington. Got a name? - Digg",
+      "detected_at": "2026-11-28T13:16:08+00:00",
+      "importance_score": 4.0
+    },
+    {
+      "signal_id": "huggingface-news_mention-2026-11-28-37caa32c9338",
+      "signal_type": "news_mention",
+      "signal_subtype": "generic",
+      "title": "GGUF Malware: 5 Models, 2,428 HF Downloads (Nov 2026) - explainx.ai",
+      "detected_at": "2026-11-28T00:00:00+00:00",
+      "importance_score": 4.0
     }
   ],
   "brief_history": [],
